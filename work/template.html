@@ -1,35 +1,36 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="light">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Estudo SEDUC/CE 2018 – Língua Portuguesa</title>
 <style>
-/* ===== Tokens de cor (tema escuro é o padrão; tema claro em [data-theme=light]) ===== */
+/* ===== Tokens de cor (tema CLARO é o padrão; tema escuro em [data-theme=dark]) ===== */
 :root{
-  --bg:#0e141b; --card:#16202a; --card2:#1c2833; --line:#6f87a1; --hair:#2a3846; --text:#eaf0f6; --muted:#b4c1ce;
-  --accent:#ffc857; --on-accent:#1a1300; --ok:#6ee7a8; --ok-bg:#0f2a1e; --bad:#ff9a9a; --bad-bg:#33171a;
-  --warn:#ffd27a; --warn-bg:#2d2410; --focus:#8fd0ff; --shadow:0 6px 24px rgba(0,0,0,.35);
-  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
-  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  color-scheme:dark;
-}
-:root[data-theme=light]{
   --bg:#f4f1e9; --card:#ffffff; --card2:#f0ece1; --line:#7d7767; --hair:#d8d2c3; --text:#1b2430; --muted:#475262;
   --accent:#1f4fbf; --on-accent:#ffffff; --ok:#0b6b3a; --ok-bg:#e3f4ea; --bad:#a21c1c; --bad-bg:#fbe7e7;
   --warn:#7a4a00; --warn-bg:#fff1d6; --focus:#0b57d0; --shadow:0 6px 20px rgba(40,30,10,.12);
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   color-scheme:light;
 }
+:root[data-theme=dark]{
+  --bg:#0e141b; --card:#16202a; --card2:#1c2833; --line:#6f87a1; --hair:#2a3846; --text:#eaf0f6; --muted:#b4c1ce;
+  --accent:#ffc857; --on-accent:#1a1300; --ok:#6ee7a8; --ok-bg:#0f2a1e; --bad:#ff9a9a; --bad-bg:#33171a;
+  --warn:#ffd27a; --warn-bg:#2d2410; --focus:#8fd0ff; --shadow:0 6px 24px rgba(0,0,0,.35);
+  color-scheme:dark;
+}
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 var(--sans);min-height:100vh;display:flex;flex-direction:column}
+html{-webkit-text-size-adjust:100%;scroll-padding-bottom:96px;-webkit-tap-highlight-color:transparent}   /* scroll-padding: foco não some atrás da barra fixa */
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 var(--sans);min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}   /* dvh: acompanha a barra de endereço do celular */
+body:has(dialog[open]){overflow:hidden}
 .skip{position:absolute;left:-999px;top:8px;background:var(--accent);color:var(--on-accent);padding:12px 16px;border-radius:10px;z-index:10}
 .skip:focus{left:8px}
 :focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:6px}
-header.top{display:flex;align-items:center;gap:12px;justify-content:space-between;padding:10px 16px;border-bottom:1px solid var(--hair);background:var(--card)}
+header.top{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;justify-content:space-between;padding:10px max(16px,env(safe-area-inset-right)) 10px max(16px,env(safe-area-inset-left));border-bottom:1px solid var(--hair);background:var(--card)}
 header.top .brand{font-weight:700;font-size:1rem}
 header.top .tools{display:flex;gap:8px}
-main{flex:1;width:100%;max-width:880px;margin:0 auto;padding:20px 16px 40px}
+main{flex:1;width:100%;max-width:880px;margin:0 auto;padding:20px max(16px,env(safe-area-inset-right)) 40px max(16px,env(safe-area-inset-left))}
 h1{font-size:1.6rem;line-height:1.25;margin:0 0 8px;font-family:var(--serif)}
 h2{font-size:1.2rem;margin:24px 0 8px}
 h3{font-size:1.05rem;margin:16px 0 6px}
@@ -39,8 +40,9 @@ p{margin:0 0 12px}
 .card{background:var(--card);border:1px solid var(--hair);border-radius:18px;padding:18px;margin:0 0 16px;box-shadow:var(--shadow)}
 .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 /* ===== Botões: alvo de toque >= 48px ===== */
-button,.btn,label.btn{font:inherit;min-height:48px;min-width:48px;padding:10px 18px;border-radius:14px;border:2px solid var(--line);background:var(--card2);color:var(--text);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;text-align:center}
+button,.btn,label.btn{touch-action:manipulation;font:inherit;min-height:48px;min-width:48px;padding:10px 18px;border-radius:14px;border:2px solid var(--line);background:var(--card2);color:var(--text);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;text-align:center}
 button:hover{border-color:var(--accent)}
+button:active{background:var(--card2);border-color:var(--accent)}
 button:disabled{opacity:.55;cursor:not-allowed}
 .primary{background:var(--accent);color:var(--on-accent);border-color:var(--accent);font-weight:700}
 .danger{border-color:var(--bad);color:var(--bad)}
@@ -107,16 +109,51 @@ th[scope=row]{color:var(--text);font-size:1rem}
 .big{font-size:2.4rem;font-weight:800;line-height:1.1;font-variant-numeric:tabular-nums}
 .ck{font-weight:700}
 .ck.ok{color:var(--ok)} .ck.bad{color:var(--bad)}
-footer{border-top:1px solid var(--hair);padding:14px 16px;font-size:.85rem;color:var(--muted);text-align:center}
+footer{border-top:1px solid var(--hair);padding:14px max(16px,env(safe-area-inset-right)) calc(14px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));font-size:.85rem;color:var(--muted);text-align:center}
 footer p{max-width:760px;margin:0 auto 6px}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+/* ===== Barra de ações (fixa no rodapé em telas estreitas) e ampliação de figura ===== */
+.acoes{display:flex;gap:10px;margin:0 0 12px}
+.acoes button{flex:1 1 auto}
+.zoom{display:block;width:100%;padding:0;border:0;background:none;text-align:left;min-height:48px;border-radius:10px}
+.zoom img{margin:8px 0 4px}
+.zoom .dica{display:block;font-size:.85rem;color:var(--muted);font-family:var(--sans)}
+dialog#dz{width:100%;max-width:100vw;height:100vh;height:100dvh;max-height:100dvh;margin:0;padding:0;border:0;background:var(--bg);color:var(--text)}
+dialog#dz::backdrop{background:rgba(0,0,0,.6)}
+dialog#dz .dzbar{position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:8px max(12px,env(safe-area-inset-right)) 8px max(12px,env(safe-area-inset-left));background:var(--card);border-bottom:1px solid var(--hair)}
+dialog#dz .dzbox{overflow:auto;height:calc(100dvh - 65px);padding:12px;touch-action:pan-x pan-y pinch-zoom}
+dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-radius:8px;display:block}
+@media (min-width:768px){.grupos{display:grid;grid-template-columns:1fr 1fr;gap:16px} .grupos fieldset{margin:0 0 16px}}
 @media (prefers-reduced-motion:no-preference){
   .alt,button,.opt{transition:background-color .15s,border-color .15s}
   .feedback{animation:rise .25s ease-out}
   .bar span{transition:width .3s}
   @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 }
-@media (max-width:420px){main{padding:16px 12px 32px} .card{padding:14px} h1{font-size:1.4rem}}
+@media (max-width:480px){
+  main{padding-top:14px;padding-bottom:28px;padding-left:max(12px,env(safe-area-inset-left));padding-right:max(12px,env(safe-area-inset-right))}
+  .card{padding:14px;border-radius:16px} h1{font-size:1.4rem}
+  dl.ficha{grid-template-columns:1fr;gap:0} dl.ficha dd{margin:0 0 8px}
+  .opt{flex-wrap:wrap} .opt .n{margin-left:36px;width:100%;white-space:normal;font-size:.9rem}
+  .row>button,.row>.btn{flex:1 1 auto}
+  th,td{padding:8px 6px} table{font-size:.95rem}
+  /* estatísticas viram fichas de uma linha: o enunciado sobe na tela */
+  .stats{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 10px}
+  .stat{display:inline-flex;gap:6px;align-items:baseline;padding:3px 10px;border-radius:999px;text-align:left}
+  .stat b{display:inline;font-size:1rem} .stat span{font-size:.85rem}
+  .qhead{margin:10px 0 4px} .exam{font-size:1rem}
+  .alt{padding:10px 12px;font-size:1rem}
+  header.top{flex-wrap:nowrap} header.top .brand{font-size:.95rem;min-width:0} header.top button{padding:8px 12px;white-space:nowrap}
+}
+/* barra de ações fixa: celular em pé ou em paisagem baixa */
+@media (max-width:640px), (max-height:500px) and (orientation:landscape){
+  .acoes{position:sticky;bottom:0;z-index:5;margin:0 -16px 8px;padding:10px max(16px,env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));background:var(--bg);border-top:1px solid var(--hair)}
+}
+@media (max-width:480px){.acoes{margin-left:-12px;margin-right:-12px}}
+@media (max-height:500px) and (orientation:landscape){
+  header.top{padding-top:4px;padding-bottom:4px} h1{font-size:1.25rem} main{padding-top:10px}
+  html{scroll-padding-bottom:72px}
+}
 @media print{header.top,footer,button{display:none}}
 </style>
 </head>
@@ -124,10 +161,14 @@ footer p{max-width:760px;margin:0 auto 6px}
 <a class="skip" href="#app">Ir para o conteúdo</a>
 <header class="top">
   <span class="brand">Estudo SEDUC/CE 2018</span>
-  <div class="tools"><button id="btnTema" type="button" aria-pressed="false">Tema claro</button></div>
+  <div class="tools"><button id="btnTema" type="button" aria-pressed="false">Tema escuro</button></div>
 </header>
 <main id="app" aria-live="off"></main>
 <div id="anuncio" class="sr" role="status" aria-live="polite"></div>
+<dialog id="dz" aria-label="Figura ampliada">
+  <div class="dzbar"><strong>Figura ampliada</strong><button id="dzFechar" type="button">Fechar</button></div>
+  <div class="dzbox"><img id="dzImg" alt=""></div>
+</dialog>
 <footer>
   <p>As explicações foram geradas por inteligência artificial e podem conter erros. Confira sempre na fonte. O gabarito vem da banca (CEV/UECE, gabarito definitivo após recursos, Comunicado nº 129/2018).</p>
   <p>Material de estudo não oficial. Todas as questões vêm do caderno 3 da prova de 21/10/2018.</p>
@@ -167,7 +208,7 @@ let storageOk = true;
 const memoria = {};                                     // reserva quando o armazenamento falha
 function lerBruto(){ try { return localStorage.getItem(CHAVE); } catch(e){ storageOk = false; return memoria[CHAVE] || null; } }
 function gravarBruto(v){ try { localStorage.setItem(CHAVE, v); } catch(e){ storageOk = false; memoria[CHAVE] = v; } }
-function estadoInicial(){ return {v:1, tema:'dark', areas:[], erros:{}, tentativa:null, historico:[]}; }
+function estadoInicial(){ return {v:1, tema:'light', areas:[], erros:{}, tentativa:null, historico:[]}; }
 function carregar(){
   const bruto = lerBruto(); if(!bruto) return estadoInicial();
   try { return validar(JSON.parse(bruto)) || estadoInicial(); } catch(e){ return estadoInicial(); }
@@ -177,7 +218,7 @@ function validar(o){
   if(!o || o.v !== 1 || !Array.isArray(o.areas) || typeof o.erros !== 'object' || !Array.isArray(o.historico)) return null;
   const ids = new Set(AREAS.map(a => a.id));
   const s = estadoInicial();
-  s.tema = o.tema === 'light' ? 'light' : 'dark';
+  s.tema = o.tema === 'dark' ? 'dark' : 'light';   // padrão: claro
   s.areas = o.areas.filter(a => ids.has(a));
   Object.keys(o.erros || {}).forEach(k => { if(byId[k]) s.erros[k] = true; });
   s.historico = o.historico.slice(-30).filter(h => h && typeof h.pontos === 'number');
@@ -303,8 +344,7 @@ function renderFoco(){
     <button id="bLimpar" type="button">Limpar</button>
     <button id="bCompleta" type="button">Prova completa (80 questões)</button>
   </div>
-  ${grupo('P1', 'Conhecimentos básicos (P1)')}
-  ${grupo('P2', 'Conhecimentos específicos de Língua Portuguesa (P2)')}
+  <div class="grupos">${grupo('P1', 'Conhecimentos básicos (P1)')}${grupo('P2', 'Conhecimentos específicos de Língua Portuguesa (P2)')}</div>
   <p class="total" id="total" role="status" aria-live="polite"></p>
   <div id="erroFoco" class="alert bad" role="alert" hidden>Marque pelo menos uma área para continuar.</div>
   <div class="row"><button class="primary" id="bSeguir" type="button">Continuar</button><button id="bVoltar" type="button">Voltar ao início</button></div>`;
@@ -344,7 +384,7 @@ function renderQuestao(comFeedback){
   const mostra = (t.modo !== 'simulado') && jaRespondida;           // feedback só no Treino/Revisão
   const anulada = !valida(q);
   const enunc = q.imgs.length
-    ? q.imgs.map(i => `<img src="${i.src}" alt="${esc(i.alt)}">`).join('') +
+    ? q.imgs.map(i => `<button type="button" class="zoom" data-zoom="1"><img src="${i.src}" alt="${esc(i.alt)}"><span class="dica">Toque para ampliar a figura</span></button>`).join('') +
       `<details><summary>Ler o enunciado em texto</summary>${q.enunciado.map(p => `<p>${p}</p>`).join('')}</details>`
     : q.enunciado.map(p => `<p>${p}</p>`).join('');
   const alts = ['A','B','C','D'].map(L => {
@@ -397,11 +437,11 @@ function renderQuestao(comFeedback){
   <div class="alts" role="group" aria-label="Alternativas da questão ${q.id}">${alts}</div>
   <p class="nota" id="dica">${podeConf ? 'Escolha uma alternativa (ou tecle A, B, C ou D) e confirme.' : ''}</p>
   ${anulada ? '' : fb}
-  <div class="row">
+  <div class="acoes">
     ${podeConf ? `<button class="primary" id="bConfirmar" type="button" ${selecao ? '' : 'disabled'}>Confirmar resposta</button>` : ''}
     ${(jaRespondida || anulada) ? `<button class="primary" id="bProxima" type="button">${ultima ? 'Ver resultado' : 'Próxima'}</button>` : ''}
-    <button id="bMenu" type="button">Mudar áreas ou modo</button>
-  </div>`;
+  </div>
+  <div class="row"><button id="bMenu" type="button">Mudar áreas ou modo</button></div>`;
   if(comFeedback){ const f = document.getElementById('fb'); if(f){ f.setAttribute('tabindex','-1'); f.focus(); } }
   else if(selecao === null) { const h = document.getElementById('hq'); h.setAttribute('tabindex','-1'); h.focus({preventScroll:false}); }
 }
@@ -454,6 +494,13 @@ function pergunta(msg){ try { return window.confirm(msg); } catch(e){ return tru
 app.addEventListener('click', e => {
   const b = e.target.closest('button'); if(!b) return;
   const id = b.id;
+  if(b.dataset.zoom){                                   // abre a figura em tela cheia (rolagem nos dois eixos)
+    const im = b.querySelector('img'), dz = document.getElementById('dz'); zoomOrigem = b;
+    document.getElementById('dzImg').src = im.src; document.getElementById('dzImg').alt = im.alt;
+    if(dz.showModal) dz.showModal(); else dz.setAttribute('open','');
+    document.getElementById('dzFechar').focus();
+    return;
+  }
   if(id === 'bComecar'){ ir('foco'); }
   else if(id === 'bContinuar'){ selecao = null; ir('questao'); }
   else if(id === 'bExportar'){ baixar('progresso-seduc2018.json', JSON.stringify(S, null, 1)); document.getElementById('msgProg').textContent = 'Arquivo de progresso baixado.'; }
@@ -511,11 +558,15 @@ document.addEventListener('keydown', e => {
 });
 // lembra se o texto-base foi aberto ou fechado (o evento toggle não borbulha, por isso captura)
 app.addEventListener('toggle', e => { if(e.target.dataset && e.target.dataset.base) baseAberta[e.target.dataset.base] = e.target.open; }, true);
+let zoomOrigem = null;                                  // botão que abriu a figura: recebe o foco de volta
+const fechaZoom = () => { const dz = document.getElementById('dz'); if(dz.close) dz.close(); else dz.removeAttribute('open'); if(zoomOrigem && zoomOrigem.isConnected) zoomOrigem.focus(); };
+document.getElementById('dzFechar').addEventListener('click', fechaZoom);
+document.getElementById('dz').addEventListener('cancel', () => setTimeout(() => { if(zoomOrigem && zoomOrigem.isConnected) zoomOrigem.focus(); }, 0));   // tecla Esc
 /* tema */
 function aplicaTema(){
   document.documentElement.dataset.theme = S.tema;
   const b = document.getElementById('btnTema');
-  b.textContent = S.tema === 'dark' ? 'Tema claro' : 'Tema escuro'; b.setAttribute('aria-pressed', String(S.tema === 'light'));
+  b.textContent = S.tema === 'dark' ? 'Tema claro' : 'Tema escuro'; b.setAttribute('aria-pressed', String(S.tema === 'dark'));
 }
 document.getElementById('btnTema').addEventListener('click', () => { S.tema = S.tema === 'dark' ? 'light' : 'dark'; aplicaTema(); salvar(); });
 aplicaTema();

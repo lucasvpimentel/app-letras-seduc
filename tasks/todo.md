@@ -1,57 +1,37 @@
-# Todo: jogo SEDUC 2018 Portugues
+# Todo: visualização responsiva para mobile
 
-Ver detalhes em `plan.md`.
+Detalhes em `plan.md`. Plano antigo em `tasks/arquivo/jogo-seduc-2018/`.
 
-## S0 Preparacao
-- [x] Carregar skills de UI/UX disponiveis; anotar quais existem
-- [ ] Tentar instalar jsdom/playwright (nao feito: testes rodaram no painel de navegador do app)
+## T1 Base mobile
+- [x] viewport-fit=cover, 100dvh, safe-area, touch-action, tap-highlight
+- [x] build + verify.py OK; teste 667x375
 
-## S1 Extracao (parar se nao fechar 80 apos 2 tentativas)
-- [x] extract.py prototipo em 2 paginas (colunas, cabecalho/rodape, hifen)
-- [x] Estender as 23 paginas; secoes e faixas confirmadas
-- [x] Textos de apoio compartilhados em campo proprio
-- [x] Recortes PNG (200 dpi) + transcricao alt
-- [x] verify (80 ids, 4 alternativas, sem artefatos) + conferencia visual
+## T2 Tela Questão compacta
+- [x] Estatísticas e cabeçalho compactos <=480
+- [x] Enunciado visível sem rolar em 360x640 (topo em 291 px de 640)
 - [x] CHECKPOINT 1
 
-## S2 Gabarito caderno 3 (parar se nao achar)
-- [x] Pesquisar cev.uece.br, Comunicado 118/2018 e comunicados de recursos/definitivo
-- [x] Gravar gabarito.json (letra, situacao, fonte url+data) para 80 questoes
+## T3 Barra de ações fixa
+- [x] Confirmar/Próxima sticky <=640 e paisagem baixa, safe-area, scroll-padding
+- [x] Varredura 80 questões: última alternativa nunca coberta; Próxima sempre visível
+- (teste de Tab com teclado físico: só via foco programático)
+
+## T4 Ampliar figura
+- [x] Botão + dialog nas 7 figuras; Esc e Fechar; foco volta ao botão
 - [x] CHECKPOINT 2
 
-## S3 Classificacao
-- [x] Ler Anexos II e III do edital 2026
-- [x] area + subtopico + item Anexo III + duvidas; soma = 80
-- [x] CHECKPOINT (contagens 8/6/8/8 e 50 especificas)
+## T5 Início, Foco, Modo, Resultado
+- [x] 320/360/412 sem rolagem horizontal, alvos >=48
+- [x] Tabelas do Resultado a 320
 
-## S4 Explicacoes (so confirmadas)
-- [x] Lote 1-20
-- [x] Lote 21-40
-- [x] Lote 41-60
-- [x] Lote 61-80
-- [x] Divergencias analise x oficial registradas no relatorio final (sem arquivo separado)
-- [x] CHECKPOINT 3 (schema + amostra)
+## T6 Paisagem e tablet
+- [x] 667x375 (barra 19% da altura), 768x1024 (grupos lado a lado)
+- [x] CHECKPOINT 3
 
-## S5 UI minima com fixture
-- [x] Inicio -> Foco -> Modo -> Questao (Treino) -> Resultado navegavel por teclado
-- [x] Estado + localStorage com tratamento de erro
+## T7 Verificação final
+- [x] verify.py TUDO OK, contraste.py 0 falhas, console limpo, rede só localhost
+- [ ] NÃO testado: leitor de tela, aparelho físico, zoom 400%, "Apagar tudo", 1024x768 e 1280x800
 
-## S6 Funcionalidades
-- [x] Filtro por area (contagens, marcar tudo, limpar, prova completa, >=1)
-- [x] Simulado e Revisao de erros
-- [x] Anuladas/sem_gabarito fora da pontuacao
-- [x] Resultado por materia/area + comparacao com minimos 2026 (prova completa)
-- [x] Exportar/importar/apagar progresso
-- [x] Temas, reduced-motion, 360px+, alvos 48px, foco, rodape de aviso
-- [x] CHECKPOINT 4
-
-## S7 Build
-- [x] build.py gera jogo_seduc2018_portugues.html unico, offline, sem URLs externas
-
-## S8 Verificacao e entrega
-- [x] Criterios 1-4 e 6 por codigo
-- [x] Criterio 5: offline, console limpo, zero requisicoes externas
-- [x] Fluxo testado no navegador (Treino, Simulado, Revisao, filtro, persistencia, export/import). NAO testado: botao Apagar tudo (confirm bloqueado no painel)
-- [x] Criterio 7: contraste calculado, alvos 48px, teclado A-D, nome acessivel. NAO testado: leitor de tela, zoom 400%
-- [x] Comparacao visual HTML x PDF nas questoes com figura
-- [x] SendUserFile + relatorio (<=15 linhas)
+## Extra: tema claro como padrão
+- [x] :root claro, [data-theme=dark] escuro; estado inicial claro; botão alterna e salva
+- Nota: quem já salvou "escuro" no navegador continua escuro (não dá para distinguir de escolha).
