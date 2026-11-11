@@ -119,7 +119,9 @@ footer p{max-width:760px;margin:0 auto 6px}
 .zoom img{margin:8px 0 4px}
 .zoom .dica{display:block;font-size:.85rem;color:var(--muted);font-family:var(--sans)}
 dialog#dz{width:100%;max-width:100vw;height:100vh;height:100dvh;max-height:100dvh;margin:0;padding:0;border:0;background:var(--bg);color:var(--text)}
-dialog#dz::backdrop{background:rgba(0,0,0,.6)}
+dialog#dz::backdrop,dialog#dp::backdrop{background:rgba(0,0,0,.6)}
+dialog#dp{width:min(92vw,520px);border:2px solid var(--line);border-radius:18px;padding:18px;background:var(--card);color:var(--text)}
+header.top .tools{flex-wrap:wrap;justify-content:flex-end}
 dialog#dz .dzbar{position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:8px max(12px,env(safe-area-inset-right)) 8px max(12px,env(safe-area-inset-left));background:var(--card);border-bottom:1px solid var(--hair)}
 dialog#dz .dzbox{overflow:auto;height:calc(100dvh - 65px);padding:12px;touch-action:pan-x pan-y pinch-zoom}
 dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-radius:8px;display:block}
@@ -143,7 +145,7 @@ dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-r
   .stat b{display:inline;font-size:1rem} .stat span{font-size:.85rem}
   .qhead{margin:10px 0 4px} .exam{font-size:1rem}
   .alt{padding:10px 12px;font-size:1rem}
-  header.top{flex-wrap:nowrap} header.top .brand{font-size:.95rem;min-width:0} header.top button{padding:8px 12px;white-space:nowrap}
+  header.top .brand{font-size:.95rem;min-width:0} header.top button{padding:8px 12px;white-space:nowrap}
 }
 /* barra de ações fixa: celular em pé ou em paisagem baixa */
 @media (max-width:640px), (max-height:500px) and (orientation:landscape){
@@ -161,10 +163,24 @@ dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-r
 <a class="skip" href="#app">Ir para o conteúdo</a>
 <header class="top">
   <span class="brand">Estudo SEDUC/CE 2018</span>
-  <div class="tools"><button id="btnTema" type="button" aria-pressed="false">Tema escuro</button></div>
+  <div class="tools"><button id="btnTema" type="button" aria-pressed="false">Tema escuro</button><button id="btnProg" type="button" aria-haspopup="dialog">Meu progresso</button></div>
 </header>
 <main id="app" aria-live="off"></main>
 <div id="anuncio" class="sr" role="status" aria-live="polite"></div>
+<dialog id="dp" aria-labelledby="dpT">
+  <h2 id="dpT" style="margin-top:0">Meu progresso</h2>
+  <p>O progresso fica salvo neste aparelho, no navegador. Você pode guardar uma cópia em arquivo ou levar para outro aparelho.</p>
+  <div class="row">
+    <button id="bExportar" type="button">Salvar em arquivo</button>
+    <label class="btn" for="fImportar">Abrir arquivo salvo</label>
+    <input id="fImportar" class="sr" type="file" accept="application/json,.json">
+  </div>
+  <div class="row" style="margin-top:12px">
+    <button id="bApagar" class="danger" type="button">Apagar tudo</button>
+    <button id="dpFechar" type="button">Fechar</button>
+  </div>
+  <p id="msgProg" class="nota" role="status" style="margin:12px 0 0"></p>
+</dialog>
 <dialog id="dz" aria-label="Figura ampliada">
   <div class="dzbar"><strong>Figura ampliada</strong><button id="dzFechar" type="button">Fechar</button></div>
   <div class="dzbox"><img id="dzImg" alt=""></div>
@@ -320,13 +336,7 @@ function renderInicio(){
   <section class="card" aria-labelledby="hProg">
     <h2 id="hProg" style="margin-top:0">Seu progresso</h2>
     <p class="muted">${S.historico.length ? `Você já terminou ${S.historico.length} rodada(s). Última: ${S.historico[S.historico.length-1].pontos} de ${S.historico[S.historico.length-1].total} pontos.` : 'Nenhuma rodada terminada ainda.'} Questões erradas guardadas para revisão: ${Object.keys(S.erros).length}.</p>
-    <div class="row">
-      <button id="bExportar" type="button">Exportar progresso</button>
-      <label class="btn" for="fImportar">Importar progresso</label>
-      <input id="fImportar" class="sr" type="file" accept="application/json,.json">
-      <button id="bApagar" class="danger" type="button">Apagar tudo</button>
-    </div>
-    <p id="msgProg" class="nota" role="status" style="margin-top:10px"></p>
+    <div class="row"><button id="bProg2" type="button">Salvar, abrir ou apagar progresso</button></div>
   </section>`;
   foco('#h');
 }
@@ -503,8 +513,7 @@ app.addEventListener('click', e => {
   }
   if(id === 'bComecar'){ ir('foco'); }
   else if(id === 'bContinuar'){ selecao = null; ir('questao'); }
-  else if(id === 'bExportar'){ baixar('progresso-seduc2018.json', JSON.stringify(S, null, 1)); document.getElementById('msgProg').textContent = 'Arquivo de progresso baixado.'; }
-  else if(id === 'bApagar'){ if(pergunta('Apagar todo o progresso? Isso não pode ser desfeito.')){ try { localStorage.removeItem(CHAVE); } catch(_){} Object.assign(S, estadoInicial()); delete memoria[CHAVE]; renderInicio(); document.getElementById('msgProg').textContent = 'Progresso apagado.'; } }
+  else if(id === 'bProg2'){ abreProg(b); }
   else if(id === 'bTudo'){ app.querySelectorAll('input[name=area]').forEach(i => i.checked = true); atualizaTotal(); }
   else if(id === 'bLimpar'){ app.querySelectorAll('input[name=area]').forEach(i => i.checked = false); atualizaTotal(); }
   else if(id === 'bCompleta'){ S.areas = AREAS.map(a => a.id); salvar(); modoEscolhido = modoEscolhido === 'revisao' ? 'treino' : modoEscolhido; ir('modo'); }
@@ -537,17 +546,6 @@ app.addEventListener('click', e => {
 });
 app.addEventListener('change', e => {
   if(e.target.name === 'area') atualizaTotal();
-  if(e.target.id === 'fImportar' && e.target.files[0]){
-    const rd = new FileReader();
-    rd.onload = () => {
-      let novo = null; try { novo = validar(JSON.parse(rd.result)); } catch(_){}
-      const m = document.getElementById('msgProg');
-      if(!novo){ m.textContent = 'Este arquivo não parece ser um progresso salvo por este jogo. Nada foi alterado.'; return; }
-      Object.assign(S, novo); salvar(); aplicaTema(); renderInicio();
-      document.getElementById('msgProg').textContent = 'Progresso importado.';
-    };
-    rd.readAsText(e.target.files[0]);
-  }
 });
 // Atalhos: A–D escolhem alternativa; Enter confirma (se houver escolha).
 document.addEventListener('keydown', e => {
@@ -558,6 +556,34 @@ document.addEventListener('keydown', e => {
 });
 // lembra se o texto-base foi aberto ou fechado (o evento toggle não borbulha, por isso captura)
 app.addEventListener('toggle', e => { if(e.target.dataset && e.target.dataset.base) baseAberta[e.target.dataset.base] = e.target.open; }, true);
+/* ---------- Meu progresso (diálogo aberto de qualquer tela) ---------- */
+let progOrigem = null;                                  // botão que abriu o diálogo: recebe o foco de volta
+const dp = document.getElementById('dp'), msgP = t => document.getElementById('msgProg').textContent = t;
+function abreProg(origem){
+  progOrigem = origem; msgP('');
+  if(dp.showModal) dp.showModal(); else dp.setAttribute('open','');
+  document.getElementById('dpFechar').focus();
+}
+function fechaProg(){ if(dp.close) dp.close(); else dp.removeAttribute('open'); if(progOrigem && progOrigem.isConnected) progOrigem.focus(); }
+document.getElementById('btnProg').addEventListener('click', e => abreProg(e.currentTarget));
+document.getElementById('dpFechar').addEventListener('click', fechaProg);
+dp.addEventListener('cancel', () => setTimeout(() => { if(progOrigem && progOrigem.isConnected) progOrigem.focus(); }, 0));   // tecla Esc
+document.getElementById('bExportar').addEventListener('click', () => { baixar('progresso-seduc2018.json', JSON.stringify(S, null, 1)); msgP('Arquivo de progresso baixado.'); });
+document.getElementById('bApagar').addEventListener('click', () => {
+  if(!pergunta('Apagar todo o progresso? Isso não pode ser desfeito.')) return;
+  try { localStorage.removeItem(CHAVE); } catch(_){}
+  Object.assign(S, estadoInicial()); delete memoria[CHAVE]; selecao = null; aplicaTema(); ir('inicio'); msgP('Progresso apagado.');
+});
+document.getElementById('fImportar').addEventListener('change', e => {
+  const f = e.target.files[0]; if(!f) return;
+  const rd = new FileReader();
+  rd.onload = () => {
+    let novo = null; try { novo = validar(JSON.parse(rd.result)); } catch(_){}
+    if(!novo){ msgP('Este arquivo não parece ser um progresso salvo por este jogo. Nada foi alterado.'); return; }
+    Object.assign(S, novo); salvar(); selecao = null; aplicaTema(); ir('inicio'); msgP('Progresso aberto.');
+  };
+  rd.readAsText(f); e.target.value = '';
+});
 let zoomOrigem = null;                                  // botão que abriu a figura: recebe o foco de volta
 const fechaZoom = () => { const dz = document.getElementById('dz'); if(dz.close) dz.close(); else dz.removeAttribute('open'); if(zoomOrigem && zoomOrigem.isConnected) zoomOrigem.focus(); };
 document.getElementById('dzFechar').addEventListener('click', fechaZoom);
