@@ -37,6 +37,7 @@ h3{font-size:1.05rem;margin:16px 0 6px}
 h1:focus{outline:none}
 p{margin:0 0 12px}
 .muted{color:var(--muted)}
+.card,.exam,.nota,.feedback{overflow-wrap:anywhere}   /* endereços longos (URLs) quebram dentro do cartão */
 .card{background:var(--card);border:1px solid var(--hair);border-radius:18px;padding:18px;margin:0 0 16px;box-shadow:var(--shadow)}
 .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 /* ===== Botões: alvo de toque >= 48px ===== */
@@ -137,7 +138,7 @@ dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-r
   main{padding-top:14px;padding-bottom:28px;padding-left:max(12px,env(safe-area-inset-left));padding-right:max(12px,env(safe-area-inset-right))}
   .card{padding:14px;border-radius:16px} h1{font-size:1.4rem}
   dl.ficha{grid-template-columns:1fr;gap:0} dl.ficha dd{margin:0 0 8px}
-  .opt{flex-wrap:wrap} .opt .n{margin-left:36px;width:100%;white-space:normal;font-size:.9rem}
+  .opt{flex-wrap:wrap} .opt>span:not(.n){flex:1 1 0;min-width:0} .opt .n{margin-left:36px;width:100%;white-space:normal;font-size:.9rem}
   .row>button,.row>.btn{flex:1 1 auto}
   th,td{padding:8px 6px} table{font-size:.95rem}
   /* estatísticas viram fichas de uma linha: o enunciado sobe na tela */
@@ -187,8 +188,8 @@ dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-r
   <div class="dzbox"><img id="dzImg" alt=""></div>
 </dialog>
 <footer>
-  <p>As explicações foram geradas por inteligência artificial e podem conter erros. Confira sempre na fonte. O gabarito vem da banca (CEV/UECE, gabarito definitivo após recursos, Comunicado nº 129/2018).</p>
-  <p>Material de estudo não oficial. Todas as questões vêm do caderno 3 da prova de 21/10/2018.</p>
+  <p>As explicações foram geradas por inteligência artificial e podem conter erros. Confira sempre na fonte. O gabarito vem da banca (CEV/UECE, gabarito definitivo após recursos: Comunicado nº 129/2018 para a prova de 2018 e Comunicado nº 215/2023 para a prova de 2023).</p>
+  <p>Material de estudo não oficial. As questões vêm do caderno 3 da prova SEDUC/CE de 21/10/2018 e do caderno 1 de Linguagens da prova de Professor Indígena SEDUC/CE de 29/10/2023.</p>
   <p class="amor">Te amo, meu amorzão!</p>
 </footer>
 
@@ -204,7 +205,15 @@ dialog#dz img{max-width:none;min-width:100%;height:auto;background:#fff;border-r
 
 /* ---------- 1) dados e constantes ---------- */
 const D = JSON.parse(document.getElementById('dados').textContent);
-const Q = D.questoes;                                   // lista de 80 questões, ordem original
+// Prova 1 (2018): ids 1..80. Prova 2 (Indígena 2023, extra): ids internos 101..117, num = número original (1..17).
+const Q = D.questoes.map(q => Object.assign({prova:'2018', num:q.id}, q)).concat(D.extra.questoes);
+const TEXTOS = Object.assign({}, D.textos, D.extra.textos);
+const TOTAL = {'2018':80, '2023':17};                   // questões de cada prova (para "Questão N de T")
+const PROVAS = [
+  {id:'2018', nome:'SEDUC/CE 2018, Professor de Língua Portuguesa', desc:'80 questões, caderno 3'},
+  {id:'2023', nome:'SEDUC/CE 2023, Professor Indígena (Linguagens)', desc:'17 questões: Língua Portuguesa e Educação Brasileira'}
+];
+const rotulo = id => { const q = byId[id]; return q.prova === '2018' ? 'Questão ' + q.num : 'Questão ' + q.num + ' (2023)'; };
 const byId = Object.fromEntries(Q.map(q => [q.id, q]));
 const CHAVE = 'seduc2018-lp-v1';                        // chave do armazenamento local
 const AREAS = [                                         // áreas de foco, na ordem da tela
@@ -226,7 +235,7 @@ let storageOk = true;
 const memoria = {};                                     // reserva quando o armazenamento falha
 function lerBruto(){ try { return localStorage.getItem(CHAVE); } catch(e){ storageOk = false; return memoria[CHAVE] || null; } }
 function gravarBruto(v){ try { localStorage.setItem(CHAVE, v); } catch(e){ storageOk = false; memoria[CHAVE] = v; } }
-function estadoInicial(){ return {v:1, tema:'light', areas:[], erros:{}, tentativa:null, historico:[]}; }
+function estadoInicial(){ return {v:1, tema:'light', provas:['2018'], areas:[], erros:{}, tentativa:null, historico:[]}; }
 function carregar(){
   const bruto = lerBruto(); if(!bruto) return estadoInicial();
   try { return validar(JSON.parse(bruto)) || estadoInicial(); } catch(e){ return estadoInicial(); }
@@ -238,6 +247,7 @@ function validar(o){
   const s = estadoInicial();
   s.tema = o.tema === 'dark' ? 'dark' : 'light';   // padrão: claro
   s.areas = o.areas.filter(a => ids.has(a));
+  s.provas = Array.isArray(o.provas) ? o.provas.filter(x => TOTAL[x]) : ['2018']; if(!s.provas.length) s.provas = ['2018'];
   Object.keys(o.erros || {}).forEach(k => { if(byId[k]) s.erros[k] = true; });
   s.historico = o.historico.slice(-30).filter(h => h && typeof h.pontos === 'number');
   const t = o.tentativa;
@@ -255,8 +265,9 @@ let modoEscolhido = 'treino';
 const baseAberta = {};                                  // texto-base: aberto/fechado por grupo, lembrado entre questões
 
 /* ---------- 3) lógica de pontuação ---------- */
-const filaDasAreas = areas => Q.filter(q => areas.includes(q.area)).map(q => q.id);
-const errosDasAreas = areas => Q.filter(q => areas.includes(q.area) && S.erros[q.id]).map(q => q.id);
+const dasProvas = (provas = S.provas) => q => provas.includes(q.prova);
+const filaDasAreas = (areas, provas) => Q.filter(q => areas.includes(q.area) && dasProvas(provas)(q)).map(q => q.id);
+const errosDasAreas = (areas, provas) => Q.filter(q => areas.includes(q.area) && dasProvas(provas)(q) && S.erros[q.id]).map(q => q.id);
 // Resumo da tentativa: só questões válidas entram em acertos, erros, pontos e percentual.
 function resumo(t){
   let ac = 0, er = 0, seq = 0, melhor = 0;
@@ -327,13 +338,14 @@ function renderInicio(){
       <dt>Cargo</dt><dd>${esc(p.cargo)}</dd>
       <dt>Ano</dt><dd>${p.ano} (aplicada em ${esc(p.aplicacao)})</dd>
       <dt>Caderno</dt><dd>Gabarito nº ${p.caderno}</dd>
-      <dt>Questões</dt><dd>${Q.length}, com 4 alternativas cada</dd>
+      <dt>Questões</dt><dd>${TOTAL['2018']}, com 4 alternativas cada</dd>
     </dl>
+    <p class="nota">Também há ${TOTAL['2023']} questões do concurso de Professor Indígena SEDUC/CE 2023, da mesma banca (Língua Portuguesa e Educação Brasileira). Você escolhe na próxima tela.</p>
     <div class="row">
       <button class="primary" id="bComecar" type="button">Começar</button>
       ${t ? `<button id="bContinuar" type="button">Continuar de onde parei</button>` : ''}
     </div>
-    ${t ? `<p class="nota" style="margin-top:10px">Você parou na questão ${byId[t.fila[t.idx]].id} (${t.idx + 1} de ${t.fila.length}).</p>` : ''}
+    ${t ? `<p class="nota" style="margin-top:10px">Você parou na ${rotulo(t.fila[t.idx]).toLowerCase()} (${t.idx + 1} de ${t.fila.length}).</p>` : ''}
   </section>
   <section class="card" aria-labelledby="hProg">
     <h2 id="hProg" style="margin-top:0">Seu progresso</h2>
@@ -342,13 +354,16 @@ function renderInicio(){
   </section>`;
   foco('#h');
 }
-function contagemArea(id){ const l = Q.filter(q => q.area === id); return {n:l.length, anuladas:l.filter(q => !valida(q)).length}; }
+function contagemArea(id, provas = S.provas){ const l = Q.filter(q => q.area === id && dasProvas(provas)(q)); return {n:l.length, anuladas:l.filter(q => !valida(q)).length}; }
+const textoContagem = c => `${c.n} questões${c.anuladas ? `, ${c.anuladas} anulada${c.anuladas > 1 ? 's' : ''}` : ''}`;
 function renderFoco(){
   const grupo = (g, titulo) => `<fieldset><legend>${titulo}</legend>${AREAS.filter(a => a.grupo === g).map(a => {
     const c = contagemArea(a.id);
     return `<label class="opt"><input type="checkbox" name="area" value="${a.id}" ${S.areas.includes(a.id) ? 'checked' : ''}>
-      <span>${esc(a.nome)}</span><span class="n">${c.n} questões${c.anuladas ? `, ${c.anuladas} anulada${c.anuladas > 1 ? 's' : ''}` : ''}</span></label>`;
+      <span>${esc(a.nome)}</span><span class="n" data-conta="${a.id}">${textoContagem(c)}</span></label>`;
   }).join('')}</fieldset>`;
+  const provasHtml = `<fieldset><legend>Provas</legend>${PROVAS.map(pr => `<label class="opt"><input type="checkbox" name="prova" value="${pr.id}" ${S.provas.includes(pr.id) ? 'checked' : ''}>
+      <span>${esc(pr.nome)}</span><span class="n">${esc(pr.desc)}</span></label>`).join('')}</fieldset>`;
   app.innerHTML = `<h1 id="h">O que você quer estudar?</h1>
   <p class="muted">Marque uma ou mais áreas. Você pode mudar essa escolha depois sem perder o progresso.</p>
   <div class="row" style="margin-bottom:12px">
@@ -356,6 +371,7 @@ function renderFoco(){
     <button id="bLimpar" type="button">Limpar</button>
     <button id="bCompleta" type="button">Prova completa (80 questões)</button>
   </div>
+  ${provasHtml}
   <div class="grupos">${grupo('P1', 'Conhecimentos básicos (P1)')}${grupo('P2', 'Conhecimentos específicos de Língua Portuguesa (P2)')}</div>
   <p class="total" id="total" role="status" aria-live="polite"></p>
   <div id="erroFoco" class="alert bad" role="alert" hidden>Marque pelo menos uma área para continuar.</div>
@@ -363,16 +379,18 @@ function renderFoco(){
   atualizaTotal(); foco('#h');
 }
 function areasMarcadas(){ return [...app.querySelectorAll('input[name=area]:checked')].map(i => i.value); }
+function provasMarcadas(){ return [...app.querySelectorAll('input[name=prova]:checked')].map(i => i.value); }
 function atualizaTotal(){
-  const a = areasMarcadas(), n = filaDasAreas(a).length;
+  const a = areasMarcadas(), n = filaDasAreas(a, provasMarcadas()).length;
+  app.querySelectorAll('[data-conta]').forEach(el => el.textContent = textoContagem(contagemArea(el.dataset.conta, provasMarcadas())));
   document.getElementById('total').textContent = a.length ? `Total selecionado: ${n} questões em ${a.length} área${a.length > 1 ? 's' : ''}.` : 'Nenhuma área marcada.';
 }
 function renderModo(){
-  const nErros = errosDasAreas(S.areas).length, fila = filaDasAreas(S.areas);
+  const nErros = errosDasAreas(S.areas).length, fila = filaDasAreas(S.areas);   // usa S.provas
   if(modoEscolhido === 'revisao' && !nErros) modoEscolhido = 'treino';
   const m = (id, tit, txt) => `<button type="button" class="mode" data-modo="${id}" aria-pressed="${modoEscolhido === id}"><strong>${tit}</strong><span class="muted">${txt}</span></button>`;
   app.innerHTML = `<h1 id="h">Como você quer estudar?</h1>
-  <p class="muted">${fila.length} questões selecionadas: ${S.areas.map(areaNome).map(esc).join('; ')}.</p>
+  <p class="muted">${fila.length} questões selecionadas: ${S.areas.map(areaNome).map(esc).join('; ')}. Provas: ${PROVAS.filter(pr => S.provas.includes(pr.id)).map(pr => esc(pr.nome)).join('; ')}.</p>
   <div class="modes" role="group" aria-label="Modo de estudo">
     ${m('treino', 'Treino', 'Depois de cada resposta, você vê o resultado e a explicação. É o modo recomendado.')}
     ${m('simulado', 'Simulado', 'Sem explicação durante a prova. O resultado aparece só no fim, como em um dia de prova.')}
@@ -383,11 +401,12 @@ function renderModo(){
 }
 function textoBase(q){
   if(!q.texto) return '';
-  const t = D.textos[q.texto];
+  const t = TEXTOS[q.texto];
   const aberto = baseAberta[q.texto] !== undefined ? baseAberta[q.texto] : q.id === t.questoes[0];   // aberto na 1ª questão do grupo
-  return `<details class="card" data-base="${q.texto}" ${aberto ? 'open' : ''}><summary>Texto-base (questões ${t.questoes[0]} a ${t.questoes[t.questoes.length-1]})</summary>
+  return `<details class="card" data-base="${q.texto}" ${aberto ? 'open' : ''}><summary>Texto-base (questões ${byId[t.questoes[0]].num} a ${byId[t.questoes[t.questoes.length-1]].num})</summary>
     <div class="exam basetext">${t.cabecalho.map(h => `<p>${h}</p>`).join('')}
-    <ol class="linhas" aria-label="Texto com linhas numeradas">${t.linhas.map(l => `<li><span class="n" aria-hidden="true">${l.n}</span><span><span class="sr">linha ${l.n}: </span>${l.t}</span></li>`).join('')}</ol>
+    ${t.img ? `<button type="button" class="zoom" data-zoom="1"><img src="${t.img.src}" alt="${esc(t.img.alt)}"><span class="dica">Toque para ampliar a figura</span></button>` : ''}
+    ${t.linhas ? `<ol class="linhas" aria-label="Texto com linhas numeradas">${t.linhas.map(l => `<li><span class="n" aria-hidden="true">${l.n}</span><span>${l.n === '' ? '' : `<span class="sr">linha ${l.n}: </span>`}${l.t}</span></li>`).join('')}</ol>` : ''}
     ${t.rodape.map(h => `<p class="nota">${h}</p>`).join('')}</div></details>`;
 }
 function renderQuestao(comFeedback){
@@ -431,7 +450,7 @@ function renderQuestao(comFeedback){
   const ultima = t.idx === t.fila.length - 1;
   const podeConf = !anulada && !jaRespondida;
   app.innerHTML = `
-  <h1 class="sr">Questão ${q.id} de ${Q.length}</h1>
+  <h1 class="sr">Questão ${q.num} de ${TOTAL[q.prova]}${q.prova === '2023' ? ' (prova Indígena 2023)' : ''}</h1>
   <div class="stats" role="group" aria-label="Seu desempenho nesta rodada">
     <div class="stat"><b>${r.ac}</b><span>Acertos</span></div>
     <div class="stat"><b>${r.er}</b><span>Erros</span></div>
@@ -441,12 +460,12 @@ function renderQuestao(comFeedback){
   </div>
   <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="${t.fila.length}" aria-valuenow="${t.idx + (jaRespondida || anulada ? 1 : 0)}" aria-label="Progresso da rodada"><span style="width:${100 * (t.idx + (jaRespondida || anulada ? 1 : 0)) / t.fila.length}%"></span></div>
   <p class="nota" style="margin:4px 0 0">${t.idx + 1} de ${t.fila.length} nesta rodada${t.modo === 'simulado' ? ' (Simulado)' : t.modo === 'revisao' ? ' (Revisão de erros)' : ' (Treino)'}</p>
-  <div class="qhead"><h2 style="margin:0" id="hq">Questão ${q.id} de ${Q.length}</h2>
-    <span><span class="tag">${esc(areaNome(q.area))}</span> <span class="tag">${esc(q.subtopico)}</span></span></div>
+  <div class="qhead"><h2 style="margin:0" id="hq">Questão ${q.num} de ${TOTAL[q.prova]}</h2>
+    <span>${q.prova === '2023' ? '<span class="tag">Prova Indígena 2023</span> ' : ''}<span class="tag">${esc(areaNome(q.area))}</span> <span class="tag">${esc(q.subtopico)}</span></span></div>
   ${anulada ? fb : ''}
   ${textoBase(q)}
   <article class="card exam" aria-labelledby="hq">${enunc}</article>
-  <div class="alts" role="group" aria-label="Alternativas da questão ${q.id}">${alts}</div>
+  <div class="alts" role="group" aria-label="Alternativas da questão ${q.num}">${alts}</div>
   <p class="nota" id="dica">${podeConf ? 'Escolha uma alternativa (ou tecle A, B, C ou D) e confirme.' : ''}</p>
   ${anulada ? '' : fb}
   <div class="acoes">
@@ -468,7 +487,7 @@ function renderResultado(){
   }).join('');
   const secoes = [...new Set(Q.map(q => q.secao))];
   let comp = '';
-  if(t.completa && t.fila.length === Q.length){
+  if(t.completa && t.fila.length === TOTAL['2018'] && t.fila.every(id => byId[id].prova === '2018')){
     const pontos = id => t.fila.filter(i => byId[i].area === id && r.detalhe[i] === 'ok').length;
     const p = {EB:pontos('EB'), AP:pontos('AP'), LP:pontos('LP'), DI:pontos('DI')};
     const P1 = p.EB + p.AP + p.LP + p.DI, P2 = pontos('ENS') + pontos('LIT') + pontos('LAS'), T = P1 + P2;
@@ -484,14 +503,14 @@ function renderResultado(){
   <section class="card"><p class="muted" style="margin:0">Pontos (1 por acerto)</p>
     <p class="big">${r.ac} de ${r.validas}</p>
     <p>Aproveitamento: <strong>${r.pctTotal}%</strong> das questões com gabarito. Maior sequência de acertos: ${r.melhor}.</p>
-    ${anul.length ? `<p class="nota">${anul.length} questão(ões) anulada(s) pela banca (${anul.join(', ')}) não contam na pontuação.</p>` : ''}</section>
+    ${anul.length ? `<p class="nota">${anul.length} questão(ões) anulada(s) pela banca (${anul.map(id => byId[id].num).join(', ')}) não contam na pontuação.</p>` : ''}</section>
   ${comp}
   <section class="card"><h2 style="margin-top:0">Desempenho por matéria</h2>
     <table><thead><tr><th>Matéria</th><th class="num">Acertos</th><th class="num">%</th></tr></thead><tbody>${porGrupo(q => q.secao, k => k, secoes)}</tbody></table>
     <h2>Desempenho por área</h2>
     <table><thead><tr><th>Área</th><th class="num">Acertos</th><th class="num">%</th></tr></thead><tbody>${porGrupo(q => q.area, areaNome, AREAS.map(a => a.id))}</tbody></table></section>
   <section class="card"><h2 style="margin-top:0">Questões erradas para rever</h2>
-    ${erradas.length ? `<p class="muted">${erradas.length} questão(ões). Use o modo "Revisão de erros" para refazer só essas.</p><p>${erradas.map(id => `<span class="tag">Questão ${id}</span>`).join(' ')}</p>` : '<p>Nenhuma questão errada nesta rodada.</p>'}</section>
+    ${erradas.length ? `<p class="muted">${erradas.length} questão(ões). Use o modo "Revisão de erros" para refazer só essas.</p><p>${erradas.map(id => `<span class="tag">${rotulo(id)}</span>`).join(' ')}</p>` : '<p>Nenhuma questão errada nesta rodada.</p>'}</section>
   <div class="row"><button class="primary" id="bRefazer" type="button">Refazer</button><button id="bOutra" type="button">Escolher outra área</button><button id="bInicio" type="button">Voltar ao início</button></div>`;
   foco('#h');
 }
@@ -518,17 +537,19 @@ app.addEventListener('click', e => {
   else if(id === 'bProg2'){ abreProg(b); }
   else if(id === 'bTudo'){ app.querySelectorAll('input[name=area]').forEach(i => i.checked = true); atualizaTotal(); }
   else if(id === 'bLimpar'){ app.querySelectorAll('input[name=area]').forEach(i => i.checked = false); atualizaTotal(); }
-  else if(id === 'bCompleta'){ S.areas = AREAS.map(a => a.id); salvar(); modoEscolhido = modoEscolhido === 'revisao' ? 'treino' : modoEscolhido; ir('modo'); }
+  else if(id === 'bCompleta'){ S.areas = AREAS.map(a => a.id); S.provas = ['2018']; salvar(); modoEscolhido = modoEscolhido === 'revisao' ? 'treino' : modoEscolhido; ir('modo'); }
   else if(id === 'bSeguir'){
-    const a = areasMarcadas();
-    if(!a.length){ const m = document.getElementById('erroFoco'); m.hidden = false; app.querySelector('input[name=area]').focus(); return; }
-    S.areas = a; salvar(); ir('modo');
+    const a = areasMarcadas(), pv = provasMarcadas(), m = document.getElementById('erroFoco');
+    if(!a.length || !pv.length || !filaDasAreas(a, pv).length){
+      m.textContent = !pv.length ? 'Marque pelo menos uma prova para continuar.' : !a.length ? 'Marque pelo menos uma área para continuar.' : 'Não há questões nessa combinação de prova e área. Marque outra área ou prova.';
+      m.hidden = false; app.querySelector(!pv.length ? 'input[name=prova]' : 'input[name=area]').focus(); return; }
+    S.areas = a; S.provas = pv; salvar(); ir('modo');
   }
   else if(id === 'bVoltar'){ ir('inicio'); }
   else if(id === 'bTrocar'){ ir('foco'); }
   else if(b.dataset.modo){ modoEscolhido = b.dataset.modo; renderModo(); app.querySelector(`[data-modo=${modoEscolhido}]`).focus(); }
   else if(id === 'bIniciar'){
-    const completa = S.areas.length === AREAS.length;
+    const completa = S.areas.length === AREAS.length && S.provas.length === 1 && S.provas[0] === '2018';   // só a prova de 2018 inteira compara com os mínimos
     if(tentativaAberta() && S.tentativa.idx > 0 && !pergunta('Você tem uma rodada em andamento. Começar uma nova rodada substitui a anterior. Continuar?')) return;
     const fila = modoEscolhido === 'revisao' ? errosDasAreas(S.areas) : filaDasAreas(S.areas);
     if(!fila.length){ anunciar('Não há questões para esta escolha.'); return; }
@@ -547,7 +568,7 @@ app.addEventListener('click', e => {
   else if(id === 'bInicio'){ ir('inicio'); }
 });
 app.addEventListener('change', e => {
-  if(e.target.name === 'area') atualizaTotal();
+  if(e.target.name === 'area' || e.target.name === 'prova') atualizaTotal();
 });
 // Atalhos: A–D escolhem alternativa; Enter confirma (se houver escolha).
 document.addEventListener('keydown', e => {

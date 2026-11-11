@@ -31,4 +31,16 @@ for q in J['questoes']:
     for im in q['imagens']:
         w = struct.unpack('>I', open('data/' + im['arquivo'], 'rb').read(24)[16:20])[0]; b = im['bbox']; dpis.append(w / (b[2] - b[0]) * 72)
 chk('2. recortes PNG >= 150 dpi', dpis and min(dpis) >= 150, f'{len(dpis)} recortes, mín {min(dpis):.0f} dpi')
+# ---- 2ª prova (Indígena 2023): extras no HTML conferidos contra o JSON extraído e o gabarito
+JI = json.load(open('../work_indigena2023/data/questoes.json', encoding='utf8')); GI = json.load(open('../work_indigena2023/data/gabarito.json', encoding='utf8'))
+XQ = D['extra']['questoes']
+chk('2023. 17 questões, ids 101..117, num 1..17', [q['id'] for q in XQ] == list(range(101, 118)) and [q['num'] for q in XQ] == list(range(1, 18)))
+chk('2023. 4 alternativas A-D não vazias', all(sorted(q['alts']) == list('ABCD') and all(v.strip() for v in q['alts'].values()) for q in XQ))
+chk('2023. enunciados e alternativas idênticos ao JSON extraído', all(q['enunciado'] == j['enunciado'] and q['alts'] == j['alternativas'] for q, j in zip(XQ, JI['questoes'])))
+chk('2023. textos de apoio idênticos (cabeçalho, linhas, rodapé)', all(D['extra']['textos'][k]['cabecalho'] == JI['textos'][o]['cabecalho'] and D['extra']['textos'][k]['rodape'] == JI['textos'][o]['rodape'] for k, o in (('i1', 't1'), ('i2', 't2'))) and D['extra']['textos']['i1']['linhas'] == JI['textos']['t1']['linhas'])
+chk('2023. gabarito do HTML = gabarito definitivo com fonte', all(q['gab']['letra'] == GI['questoes'][str(q['num'])]['letra'] and q['gab']['situacao'] == 'confirmado' for q in XQ) and GI['fonte_definitivo']['url'] and GI['fonte_definitivo']['data'])
+chk('2023. todas com explicação e 3 alternativas erradas explicadas, sem a certa', all(q['exp'] and len(q['exp']['por_que_erradas']) == 3 and q['gab']['letra'] not in q['exp']['por_que_erradas'] for q in XQ))
+chk('2023. áreas: 9 LP e 8 EB', collections.Counter(q['area'] for q in XQ) == {'LP': 9, 'EB': 8})
+chk('2023. imagem da tirinha em data: URI', D['extra']['textos']['i2']['img']['src'].startswith('data:image/png;base64,'))
+chk('2018 intacta: 80 questões e HTML sem referência externa a mais', len(Q) == 80)
 print('TUDO OK' if ok else 'HÁ FALHAS')

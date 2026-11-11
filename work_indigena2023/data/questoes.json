@@ -1,0 +1,568 @@
+{
+ "questoes": [
+  {
+   "id": 1,
+   "pg": 3,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Em <i>Canção Peregrina</i>, o eu lírico aborda, como tema central,"
+   ],
+   "alternativas": {
+    "A": "a história de uma etnia indígena, a partir da qual discute as relações das pessoas com seus espaços de vivência.",
+    "B": "o exílio e a expatriação de uma pessoa de sua etnia em busca da sobrevivência em um território menos hostil a sua existência.",
+    "C": "a diversidade étnica dos povos que historicamente já habitavam os territórios, salientando a coragem de permanecer lutando.",
+    "D": "as relações de respeito com a natureza por parte de uma etnia que habita os territórios há mais de 500 anos."
+   },
+   "texto_ref": "t1",
+   "imagens": []
+  },
+  {
+   "id": 2,
+   "pg": 3,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "A expressão “amálgama”, em seu registro dicionarizado, significa uma liga metálica formada, principalmente, a partir do mercúrio. No texto, o termo “amálgama do saber” (linha 48) adquire um outro sentido, que faz referência"
+   ],
+   "alternativas": {
+    "A": "à união das pessoas de um determinado grupo étnico em torno de um ideal comum.",
+    "B": "à diversidade de saberes existentes nas comunidades, especialmente fundados na ancestralidade.",
+    "C": "à metáfora do colar como uma união de várias histórias de um povo excluído socialmente.",
+    "D": "aos elementos da natureza retratados no texto como coadjuvantes na luta por reconhecimento."
+   },
+   "texto_ref": "t1",
+   "imagens": []
+  },
+  {
+   "id": 3,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "No trecho “Se não me reconhecem, paciência” (linha 37), o uso do termo “paciência” indica"
+   ],
+   "alternativas": {
+    "A": "uma atitude de perseverança, apesar do não reconhecimento, expressa pela oração de valor condicional anteposta.",
+    "B": "um sentimento de resignação pela angústia acumulada por mais de 500 anos, expresso pelo significado dicionarizado do termo.",
+    "C": "uma visão essencialmente otimista da paciência como elemento pacificador de conflitos, expressa pelo tom de tranquilidade do poema.",
+    "D": "uma ideia de esgotamento das possibilidades de luta pelo reconhecimento, expressa pelo uso da expressão condicional."
+   },
+   "texto_ref": "t1",
+   "imagens": []
+  },
+  {
+   "id": 4,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "No trecho “em cada parto / e canção de partida<b>,</b>” (linhas 06-07), o uso da vírgula é justificado por regra semelhante à do trecho"
+   ],
+   "alternativas": {
+    "A": "“Eu não temerei<b>,</b> [...]” (linha 42)",
+    "B": "“não temeremos<b>,</b> [...]” (linha 43)",
+    "C": "“Se não me reconhecem<b>,</b> paciência [...]” (linha 37)",
+    "D": "“ao irmão sol<b>,</b> mais energia [...]” (linha 09)"
+   },
+   "texto_ref": "t1",
+   "imagens": []
+  },
+  {
+   "id": 5,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "No trecho “e se nos largarem ao vento?” (linha 41), o pronome “nos” refere-se"
+   ],
+   "alternativas": {
+    "A": "à família e às pessoas próximas do eu lírico.",
+    "B": "a um povo específico retratado no texto.",
+    "C": "aos ancestrais da etnia retratada no poema.",
+    "D": "às diversas etnias cuja luta é expressa no poema."
+   },
+   "texto_ref": "t1",
+   "imagens": []
+  },
+  {
+   "id": 6,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Na tirinha, o personagem Moacir, em sua fala,"
+   ],
+   "alternativas": {
+    "A": "relata os fatos de uma história utilizando o discurso direto a partir de uma primeira citação de sua avó para, em seguida, expor uma segunda visão dela sobre o tema.",
+    "B": "reporta os fatos que levaram à expulsão de seu povo e problematiza as diferentes perspectivas de posse de uma terra.",
+    "C": "discute com Armandinho sobre a posse de terras por ele mesmo e por sua família, que é referida a partir de sua avó.",
+    "D": "narra os acontecimentos relativos à expulsão de um território e demonstra incompreensão dos fatos narrados a Armandinho."
+   },
+   "texto_ref": "t2",
+   "imagens": []
+  },
+  {
+   "id": 7,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "No texto, o personagem Moacir relata uma expulsão de terras. Na sequência dos fatos, ele diz “Perguntaram se a terra era nossa” e “[...] expulsaram a gente”. O sujeito das orações citadas é"
+   ],
+   "alternativas": {
+    "A": "oculto, uma vez que é possível inferir seu núcleo pelo contexto.",
+    "B": "composto, pois se refere a mais de um agente da ação verbal.",
+    "C": "indeterminado, pois não é possível determinar, embora exista.",
+    "D": "inexistente, pois não há agente da ação verbal expressa."
+   },
+   "texto_ref": "t2",
+   "imagens": []
+  },
+  {
+   "id": 8,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "O uso dos sinais de pontuação, além de funcionarem como marcadores sintáticos, representam destaques e entonações na escrita. Na tirinha, as reticências, no primeiro e no segundo quadrinhos, respectivamente, são usadas para"
+   ],
+   "alternativas": {
+    "A": "realçar uma expressão e indicar sentimento de ironia.",
+    "B": "indicar uma ideia que se prolonga e marcar o sentimento de tristeza.",
+    "C": "indicar uma ação inacabada e realçar uma ideia de dúvida.",
+    "D": "apontar o sentimento de hesitação e marcar a interrupção da fala."
+   },
+   "texto_ref": "t2",
+   "imagens": []
+  },
+  {
+   "id": 9,
+   "pg": 4,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "No trecho “... Nós <b><u>que</u></b> somos daquela terra!”, o termo destacado é classificado como"
+   ],
+   "alternativas": {
+    "A": "partícula de realce.",
+    "B": "conjunção explicativa.",
+    "C": "pronome relativo.",
+    "D": "conjunção integrante."
+   },
+   "texto_ref": "t2",
+   "imagens": []
+  },
+  {
+   "id": 10,
+   "pg": 5,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "Por meio das escolas indígenas, é possível assegurar a autonomia, tanto no que se refere ao projeto pedagógico quanto ao uso de recursos financeiros públicos para a manutenção do cotidiano escolar. Dessa forma, garante-se a plena participação de cada comunidade indígena nas decisões relativas ao funcionamento da escola.",
+    "HENRIQUES, Ricardo; GESTEIRA, Cleber; GRILLO, Susana; CHAMUSCA, Adelaide. <b>Educação Escolar Indígena</b>: diversidade sociocultural indígena ressignificando a escola. Disponível em: http://portal.mec.gov.br/secad/arquivos/pdf/educacaoindigena.",
+    "Considerando a participação na elaboração dos projetos político-pedagógicos das escolas indígenas, analise as seguintes afirmações e assinale com <b>V</b> as verdadeiras e com <b>F</b> as falsas:",
+    "(   ) Os projetos político-pedagógicos das escolas indígenas devem ser elaborados pelos professores indígenas juntamente com a FUNAI, governo federal e representantes da sociedade civil.",
+    "(   ) Os projetos político-pedagógicos das escolas indígenas devem ser elaborados pelos professores indígenas em articulação com toda a comunidade educativa – lideranças, “os mais velhos”, dentre outros.",
+    "(   ) Os projetos político-pedagógicos das escolas indígenas devem contar com a participação de pais, mães ou responsáveis pelo estudante e os próprios estudantes.",
+    "(   ) Na elaboração dos projetos político-pedagógicos das escolas indígenas deve-se contar com assessoria dos sistemas de ensino e de suas instituições formadoras, das organizações indígenas e órgãos indigenistas do estado e da sociedade civil.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "F, F, F, V.",
+    "B": "F, V, V, V.",
+    "C": "V, F, V, F.",
+    "D": "V, V, F, F."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 11,
+   "pg": 5,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "Ao desenvolver seu trabalho nas escolas indígenas, os professores fazem uso de outros espaços de aprendizagem, não se limitando à sala de aula. Contar histórias, limpar e roçar um caminho, plantar, fazer pescaria são ações que exigem sair da sala de aula e que estão carregadas de uma aprendizagem bastante significativa.",
+    "BRASIL, Referencial curricular nacional para as escolas indígenas. Ministério da Educação e do Desporto, Secretaria de Educação Fundamental. Brasília: MEC/SEF, 1998.",
+    "Tendo como referência os fundamentos gerais apresentados no Referencial Curricular Nacional para as escolas indígenas, é correto afirmar que essa aprendizagem significativa requer"
+   ],
+   "alternativas": {
+    "A": "exercício de metodologias diversificadas para lidar com o conhecimento a ser pensado e, muitas vezes, pesquisado pelos alunos e o professor junto a outros membros de sua comunidade.",
+    "B": "exercício de objetivos diversificados para lidar com o conteúdo e metodologias a serem pensados e, muitas vezes, pesquisados pelos alunos e desenvolvidos nas avaliações.",
+    "C": "exercício de uso de espaços diversificados para lidar com o conhecimento a ser pensado e, muitas vezes, pesquisado pelos professores universitários junto a outros membros da secretaria de educação.",
+    "D": "exercício de conteúdos diversificados para lidar com o objetivo a ser pensado e, muitas vezes, pesquisado pelos alunos e o professor junto a outros membros de sua comunidade."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 12,
+   "pg": 5,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "Na organização curricular das escolas indígenas, um dos critérios que deve ser observado é o de adequação das metodologias didáticas e pedagógicas às características dos diferentes sujeitos das aprendizagens, em atenção aos modos próprios de transmissão do saber indígena (BRASIL, 2012). Utilizando como critério a posição que adotam em relação aos condicionantes sociopolíticos da escola defendida por Libâneo (1985), esse modelo de educação escolar se aproxima da tendência pedagógica denominada"
+   ],
+   "alternativas": {
+    "A": "pedagogia liberal.",
+    "B": "pedagogia renovada progressivista.",
+    "C": "pedagogia renovada não diretiva.",
+    "D": "pedagogia progressista."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 13,
+   "pg": 5,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "A postura avaliativa e de planejamento didático do professor deve ser constante. Ele deve poder analisar não só a dinâmica do desenvolvimento dos alunos, como o desempenho de cada aluno em particular, com vista a subsidiar o planejamento de suas intervenções.",
+    "BRASIL, Referencial curricular nacional para as escolas indígenas. Ministério da Educação e do Desporto, Secretaria de Educação Fundamental. - Brasília: MEC/SEF, 1998.",
+    "São instrumentos de avaliação apresentados no Referencial Curricular Nacional para as escolas indígenas com vista à reformulação do planejamento e estratégias pontuais de trabalho dirigidas a alunos específicos:"
+   ],
+   "alternativas": {
+    "A": "prova escrita e avaliação.",
+    "B": "observação contínua com registro e avaliação.",
+    "C": "produção escrita em grupo e registro.",
+    "D": "observação contínua com registro e autoavaliação."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 14,
+   "pg": 6,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "Tanto os objetivos gerais, quanto os objetivos didáticos são instrumentos importantes para a prática pedagógica, uma vez que orientam e dão suporte aos professores para fazerem escolhas em seu trabalho cotidiano na sala de aula (BRASIL, 1998). Considerando o Referencial Curricular Nacional para as escolas indígenas, é correto afirmar que os objetivos auxiliam o professor a selecionar"
+   ],
+   "alternativas": {
+    "A": "conteúdos, a agrupar os estudantes, a usar o tempo e o espaço, a avaliar seu trabalho e o processo de formação de seus alunos.",
+    "B": "alunos, a agrupar os conteúdos, a usar o tempo e o espaço, a avaliar seu trabalho e o processo de formação.",
+    "C": "alunos, a agrupar as estratégias, a usar o tempo e o espaço, a avaliar seu trabalho e o processo de formação de seus alunos.",
+    "D": "espaços físicos, a agrupar os conteúdos, a usar o tempo e o espaço, a avaliar seu trabalho e o processo de formação de seus alunos."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 15,
+   "pg": 6,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "O ato de avaliar, por sua constituição, não se destina a um julgamento ‘definitivo’ sobre alguma coisa, pessoa ou situação, pois não é um ato seletivo. A avaliação se destina ao diagnóstico e, por isso mesmo, à inclusão. A avaliação da aprendizagem escolar auxilia educador e educando na sua viagem comum de crescimento, e a escola na sua responsabilidade social.",
+    "LUCKESI, Cipriano Carlos. Avaliação da aprendizagem escolar: estudos e proposições. São Paulo: Cortez, 1999.",
+    "A avaliação nas escolas indígenas pode ter um caráter formativo e ser realizada em tempo diversificado. Considerando as características temporais da avaliação, assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "A avaliação diagnóstica serve para identificar os conhecimentos que os alunos já possuem e com isso definir como será sua trajetória escolar durante cada ano letivo.",
+    "B": "A avaliação diagnóstica ajuda a conhecer o que o aluno já sabe, que valores traz, que atitudes adota, para então, planejar o trabalho de intervenção.",
+    "C": "A avaliação somativa permite um olhar do docente sobre como está se dando o processo de ensino e auxilia na tomada de decisão sobre os próximos passos a serem dados.",
+    "D": "A avaliação somativa deve acontecer sempre que o professor perceber dificuldades cognitivas em grupos de alunos, com o objetivo de mensurar os desníveis e assim, intervir de forma localizada."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 16,
+   "pg": 6,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "No Ceará, o processo de constituição das escolas indígenas começou no final da década de 1990, com a luta das diferentes etnias indígenas por direitos assegurados desde a Constituição Federal de 1988. Atualmente, existem 38 escolas indígenas na rede estadual, quatro escolas das redes municipais de ensino de Maracanaú e Caucaia e uma creche localizada em Itapipoca, todas distribuídas em 16 municípios, assegurando uma matrícula de 8.240 alunos, matriculados desde a educação infantil ao ensino médio.",
+    "SECRETARIA DE EDUCAÇÃO DO CEARÁ. Educação Escolar Indígena. Disponível em: https://www.seduc.ce.gov.br/educacao-escolar-indigena/.",
+    "No que tange à organização da educação escolar indígena, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "o ensino fundamental deve garantir aos estudantes indígenas condições favoráveis para uma formação escolar plena, com o desenvolvimento de componentes curriculares que atendam os conhecimentos científicos produzidos pela civilização ocidental.",
+    "B": "o ensino fundamental deve garantir aos estudantes indígenas condições favoráveis à construção de suas comunidades, aldeias, priorizando, em sua formação escolar, conhecimentos científicos produzidos pela ciência ocidental.",
+    "C": "as práticas educativas e as práticas do cuidar, no ensino fundamental, são indissociáveis visando ao pleno atendimento das necessidades dos estudantes indígenas em seus diferentes momentos de vida: infância, juventude e fase adulta.",
+    "D": "o ensino fundamental deve priorizar as práticas educativas associadas aos componentes curriculares, enquanto, na educação infantil, são priorizadas as práticas do cuidar. Essa divisão tem como objetivo o pleno atendimento das necessidades dos estudantes indígenas em seus diferentes momentos de vida."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 17,
+   "pg": 6,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "De acordo com as Diretrizes Curriculares Nacionais para a Educação Escolar Indígena na Educação Básica, publicada em 22 de junho de 2012, artigo 19, parágrafo 1º, “os professores indígenas, no cenário político e pedagógico, são importantes interlocutores nos processos de construção do diálogo intercultural, mediando e articulando os interesses de suas comunidades com os da sociedade em geral e com os de outros grupos particulares, promovendo a sistematização e organização de novos saberes e práticas”. (BRASIL, 2012).",
+    "Os processos de construção do diálogo intercultural, papel atribuído ao professor nas escolas indígenas, pode ser compreendido como próximo ao que preconiza a teoria denominada"
+   ],
+   "alternativas": {
+    "A": "gestaltismo.",
+    "B": "histórico-cultural.",
+    "C": "flexibilidade cognitiva.",
+    "D": "teoria das inteligências múltiplas."
+   },
+   "texto_ref": null,
+   "imagens": []
+  }
+ ],
+ "textos": {
+  "t1": {
+   "questoes": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "cabecalho": [
+    "<b>TEXTO 1</b>",
+    "<b>Canção Peregrina</b>"
+   ],
+   "linhas": [
+    {
+     "n": 1,
+     "t": "Eu canto a dor"
+    },
+    {
+     "n": 2,
+     "t": "desde o exílio"
+    },
+    {
+     "n": 3,
+     "t": "tecendo um colar"
+    },
+    {
+     "n": 4,
+     "t": "muitas histórias"
+    },
+    {
+     "n": 5,
+     "t": "e diferentes etnias"
+    },
+    {
+     "n": "",
+     "t": "II"
+    },
+    {
+     "n": 6,
+     "t": "em cada parto"
+    },
+    {
+     "n": 7,
+     "t": "e canção de partida,"
+    },
+    {
+     "n": 8,
+     "t": "à mãe terra peço refúgio"
+    },
+    {
+     "n": 9,
+     "t": "ao irmão sol, mais energia"
+    },
+    {
+     "n": 10,
+     "t": "e à irmã lua peço licença poética"
+    },
+    {
+     "n": 11,
+     "t": "para esquentar os tambores"
+    },
+    {
+     "n": 12,
+     "t": "e tecer um colar"
+    },
+    {
+     "n": 13,
+     "t": "com muitas histórias"
+    },
+    {
+     "n": 14,
+     "t": "e diferentes etnias"
+    },
+    {
+     "n": "",
+     "t": "III"
+    },
+    {
+     "n": 15,
+     "t": "as pedras do meu colar"
+    },
+    {
+     "n": 16,
+     "t": "são história e memória"
+    },
+    {
+     "n": 17,
+     "t": "são fluxos do espírito"
+    },
+    {
+     "n": 18,
+     "t": "de montanhas e riachos"
+    },
+    {
+     "n": 19,
+     "t": "de lagos e cordilheiras"
+    },
+    {
+     "n": 20,
+     "t": "de irmãos e irmãs"
+    },
+    {
+     "n": 21,
+     "t": "nos desertos da cidade"
+    },
+    {
+     "n": 22,
+     "t": "ou no seio da floresta"
+    },
+    {
+     "n": "",
+     "t": "IV"
+    },
+    {
+     "n": 23,
+     "t": "são as contas do meu colar"
+    },
+    {
+     "n": 24,
+     "t": "e as cores dos meus guias:"
+    },
+    {
+     "n": 25,
+     "t": "amarela"
+    },
+    {
+     "n": 26,
+     "t": "vermelha"
+    },
+    {
+     "n": 27,
+     "t": "branco"
+    },
+    {
+     "n": 28,
+     "t": "negro"
+    },
+    {
+     "n": 29,
+     "t": "de norte a sul"
+    },
+    {
+     "n": 30,
+     "t": "de leste a oeste"
+    },
+    {
+     "n": 31,
+     "t": "de ameríndia"
+    },
+    {
+     "n": 32,
+     "t": "ou de Latinoamérica"
+    },
+    {
+     "n": 33,
+     "t": "povos excluídos"
+    },
+    {
+     "n": "",
+     "t": "V"
+    },
+    {
+     "n": 34,
+     "t": "eu tenho um colar"
+    },
+    {
+     "n": 35,
+     "t": "de muitas histórias"
+    },
+    {
+     "n": 36,
+     "t": "e diferentes etnias."
+    },
+    {
+     "n": 37,
+     "t": "Se não me reconhecem, paciência."
+    },
+    {
+     "n": 38,
+     "t": "Haveremos de continuar gritando"
+    },
+    {
+     "n": 39,
+     "t": "a angústia acumulada"
+    },
+    {
+     "n": 40,
+     "t": "há mais de 500 anos"
+    },
+    {
+     "n": "",
+     "t": "VI"
+    },
+    {
+     "n": 41,
+     "t": "e se nos largarem ao vento?"
+    },
+    {
+     "n": 42,
+     "t": "Eu não temerei,"
+    },
+    {
+     "n": 43,
+     "t": "não temeremos,"
+    },
+    {
+     "n": 44,
+     "t": "pois antes do exílio"
+    },
+    {
+     "n": 45,
+     "t": "nosso irmão vento"
+    },
+    {
+     "n": 46,
+     "t": "conduz nossas asas"
+    },
+    {
+     "n": 47,
+     "t": "ao sagrado círculo"
+    },
+    {
+     "n": 48,
+     "t": "onde o amálgama do saber"
+    },
+    {
+     "n": 49,
+     "t": "de velhos e crianças"
+    },
+    {
+     "n": 50,
+     "t": "faz eco nos sonhos"
+    },
+    {
+     "n": 51,
+     "t": "dos excluídos"
+    },
+    {
+     "n": "",
+     "t": "VII"
+    },
+    {
+     "n": 52,
+     "t": "eu tenho um colar"
+    },
+    {
+     "n": 53,
+     "t": "de muitas histórias"
+    },
+    {
+     "n": 54,
+     "t": "e diferentes etnias"
+    }
+   ],
+   "rodape": [
+    "GRAÚNA, Graça. <b>Canção Peregrina</b>. Disponível em: https://latinamericanliteraturetoday.org/2021/05/cancao-peregrina-pilgrims-song-graca-grauna/."
+   ]
+  },
+  "t2": {
+   "questoes": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "cabecalho": [
+    "<b>TEXTO 2</b>"
+   ],
+   "imagem": "img/ind_t2_tirinha.png",
+   "rodape": [
+    "Fonte: BECK, Alexandre. Armandinho. Disponível em: https://www.facebook.com/tirasarmandinho/photos/a.488361671209144/942128012499172/?type=3."
+   ],
+   "alt": "Tirinha Armandinho, dois quadrinhos. Quadrinho 1: Moacir, de cabelo escuro, diz: \"Perguntaram se a terra era nossa...\"; depois: \"...e minha avó disse que não!\"; e conclui: \"Por isso expulsaram a gente!\". Um cachorro e um sapo aparecem ao lado, e Armandinho escuta. Quadrinho 2: Moacir diz: \"Aquela terra nunca foi nossa...\"; Armandinho completa: \"...nós que somos daquela terra!\""
+  }
+ }
+}

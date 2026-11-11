@@ -1,0 +1,5018 @@
+[
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+100.1,
+83.6,
+232.8,
+97.6
+],
+"t": "LÍNGUA PORTUGUESA",
+"h": "<b>LÍNGUA PORTUGUESA</b>"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+147.6,
+119.5,
+184.3,
+129.5
+],
+"t": "TEXTO 1",
+"h": "<b>TEXTO 1</b>"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+128.7,
+136.7,
+203.3,
+146.6
+],
+"t": "Canção Peregrina",
+"h": "<b>Canção Peregrina</b>"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+153.9,
+60.3,
+163.9
+],
+"t": "01",
+"h": "01"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+166.1,
+60.3,
+176.0
+],
+"t": "02",
+"h": "02"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+178.3,
+60.3,
+188.3
+],
+"t": "03",
+"h": "03"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+190.5,
+60.3,
+200.5
+],
+"t": "04",
+"h": "04"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+202.8,
+60.3,
+212.8
+],
+"t": "05",
+"h": "05"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+239.4,
+60.3,
+249.3
+],
+"t": "06",
+"h": "06"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+251.6,
+60.3,
+261.6
+],
+"t": "07",
+"h": "07"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+263.7,
+60.3,
+273.7
+],
+"t": "08",
+"h": "08"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+276.0,
+60.3,
+286.0
+],
+"t": "09",
+"h": "09"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+288.3,
+60.3,
+298.2
+],
+"t": "10",
+"h": "10"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+300.4,
+60.3,
+310.3
+],
+"t": "11",
+"h": "11"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+312.6,
+60.3,
+322.6
+],
+"t": "12",
+"h": "12"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+324.9,
+60.3,
+334.8
+],
+"t": "13",
+"h": "13"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+337.1,
+60.3,
+347.1
+],
+"t": "14",
+"h": "14"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+373.7,
+60.3,
+383.7
+],
+"t": "15",
+"h": "15"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+385.8,
+60.3,
+395.8
+],
+"t": "16",
+"h": "16"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+398.1,
+60.3,
+408.0
+],
+"t": "17",
+"h": "17"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+410.3,
+60.3,
+420.3
+],
+"t": "18",
+"h": "18"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+422.5,
+60.3,
+432.5
+],
+"t": "19",
+"h": "19"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+434.7,
+60.3,
+444.6
+],
+"t": "20",
+"h": "20"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+446.9,
+60.3,
+456.9
+],
+"t": "21",
+"h": "21"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+459.2,
+60.3,
+469.1
+],
+"t": "22",
+"h": "22"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+495.8,
+60.3,
+505.7
+],
+"t": "23",
+"h": "23"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+508.0,
+60.3,
+518.0
+],
+"t": "24",
+"h": "24"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+520.1,
+60.3,
+530.1
+],
+"t": "25",
+"h": "25"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+532.4,
+60.3,
+542.3
+],
+"t": "26",
+"h": "26"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+544.6,
+60.3,
+554.6
+],
+"t": "27",
+"h": "27"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+556.8,
+60.3,
+566.8
+],
+"t": "28",
+"h": "28"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+569.0,
+60.3,
+578.9
+],
+"t": "29",
+"h": "29"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+581.2,
+60.3,
+591.2
+],
+"t": "30",
+"h": "30"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+593.4,
+60.3,
+603.4
+],
+"t": "31",
+"h": "31"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+605.7,
+60.3,
+615.6
+],
+"t": "32",
+"h": "32"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+617.8,
+60.3,
+627.8
+],
+"t": "33",
+"h": "33"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+654.4,
+60.3,
+664.4
+],
+"t": "34",
+"h": "34"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+666.7,
+60.3,
+676.6
+],
+"t": "35",
+"h": "35"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+678.9,
+60.3,
+688.9
+],
+"t": "36",
+"h": "36"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+691.2,
+60.3,
+701.1
+],
+"t": "37",
+"h": "37"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+703.3,
+60.3,
+713.2
+],
+"t": "38",
+"h": "38"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+715.5,
+60.3,
+725.5
+],
+"t": "39",
+"h": "39"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+48.0,
+727.8,
+60.3,
+737.7
+],
+"t": "40",
+"h": "40"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+153.9,
+129.8,
+163.9
+],
+"t": "Eu canto a dor",
+"h": "Eu canto a dor"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+166.1,
+126.8,
+176.0
+],
+"t": "desde o exílio",
+"h": "desde o exílio"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+178.3,
+142.3,
+188.3
+],
+"t": "tecendo um colar",
+"h": "tecendo um colar"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+190.5,
+135.6,
+200.5
+],
+"t": "muitas histórias",
+"h": "muitas histórias"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+202.8,
+146.8,
+212.8
+],
+"t": "e diferentes etnias",
+"h": "e diferentes etnias"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+227.1,
+76.2,
+237.1
+],
+"t": "II",
+"h": "II"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+239.4,
+129.8,
+249.3
+],
+"t": "em cada parto",
+"h": "em cada parto"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+251.6,
+153.5,
+261.6
+],
+"t": "e canção de partida,",
+"h": "e canção de partida,"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+263.7,
+171.6,
+273.7
+],
+"t": "à mãe terra peço refúgio",
+"h": "à mãe terra peço refúgio"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+276.0,
+177.6,
+286.0
+],
+"t": "ao irmão sol, mais energia",
+"h": "ao irmão sol, mais energia"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+288.3,
+203.3,
+298.2
+],
+"t": "e à irmã lua peço licença poética",
+"h": "e à irmã lua peço licença poética"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+300.4,
+185.8,
+310.3
+],
+"t": "para esquentar os tambores",
+"h": "para esquentar os tambores"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+312.6,
+137.3,
+322.6
+],
+"t": "e tecer um colar",
+"h": "e tecer um colar"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+324.9,
+155.3,
+334.8
+],
+"t": "com muitas histórias",
+"h": "com muitas histórias"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+337.1,
+146.8,
+347.1
+],
+"t": "e diferentes etnias",
+"h": "e diferentes etnias"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+361.5,
+78.7,
+371.4
+],
+"t": "III",
+"h": "III"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+373.7,
+165.4,
+383.7
+],
+"t": "as pedras do meu colar",
+"h": "as pedras do meu colar"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+385.8,
+164.4,
+395.8
+],
+"t": "são história e memória",
+"h": "são história e memória"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+398.1,
+157.4,
+408.0
+],
+"t": "são fluxos do espírito",
+"h": "são fluxos do espírito"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+410.3,
+168.2,
+420.3
+],
+"t": "de montanhas e riachos",
+"h": "de montanhas e riachos"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+422.5,
+161.6,
+432.5
+],
+"t": "de lagos e cordilheiras",
+"h": "de lagos e cordilheiras"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+434.7,
+143.4,
+444.6
+],
+"t": "de irmãos e irmãs",
+"h": "de irmãos e irmãs"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+446.9,
+164.4,
+456.9
+],
+"t": "nos desertos da cidade",
+"h": "nos desertos da cidade"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+459.2,
+158.9,
+469.1
+],
+"t": "ou no seio da floresta",
+"h": "ou no seio da floresta"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+483.5,
+79.3,
+493.5
+],
+"t": "IV",
+"h": "IV"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+495.8,
+180.7,
+505.7
+],
+"t": "são as contas do meu colar",
+"h": "são as contas do meu colar"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+508.0,
+178.2,
+518.0
+],
+"t": "e as cores dos meus guias:",
+"h": "e as cores dos meus guias:"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+520.1,
+104.3,
+530.1
+],
+"t": "amarela",
+"h": "amarela"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+532.4,
+109.4,
+542.3
+],
+"t": "vermelha",
+"h": "vermelha"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+544.6,
+99.5,
+554.6
+],
+"t": "branco",
+"h": "branco"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+556.8,
+94.8,
+566.8
+],
+"t": "negro",
+"h": "negro"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+569.0,
+126.7,
+578.9
+],
+"t": "de norte a sul",
+"h": "de norte a sul"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+581.2,
+135.0,
+591.2
+],
+"t": "de leste a oeste",
+"h": "de leste a oeste"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+593.4,
+124.8,
+603.4
+],
+"t": "de ameríndia",
+"h": "de ameríndia"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+605.7,
+154.2,
+615.6
+],
+"t": "ou de Latinoamérica",
+"h": "ou de Latinoamérica"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+617.8,
+135.5,
+627.8
+],
+"t": "povos excluídos",
+"h": "povos excluídos"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+642.3,
+76.8,
+652.2
+],
+"t": "V",
+"h": "V"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+654.4,
+145.6,
+664.4
+],
+"t": "eu tenho um colar",
+"h": "eu tenho um colar"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+666.7,
+148.1,
+676.6
+],
+"t": "de muitas histórias",
+"h": "de muitas histórias"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+678.9,
+149.3,
+688.9
+],
+"t": "e diferentes etnias.",
+"h": "e diferentes etnias."
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+691.2,
+211.8,
+701.1
+],
+"t": "Se não me reconhecem, paciência.",
+"h": "Se não me reconhecem, paciência."
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+703.3,
+208.0,
+713.2
+],
+"t": "Haveremos de continuar gritando",
+"h": "Haveremos de continuar gritando"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+715.5,
+159.5,
+725.5
+],
+"t": "a angústia acumulada",
+"h": "a angústia acumulada"
+},
+{
+"pg": 3,
+"col": "L",
+"bbox": [
+68.9,
+727.8,
+154.0,
+737.7
+],
+"t": "há mais de 500 anos",
+"h": "há mais de 500 anos"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+92.4,
+340.2,
+102.3
+],
+"t": "41",
+"h": "41"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+104.6,
+340.2,
+114.6
+],
+"t": "42",
+"h": "42"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+116.9,
+340.2,
+126.8
+],
+"t": "43",
+"h": "43"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+129.0,
+340.2,
+138.9
+],
+"t": "44",
+"h": "44"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+141.2,
+340.2,
+151.2
+],
+"t": "45",
+"h": "45"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+153.5,
+340.2,
+163.4
+],
+"t": "46",
+"h": "46"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+165.7,
+340.2,
+175.7
+],
+"t": "47",
+"h": "47"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+177.8,
+340.2,
+187.8
+],
+"t": "48",
+"h": "48"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+190.1,
+340.2,
+200.0
+],
+"t": "49",
+"h": "49"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+202.3,
+340.2,
+212.3
+],
+"t": "50",
+"h": "50"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+214.4,
+340.2,
+224.4
+],
+"t": "51",
+"h": "51"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+251.1,
+340.2,
+261.1
+],
+"t": "52",
+"h": "52"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+263.3,
+340.2,
+273.2
+],
+"t": "53",
+"h": "53"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+327.9,
+275.5,
+340.2,
+285.5
+],
+"t": "54",
+"h": "54"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+80.1,
+359.3,
+90.1
+],
+"t": "VI",
+"h": "VI"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+92.4,
+465.4,
+102.3
+],
+"t": "e se nos largarem ao vento?",
+"h": "e se nos largarem ao vento?"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+104.6,
+415.7,
+114.6
+],
+"t": "Eu não temerei,",
+"h": "Eu não temerei,"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+116.9,
+418.1,
+126.8
+],
+"t": "não temeremos,",
+"h": "não temeremos,"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+129.0,
+428.9,
+138.9
+],
+"t": "pois antes do exílio",
+"h": "pois antes do exílio"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+141.2,
+426.5,
+151.2
+],
+"t": "nosso irmão vento",
+"h": "nosso irmão vento"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+153.5,
+429.4,
+163.4
+],
+"t": "conduz nossas asas",
+"h": "conduz nossas asas"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+165.7,
+425.1,
+175.7
+],
+"t": "ao sagrado círculo",
+"h": "ao sagrado círculo"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+177.8,
+461.4,
+187.8
+],
+"t": "onde o amálgama do saber",
+"h": "onde o amálgama do saber"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+190.1,
+432.4,
+200.0
+],
+"t": "de velhos e crianças",
+"h": "de velhos e crianças"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+202.3,
+427.5,
+212.3
+],
+"t": "faz eco nos sonhos",
+"h": "faz eco nos sonhos"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+214.4,
+405.6,
+224.4
+],
+"t": "dos excluídos",
+"h": "dos excluídos"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+238.9,
+361.8,
+248.9
+],
+"t": "VII",
+"h": "VII"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+251.1,
+425.6,
+261.1
+],
+"t": "eu tenho um colar",
+"h": "eu tenho um colar"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+263.3,
+428.1,
+273.2
+],
+"t": "de muitas histórias",
+"h": "de muitas histórias"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+348.9,
+275.5,
+426.8,
+285.5
+],
+"t": "e diferentes etnias",
+"h": "e diferentes etnias"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+381.3,
+299.8,
+569.1,
+308.8
+],
+"t": "GRAÚNA, Graça. Canção Peregrina. Disponível em:",
+"h": "GRAÚNA, Graça. <b>Canção Peregrina</b>. Disponível em:"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+352.6,
+310.7,
+567.2,
+319.7
+],
+"t": "https://latinamericanliteraturetoday.org/2021/05/cancao-",
+"h": "https://latinamericanliteraturetoday.org/2021/05/cancao-"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+423.4,
+321.7,
+569.2,
+330.7
+],
+"t": "peregrina-pilgrims-song-graca-grauna/.",
+"h": "peregrina-pilgrims-song-graca-grauna/."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+336.5,
+559.3,
+350.3
+],
+"t": "01. Em Canção Peregrina, o eu lírico aborda, como tema",
+"h": "<b>01. </b>Em <i>Canção Peregrina</i>, o eu lírico aborda, como tema"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+352.0,
+358.0,
+361.9
+],
+"t": "central,",
+"h": "central,"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+367.7,
+567.5,
+379.2
+],
+"t": "A) a história de uma etnia indígena, a partir da qual discute",
+"h": "A) a história de uma etnia indígena, a partir da qual discute"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+381.5,
+561.6,
+391.5
+],
+"t": "as relações das pessoas com seus espaços de vivência.",
+"h": "as relações das pessoas com seus espaços de vivência."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+397.1,
+561.8,
+408.6
+],
+"t": "B) o exílio e a expatriação de uma pessoa de sua etnia em",
+"h": "B) o exílio e a expatriação de uma pessoa de sua etnia em"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+410.9,
+564.2,
+420.9
+],
+"t": "busca da sobrevivência em um território menos hostil a",
+"h": "busca da sobrevivência em um território menos hostil a"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+423.0,
+400.5,
+433.0
+],
+"t": "sua existência.",
+"h": "sua existência."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+438.8,
+554.0,
+450.3
+],
+"t": "C) a diversidade étnica dos povos que historicamente já",
+"h": "C) a diversidade étnica dos povos que historicamente já"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+452.5,
+546.2,
+462.5
+],
+"t": "habitavam os territórios, salientando a coragem de",
+"h": "habitavam os territórios, salientando a coragem de"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+464.7,
+427.0,
+474.6
+],
+"t": "permanecer lutando.",
+"h": "permanecer lutando."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+480.4,
+549.9,
+491.9
+],
+"t": "D) as relações de respeito com a natureza por parte de",
+"h": "D) as relações de respeito com a natureza por parte de"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+494.1,
+570.5,
+504.0
+],
+"t": "uma etnia que habita os territórios há mais de 500 anos.",
+"h": "uma etnia que habita os territórios há mais de 500 anos."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+527.0,
+515.6,
+540.9
+],
+"t": "02. A expressão “amálgama”, em seu registro",
+"h": "<b>02. </b>A expressão “amálgama”, em seu registro"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+542.7,
+529.6,
+552.6
+],
+"t": "dicionarizado, significa uma liga metálica formada,",
+"h": "dicionarizado, significa uma liga metálica formada,"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+554.8,
+550.1,
+564.8
+],
+"t": "principalmente, a partir do mercúrio. No texto, o termo",
+"h": "principalmente, a partir do mercúrio. No texto, o termo"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+567.0,
+562.2,
+577.0
+],
+"t": "“amálgama do saber” (linha 48) adquire um outro sentido,",
+"h": "“amálgama do saber” (linha 48) adquire um outro sentido,"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+579.3,
+400.5,
+589.2
+],
+"t": "que faz referência",
+"h": "que faz referência"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+594.9,
+556.3,
+606.4
+],
+"t": "A) à união das pessoas de um determinado grupo étnico",
+"h": "A) à união das pessoas de um determinado grupo étnico"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+608.7,
+464.6,
+618.6
+],
+"t": "em torno de um ideal comum.",
+"h": "em torno de um ideal comum."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+624.3,
+557.9,
+635.8
+],
+"t": "B) à diversidade de saberes existentes nas comunidades,",
+"h": "B) à diversidade de saberes existentes nas comunidades,"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+638.1,
+517.6,
+648.0
+],
+"t": "especialmente fundados na ancestralidade.",
+"h": "especialmente fundados na ancestralidade."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+653.8,
+564.3,
+665.3
+],
+"t": "C) à metáfora do colar como uma união de várias histórias",
+"h": "C) à metáfora do colar como uma união de várias histórias"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+667.5,
+477.7,
+677.5
+],
+"t": "de um povo excluído socialmente.",
+"h": "de um povo excluído socialmente."
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+322.6,
+683.2,
+554.7,
+694.8
+],
+"t": "D) aos elementos da natureza retratados no texto como",
+"h": "D) aos elementos da natureza retratados no texto como"
+},
+{
+"pg": 3,
+"col": "R",
+"bbox": [
+336.8,
+696.9,
+513.4,
+706.9
+],
+"t": "coadjuvantes na luta por reconhecimento.",
+"h": "coadjuvantes na luta por reconhecimento."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+78.7,
+280.5,
+92.5
+],
+"t": "03. No trecho “Se não me reconhecem, paciência” (linha",
+"h": "<b>03. </b>No trecho “Se não me reconhecem, paciência” (linha"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+94.3,
+202.2,
+104.3
+],
+"t": "37), o uso do termo “paciência” indica",
+"h": "37), o uso do termo “paciência” indica"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+109.9,
+240.1,
+121.4
+],
+"t": "A) uma atitude de perseverança, apesar do não",
+"h": "A) uma atitude de perseverança, apesar do não"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+123.7,
+251.0,
+133.7
+],
+"t": "reconhecimento, expressa pela oração de valor",
+"h": "reconhecimento, expressa pela oração de valor"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+135.9,
+151.2,
+145.9
+],
+"t": "condicional anteposta.",
+"h": "condicional anteposta."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+151.6,
+282.5,
+163.1
+],
+"t": "B) um sentimento de resignação pela angústia acumulada",
+"h": "B) um sentimento de resignação pela angústia acumulada"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+165.4,
+252.0,
+175.3
+],
+"t": "por mais de 500 anos, expresso pelo significado",
+"h": "por mais de 500 anos, expresso pelo significado"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+177.6,
+158.4,
+187.6
+],
+"t": "dicionarizado do termo.",
+"h": "dicionarizado do termo."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+193.2,
+278.5,
+204.7
+],
+"t": "C) uma visão essencialmente otimista da paciência como",
+"h": "C) uma visão essencialmente otimista da paciência como"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+207.0,
+286.8,
+216.9
+],
+"t": "elemento pacificador de conflitos, expressa pelo tom de",
+"h": "elemento pacificador de conflitos, expressa pelo tom de"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+219.2,
+161.8,
+229.2
+],
+"t": "tranquilidade do poema.",
+"h": "tranquilidade do poema."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+234.8,
+273.1,
+246.3
+],
+"t": "D) uma ideia de esgotamento das possibilidades de luta",
+"h": "D) uma ideia de esgotamento das possibilidades de luta"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+248.6,
+278.3,
+258.6
+],
+"t": "pelo reconhecimento, expressa pelo uso da expressão",
+"h": "pelo reconhecimento, expressa pelo uso da expressão"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+56.8,
+260.7,
+108.0,
+270.7
+],
+"t": "condicional.",
+"h": "condicional."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+293.8,
+266.9,
+307.6
+],
+"t": "04. No trecho “em cada parto / e canção de partida,”",
+"h": "<b>04. </b>No trecho “em cada parto / e canção de partida<b>,</b>”"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+309.4,
+260.3,
+319.3
+],
+"t": "(linhas 06-07), o uso da vírgula é justificado por regra",
+"h": "(linhas 06-07), o uso da vírgula é justificado por regra"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+321.6,
+143.6,
+331.6
+],
+"t": "semelhante à do trecho",
+"h": "semelhante à do trecho"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+337.2,
+188.7,
+348.7
+],
+"t": "A) “Eu não temerei, [...]” (linha 42)",
+"h": "A) “Eu não temerei<b>,</b> [...]” (linha 42)"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+354.4,
+191.2,
+365.9
+],
+"t": "B) “não temeremos, [...]” (linha 43)",
+"h": "B) “não temeremos<b>,</b> [...]” (linha 43)"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+371.7,
+262.2,
+383.2
+],
+"t": "C) “Se não me reconhecem, paciência [...]” (linha 37)",
+"h": "C) “Se não me reconhecem<b>,</b> paciência [...]” (linha 37)"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+388.8,
+230.5,
+400.3
+],
+"t": "D) “ao irmão sol, mais energia [...]” (linha 09)",
+"h": "D) “ao irmão sol<b>,</b> mais energia [...]” (linha 09)"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+423.4,
+281.9,
+437.2
+],
+"t": "05. No trecho “e se nos largarem ao vento?” (linha 41), o",
+"h": "<b>05. </b>No trecho “e se nos largarem ao vento?” (linha 41), o"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+438.9,
+148.9,
+448.8
+],
+"t": "pronome “nos” refere-se",
+"h": "pronome “nos” refere-se"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+454.6,
+238.0,
+466.1
+],
+"t": "A) à família e às pessoas próximas do eu lírico.",
+"h": "A) à família e às pessoas próximas do eu lírico."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+471.8,
+226.8,
+483.3
+],
+"t": "B) a um povo específico retratado no texto.",
+"h": "B) a um povo específico retratado no texto."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+489.1,
+240.3,
+500.6
+],
+"t": "C) aos ancestrais da etnia retratada no poema.",
+"h": "C) aos ancestrais da etnia retratada no poema."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+42.6,
+506.2,
+257.9,
+517.7
+],
+"t": "D) às diversas etnias cuja luta é expressa no poema.",
+"h": "D) às diversas etnias cuja luta é expressa no poema."
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+147.6,
+542.2,
+184.3,
+552.2
+],
+"t": "TEXTO 2",
+"h": "<b>TEXTO 2</b>"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+93.3,
+653.3,
+289.0,
+662.3
+],
+"t": "Fonte: BECK, Alexandre. Armandinho. Disponível em:",
+"h": "Fonte: BECK, Alexandre. Armandinho. Disponível em:"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+45.6,
+664.4,
+286.8,
+673.4
+],
+"t": "https://www.facebook.com/tirasarmandinho/photos/a.48836167",
+"h": "https://www.facebook.com/tirasarmandinho/photos/a.48836167"
+},
+{
+"pg": 4,
+"col": "L",
+"bbox": [
+148.0,
+675.3,
+289.1,
+684.3
+],
+"t": "1209144/942128012499172/?type=3.",
+"h": "1209144/942128012499172/?type=3."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+78.7,
+534.0,
+92.5
+],
+"t": "06. Na tirinha, o personagem Moacir, em sua fala,",
+"h": "<b>06. </b>Na tirinha, o personagem Moacir, em sua fala,"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+97.8,
+548.0,
+109.3
+],
+"t": "A) relata os fatos de uma história utilizando o discurso",
+"h": "A) relata os fatos de uma história utilizando o discurso"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+111.5,
+564.9,
+121.4
+],
+"t": "direto a partir de uma primeira citação de sua avó para,",
+"h": "direto a partir de uma primeira citação de sua avó para,"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+123.7,
+545.4,
+133.7
+],
+"t": "em seguida, expor uma segunda visão dela sobre o",
+"h": "em seguida, expor uma segunda visão dela sobre o"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+135.9,
+365.0,
+145.9
+],
+"t": "tema.",
+"h": "tema."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+151.6,
+560.3,
+163.1
+],
+"t": "B) reporta os fatos que levaram à expulsão de seu povo e",
+"h": "B) reporta os fatos que levaram à expulsão de seu povo e"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+165.4,
+551.2,
+175.3
+],
+"t": "problematiza as diferentes perspectivas de posse de",
+"h": "problematiza as diferentes perspectivas de posse de"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+177.6,
+384.2,
+187.6
+],
+"t": "uma terra.",
+"h": "uma terra."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+193.2,
+568.0,
+204.7
+],
+"t": "C) discute com Armandinho sobre a posse de terras por ele",
+"h": "C) discute com Armandinho sobre a posse de terras por ele"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+207.0,
+561.2,
+216.9
+],
+"t": "mesmo e por sua família, que é referida a partir de sua",
+"h": "mesmo e por sua família, que é referida a partir de sua"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+219.2,
+358.4,
+229.2
+],
+"t": "avó.",
+"h": "avó."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+234.8,
+549.9,
+246.3
+],
+"t": "D) narra os acontecimentos relativos à expulsão de um",
+"h": "D) narra os acontecimentos relativos à expulsão de um"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+248.6,
+534.4,
+258.6
+],
+"t": "território e demonstra incompreensão dos fatos",
+"h": "território e demonstra incompreensão dos fatos"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+260.7,
+440.1,
+270.7
+],
+"t": "narrados a Armandinho.",
+"h": "narrados a Armandinho."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+293.8,
+559.5,
+307.6
+],
+"t": "07. No texto, o personagem Moacir relata uma expulsão",
+"h": "<b>07. </b>No texto, o personagem Moacir relata uma expulsão"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+309.4,
+568.4,
+319.3
+],
+"t": "de terras. Na sequência dos fatos, ele diz “Perguntaram se a",
+"h": "de terras. Na sequência dos fatos, ele diz “Perguntaram se a"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+321.6,
+560.6,
+331.6
+],
+"t": "terra era nossa” e “[...] expulsaram a gente”. O sujeito das",
+"h": "terra era nossa” e “[...] expulsaram a gente”. O sujeito das"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+333.7,
+395.0,
+343.7
+],
+"t": "orações citadas é",
+"h": "orações citadas é"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+349.5,
+555.9,
+361.0
+],
+"t": "A) oculto, uma vez que é possível inferir seu núcleo pelo",
+"h": "A) oculto, uma vez que é possível inferir seu núcleo pelo"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+363.1,
+379.8,
+373.1
+],
+"t": "contexto.",
+"h": "contexto."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+378.9,
+559.5,
+390.4
+],
+"t": "B) composto, pois se refere a mais de um agente da ação",
+"h": "B) composto, pois se refere a mais de um agente da ação"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+392.5,
+369.2,
+402.5
+],
+"t": "verbal.",
+"h": "verbal."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+408.3,
+564.8,
+419.8
+],
+"t": "C) indeterminado, pois não é possível determinar, embora",
+"h": "C) indeterminado, pois não é possível determinar, embora"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+422.1,
+367.5,
+432.0
+],
+"t": "exista.",
+"h": "exista."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+437.7,
+569.6,
+449.2
+],
+"t": "D) inexistente, pois não há agente da ação verbal expressa.",
+"h": "D) inexistente, pois não há agente da ação verbal expressa."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+472.2,
+560.3,
+486.1
+],
+"t": "08. O uso dos sinais de pontuação, além de funcionarem",
+"h": "<b>08. </b>O uso dos sinais de pontuação, além de funcionarem"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+487.7,
+547.1,
+497.7
+],
+"t": "como marcadores sintáticos, representam destaques e",
+"h": "como marcadores sintáticos, representam destaques e"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+500.0,
+533.3,
+509.9
+],
+"t": "entonações na escrita. Na tirinha, as reticências, no",
+"h": "entonações na escrita. Na tirinha, as reticências, no"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+512.2,
+556.6,
+522.2
+],
+"t": "primeiro e no segundo quadrinhos, respectivamente, são",
+"h": "primeiro e no segundo quadrinhos, respectivamente, são"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+524.4,
+373.4,
+534.4
+],
+"t": "usadas para",
+"h": "usadas para"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+540.1,
+559.5,
+551.6
+],
+"t": "A) realçar uma expressão e indicar sentimento de ironia.",
+"h": "A) realçar uma expressão e indicar sentimento de ironia."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+557.2,
+522.0,
+568.7
+],
+"t": "B) indicar uma ideia que se prolonga e marcar o",
+"h": "B) indicar uma ideia que se prolonga e marcar o"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+571.0,
+437.6,
+581.0
+],
+"t": "sentimento de tristeza.",
+"h": "sentimento de tristeza."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+586.6,
+543.8,
+598.1
+],
+"t": "C) indicar uma ação inacabada e realçar uma ideia de",
+"h": "C) indicar uma ação inacabada e realçar uma ideia de"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+600.4,
+371.2,
+610.4
+],
+"t": "dúvida.",
+"h": "dúvida."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+616.1,
+526.3,
+627.6
+],
+"t": "D) apontar o sentimento de hesitação e marcar a",
+"h": "D) apontar o sentimento de hesitação e marcar a"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+336.8,
+629.8,
+418.7,
+639.8
+],
+"t": "interrupção da fala.",
+"h": "interrupção da fala."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+662.8,
+567.3,
+676.7
+],
+"t": "09. No trecho “... Nós que somos daquela terra!”, o termo",
+"h": "<b>09. </b>No trecho “... Nós <b><u>que</u></b> somos daquela terra!”, o termo"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+678.4,
+452.1,
+688.4
+],
+"t": "destacado é classificado como",
+"h": "destacado é classificado como"
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+694.0,
+416.8,
+705.5
+],
+"t": "A) partícula de realce.",
+"h": "A) partícula de realce."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+711.2,
+428.9,
+722.7
+],
+"t": "B) conjunção explicativa.",
+"h": "B) conjunção explicativa."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+728.5,
+412.4,
+740.0
+],
+"t": "C) pronome relativo.",
+"h": "C) pronome relativo."
+},
+{
+"pg": 4,
+"col": "R",
+"bbox": [
+322.6,
+745.6,
+428.2,
+757.1
+],
+"t": "D) conjunção integrante.",
+"h": "D) conjunção integrante."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+96.5,
+83.6,
+236.3,
+97.6
+],
+"t": "EDUCAÇÃO BRASILEIRA",
+"h": "<b>EDUCAÇÃO BRASILEIRA</b>"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+106.9,
+284.5,
+120.7
+],
+"t": "10. Por meio das escolas indígenas, é possível assegurar a",
+"h": "<b>10. </b>Por meio das escolas indígenas, é possível assegurar a"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+122.4,
+278.0,
+132.3
+],
+"t": "autonomia, tanto no que se refere ao projeto pedagógico",
+"h": "autonomia, tanto no que se refere ao projeto pedagógico"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+134.6,
+263.0,
+144.6
+],
+"t": "quanto ao uso de recursos financeiros públicos para a",
+"h": "quanto ao uso de recursos financeiros públicos para a"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+146.9,
+290.9,
+156.8
+],
+"t": "manutenção do cotidiano escolar. Dessa forma, garante-se a",
+"h": "manutenção do cotidiano escolar. Dessa forma, garante-se a"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+159.0,
+259.5,
+168.9
+],
+"t": "plena participação de cada comunidade indígena nas",
+"h": "plena participação de cada comunidade indígena nas"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+171.2,
+235.7,
+181.2
+],
+"t": "decisões relativas ao funcionamento da escola.",
+"h": "decisões relativas ao funcionamento da escola."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+83.7,
+188.1,
+291.8,
+197.1
+],
+"t": "HENRIQUES, Ricardo; GESTEIRA, Cleber; GRILLO, Susana;",
+"h": "HENRIQUES, Ricardo; GESTEIRA, Cleber; GRILLO, Susana;"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+61.3,
+199.2,
+292.0,
+208.2
+],
+"t": "CHAMUSCA, Adelaide. Educação Escolar Indígena: diversidade",
+"h": "CHAMUSCA, Adelaide. <b>Educação Escolar Indígena</b>: diversidade"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+63.3,
+210.2,
+292.0,
+219.2
+],
+"t": "sociocultural indígena ressignificando a escola. Disponível em:",
+"h": "sociocultural indígena ressignificando a escola. Disponível em:"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+53.2,
+220.4,
+294.6,
+230.4
+],
+"t": "http://portal.mec.gov.br/secad/arquivos/pdf/educacaoindigena.",
+"h": "http://portal.mec.gov.br/secad/arquivos/pdf/educacaoindigena."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+237.4,
+272.9,
+247.3
+],
+"t": "Considerando a participação na elaboração dos projetos",
+"h": "Considerando a participação na elaboração dos projetos"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+249.6,
+261.6,
+259.5
+],
+"t": "político-pedagógicos das escolas indígenas, analise as",
+"h": "político-pedagógicos das escolas indígenas, analise as"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+261.8,
+288.1,
+271.8
+],
+"t": "seguintes afirmações e assinale com V as verdadeiras e com",
+"h": "seguintes afirmações e assinale com <b>V</b> as verdadeiras e com"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+274.0,
+88.1,
+283.9
+],
+"t": "F as falsas:",
+"h": "<b>F</b> as falsas:"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+48.0,
+291.3,
+63.1,
+301.2
+],
+"t": "(   )",
+"h": "(   )"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+291.3,
+259.0,
+301.2
+],
+"t": "Os projetos político-pedagógicos das escolas",
+"h": "Os projetos político-pedagógicos das escolas"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+303.5,
+282.6,
+313.5
+],
+"t": "indígenas devem ser elaborados pelos professores",
+"h": "indígenas devem ser elaborados pelos professores"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+315.6,
+259.8,
+325.6
+],
+"t": "indígenas juntamente com a FUNAI, governo",
+"h": "indígenas juntamente com a FUNAI, governo"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+327.9,
+254.7,
+337.8
+],
+"t": "federal e representantes da sociedade civil.",
+"h": "federal e representantes da sociedade civil."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+48.0,
+345.0,
+63.1,
+355.0
+],
+"t": "(   )",
+"h": "(   )"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+345.0,
+259.0,
+355.0
+],
+"t": "Os projetos político-pedagógicos das escolas",
+"h": "Os projetos político-pedagógicos das escolas"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+357.3,
+282.6,
+367.2
+],
+"t": "indígenas devem ser elaborados pelos professores",
+"h": "indígenas devem ser elaborados pelos professores"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+369.5,
+279.7,
+379.5
+],
+"t": "indígenas em articulação com toda a comunidade",
+"h": "indígenas em articulação com toda a comunidade"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+381.7,
+272.4,
+391.7
+],
+"t": "educativa – lideranças, “os mais velhos”, dentre",
+"h": "educativa – lideranças, “os mais velhos”, dentre"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+393.9,
+107.4,
+403.8
+],
+"t": "outros.",
+"h": "outros."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+48.0,
+411.1,
+63.1,
+421.1
+],
+"t": "(   )",
+"h": "(   )"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+411.1,
+259.1,
+421.1
+],
+"t": "Os projetos político-pedagógicos das escolas",
+"h": "Os projetos político-pedagógicos das escolas"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+423.3,
+267.2,
+433.2
+],
+"t": "indígenas devem contar com a participação de",
+"h": "indígenas devem contar com a participação de"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+435.5,
+270.4,
+445.5
+],
+"t": "pais, mães ou responsáveis pelo estudante e os",
+"h": "pais, mães ou responsáveis pelo estudante e os"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+447.7,
+162.4,
+457.7
+],
+"t": "próprios estudantes.",
+"h": "próprios estudantes."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+48.0,
+464.9,
+63.1,
+474.9
+],
+"t": "(   )",
+"h": "(   )"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+464.9,
+276.0,
+474.9
+],
+"t": "Na elaboração dos projetos político-pedagógicos",
+"h": "Na elaboração dos projetos político-pedagógicos"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+477.2,
+247.2,
+487.1
+],
+"t": "das escolas indígenas deve-se contar com",
+"h": "das escolas indígenas deve-se contar com"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+489.4,
+255.2,
+499.4
+],
+"t": "assessoria dos sistemas de ensino e de suas",
+"h": "assessoria dos sistemas de ensino e de suas"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+501.5,
+247.9,
+511.5
+],
+"t": "instituições formadoras, das organizações",
+"h": "instituições formadoras, das organizações"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+513.8,
+266.4,
+523.7
+],
+"t": "indígenas e órgãos indigenistas do estado e da",
+"h": "indígenas e órgãos indigenistas do estado e da"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+76.1,
+526.0,
+139.7,
+536.0
+],
+"t": "sociedade civil.",
+"h": "sociedade civil."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+543.2,
+221.8,
+553.1
+],
+"t": "A sequência correta, de cima para baixo, é:",
+"h": "A sequência correta, de cima para baixo, é:"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+558.9,
+97.6,
+570.4
+],
+"t": "A) F, F, F, V.",
+"h": "A) F, F, F, V."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+576.1,
+99.7,
+587.6
+],
+"t": "B) F, V, V, V.",
+"h": "B) F, V, V, V."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+593.2,
+98.6,
+604.7
+],
+"t": "C) V, F, V, F.",
+"h": "C) V, F, V, F."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+610.5,
+96.4,
+622.0
+],
+"t": "D) V, V, F, F.",
+"h": "D) V, V, F, F."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+645.0,
+284.7,
+658.9
+],
+"t": "11. Ao desenvolver seu trabalho nas escolas indígenas, os",
+"h": "<b>11. </b>Ao desenvolver seu trabalho nas escolas indígenas, os"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+660.6,
+286.8,
+670.5
+],
+"t": "professores fazem uso de outros espaços de aprendizagem,",
+"h": "professores fazem uso de outros espaços de aprendizagem,"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+672.8,
+276.2,
+682.8
+],
+"t": "não se limitando à sala de aula. Contar histórias, limpar e",
+"h": "não se limitando à sala de aula. Contar histórias, limpar e"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+685.0,
+273.1,
+695.0
+],
+"t": "roçar um caminho, plantar, fazer pescaria são ações que",
+"h": "roçar um caminho, plantar, fazer pescaria são ações que"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+697.2,
+281.9,
+707.1
+],
+"t": "exigem sair da sala de aula e que estão carregadas de uma",
+"h": "exigem sair da sala de aula e que estão carregadas de uma"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+42.6,
+709.4,
+195.4,
+719.3
+],
+"t": "aprendizagem bastante significativa.",
+"h": "aprendizagem bastante significativa."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+53.5,
+726.4,
+291.8,
+735.4
+],
+"t": "BRASIL, Referencial curricular nacional para as escolas indígenas.",
+"h": "BRASIL, Referencial curricular nacional para as escolas indígenas."
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+61.2,
+737.3,
+291.8,
+746.3
+],
+"t": "Ministério da Educação e do Desporto, Secretaria de Educação",
+"h": "Ministério da Educação e do Desporto, Secretaria de Educação"
+},
+{
+"pg": 5,
+"col": "L",
+"bbox": [
+148.6,
+748.4,
+292.0,
+757.4
+],
+"t": "Fundamental. Brasília: MEC/SEF, 1998.",
+"h": "Fundamental. Brasília: MEC/SEF, 1998."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+80.1,
+571.1,
+90.1
+],
+"t": "Tendo como referência os fundamentos gerais apresentados",
+"h": "Tendo como referência os fundamentos gerais apresentados"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+92.4,
+569.7,
+102.3
+],
+"t": "no Referencial Curricular Nacional para as escolas indígenas,",
+"h": "no Referencial Curricular Nacional para as escolas indígenas,"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+104.7,
+571.8,
+114.7
+],
+"t": "é correto afirmar que essa aprendizagem significativa requer",
+"h": "é correto afirmar que essa aprendizagem significativa requer"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+119.3,
+570.6,
+130.8
+],
+"t": "A) exercício de metodologias diversificadas para lidar com o",
+"h": "A) exercício de metodologias diversificadas para lidar com o"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+133.1,
+571.1,
+143.0
+],
+"t": "conhecimento a ser pensado e, muitas vezes, pesquisado",
+"h": "conhecimento a ser pensado e, muitas vezes, pesquisado"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+145.2,
+558.4,
+155.1
+],
+"t": "pelos alunos e o professor junto a outros membros de",
+"h": "pelos alunos e o professor junto a outros membros de"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+157.5,
+408.4,
+167.5
+],
+"t": "sua comunidade.",
+"h": "sua comunidade."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+172.1,
+552.9,
+183.6
+],
+"t": "B) exercício de objetivos diversificados para lidar com o",
+"h": "B) exercício de objetivos diversificados para lidar com o"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+185.9,
+557.6,
+195.8
+],
+"t": "conteúdo e metodologias a serem pensados e, muitas",
+"h": "conteúdo e metodologias a serem pensados e, muitas"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+198.1,
+552.4,
+208.1
+],
+"t": "vezes, pesquisados pelos alunos e desenvolvidos nas",
+"h": "vezes, pesquisados pelos alunos e desenvolvidos nas"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+210.4,
+383.4,
+220.3
+],
+"t": "avaliações.",
+"h": "avaliações."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+224.9,
+569.7,
+236.4
+],
+"t": "C) exercício de uso de espaços diversificados para lidar com",
+"h": "C) exercício de uso de espaços diversificados para lidar com"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+238.7,
+530.0,
+248.6
+],
+"t": "o conhecimento a ser pensado e, muitas vezes,",
+"h": "o conhecimento a ser pensado e, muitas vezes,"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+250.9,
+546.9,
+260.9
+],
+"t": "pesquisado pelos professores universitários junto a",
+"h": "pesquisado pelos professores universitários junto a"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+263.3,
+517.6,
+273.2
+],
+"t": "outros membros da secretaria de educação.",
+"h": "outros membros da secretaria de educação."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+277.8,
+558.4,
+289.3
+],
+"t": "D) exercício de conteúdos diversificados para lidar com o",
+"h": "D) exercício de conteúdos diversificados para lidar com o"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+291.5,
+569.8,
+301.5
+],
+"t": "objetivo a ser pensado e, muitas vezes, pesquisado pelos",
+"h": "objetivo a ser pensado e, muitas vezes, pesquisado pelos"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+303.7,
+550.7,
+313.7
+],
+"t": "alunos e o professor junto a outros membros de sua",
+"h": "alunos e o professor junto a outros membros de sua"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+336.8,
+316.1,
+392.1,
+326.1
+],
+"t": "comunidade.",
+"h": "comunidade."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+346.9,
+556.3,
+360.8
+],
+"t": "12. Na organização curricular das escolas indígenas, um",
+"h": "<b>12. </b>Na organização curricular das escolas indígenas, um"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+362.5,
+564.5,
+372.5
+],
+"t": "dos critérios que deve ser observado é o de adequação das",
+"h": "dos critérios que deve ser observado é o de adequação das"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+374.7,
+566.3,
+384.6
+],
+"t": "metodologias didáticas e pedagógicas às características dos",
+"h": "metodologias didáticas e pedagógicas às características dos"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+386.9,
+545.9,
+396.9
+],
+"t": "diferentes sujeitos das aprendizagens, em atenção aos",
+"h": "diferentes sujeitos das aprendizagens, em atenção aos"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+399.1,
+562.7,
+409.1
+],
+"t": "modos próprios de transmissão do saber indígena (BRASIL,",
+"h": "modos próprios de transmissão do saber indígena (BRASIL,"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+411.3,
+557.6,
+421.2
+],
+"t": "2012). Utilizando como critério a posição que adotam em",
+"h": "2012). Utilizando como critério a posição que adotam em"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+423.5,
+532.1,
+433.5
+],
+"t": "relação aos condicionantes sociopolíticos da escola",
+"h": "relação aos condicionantes sociopolíticos da escola"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+435.7,
+554.4,
+445.7
+],
+"t": "defendida por Libâneo (1985), esse modelo de educação",
+"h": "defendida por Libâneo (1985), esse modelo de educação"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+448.1,
+562.4,
+458.1
+],
+"t": "escolar se aproxima da tendência pedagógica denominada",
+"h": "escolar se aproxima da tendência pedagógica denominada"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+462.8,
+411.3,
+474.3
+],
+"t": "A) pedagogia liberal.",
+"h": "A) pedagogia liberal."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+479.0,
+482.6,
+490.5
+],
+"t": "B) pedagogia renovada progressivista.",
+"h": "B) pedagogia renovada progressivista."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+495.2,
+475.0,
+506.7
+],
+"t": "C) pedagogia renovada não diretiva.",
+"h": "C) pedagogia renovada não diretiva."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+511.4,
+435.3,
+522.9
+],
+"t": "D) pedagogia progressista.",
+"h": "D) pedagogia progressista."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+544.9,
+552.6,
+558.8
+],
+"t": "13. A postura avaliativa e de planejamento didático do",
+"h": "<b>13. </b>A postura avaliativa e de planejamento didático do"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+560.6,
+570.9,
+570.5
+],
+"t": "professor deve ser constante. Ele deve poder analisar não só",
+"h": "professor deve ser constante. Ele deve poder analisar não só"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+572.7,
+534.5,
+582.6
+],
+"t": "a dinâmica do desenvolvimento dos alunos, como o",
+"h": "a dinâmica do desenvolvimento dos alunos, como o"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+584.9,
+543.8,
+594.9
+],
+"t": "desempenho de cada aluno em particular, com vista a",
+"h": "desempenho de cada aluno em particular, com vista a"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+597.3,
+517.8,
+607.2
+],
+"t": "subsidiar o planejamento de suas intervenções.",
+"h": "subsidiar o planejamento de suas intervenções."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+333.5,
+613.1,
+571.9,
+622.1
+],
+"t": "BRASIL, Referencial curricular nacional para as escolas indígenas.",
+"h": "BRASIL, Referencial curricular nacional para as escolas indígenas."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+341.2,
+624.2,
+571.8,
+633.2
+],
+"t": "Ministério da Educação e do Desporto, Secretaria de Educação",
+"h": "Ministério da Educação e do Desporto, Secretaria de Educação"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+423.8,
+635.1,
+572.0,
+644.1
+],
+"t": "Fundamental. - Brasília: MEC/SEF, 1998.",
+"h": "Fundamental. - Brasília: MEC/SEF, 1998."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+650.3,
+566.7,
+660.3
+],
+"t": "São instrumentos de avaliação apresentados no Referencial",
+"h": "São instrumentos de avaliação apresentados no Referencial"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+662.6,
+554.3,
+672.5
+],
+"t": "Curricular Nacional para as escolas indígenas com vista à",
+"h": "Curricular Nacional para as escolas indígenas com vista à"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+674.7,
+555.3,
+684.7
+],
+"t": "reformulação do planejamento e estratégias pontuais de",
+"h": "reformulação do planejamento e estratégias pontuais de"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+687.1,
+483.7,
+697.0
+],
+"t": "trabalho dirigidas a alunos específicos:",
+"h": "trabalho dirigidas a alunos específicos:"
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+701.7,
+441.4,
+713.2
+],
+"t": "A) prova escrita e avaliação.",
+"h": "A) prova escrita e avaliação."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+717.9,
+526.8,
+729.4
+],
+"t": "B) observação contínua com registro e avaliação.",
+"h": "B) observação contínua com registro e avaliação."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+734.1,
+492.1,
+745.6
+],
+"t": "C) produção escrita em grupo e registro.",
+"h": "C) produção escrita em grupo e registro."
+},
+{
+"pg": 5,
+"col": "R",
+"bbox": [
+322.6,
+750.3,
+545.5,
+761.8
+],
+"t": "D) observação contínua com registro e autoavaliação.",
+"h": "D) observação contínua com registro e autoavaliação."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+78.7,
+290.7,
+92.5
+],
+"t": "14. Tanto os objetivos gerais, quanto os objetivos didáticos",
+"h": "<b>14. </b>Tanto os objetivos gerais, quanto os objetivos didáticos"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+94.3,
+276.6,
+104.3
+],
+"t": "são instrumentos importantes para a prática pedagógica,",
+"h": "são instrumentos importantes para a prática pedagógica,"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+106.5,
+281.0,
+116.5
+],
+"t": "uma vez que orientam e dão suporte aos professores para",
+"h": "uma vez que orientam e dão suporte aos professores para"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+118.7,
+285.9,
+128.6
+],
+"t": "fazerem escolhas em seu trabalho cotidiano na sala de aula",
+"h": "fazerem escolhas em seu trabalho cotidiano na sala de aula"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+130.9,
+262.7,
+140.9
+],
+"t": "(BRASIL, 1998). Considerando o Referencial Curricular",
+"h": "(BRASIL, 1998). Considerando o Referencial Curricular"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+143.1,
+287.6,
+153.1
+],
+"t": "Nacional para as escolas indígenas, é correto afirmar que os",
+"h": "Nacional para as escolas indígenas, é correto afirmar que os"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+155.5,
+217.6,
+165.5
+],
+"t": "objetivos auxiliam o professor a selecionar",
+"h": "objetivos auxiliam o professor a selecionar"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+170.0,
+284.4,
+181.6
+],
+"t": "A) conteúdos, a agrupar os estudantes, a usar o tempo e o",
+"h": "A) conteúdos, a agrupar os estudantes, a usar o tempo e o"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+183.7,
+286.1,
+193.7
+],
+"t": "espaço, a avaliar seu trabalho e o processo de formação",
+"h": "espaço, a avaliar seu trabalho e o processo de formação"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+196.1,
+121.2,
+206.0
+],
+"t": "de seus alunos.",
+"h": "de seus alunos."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+210.6,
+266.1,
+222.1
+],
+"t": "B) alunos, a agrupar os conteúdos, a usar o tempo e o",
+"h": "B) alunos, a agrupar os conteúdos, a usar o tempo e o"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+224.5,
+289.0,
+234.5
+],
+"t": "espaço, a avaliar seu trabalho e o processo de formação.",
+"h": "espaço, a avaliar seu trabalho e o processo de formação."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+239.0,
+267.5,
+250.6
+],
+"t": "C) alunos, a agrupar as estratégias, a usar o tempo e o",
+"h": "C) alunos, a agrupar as estratégias, a usar o tempo e o"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+252.8,
+286.1,
+262.8
+],
+"t": "espaço, a avaliar seu trabalho e o processo de formação",
+"h": "espaço, a avaliar seu trabalho e o processo de formação"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+265.1,
+121.2,
+275.0
+],
+"t": "de seus alunos.",
+"h": "de seus alunos."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+279.8,
+291.5,
+291.3
+],
+"t": "D) espaços físicos, a agrupar os conteúdos, a usar o tempo e",
+"h": "D) espaços físicos, a agrupar os conteúdos, a usar o tempo e"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+293.4,
+252.5,
+303.4
+],
+"t": "o espaço, a avaliar seu trabalho e o processo de",
+"h": "o espaço, a avaliar seu trabalho e o processo de"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+56.8,
+305.8,
+162.2,
+315.7
+],
+"t": "formação de seus alunos.",
+"h": "formação de seus alunos."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+336.6,
+287.0,
+350.4
+],
+"t": "15. O ato de avaliar, por sua constituição, não se destina a",
+"h": "<b>15. </b>O ato de avaliar, por sua constituição, não se destina a"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+352.2,
+277.8,
+362.2
+],
+"t": "um julgamento ‘definitivo’ sobre alguma coisa, pessoa ou",
+"h": "um julgamento ‘definitivo’ sobre alguma coisa, pessoa ou"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+364.3,
+283.8,
+374.3
+],
+"t": "situação, pois não é um ato seletivo. A avaliação se destina",
+"h": "situação, pois não é um ato seletivo. A avaliação se destina"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+376.6,
+287.7,
+386.5
+],
+"t": "ao diagnóstico e, por isso mesmo, à inclusão. A avaliação da",
+"h": "ao diagnóstico e, por isso mesmo, à inclusão. A avaliação da"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+388.8,
+281.0,
+398.8
+],
+"t": "aprendizagem escolar auxilia educador e educando na sua",
+"h": "aprendizagem escolar auxilia educador e educando na sua"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+401.1,
+244.6,
+411.0
+],
+"t": "viagem comum de crescimento, e a escola na sua",
+"h": "viagem comum de crescimento, e a escola na sua"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+413.3,
+141.7,
+423.3
+],
+"t": "responsabilidade social.",
+"h": "responsabilidade social."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+63.7,
+428.4,
+292.0,
+438.4
+],
+"t": " LUCKESI, Cipriano Carlos. Avaliação da aprendizagem escolar:",
+"h": " LUCKESI, Cipriano Carlos. Avaliação da aprendizagem escolar:"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+115.1,
+440.5,
+294.4,
+450.5
+],
+"t": "estudos e proposições. São Paulo: Cortez, 1999.",
+"h": "estudos e proposições. São Paulo: Cortez, 1999."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+456.6,
+263.2,
+466.6
+],
+"t": "A avaliação nas escolas indígenas pode ter um caráter",
+"h": "A avaliação nas escolas indígenas pode ter um caráter"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+468.9,
+246.1,
+478.8
+],
+"t": "formativo e ser realizada em tempo diversificado.",
+"h": "formativo e ser realizada em tempo diversificado."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+481.0,
+270.7,
+491.0
+],
+"t": "Considerando as características temporais da avaliação,",
+"h": "Considerando as características temporais da avaliação,"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+493.4,
+175.7,
+503.3
+],
+"t": "assinale a afirmação verdadeira.",
+"h": "assinale a afirmação verdadeira."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+507.9,
+256.5,
+519.4
+],
+"t": "A) A avaliação diagnóstica serve para identificar os",
+"h": "A) A avaliação diagnóstica serve para identificar os"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+521.7,
+276.0,
+531.6
+],
+"t": "conhecimentos que os alunos já possuem e com isso",
+"h": "conhecimentos que os alunos já possuem e com isso"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+533.9,
+277.5,
+543.9
+],
+"t": "definir como será sua trajetória escolar durante cada",
+"h": "definir como será sua trajetória escolar durante cada"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+546.2,
+108.0,
+556.1
+],
+"t": "ano letivo.",
+"h": "ano letivo."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+560.7,
+286.6,
+572.2
+],
+"t": "B) A avaliação diagnóstica ajuda a conhecer o que o aluno",
+"h": "B) A avaliação diagnóstica ajuda a conhecer o que o aluno"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+574.5,
+265.2,
+584.4
+],
+"t": "já sabe, que valores traz, que atitudes adota, para",
+"h": "já sabe, que valores traz, que atitudes adota, para"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+586.8,
+236.8,
+596.8
+],
+"t": "então, planejar o trabalho de intervenção.",
+"h": "então, planejar o trabalho de intervenção."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+601.4,
+269.5,
+612.9
+],
+"t": "C) A avaliação somativa permite um olhar do docente",
+"h": "C) A avaliação somativa permite um olhar do docente"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+615.2,
+264.2,
+625.1
+],
+"t": "sobre como está se dando o processo de ensino e",
+"h": "sobre como está se dando o processo de ensino e"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+627.3,
+286.1,
+637.2
+],
+"t": "auxilia na tomada de decisão sobre os próximos passos",
+"h": "auxilia na tomada de decisão sobre os próximos passos"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+639.6,
+126.8,
+649.6
+],
+"t": "a serem dados.",
+"h": "a serem dados."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+654.2,
+270.6,
+665.7
+],
+"t": "D) A avaliação somativa deve acontecer sempre que o",
+"h": "D) A avaliação somativa deve acontecer sempre que o"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+668.0,
+279.5,
+677.9
+],
+"t": "professor perceber dificuldades cognitivas em grupos",
+"h": "professor perceber dificuldades cognitivas em grupos"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+680.2,
+279.4,
+690.2
+],
+"t": "de alunos, com o objetivo de mensurar os desníveis e",
+"h": "de alunos, com o objetivo de mensurar os desníveis e"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+60.6,
+692.5,
+204.4,
+702.4
+],
+"t": "assim, intervir de forma localizada.",
+"h": "assim, intervir de forma localizada."
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+723.3,
+264.1,
+737.1
+],
+"t": "16. No Ceará, o processo de constituição das escolas",
+"h": "<b>16. </b>No Ceará, o processo de constituição das escolas"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+738.9,
+281.7,
+748.9
+],
+"t": "indígenas começou no final da década de 1990, com a luta",
+"h": "indígenas começou no final da década de 1990, com a luta"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+751.1,
+272.0,
+761.1
+],
+"t": "das diferentes etnias indígenas por direitos assegurados",
+"h": "das diferentes etnias indígenas por direitos assegurados"
+},
+{
+"pg": 6,
+"col": "L",
+"bbox": [
+42.6,
+763.4,
+286.0,
+773.3
+],
+"t": "desde a Constituição Federal de 1988. Atualmente, existem",
+"h": "desde a Constituição Federal de 1988. Atualmente, existem"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+80.1,
+557.7,
+90.1
+],
+"t": "38 escolas indígenas na rede estadual, quatro escolas das",
+"h": "38 escolas indígenas na rede estadual, quatro escolas das"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+92.4,
+563.9,
+102.3
+],
+"t": "redes municipais de ensino de Maracanaú e Caucaia e uma",
+"h": "redes municipais de ensino de Maracanaú e Caucaia e uma"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+104.6,
+553.7,
+114.6
+],
+"t": "creche localizada em Itapipoca, todas distribuídas em 16",
+"h": "creche localizada em Itapipoca, todas distribuídas em 16"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+116.9,
+555.1,
+126.8
+],
+"t": "municípios, assegurando uma matrícula de 8.240 alunos,",
+"h": "municípios, assegurando uma matrícula de 8.240 alunos,"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+129.1,
+557.8,
+139.1
+],
+"t": "matriculados desde a educação infantil ao ensino médio.",
+"h": "matriculados desde a educação infantil ao ensino médio."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+326.6,
+145.0,
+571.9,
+154.0
+],
+"t": "SECRETARIA DE EDUCAÇÃO DO CEARÁ. Educação Escolar Indígena.",
+"h": "SECRETARIA DE EDUCAÇÃO DO CEARÁ. Educação Escolar Indígena."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+336.7,
+156.0,
+570.0,
+165.0
+],
+"t": "Disponível em: https://www.seduc.ce.gov.br/educacao-escolar-",
+"h": "Disponível em: https://www.seduc.ce.gov.br/educacao-escolar-"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+533.0,
+166.3,
+574.7,
+176.3
+],
+"t": "indigena/.",
+"h": "indigena/."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+183.2,
+569.0,
+193.2
+],
+"t": "No que tange à organização da educação escolar indígena, é",
+"h": "No que tange à organização da educação escolar indígena, é"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+195.4,
+404.8,
+205.3
+],
+"t": "correto afirmar que",
+"h": "correto afirmar que"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+211.1,
+551.5,
+222.6
+],
+"t": "A) o ensino fundamental deve garantir aos estudantes",
+"h": "A) o ensino fundamental deve garantir aos estudantes"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+224.9,
+550.2,
+234.8
+],
+"t": "indígenas condições favoráveis para uma formação",
+"h": "indígenas condições favoráveis para uma formação"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+237.0,
+569.0,
+246.9
+],
+"t": "escolar plena, com o desenvolvimento de componentes",
+"h": "escolar plena, com o desenvolvimento de componentes"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+249.2,
+566.0,
+259.2
+],
+"t": "curriculares que atendam os conhecimentos científicos",
+"h": "curriculares que atendam os conhecimentos científicos"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+261.5,
+493.4,
+271.4
+],
+"t": "produzidos pela civilização ocidental.",
+"h": "produzidos pela civilização ocidental."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+277.1,
+551.5,
+288.6
+],
+"t": "B) o ensino fundamental deve garantir aos estudantes",
+"h": "B) o ensino fundamental deve garantir aos estudantes"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+290.9,
+555.2,
+300.9
+],
+"t": "indígenas condições favoráveis à construção de suas",
+"h": "indígenas condições favoráveis à construção de suas"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+303.1,
+556.5,
+313.1
+],
+"t": "comunidades, aldeias, priorizando, em sua formação",
+"h": "comunidades, aldeias, priorizando, em sua formação"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+315.3,
+549.0,
+325.2
+],
+"t": "escolar, conhecimentos científicos produzidos pela",
+"h": "escolar, conhecimentos científicos produzidos pela"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+327.5,
+413.4,
+337.5
+],
+"t": "ciência ocidental.",
+"h": "ciência ocidental."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+343.1,
+568.8,
+354.6
+],
+"t": "C) as práticas educativas e as práticas do cuidar, no ensino",
+"h": "C) as práticas educativas e as práticas do cuidar, no ensino"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+356.9,
+542.6,
+366.9
+],
+"t": "fundamental, são indissociáveis visando ao pleno",
+"h": "fundamental, são indissociáveis visando ao pleno"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+369.1,
+531.6,
+379.1
+],
+"t": "atendimento das necessidades dos estudantes",
+"h": "atendimento das necessidades dos estudantes"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+381.4,
+541.3,
+391.3
+],
+"t": "indígenas em seus diferentes momentos de vida:",
+"h": "indígenas em seus diferentes momentos de vida:"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+393.5,
+477.6,
+403.5
+],
+"t": "infância, juventude e fase adulta.",
+"h": "infância, juventude e fase adulta."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+409.2,
+535.6,
+420.7
+],
+"t": "D) o ensino fundamental deve priorizar as práticas",
+"h": "D) o ensino fundamental deve priorizar as práticas"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+422.9,
+558.1,
+432.9
+],
+"t": "educativas associadas aos componentes curriculares,",
+"h": "educativas associadas aos componentes curriculares,"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+435.1,
+545.6,
+445.1
+],
+"t": "enquanto, na educação infantil, são priorizadas as",
+"h": "enquanto, na educação infantil, são priorizadas as"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+447.4,
+554.7,
+457.3
+],
+"t": "práticas do cuidar. Essa divisão tem como objetivo o",
+"h": "práticas do cuidar. Essa divisão tem como objetivo o"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+459.6,
+556.9,
+469.6
+],
+"t": "pleno atendimento das necessidades dos estudantes",
+"h": "pleno atendimento das necessidades dos estudantes"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+340.6,
+471.8,
+541.4,
+481.7
+],
+"t": "indígenas em seus diferentes momentos de vida.",
+"h": "indígenas em seus diferentes momentos de vida."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+504.7,
+552.4,
+518.6
+],
+"t": "17. De acordo com as Diretrizes Curriculares Nacionais",
+"h": "<b>17. </b>De acordo com as Diretrizes Curriculares Nacionais"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+520.4,
+542.9,
+530.3
+],
+"t": "para a Educação Escolar Indígena na Educação Básica,",
+"h": "para a Educação Escolar Indígena na Educação Básica,"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+532.5,
+564.3,
+542.4
+],
+"t": "publicada em 22 de junho de 2012, artigo 19, parágrafo 1º,",
+"h": "publicada em 22 de junho de 2012, artigo 19, parágrafo 1º,"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+544.7,
+567.9,
+554.7
+],
+"t": "“os professores indígenas, no cenário político e pedagógico,",
+"h": "“os professores indígenas, no cenário político e pedagógico,"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+557.0,
+569.5,
+566.9
+],
+"t": "são importantes interlocutores nos processos de construção",
+"h": "são importantes interlocutores nos processos de construção"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+569.2,
+533.1,
+579.2
+],
+"t": "do diálogo intercultural, mediando e articulando os",
+"h": "do diálogo intercultural, mediando e articulando os"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+581.3,
+557.0,
+591.3
+],
+"t": "interesses de suas comunidades com os da sociedade em",
+"h": "interesses de suas comunidades com os da sociedade em"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+593.6,
+569.6,
+603.5
+],
+"t": "geral e com os de outros grupos particulares, promovendo a",
+"h": "geral e com os de outros grupos particulares, promovendo a"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+605.8,
+563.6,
+615.8
+],
+"t": "sistematização e organização de novos saberes e práticas”.",
+"h": "sistematização e organização de novos saberes e práticas”."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+618.0,
+388.7,
+628.0
+],
+"t": "(BRASIL, 2012).",
+"h": "(BRASIL, 2012)."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+635.2,
+562.6,
+645.2
+],
+"t": "Os processos de construção do diálogo intercultural, papel",
+"h": "Os processos de construção do diálogo intercultural, papel"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+647.5,
+544.0,
+657.4
+],
+"t": "atribuído ao professor nas escolas indígenas, pode ser",
+"h": "atribuído ao professor nas escolas indígenas, pode ser"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+659.6,
+550.7,
+669.5
+],
+"t": "compreendido como próximo ao que preconiza a teoria",
+"h": "compreendido como próximo ao que preconiza a teoria"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+671.8,
+378.3,
+681.8
+],
+"t": "denominada",
+"h": "denominada"
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+687.6,
+388.4,
+699.1
+],
+"t": "A) gestaltismo.",
+"h": "A) gestaltismo."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+704.7,
+410.9,
+716.2
+],
+"t": "B) histórico-cultural.",
+"h": "B) histórico-cultural."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+721.9,
+429.9,
+733.4
+],
+"t": "C) flexibilidade cognitiva.",
+"h": "C) flexibilidade cognitiva."
+},
+{
+"pg": 6,
+"col": "R",
+"bbox": [
+322.6,
+739.2,
+474.6,
+750.7
+],
+"t": "D) teoria das inteligências múltiplas.",
+"h": "D) teoria das inteligências múltiplas."
+}
+]

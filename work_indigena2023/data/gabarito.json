@@ -1,0 +1,99 @@
+{
+ "prova": "Concurso Professor Nível C, Escolas Indígenas, SEDUC/CE, Edital 005/2023, caderno de Linguagens, gabarito 1, aplicada em 29/10/2023",
+ "fonte_preliminar": {
+  "url": "https://www.cev.uece.br/wp-content/uploads/2023/10/GABARITO-PRELIMINAR.pdf",
+  "data": "30/10/2023"
+ },
+ "fonte_definitivo": {
+  "url": "https://www.cev.uece.br/wp-content/uploads/2023/11/Comunicado-215-2023-Resultado-Definitivo-do-Recurso-Prova-Concurso-Prof-Indigena.pdf",
+  "data": "24/11/2023",
+  "nota": "Anexo Único, Linguagens, GABARITO 1; nenhum recurso foi interposto contra os pareceres (item 1.1)"
+ },
+ "questoes": {
+  "1": {
+   "letra": "C",
+   "situacao": "confirmado",
+   "preliminar": "C"
+  },
+  "2": {
+   "letra": "B",
+   "situacao": "confirmado",
+   "preliminar": "B"
+  },
+  "3": {
+   "letra": "A",
+   "situacao": "confirmado",
+   "preliminar": "A"
+  },
+  "4": {
+   "letra": "C",
+   "situacao": "confirmado",
+   "preliminar": "C"
+  },
+  "5": {
+   "letra": "D",
+   "situacao": "confirmado",
+   "preliminar": "D"
+  },
+  "6": {
+   "letra": "B",
+   "situacao": "confirmado",
+   "preliminar": "B"
+  },
+  "7": {
+   "letra": "C",
+   "situacao": "confirmado",
+   "preliminar": "C"
+  },
+  "8": {
+   "letra": "B",
+   "situacao": "confirmado",
+   "preliminar": "B"
+  },
+  "9": {
+   "letra": "A",
+   "situacao": "confirmado",
+   "preliminar": "A"
+  },
+  "10": {
+   "letra": "B",
+   "situacao": "confirmado",
+   "preliminar": "B"
+  },
+  "11": {
+   "letra": "A",
+   "situacao": "confirmado",
+   "preliminar": "A"
+  },
+  "12": {
+   "letra": "D",
+   "situacao": "confirmado",
+   "preliminar": "D"
+  },
+  "13": {
+   "letra": "D",
+   "situacao": "confirmado",
+   "preliminar": "D"
+  },
+  "14": {
+   "letra": "A",
+   "situacao": "confirmado",
+   "preliminar": "A"
+  },
+  "15": {
+   "letra": "B",
+   "situacao": "confirmado",
+   "preliminar": "B"
+  },
+  "16": {
+   "letra": "C",
+   "situacao": "confirmado",
+   "preliminar": "C"
+  },
+  "17": {
+   "letra": "B",
+   "situacao": "confirmado",
+   "preliminar": "B"
+  }
+ }
+}

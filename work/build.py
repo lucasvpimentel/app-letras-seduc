@@ -24,6 +24,26 @@ for q in J['questoes']:
 D = {'prova': {'banca': 'FUNECE / CEV-UECE', 'concurso': 'Concurso Público SEDUC/CE, Edital nº 30/2018 – SEDUC/SEPLAG',
                'cargo': 'Professor Nível A, Língua Portuguesa (código 11)', 'ano': 2018, 'aplicacao': '21/10/2018', 'caderno': 3},
      'fonteGabarito': G['fonte_definitivo'], 'questoes': questoes, 'textos': J['textos']}
+# ---- 2ª prova: Professor Indígena SEDUC/CE 2023 (caderno 1 de Linguagens, questões 1-17), dados em ../work_indigena2023/data
+X = '../work_indigena2023/data/'
+JI = json.load(open(X + 'questoes.json', encoding='utf8')); GI = json.load(open(X + 'gabarito.json', encoding='utf8')); EI = json.load(open(X + 'explicacoes.json', encoding='utf8'))
+TREF = {'t1': 'i1', 't2': 'i2'}                       # chaves dos textos de apoio no jogo
+extra_q = []
+for q in JI['questoes']:
+    n = q['id']; g = GI['questoes'][str(n)]; e = EI[str(n)]
+    extra_q.append({'id': 100 + n, 'num': n, 'prova': '2023', 'pg': q['pg'], 'secao': q['secao'], 'area': e['area'], 'subtopico': e['subtopico'], 'item': e['item'],
+                    'enunciado': q['enunciado'], 'alts': q['alternativas'], 'texto': TREF.get(q['texto_ref']), 'imgs': [],
+                    'gab': {'situacao': g['situacao'], 'letra': g['letra'], 'preliminar': g['preliminar'], 'alterada': g['preliminar'] != g['letra']},
+                    'exp': {k: e[k] for k in ('explicacao_correta', 'por_que_erradas', 'fundamentacao', 'atualizacao')}})
+extra_t = {}
+for k, t in JI['textos'].items():
+    nt = {'questoes': [100 + x for x in t['questoes']], 'cabecalho': t['cabecalho'], 'rodape': t['rodape']}
+    if 'linhas' in t: nt['linhas'] = t['linhas']
+    if 'imagem' in t:
+        nt['img'] = {'src': 'data:image/png;base64,' + base64.b64encode(open(X + t['imagem'], 'rb').read()).decode(), 'alt': t['alt']}
+    extra_t[TREF[k]] = nt
+D['extra'] = {'prova': {'nome': 'Concurso Professor Indígena SEDUC/CE 2023 (Edital 005/2023), caderno 1 de Linguagens', 'fonteGabarito': GI['fonte_definitivo']},
+              'questoes': extra_q, 'textos': extra_t}
 data = json.dumps(D, ensure_ascii=False).replace('</', '<\/')     # evita fechar a tag <script>
 tpl = open('template.html', encoding='utf8').read()
 out = tpl.replace('/*DADOS*/', data)
