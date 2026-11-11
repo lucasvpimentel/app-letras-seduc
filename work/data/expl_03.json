@@ -1,0 +1,261 @@
+{
+ "41": {
+  "area": "LAS",
+  "subtopico": "Coesão referencial: hiperônimos, hipônimos e nomes gerais",
+  "item": "LEITURA 7 e 8 (Relações coesivas; hiperonímia/hiponímia)",
+  "duvida": null,
+  "explicacao_correta": "A reiteração pode ocorrer por repetição, sinônimos, hiperônimos e hipônimos, ou nomes gerais. Nomes gerais como gente, pessoa, coisa, negócio, lugar e ideia têm sentido muito amplo e, por isso, retomam elementos já ditos, funcionando como referência anafórica. Já o hiperônimo é o termo mais geral (animal), e o hipônimo, o mais específico (cachorro). A alternativa C é a única que descreve corretamente um desses recursos.",
+  "por_que_erradas": {
+   "A": "A reiteração por formas diversas também depende do conhecimento de mundo, e não só do linguístico.",
+   "B": "Inverte os conceitos: relação de classe com elemento é hiperonímia na ordem classe para elemento.",
+   "D": "Os hiperônimos são mais gerais e deixam o texto mais vago; os hipônimos é que são mais precisos."
+  },
+  "fundamentacao": "Conceitos de hiperonímia e hiponímia da semântica lexical.",
+  "atualizacao": null
+ },
+ "42": {
+  "area": "LAS",
+  "subtopico": "Organização retórica do parágrafo",
+  "item": "LEITURA 6 (Texto e fatores de textualidade) / ANÁLISE LINGUÍSTICA 2",
+  "duvida": "Terminologia (explanação, exemplificação, definição) vem de manual de redação; não confirmei a fonte exata cobrada.",
+  "explicacao_correta": "A questão pede que se identifique como o parágrafo se organiza. O parágrafo das adivinhações faz uma pergunta e a responde, explicando por que elas agradam às crianças: é um desenvolvimento por explanação. Os outros exemplos estão rotulados de forma errada: o do humor define o conceito, o do casarão descreve um lugar, e o da imaginação utópica apresenta uma ideia e a desenvolve com informações, sem ser uma descrição.",
+  "por_que_erradas": {
+   "A": "O parágrafo sobre o humor define o que é humor; o rótulo 'exemplificação' não se aplica.",
+   "C": "O parágrafo do casarão descreve um lugar, e não define um conceito.",
+   "D": "O parágrafo sobre imaginação utópica expõe uma ideia, e não descreve um objeto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "43": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: tempo",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": "Terminologia de Soares (Técnica de redação) conforme a fonte citada; conteúdo exato do critério não confirmado por mim.",
+  "explicacao_correta": "O parágrafo mostra a transformação do livro: de privilégio de uma minoria, acessível a poucos, a produto de consumo de massa. Para mostrar essa evolução, o texto segue uma ordem no tempo (antes, agora, os últimos anos). A alternativa A diz exatamente isso: o objetivo é mostrar a evolução e ele leva a uma ordenação por tempo. As demais acrescentam critérios de espaço que não organizam o texto.",
+  "por_que_erradas": {
+   "B": "Lista recursos gerais de indicação de tempo, mas não identifica o objetivo do parágrafo nem seu critério.",
+   "C": "O parágrafo não organiza por tempo e espaço ao mesmo tempo; só há ordenação temporal.",
+   "D": "Não há expressões de lugar marcando a ordenação do parágrafo; as indicações são temporais."
+  },
+  "fundamentacao": "Fonte citada na prova: M. B. T. Soares, Técnica de redação (1978).",
+  "atualizacao": null
+ },
+ "44": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: tempo e espaço",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": null,
+  "explicacao_correta": "O parágrafo sobre a televisão mostra o desenvolvimento do veículo ao longo do tempo (1908-1914, 1939, 1945, 1950) e em lugares diferentes (Estados Unidos, Brasil). Por isso o critério não é exclusivamente temporal: tempo e espaço aparecem juntos, o que torna F a primeira afirmação e V a segunda. A terceira é falsa, pois não é obrigatório escolher só um critério, e a quarta é verdadeira: experimentação (fato), entre 1908 e 1914 (tempo), nos Estados Unidos (espaço). A sequência é F, V, F, V.",
+  "por_que_erradas": {
+   "A": "Marca como verdadeira a primeira, que diz 'exclusivamente por tempo'.",
+   "B": "Marca como falsa a segunda e a quarta, que são verdadeiras.",
+   "C": "Marca como verdadeira a primeira e como falsa a terceira, ao contrário do correto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "45": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: contraste",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": null,
+  "explicacao_correta": "O parágrafo de Vianna Moog compara o português e o anglo-saxão diante da natureza. As palavras que opõem os dois elementos (o português e o anglo-saxão; conquistar o trópico e as zonas temperadas) mostram que o desenvolvimento é por contraste (II). Como expressões de contraste, aparecem 'enquanto', 'mas', 'agora' e 'pelo contrário' (IV). A I é falsa, pois a introdução não se limita aos dois primeiros períodos, e a III é falsa, pois inverte as ideias: o anglo-saxão tinha familiaridade, e o português, não.",
+  "por_que_erradas": {
+   "A": "A III inverte a familiaridade, e deixa de fora a II.",
+   "B": "A I é falsa; não se pode dizer que apenas os dois primeiros períodos formam a introdução.",
+   "D": "A I e a III são falsas."
+  },
+  "fundamentacao": "Fonte citada na prova: V. Moog, Bandeirantes e pioneiros (1969).",
+  "atualizacao": null
+ },
+ "46": {
+  "area": "LAS",
+  "subtopico": "Estrutura do parágrafo: ideia principal e conclusão",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": null,
+  "explicacao_correta": "A primeira frase, 'Viver é mesmo uma ginástica', apresenta a ideia principal. As frases seguintes dão exemplos do movimento do corpo (coração, pulmões, digestão, músculos). A frase final, introduzida por 'Portanto', retoma e reafirma a ideia principal, de modo que o desempenho da musculatura leva ao movimento da vida. A alternativa B descreve essa função. A conclusão não é uma ideia de apoio nem apresenta a ideia pela primeira vez.",
+  "por_que_erradas": {
+   "A": "A última frase retoma a ideia principal, e não explica nem amplia ideias de apoio.",
+   "C": "A ideia principal está na primeira frase, e não na que fala do coração.",
+   "D": "'Viver é mesmo uma ginástica' é a ideia principal, não uma de apoio."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "47": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: causa e consequência",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": "Não confirmei a justificativa do gabarito para o segundo item (problemas do equilíbrio homem/meio ambiente como causa).",
+  "explicacao_correta": "No parágrafo, a relação causal encadeia fatos: o acelerado desenvolvimento gera problemas ligados ao meio ambiente, que resultam em poluição e em desperdício, e que exigem uma formação ecológica para o progresso do país. Por isso, o gabarito oficial classifica como causa o desenvolvimento acelerado, os problemas do equilíbrio homem/meio ambiente e o desenvolvimento industrial. E como consequência: os problemas crescentes, o desperdício e a contribuição para o progresso. A sequência é CA, CA, CO, CA, CO, CO.",
+  "por_que_erradas": {
+   "A": "Inverte quase todas as relações, tratando o desenvolvimento acelerado como consequência.",
+   "B": "Marca o desenvolvimento industrial como consequência e o desperdício como causa.",
+   "D": "Troca causas por consequências nas duas primeiras posições."
+  },
+  "fundamentacao": "Parágrafo de Revista Petrobras, n. 271 (1975), citado no enunciado.",
+  "atualizacao": null
+ },
+ "48": {
+  "area": "ENS",
+  "subtopico": "Competências e habilidades dos PCN de Linguagens",
+  "item": "ENSINO 1 (Competências e habilidades com base na BNCC e no DCRC)",
+  "duvida": null,
+  "explicacao_correta": "A questão associa habilidades a três competências dos Parâmetros Curriculares do Ensino Médio. Analisar a função da linguagem e identificar elementos da progressão temática ligam-se ao uso dos sistemas simbólicos como meio de organização do real (competência 1). Reconhecer estratégias argumentativas de convencimento liga-se a confrontar opiniões e pontos de vista (competência 2). Reconhecer variedades linguísticas e usos da norma padrão liga-se a usar a língua materna como geradora de significação e identidade (competência 3). A sequência é 1, 2, 3, 3, 1.",
+  "por_que_erradas": {
+   "A": "Troca a segunda e a quinta, associando a estratégia argumentativa à língua materna.",
+   "C": "Começa por 2 para a análise da função da linguagem, que pertence à competência 1.",
+   "D": "Atribui a primeira habilidade à competência 3, que trata da língua materna."
+  },
+  "fundamentacao": "Parâmetros Curriculares Nacionais do Ensino Médio (PCNEM), área de Linguagens, Códigos e suas Tecnologias; não conferi o texto original.",
+  "atualizacao": "O edital 2026 cobra a BNCC e o DCRC, e não mais os PCN. A BNCC organiza o ensino médio por competências específicas e habilidades com códigos próprios. Estude o documento atual."
+ },
+ "49": {
+  "area": "ENS",
+  "subtopico": "Competências e habilidades dos PCN: contexto e texto literário",
+  "item": "ENSINO 1 (Competências e habilidades com base na BNCC e no DCRC)",
+  "duvida": null,
+  "explicacao_correta": "A competência destacada trata de analisar e interpretar recursos expressivos das linguagens e relacionar textos com seus contextos de produção e recepção. As habilidades I, II e V envolvem o texto literário: relacionar a obra ao contexto histórico, a concepções artísticas e a valores humanos presentes no patrimônio literário. As habilidades III e IV tratam das tecnologias da comunicação e informação, que pertencem a outra competência dos PCN. Por isso, só I, II e V correspondem.",
+  "por_que_erradas": {
+   "B": "Omite a V, que também trata do patrimônio literário.",
+   "C": "Inclui III e IV, ligadas às tecnologias, e omite I e V.",
+   "D": "Traz apenas habilidades de tecnologias, que pertencem a outra competência."
+  },
+  "fundamentacao": "PCNEM, área de Linguagens (competências e habilidades de Língua Portuguesa); não conferi o texto original.",
+  "atualizacao": "O edital 2026 cobra a BNCC e o DCRC. Use a BNCC do ensino médio, com suas competências específicas, no lugar dos PCN."
+ },
+ "50": {
+  "area": "LIT",
+  "subtopico": "Periodização da literatura brasileira",
+  "item": "LITERATURA 3 (Relações contextuais e intertextuais na literatura brasileira)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "51": {
+  "area": "LIT",
+  "subtopico": "Linguagem literária e não literária",
+  "item": "LITERATURA 4 (A linguagem literária e não literária)",
+  "duvida": null,
+  "explicacao_correta": "A linguagem literária explora o potencial significativo e sonoro da palavra e predomina o sentido conotativo, figurado, que depende do contexto. A linguagem não literária prioriza o sentido denotativo, literal, e tem função utilitária: informar, argumentar, convencer. Na sequência, 'a essência da linguagem está na palavra' e 'predomínio do sentido conotativo' são literárias (1), e 'sentido denotativo' e 'função utilitária' são não literárias (2). Logo, 1, 1, 2, 2.",
+  "por_que_erradas": {
+   "A": "Inverte o primeiro par: atribui à linguagem não literária a essência na palavra.",
+   "C": "Inverte tudo, tratando o conotativo como não literário.",
+   "D": "Alterna os dois grupos, ignorando que conotação é literária e denotação é utilitária."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "52": {
+  "area": "LIT",
+  "subtopico": "Barroco no Brasil",
+  "item": "LITERATURA 5 (O Barroco no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "A primeira afirmação é falsa: o marco inicial do Barroco no Brasil é o poema Prosopopeia, de Bento Teixeira, publicado em 1601, e não de Botelho de Oliveira. A segunda é verdadeira: o Barroco chegou pela influência espanhola e portuguesa e cultivou poesia, historiografia, literatura de informação da terra e oratória. A terceira é verdadeira: Botelho de Oliveira, Bento Teixeira, Gregório de Matos e Frei Manuel de Santa Maria Itaparica são nomes centrais. A quarta é verdadeira: surgiram as Academias. Sequência: F, V, V, V.",
+  "por_que_erradas": {
+   "B": "Marca como verdadeira a primeira, que atribui Prosopopeia a Botelho de Oliveira.",
+   "C": "Marca como falsas a terceira e a quarta, que são verdadeiras.",
+   "D": "Marca como verdadeira a primeira e como falsa a segunda e a quarta."
+  },
+  "fundamentacao": "Bento Teixeira, Prosopopeia (1601), marco inicial do Barroco brasileiro, conforme os manuais de história literária.",
+  "atualizacao": null
+ },
+ "53": {
+  "area": "LIT",
+  "subtopico": "Barroco: contexto social e político",
+  "item": "LITERATURA 5.1 (Relações sociais e históricas presentes no Barroco no Brasil)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "54": {
+  "area": "LIT",
+  "subtopico": "Gregório de Matos",
+  "item": "LITERATURA 5.2 (Tipos e problemas sociais nos textos de Gregório de Matos Guerra)",
+  "duvida": "Os motivos exatos pelos quais A e C estão erradas no gabarito não foram confirmados por mim.",
+  "explicacao_correta": "Gregório de Matos, o 'Boca do Inferno', é conhecido pela poesia satírica: ele critica a sociedade baiana e a lisboeta, o clero, as autoridades e os costumes. Poemas como 'Aos Vícios' e 'Aos Caramurus da Bahia' mostram essa face, e por isso B é a afirmação correta. O autor também escreveu poesia lírica amorosa e religiosa, mas as outras alternativas atribuem classificações ou dados de publicação que não confirmei. Sua obra circulou em manuscritos e foi reunida em livro muito depois de sua morte.",
+  "por_que_erradas": {
+   "A": "Trata a poesia religiosa como 'lírica' e lista títulos de forma que o gabarito não aceita; não confirmei qual detalhe específico a banca considera falso.",
+   "C": "Apresenta uma divisão da obra e uma data de publicação que não confirmei; o gabarito oficial a considera incorreta.",
+   "D": "Chama de 'épico' o estilo dos poemas de amor, que são líricos."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "55": {
+  "area": "LIT",
+  "subtopico": "Arcadismo no Brasil",
+  "item": "LITERATURA 6 (O Arcadismo no Brasil)",
+  "duvida": "Rótulos 'Rococó' e 'Pré-Romantismo' seguem o gabarito oficial; não confirmei a bibliografia.",
+  "explicacao_correta": "O Arcadismo brasileiro mantém ideais clássicos, como a razão e o bucolismo, mas já apresenta traços que preparam o Romantismo, sobretudo na obra de Tomás Antônio Gonzaga. Por isso o gabarito indica a ideia de transição pré-romântica. As outras alternativas têm erros de datação ou de nomes: o movimento começa com Obras Poéticas de Cláudio Manuel da Costa, em 1768, e não de Gonzaga, e não inclui autores como Gonçalves Dias, que é romântico.",
+  "por_que_erradas": {
+   "A": "Inclui Bocage e Gonçalves Dias, que não pertencem ao grupo árcade brasileiro.",
+   "B": "O Arcadismo brasileiro costuma ser iniciado por Obras Poéticas, de Cláudio Manuel da Costa, e não de Gonzaga.",
+   "C": "Reduz o Arcadismo a um produto da Inconfidência, enquanto ele é anterior e paralelo a ela."
+  },
+  "fundamentacao": "Marco de 1768 (Obras Poéticas, de Cláudio Manuel da Costa), segundo manuais de história literária.",
+  "atualizacao": null
+ },
+ "56": {
+  "area": "LIT",
+  "subtopico": "Barroco x Arcadismo",
+  "item": "LITERATURA 5 e 6 (Barroco e Arcadismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "O Barroco vive o conflito entre o espiritual e o terreno, com tom místico e paradoxal; a Idade Média aparece como retomada do teocentrismo. O Arcadismo retoma o Renascimento e o classicismo, com natureza bucólica, simplicidade e valorização da razão e da experiência. Assim: Idade Média (Barroco, 1), Renascimento (Arcadismo, 2), autêntico e paradoxal (1), celeste e místico (1), campestre e bucólico (2), conhecimento pela experiência e reflexão (2). A sequência é 1, 2, 1, 1, 2, 2.",
+  "por_que_erradas": {
+   "B": "Inverte o Barroco e o Arcadismo em várias posições.",
+   "C": "Atribui 'autêntico, ainda que paradoxal' ao Arcadismo.",
+   "D": "Atribui a volta à Idade Média ao Arcadismo e ao Barroco, o oposto do correto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "57": {
+  "area": "LIT",
+  "subtopico": "Poetas do Arcadismo brasileiro",
+  "item": "LITERATURA 6 (O Arcadismo no Brasil)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "58": {
+  "area": "LIT",
+  "subtopico": "Arcadismo x Romantismo",
+  "item": "LITERATURA 6 e 7 (Arcadismo; Romantismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "O Arcadismo valoriza a razão, o rigor formal e a imitação dos clássicos. O Romantismo valoriza a emoção, a imaginação, a liberdade criadora, a natureza como espelho do eu e o nacionalismo. Assim: racionalismo e convencionalismo (Arcadismo, 1), amor e emoção do artista (Romantismo, 2), natureza e escritor em fusão (2), rigor formal (1), liberdade criadora (2), nacionalismo (2). A sequência é 1, 2, 2, 1, 2, 2.",
+  "por_que_erradas": {
+   "A": "Atribui ao Arcadismo a fusão da natureza com o escritor e ao Romantismo o rigor formal, o contrário do correto.",
+   "B": "Atribui ao Arcadismo a liberdade criadora e o nacionalismo.",
+   "D": "Inverte todos os pares, tratando o racionalismo como romântico."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "59": {
+  "area": "LIT",
+  "subtopico": "Contexto do Romantismo",
+  "item": "LITERATURA 7.1 (O Romantismo como reflexo dos costumes da sociedade burguesa)",
+  "duvida": null,
+  "explicacao_correta": "A questão pede a alternativa que diverge do contexto do início do século XIX. O Romantismo surgiu na Europa, no final do século XVIII, ligado à crise do Antigo Regime e ao liberalismo; a independência dos Estados Unidos não é o marco inicial do movimento. A alternativa A erra ao apresentá-la como início do Romantismo. As outras três descrevem corretamente a preocupação nacional dos intelectuais brasileiros e a relação do Romantismo com a Independência.",
+  "por_que_erradas": {
+   "B": "Descreve corretamente a preocupação com a formação da nação brasileira.",
+   "C": "Descreve corretamente o Romantismo brasileiro paralelo à emancipação política.",
+   "D": "Descreve o contexto da vinda da família real, que reconfigura a vida social da colônia."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "60": {
+  "area": "LIT",
+  "subtopico": "Romantismo brasileiro e identidade nacional",
+  "item": "LITERATURA 7 (O Romantismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "Os românticos brasileiros queriam uma literatura que expressasse o Brasil e se afastasse do modelo português. Para isso recorreram ao indianismo, à cor local e ao regionalismo. A alternativa B indica o oposto: inspirar-se em heróis medievais europeus não traduz a realidade brasileira. Como a questão pede a opção que NÃO traduz essa ideia, a resposta é B.",
+  "por_que_erradas": {
+   "A": "O indianismo é a busca de um antepassado nacional diferente do europeu e traduz a ideia.",
+   "C": "A cor local valoriza a paisagem brasileira e traduz a ideia.",
+   "D": "O regionalismo representa o sertão como espaço da cultura brasileira e traduz a ideia."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ }
+}

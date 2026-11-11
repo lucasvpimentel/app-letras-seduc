@@ -1,0 +1,282 @@
+{
+ "1": {
+  "area": "EB",
+  "subtopico": "Função social da escola",
+  "item": "EB 1 (História da educação brasileira / direito à educação)",
+  "duvida": null,
+  "explicacao_correta": "A escola é a instituição que a sociedade cria para transmitir às novas gerações experiências de aprendizagem que permitam participar da vida social de modo ativo e crítico. Se ela cumpre essa função pública, a escolarização deixa de ser favor, benefício ou expectativa e passa a ser um direito de todos. Por isso o enunciado leva à ideia de um direito a ser garantido a todo cidadão. Essa é a lógica do direito à educação nos documentos legais brasileiros.",
+  "por_que_erradas": {
+   "A": "Trata a escolarização como projeto de uma elite esclarecida, o que contradiz a ideia de acesso universal.",
+   "B": "Reduz a escolarização a um benefício de certos governos; direito não depende de quem governa.",
+   "C": "Expectativa de famílias é um desejo, não um dever do Estado; o texto fala de função social, não de desejos."
+  },
+  "fundamentacao": "Constituição Federal de 1988, art. 205 (educação como direito de todos e dever do Estado e da família).",
+  "atualizacao": null
+ },
+ "2": {
+  "area": "EB",
+  "subtopico": "Teoria das Inteligências Múltiplas (Gardner)",
+  "item": "EB 4 (Principais teorias da aprendizagem)",
+  "duvida": "Pode caber também em Psicologia do desenvolvimento (EB 4.3).",
+  "explicacao_correta": "Howard Gardner propôs que a inteligência é plural. A lógico-matemática liga-se à conclusão baseada na razão. A intrapessoal é a capacidade de se autoconhecer e agir com base nesse conhecimento. A corporal-cinestésica aparece em dançarinos e atletas de ginástica. A interpessoal marca os bons líderes e quem trabalha bem em equipe, e a espacial lida com posição e movimento de objetos. A sequência de cima para baixo é 1, 4, 2, 5, 3.",
+  "por_que_erradas": {
+   "B": "Troca intrapessoal por interpessoal e corporal por espacial, desfazendo as associações corretas.",
+   "C": "Começa por espacial para a lógica da razão, o que é incoerente com a descrição da primeira lacuna.",
+   "D": "Atribui a lógica ao autoconhecimento e a intrapessoal à razão, invertendo as definições."
+  },
+  "fundamentacao": "Howard Gardner, teoria das inteligências múltiplas.",
+  "atualizacao": null
+ },
+ "3": {
+  "area": "EB",
+  "subtopico": "Teorias críticas do currículo",
+  "item": "EB 2.1 (Tendências pedagógicas contemporâneas)",
+  "duvida": "Também poderia ser lido em EB 5 (organização curricular).",
+  "explicacao_correta": "No Brasil dos anos 1980, a crítica ao currículo tradicional se organizou em torno de duas vertentes da produção pedagógica. Uma é a Pedagogia Crítico-Social dos Conteúdos, que defende o ensino de conteúdos como instrumento de transformação social. A outra é a Educação Popular, ligada à tradição freireana de alfabetização e conscientização. As teorias da reprodução vêm da sociologia europeia e norte-americana, não são vertentes nacionais.",
+  "por_que_erradas": {
+   "A": "Teorias da Reprodução são de origem estrangeira e 'Marxismo Culturalista' não nomeia uma vertente brasileira dessa década.",
+   "B": "A Educação Popular está certa, mas o 'cunho tecnicista' é justamente o modelo criticado, não uma vertente crítica.",
+   "D": "Neo-marxismo e teorias da reprodução descrevem a crítica internacional, não as duas vertentes brasileiras citadas."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "4": {
+  "area": "EB",
+  "subtopico": "Currículo escolar",
+  "item": "EB 5.3 (Organização curricular)",
+  "duvida": null,
+  "explicacao_correta": "O currículo é um espaço de poder e de disputa: nele circulam narrativas, constroem-se identidades e convivem visões de mundo diferentes. Por isso as afirmações I, II e III estão corretas. A IV é falsa porque a intenção curricular não independe do projeto político-pedagógico: o currículo concretiza o PPP da escola, que expressa o projeto de sociedade que ela defende. Dizer que são independentes separa o que a teoria curricular trata como articulado.",
+  "por_que_erradas": {
+   "A": "Inclui a IV, que é falsa, e deixa de fora a II, que é verdadeira.",
+   "C": "Inclui a IV, falsa, pois o currículo depende do projeto político-pedagógico.",
+   "D": "Deixa de fora a I, verdadeira, e inclui a IV, falsa."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "5": {
+  "area": "EB",
+  "subtopico": "Protagonismo juvenil",
+  "item": "EB 4.4 (Temas contemporâneos: protagonismo juvenil)",
+  "duvida": null,
+  "explicacao_correta": "Protagonismo juvenil significa reconhecer o jovem como sujeito que participa das decisões da escola e da comunidade. Por isso ele se relaciona diretamente com a cidadania: exercer cidadania é participar e ser escutado. A alternativa D descreve isso ao falar de atividades que valorizam a participação e a escuta dos jovens. As outras supõem passividade, memorização ou automatismo, que não formam cidadãos ativos.",
+  "por_que_erradas": {
+   "A": "Atitudes reprodutivas são o oposto da autonomia que o protagonismo busca.",
+   "B": "Competências conceituais isoladas não tratam de participação social.",
+   "C": "Automatismos tecnológicos descrevem uso de ferramentas, não participação cidadã."
+  },
+  "fundamentacao": "Abramovay, Andrade e Esteves (2007), citados no enunciado; o conteúdo específico do texto não foi confirmado por mim.",
+  "atualizacao": null
+ },
+ "6": {
+  "area": "EB",
+  "subtopico": "Projeto Político Pedagógico",
+  "item": "EB 2.3 (Projeto Político Pedagógico)",
+  "duvida": null,
+  "explicacao_correta": "O PPP é construído coletivamente por todos os segmentos da comunidade escolar (II) e planeja o trabalho pedagógico da escola como um todo e da sala de aula em particular (III). A afirmação I é falsa porque a dimensão administrativo-financeira também faz parte do PPP. A IV é falsa porque o projeto expressa a identidade e a realidade de cada escola, e por isso não pode ser simplesmente transferido para outra, mesmo vizinha.",
+  "por_que_erradas": {
+   "B": "Reúne duas afirmações falsas: I (exclui a dimensão financeira) e IV (PPP transferível).",
+   "C": "Inclui a IV, falsa, e omite a III, verdadeira.",
+   "D": "Inclui a I, falsa, e omite a II, verdadeira."
+  },
+  "fundamentacao": "LDB (Lei nº 9.394/1996), arts. 12 e 13 (proposta pedagógica da escola).",
+  "atualizacao": null
+ },
+ "7": {
+  "area": "EB",
+  "subtopico": "Avaliação institucional",
+  "item": "EB 2.3 (Projeto Político Pedagógico)",
+  "duvida": null,
+  "explicacao_correta": "A avaliação institucional é um processo participativo de melhoria do PPP. Um de seus princípios básicos é o respeito à identidade da escola: ela deve partir do contexto, da história e das metas daquela comunidade, e não de um modelo imposto de fora. Por isso a alternativa D é a que descreve um princípio. As demais negam a participação coletiva ou concentram o processo em poucas pessoas.",
+  "por_que_erradas": {
+   "A": "A avaliação institucional é construída com a comunidade escolar, não imposta por agentes externos.",
+   "B": "Restringir a participação ao corpo docente e ao núcleo gestor contraria o caráter coletivo.",
+   "C": "A adesão individual do gestor não é princípio; o que conta é a participação coletiva."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "8": {
+  "area": "EB",
+  "subtopico": "Ensino médio integrado",
+  "item": "EB 5.2 (O ensino médio no contexto da educação básica)",
+  "duvida": null,
+  "explicacao_correta": "O ensino médio integrado é uma forma de oferta que articula, no mesmo currículo e na mesma matrícula, a formação geral e a formação profissional. O aluno cursa o ensino médio e uma habilitação técnica na mesma instituição, com um projeto pedagógico único. Não confunda com ensino em tempo integral, que diz respeito à carga horária diária, nem com a formação propedêutica, voltada só ao prosseguimento dos estudos.",
+  "por_que_erradas": {
+   "A": "A educação propedêutica prepara para o ensino superior; não é o par da integração.",
+   "B": "A integração é com a educação profissional, e não com a tecnológica de modo genérico.",
+   "D": "Tempo integral trata da jornada ampliada, não da integração curricular com a profissionalização."
+  },
+  "fundamentacao": "Decreto nº 5.154/2004 (forma integrada de oferta); a base atual na LDB tem o ensino médio e a educação profissional técnica de nível médio, arts. 35 e 36-A a 36-D.",
+  "atualizacao": "O ensino médio foi reformado depois de 2018 (Lei nº 13.415/2017 e alterações posteriores). A organização em itinerários mudou; use a legislação vigente no estudo."
+ },
+ "9": {
+  "area": "AP",
+  "subtopico": "Provimento de cargo público",
+  "item": "AP (Servidores públicos; Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Gabarito alterado após recursos (preliminar B, definitivo D). Não conferi o artigo do Estatuto estadual.",
+  "explicacao_correta": "Provimento é o ato de preencher um cargo público. O enunciado cobra a regra do estatuto estadual para considerar provido um cargo efetivo, e o gabarito definitivo indica a publicação do ato de nomeação. O concurso é apenas a etapa de seleção; a posse e o exercício são etapas posteriores. Atenção: essa regra pode variar entre estatutos, por isso vale conferir o texto do estatuto estadual indicado no edital.",
+  "por_que_erradas": {
+   "A": "O concurso seleciona o candidato, mas ainda não provê o cargo.",
+   "B": "A posse vem depois da nomeação, e nesta questão não é o marco indicado como provimento.",
+   "C": "O início do exercício é etapa posterior ao provimento."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "10": {
+  "area": "AP",
+  "subtopico": "Plano de cargos e carreiras",
+  "item": "AP (Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Norma estadual específica não confirmada por mim.",
+  "explicacao_correta": "Em planos de cargos e carreiras, grupo ocupacional é o conjunto de categorias funcionais reunidas segundo a correlação e a afinidade entre elas, quanto à natureza do trabalho ou ao grau de conhecimento exigido. A carreira e a classe são recortes menores dentro do grupo. Memorize a hierarquia: grupo, carreira, classe e referência.",
+  "por_que_erradas": {
+   "A": "Referência funcional indica o ponto na escala de vencimentos, não o agrupamento de categorias.",
+   "B": "Carreira é a série de classes de uma mesma atividade, e não o conjunto de categorias afins.",
+   "C": "Classe funcional é a divisão da carreira por grau de complexidade."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "11": {
+  "area": "AP",
+  "subtopico": "Promoção na carreira do magistério",
+  "item": "AP (Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Lei estadual específica do plano de carreira não confirmada por mim.",
+  "explicacao_correta": "Pelo enunciado, a promoção sem titulação é a passagem para o nível imediatamente superior dentro da mesma carreira, por desempenho e/ou antiguidade. A alternativa C indica as condições coerentes com isso: desempenho eficaz das atribuições e cumprimento do interstício de 365 dias. As demais falam de seleção interna, provas e ingresso em nova carreira, que são características de outras formas de movimentação.",
+  "por_que_erradas": {
+   "A": "Seleção interna com provas escritas não é exigida para promover sem titulação.",
+   "B": "Ingresso em nova carreira ou classe descreve outra movimentação, não a promoção dentro da carreira.",
+   "D": "Provas escritas ou práticas não são requisito da promoção por desempenho."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "12": {
+  "area": "AP",
+  "subtopico": "Remuneração do magistério",
+  "item": "AP (Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Norma estadual específica não confirmada por mim.",
+  "explicacao_correta": "A remuneração do professor é formada por uma parte fixa, o vencimento base, mais vantagens e gratificações previstas em lei. O vencimento base é o componente obrigatório e central. Décimo terceiro, abono pecuniário e adicional de férias são direitos ou vantagens à parte, tratados em outras normas e não como componente da composição básica da remuneração indicada.",
+  "por_que_erradas": {
+   "A": "O décimo terceiro é direito pago anualmente, não parcela da composição básica citada.",
+   "B": "O abono pecuniário é a conversão de férias em dinheiro, e não parte da remuneração.",
+   "C": "O adicional de férias é um direito próprio do período de férias."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "13": {
+  "area": "AP",
+  "subtopico": "LDB: incumbências dos Estados",
+  "item": "EB 1.1 / AP (LDB, Lei 9.394/96)",
+  "duvida": "Poderia ser classificada em Educação Brasileira (EB 1.1).",
+  "explicacao_correta": "A LDB distribui competências entre os entes federados. Ao Estado cabe, entre outras, elaborar e executar políticas e planos educacionais em consonância com as diretrizes e planos nacionais, integrando e coordenando as suas ações e as de seus Municípios. A assistência técnica e financeira aos entes é da União. A educação infantil é prioridade dos Municípios, e o credenciamento dos estabelecimentos municipais cabe ao sistema de ensino a que pertencem.",
+  "por_que_erradas": {
+   "A": "Prestar assistência técnica e financeira aos entes é atribuição da União, não dos Estados.",
+   "B": "Autorizar e supervisionar estabelecimentos do sistema municipal compete ao próprio município, não ao Estado.",
+   "D": "A oferta de educação infantil é prioridade municipal."
+  },
+  "fundamentacao": "LDB (Lei nº 9.394/1996), art. 10, inciso III.",
+  "atualizacao": null
+ },
+ "14": {
+  "area": "AP",
+  "subtopico": "LDB: ensino fundamental e matrícula",
+  "item": "EB 1.1 (LDB)",
+  "duvida": "Pela seção da prova (Administração Pública) fica em AP, mas o conteúdo é LDB (item EB 1.1 do edital 2026).",
+  "explicacao_correta": "A LDB define o ensino fundamental como obrigatório, com duração de nove anos, gratuito na escola pública, iniciando-se aos seis anos, com objetivo de formação básica do cidadão. A alternativa B erra ao dizer que o tempo dos exames finais está incluído nas 800 horas; a lei os exclui. A C e a D erram as idades: a educação infantil vai até os cinco anos, e a matrícula é obrigatória a partir dos quatro.",
+  "por_que_erradas": {
+   "B": "A carga horária mínima de 800 horas em 200 dias exclui, e não inclui, o tempo dos exames finais.",
+   "C": "O direito à educação infantil vai até o final do ano em que a criança completa cinco anos, não sete.",
+   "D": "O dever dos pais de matricular começa aos quatro anos de idade (educação básica obrigatória), não aos sete."
+  },
+  "fundamentacao": "LDB (Lei nº 9.394/1996), arts. 6º, 24 (inciso I), 30 e 32.",
+  "atualizacao": "O texto da LDB foi alterado várias vezes depois de 2018. Antes de estudar, confirme o artigo vigente e o PNE 2026-2036, citado no edital."
+ },
+ "15": {
+  "area": "LP",
+  "subtopico": "Compreensão e interpretação de textos",
+  "item": "LP 1 (Compreensão e interpretação de textos)",
+  "duvida": null,
+  "explicacao_correta": "A autora parte de um fato jornalístico: a hostilidade de moradores de Roraima contra os venezuelanos que chegam à fronteira. O que motiva o texto é esse êxodo, isto é, a chegada massiva de migrantes famintos e assustados. A partir dele, a autora discute identidade e pertencimento. A identidade roraimense, a angústia do não pertencimento e a formação da população são desdobramentos do tema, não o fato que o provoca.",
+  "por_que_erradas": {
+   "A": "A identidade roraimense é uma consequência analisada no texto, não o motivo da escrita.",
+   "B": "A angústia de não pertencer é a tese de análise, e não o elemento desencadeador.",
+   "D": "A formação da população de Roraima é apresentada como pano de fundo."
+  },
+  "fundamentacao": "Texto-base: Eliane Brum, jornal El País (27/08/2018), conforme a fonte indicada na prova.",
+  "atualizacao": null
+ },
+ "16": {
+  "area": "LP",
+  "subtopico": "Tipologia textual",
+  "item": "LP 3 (Tipologias textuais)",
+  "duvida": null,
+  "explicacao_correta": "Um texto é dissertativo quando defende uma tese com argumentos, usando em geral verbos no presente do indicativo. Eliane Brum afirma e justifica ideias sobre migração, fronteira e pertencimento, sem narrar uma sequência de ações no tempo. Por isso é predominantemente dissertativo-argumentativo. O texto até cita fatos, mas a organização é a de defesa de uma interpretação, e não a de uma história com antes, durante e depois.",
+  "por_que_erradas": {
+   "A": "Texto expositivo apresenta informação de modo neutro; a justificativa dada (sequência temporal e seres concretos) descreve narração.",
+   "C": "Texto injuntivo orienta ou instrui o leitor, o que não ocorre aqui.",
+   "D": "Texto narrativo se organiza por progressão temporal e verbos no pretérito, o que não predomina."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "17": {
+  "area": "LP",
+  "subtopico": "Significação das palavras: sentido figurado",
+  "item": "LP 15 (Significação das palavras)",
+  "duvida": null,
+  "explicacao_correta": "Em sentido literal, mapa é um desenho geográfico. No trecho 'Quem viveu escorregando de todos os mapas sente a dor dessa experiência no corpo', mapa aparece como metáfora de lugares de pertencimento: escorregar dos mapas é perder o lugar no mundo. É o uso mais abstrato. Nos outros trechos o mapa ainda remete ao território, ao Brasil e à fronteira, ou seja, a algo mais concreto.",
+  "por_que_erradas": {
+   "B": "'À beira do mapa' remete à posição geográfica de Roraima, a borda do país.",
+   "C": "'Outros pontos do mapa' trata de lugares onde as pessoas tentaram se fixar; o sentido é espacial.",
+   "D": "'Pelo mapa do Brasil' descreve o percurso geográfico dos migrantes."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "18": {
+  "area": "LP",
+  "subtopico": "Funções sintáticas dos termos",
+  "item": "LP 11 (Relações sintáticas na organização da oração e do período)",
+  "duvida": null,
+  "explicacao_correta": "Complemento nominal completa o sentido de um nome (substantivo, adjetivo ou advérbio) e vem com preposição. Em IV, 'de não pertencer' completa 'angústia'. Em V, 'de apagar as populações nativas' completa 'desejo'. As duas são complementos nominais, como diz a alternativa B. Já em I e VI os termos 'por migrantes recentes' e 'por velhas e novas elites locais' são agentes da passiva, o que derruba as outras opções.",
+  "por_que_erradas": {
+   "A": "Em VI o termo sublinhado é agente da passiva ('é fomentada por...'), não objeto indireto.",
+   "C": "Em III o termo 'num venezuelano desesperado e sem lugar' não é agente da passiva.",
+   "D": "O termo em V completa um substantivo, portanto é complemento nominal, e não adjunto adnominal."
+  },
+  "fundamentacao": "Regra de complemento nominal x adjunto adnominal (gramática normativa).",
+  "atualizacao": null
+ },
+ "19": {
+  "area": "LP",
+  "subtopico": "Acentuação gráfica",
+  "item": "LP 6 (Acentuação gráfica)",
+  "duvida": "Gabarito pode gerar discussão: pôde e porquê são tratados como acento diferencial, e há contestações sobre a questão em fóruns de preparação. Mantido o oficial.",
+  "explicacao_correta": "A palavra 'pôde' leva acento circunflexo para se distinguir de 'pode' (presente do indicativo). É um caso de acento diferencial. 'Porquê', como substantivo ou em fim de frase, recebe acento para se distinguir de 'por que'. As duas palavras têm acento pelo mesmo motivo, e por isso a alternativa A é a oficial. As demais palavras acentuadas seguem outras regras (monossílabo tônico, paroxítona terminada em ditongo, etc.).",
+  "por_que_erradas": {
+   "B": "'Há' é monossílabo tônico terminado em -a, regra geral e não diferencial pelo critério usado na questão.",
+   "C": "'Três' é monossílabo tônico terminado em -es.",
+   "D": "'Evidência' é paroxítona terminada em ditongo crescente (-ia)."
+  },
+  "fundamentacao": "Regras de acentuação do Acordo Ortográfico (acento diferencial de 'pôde' e 'por que/porquê').",
+  "atualizacao": null
+ },
+ "20": {
+  "area": "LP",
+  "subtopico": "Funções sintáticas: predicativo do sujeito",
+  "item": "LP 11 (Relações sintáticas na organização da oração e do período)",
+  "duvida": null,
+  "explicacao_correta": "Em 'A violência em Roraima é contra a imagem no espelho', o verbo ser liga o sujeito 'a violência' a uma característica ou estado. O termo 'contra a imagem no espelho' completa esse verbo de ligação e diz algo sobre o sujeito: é o predicativo do sujeito. Não é objeto, porque o verbo ser não pede complemento verbal, nem adjunto adverbial, porque não indica circunstância de modo, lugar ou tempo.",
+  "por_que_erradas": {
+   "A": "Objeto indireto é complemento de verbo transitivo indireto; ser é verbo de ligação.",
+   "B": "Objeto direto é complemento de verbo transitivo direto; aqui não há ação transitiva.",
+   "D": "Adjunto adverbial indica circunstância; o termo qualifica o sujeito."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ }
+}

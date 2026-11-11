@@ -1,0 +1,1087 @@
+{
+ "1": {
+  "area": "EB",
+  "subtopico": "Função social da escola",
+  "item": "EB 1 (História da educação brasileira / direito à educação)",
+  "duvida": null,
+  "explicacao_correta": "A escola é a instituição que a sociedade cria para transmitir às novas gerações experiências de aprendizagem que permitam participar da vida social de modo ativo e crítico. Se ela cumpre essa função pública, a escolarização deixa de ser favor, benefício ou expectativa e passa a ser um direito de todos. Por isso o enunciado leva à ideia de um direito a ser garantido a todo cidadão. Essa é a lógica do direito à educação nos documentos legais brasileiros.",
+  "por_que_erradas": {
+   "A": "Trata a escolarização como projeto de uma elite esclarecida, o que contradiz a ideia de acesso universal.",
+   "B": "Reduz a escolarização a um benefício de certos governos; direito não depende de quem governa.",
+   "C": "Expectativa de famílias é um desejo, não um dever do Estado; o texto fala de função social, não de desejos."
+  },
+  "fundamentacao": "Constituição Federal de 1988, art. 205 (educação como direito de todos e dever do Estado e da família).",
+  "atualizacao": null
+ },
+ "2": {
+  "area": "EB",
+  "subtopico": "Teoria das Inteligências Múltiplas (Gardner)",
+  "item": "EB 4 (Principais teorias da aprendizagem)",
+  "duvida": "Pode caber também em Psicologia do desenvolvimento (EB 4.3).",
+  "explicacao_correta": "Howard Gardner propôs que a inteligência é plural. A lógico-matemática liga-se à conclusão baseada na razão. A intrapessoal é a capacidade de se autoconhecer e agir com base nesse conhecimento. A corporal-cinestésica aparece em dançarinos e atletas de ginástica. A interpessoal marca os bons líderes e quem trabalha bem em equipe, e a espacial lida com posição e movimento de objetos. A sequência de cima para baixo é 1, 4, 2, 5, 3.",
+  "por_que_erradas": {
+   "B": "Troca intrapessoal por interpessoal e corporal por espacial, desfazendo as associações corretas.",
+   "C": "Começa por espacial para a lógica da razão, o que é incoerente com a descrição da primeira lacuna.",
+   "D": "Atribui a lógica ao autoconhecimento e a intrapessoal à razão, invertendo as definições."
+  },
+  "fundamentacao": "Howard Gardner, teoria das inteligências múltiplas.",
+  "atualizacao": null
+ },
+ "3": {
+  "area": "EB",
+  "subtopico": "Teorias críticas do currículo",
+  "item": "EB 2.1 (Tendências pedagógicas contemporâneas)",
+  "duvida": "Também poderia ser lido em EB 5 (organização curricular).",
+  "explicacao_correta": "No Brasil dos anos 1980, a crítica ao currículo tradicional se organizou em torno de duas vertentes da produção pedagógica. Uma é a Pedagogia Crítico-Social dos Conteúdos, que defende o ensino de conteúdos como instrumento de transformação social. A outra é a Educação Popular, ligada à tradição freireana de alfabetização e conscientização. As teorias da reprodução vêm da sociologia europeia e norte-americana, não são vertentes nacionais.",
+  "por_que_erradas": {
+   "A": "Teorias da Reprodução são de origem estrangeira e 'Marxismo Culturalista' não nomeia uma vertente brasileira dessa década.",
+   "B": "A Educação Popular está certa, mas o 'cunho tecnicista' é justamente o modelo criticado, não uma vertente crítica.",
+   "D": "Neo-marxismo e teorias da reprodução descrevem a crítica internacional, não as duas vertentes brasileiras citadas."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "4": {
+  "area": "EB",
+  "subtopico": "Currículo escolar",
+  "item": "EB 5.3 (Organização curricular)",
+  "duvida": null,
+  "explicacao_correta": "O currículo é um espaço de poder e de disputa: nele circulam narrativas, constroem-se identidades e convivem visões de mundo diferentes. Por isso as afirmações I, II e III estão corretas. A IV é falsa porque a intenção curricular não independe do projeto político-pedagógico: o currículo concretiza o PPP da escola, que expressa o projeto de sociedade que ela defende. Dizer que são independentes separa o que a teoria curricular trata como articulado.",
+  "por_que_erradas": {
+   "A": "Inclui a IV, que é falsa, e deixa de fora a II, que é verdadeira.",
+   "C": "Inclui a IV, falsa, pois o currículo depende do projeto político-pedagógico.",
+   "D": "Deixa de fora a I, verdadeira, e inclui a IV, falsa."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "5": {
+  "area": "EB",
+  "subtopico": "Protagonismo juvenil",
+  "item": "EB 4.4 (Temas contemporâneos: protagonismo juvenil)",
+  "duvida": null,
+  "explicacao_correta": "Protagonismo juvenil significa reconhecer o jovem como sujeito que participa das decisões da escola e da comunidade. Por isso ele se relaciona diretamente com a cidadania: exercer cidadania é participar e ser escutado. A alternativa D descreve isso ao falar de atividades que valorizam a participação e a escuta dos jovens. As outras supõem passividade, memorização ou automatismo, que não formam cidadãos ativos.",
+  "por_que_erradas": {
+   "A": "Atitudes reprodutivas são o oposto da autonomia que o protagonismo busca.",
+   "B": "Competências conceituais isoladas não tratam de participação social.",
+   "C": "Automatismos tecnológicos descrevem uso de ferramentas, não participação cidadã."
+  },
+  "fundamentacao": "Abramovay, Andrade e Esteves (2007), citados no enunciado; o conteúdo específico do texto não foi confirmado por mim.",
+  "atualizacao": null
+ },
+ "6": {
+  "area": "EB",
+  "subtopico": "Projeto Político Pedagógico",
+  "item": "EB 2.3 (Projeto Político Pedagógico)",
+  "duvida": null,
+  "explicacao_correta": "O PPP é construído coletivamente por todos os segmentos da comunidade escolar (II) e planeja o trabalho pedagógico da escola como um todo e da sala de aula em particular (III). A afirmação I é falsa porque a dimensão administrativo-financeira também faz parte do PPP. A IV é falsa porque o projeto expressa a identidade e a realidade de cada escola, e por isso não pode ser simplesmente transferido para outra, mesmo vizinha.",
+  "por_que_erradas": {
+   "B": "Reúne duas afirmações falsas: I (exclui a dimensão financeira) e IV (PPP transferível).",
+   "C": "Inclui a IV, falsa, e omite a III, verdadeira.",
+   "D": "Inclui a I, falsa, e omite a II, verdadeira."
+  },
+  "fundamentacao": "LDB (Lei nº 9.394/1996), arts. 12 e 13 (proposta pedagógica da escola).",
+  "atualizacao": null
+ },
+ "7": {
+  "area": "EB",
+  "subtopico": "Avaliação institucional",
+  "item": "EB 2.3 (Projeto Político Pedagógico)",
+  "duvida": null,
+  "explicacao_correta": "A avaliação institucional é um processo participativo de melhoria do PPP. Um de seus princípios básicos é o respeito à identidade da escola: ela deve partir do contexto, da história e das metas daquela comunidade, e não de um modelo imposto de fora. Por isso a alternativa D é a que descreve um princípio. As demais negam a participação coletiva ou concentram o processo em poucas pessoas.",
+  "por_que_erradas": {
+   "A": "A avaliação institucional é construída com a comunidade escolar, não imposta por agentes externos.",
+   "B": "Restringir a participação ao corpo docente e ao núcleo gestor contraria o caráter coletivo.",
+   "C": "A adesão individual do gestor não é princípio; o que conta é a participação coletiva."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "8": {
+  "area": "EB",
+  "subtopico": "Ensino médio integrado",
+  "item": "EB 5.2 (O ensino médio no contexto da educação básica)",
+  "duvida": null,
+  "explicacao_correta": "O ensino médio integrado é uma forma de oferta que articula, no mesmo currículo e na mesma matrícula, a formação geral e a formação profissional. O aluno cursa o ensino médio e uma habilitação técnica na mesma instituição, com um projeto pedagógico único. Não confunda com ensino em tempo integral, que diz respeito à carga horária diária, nem com a formação propedêutica, voltada só ao prosseguimento dos estudos.",
+  "por_que_erradas": {
+   "A": "A educação propedêutica prepara para o ensino superior; não é o par da integração.",
+   "B": "A integração é com a educação profissional, e não com a tecnológica de modo genérico.",
+   "D": "Tempo integral trata da jornada ampliada, não da integração curricular com a profissionalização."
+  },
+  "fundamentacao": "Decreto nº 5.154/2004 (forma integrada de oferta); a base atual na LDB tem o ensino médio e a educação profissional técnica de nível médio, arts. 35 e 36-A a 36-D.",
+  "atualizacao": "O ensino médio foi reformado depois de 2018 (Lei nº 13.415/2017 e alterações posteriores). A organização em itinerários mudou; use a legislação vigente no estudo."
+ },
+ "9": {
+  "area": "AP",
+  "subtopico": "Provimento de cargo público",
+  "item": "AP (Servidores públicos; Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Gabarito alterado após recursos (preliminar B, definitivo D). Não conferi o artigo do Estatuto estadual.",
+  "explicacao_correta": "Provimento é o ato de preencher um cargo público. O enunciado cobra a regra do estatuto estadual para considerar provido um cargo efetivo, e o gabarito definitivo indica a publicação do ato de nomeação. O concurso é apenas a etapa de seleção; a posse e o exercício são etapas posteriores. Atenção: essa regra pode variar entre estatutos, por isso vale conferir o texto do estatuto estadual indicado no edital.",
+  "por_que_erradas": {
+   "A": "O concurso seleciona o candidato, mas ainda não provê o cargo.",
+   "B": "A posse vem depois da nomeação, e nesta questão não é o marco indicado como provimento.",
+   "C": "O início do exercício é etapa posterior ao provimento."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "10": {
+  "area": "AP",
+  "subtopico": "Plano de cargos e carreiras",
+  "item": "AP (Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Norma estadual específica não confirmada por mim.",
+  "explicacao_correta": "Em planos de cargos e carreiras, grupo ocupacional é o conjunto de categorias funcionais reunidas segundo a correlação e a afinidade entre elas, quanto à natureza do trabalho ou ao grau de conhecimento exigido. A carreira e a classe são recortes menores dentro do grupo. Memorize a hierarquia: grupo, carreira, classe e referência.",
+  "por_que_erradas": {
+   "A": "Referência funcional indica o ponto na escala de vencimentos, não o agrupamento de categorias.",
+   "B": "Carreira é a série de classes de uma mesma atividade, e não o conjunto de categorias afins.",
+   "C": "Classe funcional é a divisão da carreira por grau de complexidade."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "11": {
+  "area": "AP",
+  "subtopico": "Promoção na carreira do magistério",
+  "item": "AP (Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Lei estadual específica do plano de carreira não confirmada por mim.",
+  "explicacao_correta": "Pelo enunciado, a promoção sem titulação é a passagem para o nível imediatamente superior dentro da mesma carreira, por desempenho e/ou antiguidade. A alternativa C indica as condições coerentes com isso: desempenho eficaz das atribuições e cumprimento do interstício de 365 dias. As demais falam de seleção interna, provas e ingresso em nova carreira, que são características de outras formas de movimentação.",
+  "por_que_erradas": {
+   "A": "Seleção interna com provas escritas não é exigida para promover sem titulação.",
+   "B": "Ingresso em nova carreira ou classe descreve outra movimentação, não a promoção dentro da carreira.",
+   "D": "Provas escritas ou práticas não são requisito da promoção por desempenho."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "12": {
+  "area": "AP",
+  "subtopico": "Remuneração do magistério",
+  "item": "AP (Estatuto dos Servidores do Estado do Ceará)",
+  "duvida": "Norma estadual específica não confirmada por mim.",
+  "explicacao_correta": "A remuneração do professor é formada por uma parte fixa, o vencimento base, mais vantagens e gratificações previstas em lei. O vencimento base é o componente obrigatório e central. Décimo terceiro, abono pecuniário e adicional de férias são direitos ou vantagens à parte, tratados em outras normas e não como componente da composição básica da remuneração indicada.",
+  "por_que_erradas": {
+   "A": "O décimo terceiro é direito pago anualmente, não parcela da composição básica citada.",
+   "B": "O abono pecuniário é a conversão de férias em dinheiro, e não parte da remuneração.",
+   "C": "O adicional de férias é um direito próprio do período de férias."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "13": {
+  "area": "AP",
+  "subtopico": "LDB: incumbências dos Estados",
+  "item": "EB 1.1 / AP (LDB, Lei 9.394/96)",
+  "duvida": "Poderia ser classificada em Educação Brasileira (EB 1.1).",
+  "explicacao_correta": "A LDB distribui competências entre os entes federados. Ao Estado cabe, entre outras, elaborar e executar políticas e planos educacionais em consonância com as diretrizes e planos nacionais, integrando e coordenando as suas ações e as de seus Municípios. A assistência técnica e financeira aos entes é da União. A educação infantil é prioridade dos Municípios, e o credenciamento dos estabelecimentos municipais cabe ao sistema de ensino a que pertencem.",
+  "por_que_erradas": {
+   "A": "Prestar assistência técnica e financeira aos entes é atribuição da União, não dos Estados.",
+   "B": "Autorizar e supervisionar estabelecimentos do sistema municipal compete ao próprio município, não ao Estado.",
+   "D": "A oferta de educação infantil é prioridade municipal."
+  },
+  "fundamentacao": "LDB (Lei nº 9.394/1996), art. 10, inciso III.",
+  "atualizacao": null
+ },
+ "14": {
+  "area": "AP",
+  "subtopico": "LDB: ensino fundamental e matrícula",
+  "item": "EB 1.1 (LDB)",
+  "duvida": "Pela seção da prova (Administração Pública) fica em AP, mas o conteúdo é LDB (item EB 1.1 do edital 2026).",
+  "explicacao_correta": "A LDB define o ensino fundamental como obrigatório, com duração de nove anos, gratuito na escola pública, iniciando-se aos seis anos, com objetivo de formação básica do cidadão. A alternativa B erra ao dizer que o tempo dos exames finais está incluído nas 800 horas; a lei os exclui. A C e a D erram as idades: a educação infantil vai até os cinco anos, e a matrícula é obrigatória a partir dos quatro.",
+  "por_que_erradas": {
+   "B": "A carga horária mínima de 800 horas em 200 dias exclui, e não inclui, o tempo dos exames finais.",
+   "C": "O direito à educação infantil vai até o final do ano em que a criança completa cinco anos, não sete.",
+   "D": "O dever dos pais de matricular começa aos quatro anos de idade (educação básica obrigatória), não aos sete."
+  },
+  "fundamentacao": "LDB (Lei nº 9.394/1996), arts. 6º, 24 (inciso I), 30 e 32.",
+  "atualizacao": "O texto da LDB foi alterado várias vezes depois de 2018. Antes de estudar, confirme o artigo vigente e o PNE 2026-2036, citado no edital."
+ },
+ "15": {
+  "area": "LP",
+  "subtopico": "Compreensão e interpretação de textos",
+  "item": "LP 1 (Compreensão e interpretação de textos)",
+  "duvida": null,
+  "explicacao_correta": "A autora parte de um fato jornalístico: a hostilidade de moradores de Roraima contra os venezuelanos que chegam à fronteira. O que motiva o texto é esse êxodo, isto é, a chegada massiva de migrantes famintos e assustados. A partir dele, a autora discute identidade e pertencimento. A identidade roraimense, a angústia do não pertencimento e a formação da população são desdobramentos do tema, não o fato que o provoca.",
+  "por_que_erradas": {
+   "A": "A identidade roraimense é uma consequência analisada no texto, não o motivo da escrita.",
+   "B": "A angústia de não pertencer é a tese de análise, e não o elemento desencadeador.",
+   "D": "A formação da população de Roraima é apresentada como pano de fundo."
+  },
+  "fundamentacao": "Texto-base: Eliane Brum, jornal El País (27/08/2018), conforme a fonte indicada na prova.",
+  "atualizacao": null
+ },
+ "16": {
+  "area": "LP",
+  "subtopico": "Tipologia textual",
+  "item": "LP 3 (Tipologias textuais)",
+  "duvida": null,
+  "explicacao_correta": "Um texto é dissertativo quando defende uma tese com argumentos, usando em geral verbos no presente do indicativo. Eliane Brum afirma e justifica ideias sobre migração, fronteira e pertencimento, sem narrar uma sequência de ações no tempo. Por isso é predominantemente dissertativo-argumentativo. O texto até cita fatos, mas a organização é a de defesa de uma interpretação, e não a de uma história com antes, durante e depois.",
+  "por_que_erradas": {
+   "A": "Texto expositivo apresenta informação de modo neutro; a justificativa dada (sequência temporal e seres concretos) descreve narração.",
+   "C": "Texto injuntivo orienta ou instrui o leitor, o que não ocorre aqui.",
+   "D": "Texto narrativo se organiza por progressão temporal e verbos no pretérito, o que não predomina."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "17": {
+  "area": "LP",
+  "subtopico": "Significação das palavras: sentido figurado",
+  "item": "LP 15 (Significação das palavras)",
+  "duvida": null,
+  "explicacao_correta": "Em sentido literal, mapa é um desenho geográfico. No trecho 'Quem viveu escorregando de todos os mapas sente a dor dessa experiência no corpo', mapa aparece como metáfora de lugares de pertencimento: escorregar dos mapas é perder o lugar no mundo. É o uso mais abstrato. Nos outros trechos o mapa ainda remete ao território, ao Brasil e à fronteira, ou seja, a algo mais concreto.",
+  "por_que_erradas": {
+   "B": "'À beira do mapa' remete à posição geográfica de Roraima, a borda do país.",
+   "C": "'Outros pontos do mapa' trata de lugares onde as pessoas tentaram se fixar; o sentido é espacial.",
+   "D": "'Pelo mapa do Brasil' descreve o percurso geográfico dos migrantes."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "18": {
+  "area": "LP",
+  "subtopico": "Funções sintáticas dos termos",
+  "item": "LP 11 (Relações sintáticas na organização da oração e do período)",
+  "duvida": null,
+  "explicacao_correta": "Complemento nominal completa o sentido de um nome (substantivo, adjetivo ou advérbio) e vem com preposição. Em IV, 'de não pertencer' completa 'angústia'. Em V, 'de apagar as populações nativas' completa 'desejo'. As duas são complementos nominais, como diz a alternativa B. Já em I e VI os termos 'por migrantes recentes' e 'por velhas e novas elites locais' são agentes da passiva, o que derruba as outras opções.",
+  "por_que_erradas": {
+   "A": "Em VI o termo sublinhado é agente da passiva ('é fomentada por...'), não objeto indireto.",
+   "C": "Em III o termo 'num venezuelano desesperado e sem lugar' não é agente da passiva.",
+   "D": "O termo em V completa um substantivo, portanto é complemento nominal, e não adjunto adnominal."
+  },
+  "fundamentacao": "Regra de complemento nominal x adjunto adnominal (gramática normativa).",
+  "atualizacao": null
+ },
+ "19": {
+  "area": "LP",
+  "subtopico": "Acentuação gráfica",
+  "item": "LP 6 (Acentuação gráfica)",
+  "duvida": "Gabarito pode gerar discussão: pôde e porquê são tratados como acento diferencial, e há contestações sobre a questão em fóruns de preparação. Mantido o oficial.",
+  "explicacao_correta": "A palavra 'pôde' leva acento circunflexo para se distinguir de 'pode' (presente do indicativo). É um caso de acento diferencial. 'Porquê', como substantivo ou em fim de frase, recebe acento para se distinguir de 'por que'. As duas palavras têm acento pelo mesmo motivo, e por isso a alternativa A é a oficial. As demais palavras acentuadas seguem outras regras (monossílabo tônico, paroxítona terminada em ditongo, etc.).",
+  "por_que_erradas": {
+   "B": "'Há' é monossílabo tônico terminado em -a, regra geral e não diferencial pelo critério usado na questão.",
+   "C": "'Três' é monossílabo tônico terminado em -es.",
+   "D": "'Evidência' é paroxítona terminada em ditongo crescente (-ia)."
+  },
+  "fundamentacao": "Regras de acentuação do Acordo Ortográfico (acento diferencial de 'pôde' e 'por que/porquê').",
+  "atualizacao": null
+ },
+ "20": {
+  "area": "LP",
+  "subtopico": "Funções sintáticas: predicativo do sujeito",
+  "item": "LP 11 (Relações sintáticas na organização da oração e do período)",
+  "duvida": null,
+  "explicacao_correta": "Em 'A violência em Roraima é contra a imagem no espelho', o verbo ser liga o sujeito 'a violência' a uma característica ou estado. O termo 'contra a imagem no espelho' completa esse verbo de ligação e diz algo sobre o sujeito: é o predicativo do sujeito. Não é objeto, porque o verbo ser não pede complemento verbal, nem adjunto adverbial, porque não indica circunstância de modo, lugar ou tempo.",
+  "por_que_erradas": {
+   "A": "Objeto indireto é complemento de verbo transitivo indireto; ser é verbo de ligação.",
+   "B": "Objeto direto é complemento de verbo transitivo direto; aqui não há ação transitiva.",
+   "D": "Adjunto adverbial indica circunstância; o termo qualifica o sujeito."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "21": {
+  "area": "LP",
+  "subtopico": "Funções sintáticas: sujeito",
+  "item": "LP 11 (Relações sintáticas na organização da oração e do período)",
+  "duvida": null,
+  "explicacao_correta": "Sujeito é o termo sobre o qual se declara algo e com o qual o verbo concorda. Na alternativa D, 'é possível perder tudo mais uma vez' tem como sujeito a oração 'perder tudo mais uma vez' (oração subjetiva): o que é possível? Perder tudo. Nas demais, os trechos sublinhados completam verbos ou introduzem orações com outras funções, e não são sujeito.",
+  "por_que_erradas": {
+   "A": "'Que há uma fera rosnando...' é oração que completa o verbo 'lembra' (objeto direto).",
+   "B": "O 'que' retoma 'espelho' e funciona como objeto direto de 'destruir'.",
+   "C": "'Cujo retorno' é o termo que o verbo 'aceitar' pede (objeto direto), e o sujeito de 'não podem aceitar' está implícito."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "22": {
+  "area": "LP",
+  "subtopico": "Coesão referencial: pronomes",
+  "item": "LP 10 (Relações de coordenação e subordinação) / LP 7 (Classes gramaticais)",
+  "duvida": "Poderia ser classificada como Leitura (coesão), mas é questão de Língua Portuguesa básica no edital.",
+  "explicacao_correta": "Em 'o Brasil é contra eles (ou os ignora ...)', os pronomes 'eles' e 'os' retomam o mesmo grupo: os moradores de Roraima, ou a população local de que o texto trata. Como esse grupo não vem nomeado num único termo logo antes, o leitor o recupera a partir das informações do cotexto. Por isso os referentes são iguais e recuperados pelo cotexto.",
+  "por_que_erradas": {
+   "A": "Os referentes não são diferentes: os dois pronomes apontam para o mesmo grupo.",
+   "B": "Mesmo erro de A: os pronomes não têm referentes diferentes entre si.",
+   "D": "Os referentes são iguais, mas não aparecem explícitos em um único termo na progressão do texto; precisam ser reconstruídos pelo cotexto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "23": {
+  "area": "DI",
+  "subtopico": "SPAECE",
+  "item": "DI 2.1 (Spaece)",
+  "duvida": null,
+  "explicacao_correta": "O SPAECE é a avaliação externa do sistema cearense. Em 2007 ele passou a incluir a alfabetização e a avaliar o ensino médio nas três séries, de forma censitária (I). Questionários contextuais a alunos, professores e diretores permitem montar indicadores de perfil socioeconômico, hábitos de estudo e prática docente (III e IV). A II é a falsa: ela descreve de forma imprecisa as séries e as áreas avaliadas. Não confirmei em documento oficial a lista exata de séries avaliadas pelo SPAECE.",
+  "por_que_erradas": {
+   "A": "Omite a afirmação I, verdadeira.",
+   "C": "Inclui a II, falsa, e omite a IV, verdadeira.",
+   "D": "Dizer que as quatro são verdadeiras ignora o erro da II."
+  },
+  "fundamentacao": "Descrição do SPAECE no próprio enunciado e nos documentos da SEDUC/CE; não conferi o texto original.",
+  "atualizacao": "O edital 2026 cobra o SPAECE em Educação Brasileira (item 8.1) e em Dados (item 2.1). Confira os dados atuais, pois séries e etapas avaliadas mudam com o tempo."
+ },
+ "24": {
+  "area": "DI",
+  "subtopico": "Enem",
+  "item": "DI 2.3 (Exame Nacional do Ensino Médio - Enem)",
+  "duvida": null,
+  "explicacao_correta": "O Enem avalia o desempenho do aluno ao final da educação básica. Seus resultados servem para criar uma referência nacional e aperfeiçoar currículos do ensino médio (I), podem ser usados como mecanismo único, alternativo ou complementar de acesso à educação superior (II) e permitem produzir estudos e indicadores sobre a educação brasileira (III). A IV é falsa: o exame não é um sistema de avaliação formal das instituições da rede privada.",
+  "por_que_erradas": {
+   "B": "Inclui a IV, que atribui ao Enem uma função de avaliação formal da rede privada, o que não é sua finalidade.",
+   "C": "Omite a I, verdadeira, e inclui a IV, falsa.",
+   "D": "Omite a II, verdadeira, e inclui a IV, falsa."
+  },
+  "fundamentacao": null,
+  "atualizacao": "O Enem passou por mudanças depois de 2018 (por exemplo, formato e uso dos resultados). Confira a regulamentação atual do Inep antes de estudar."
+ },
+ "25": {
+  "area": "DI",
+  "subtopico": "IDEB",
+  "item": "DI 1.2 (Indicadores e índices no campo da política educacional)",
+  "duvida": "Gabarito alterado após recursos (preliminar C, definitivo A).",
+  "explicacao_correta": "O Ideb foi criado para medir a qualidade do aprendizado nacional (I) e estabelecer metas para a melhoria do ensino (IV). Ele combina o fluxo escolar (aprovação) com as médias de desempenho nas avaliações. Orientar currículos de estados e municípios (II) e monitorar a ação dos sistemas municipais (III) não são as finalidades que o enunciado atribui ao índice. Por isso a opção correta é I e IV.",
+  "por_que_erradas": {
+   "B": "A III, sobre monitorar a ação dos sistemas municipais, não é a finalidade de criação do Ideb.",
+   "C": "Nem a II nem a III descrevem a finalidade de criação do índice.",
+   "D": "A II, sobre orientar a elaboração de currículos, não é o objetivo do Ideb."
+  },
+  "fundamentacao": "Ideb: indicador do Inep que combina rendimento escolar e desempenho em avaliações.",
+  "atualizacao": null
+ },
+ "26": {
+  "area": "DI",
+  "subtopico": "Leitura de gráfico (SPAECE)",
+  "item": "DI 3 (Leitura e interpretação de dados em formatos variados)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "27": {
+  "area": "DI",
+  "subtopico": "PISA",
+  "item": "DI 2.4 (Programa Internacional de Avaliação de Alunos - Pisa)",
+  "duvida": null,
+  "explicacao_correta": "O Pisa é uma avaliação internacional que compara sistemas educacionais de vários países por meio de testes aplicados a estudantes de 15 anos. As áreas avaliadas são leitura, matemática e ciências. A alternativa B reúne essas três áreas e fala de sistemas educacionais no mundo. As demais restringem a região do mundo, a disciplina avaliada ou o objeto (currículos).",
+  "por_que_erradas": {
+   "A": "O Pisa não se limita a países europeus e americanos, e inclui ciências.",
+   "C": "O Pisa não é regional (América Latina e Europa).",
+   "D": "O Pisa avalia estudantes, e não currículos, e não se limita a países em desenvolvimento nem à área de ciências."
+  },
+  "fundamentacao": "OCDE, Programa Internacional de Avaliação de Estudantes (Pisa).",
+  "atualizacao": null
+ },
+ "28": {
+  "area": "DI",
+  "subtopico": "IDEB: componentes",
+  "item": "DI 1.3 (Indicadores calculados pelo Inep)",
+  "duvida": null,
+  "explicacao_correta": "O Ideb combina dois componentes: a taxa de rendimento escolar (aprovação e fluxo dos alunos) e as médias de desempenho nos exames aplicados pelo Inep (Saeb e Prova Brasil). É essa combinação que impede que uma escola 'ganhe' nota só aprovando todos sem aprender, ou só tendo bom desempenho com muita repetência. A alternativa C traz esses dois componentes sem misturar índices e avaliações locais.",
+  "por_que_erradas": {
+   "A": "Usa apenas reprovação e cita o Saeb de forma incompleta como fonte da média.",
+   "B": "Fala em aprovação e reprovação separadamente e cita só a Prova Brasil.",
+   "D": "Evasão e sistemas de avaliação locais não compõem o cálculo do Ideb."
+  },
+  "fundamentacao": "Ideb (Inep): taxa de rendimento escolar e médias de desempenho no Saeb e na Prova Brasil.",
+  "atualizacao": "A Prova Brasil deixou de existir como nome separado depois de 2019; o Saeb passou a reunir as avaliações. Atualize a nomenclatura no estudo."
+ },
+ "29": {
+  "area": "DI",
+  "subtopico": "Leitura de tabela: taxas de escolarização",
+  "item": "DI 3 / DI 4 (Leitura e interpretação de dados; estatística descritiva)",
+  "duvida": null,
+  "explicacao_correta": "Na tabela, a taxa bruta passou de 98,4% (2013) para 97,5% (2015), e a taxa líquida, de 90,1% para 89,6%. As duas caíram. A taxa líquida mede os alunos na faixa etária regular da etapa; ela representa o atendimento da faixa obrigatória. Se ela diminui, o país está se afastando da universalização, o que caracteriza maior distanciamento do cumprimento da determinação legal. Isso corresponde à alternativa D.",
+  "por_que_erradas": {
+   "A": "Com 89,6% na taxa líquida, a universalização não está assegurada.",
+   "B": "A taxa bruta, que inclui fora de faixa, caiu, e não subiu.",
+   "C": "A taxa líquida diminuiu, então não há aproximação da meta."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "30": {
+  "area": "DI",
+  "subtopico": "Distorção idade-série",
+  "item": "DI 1 (Indicadores educacionais)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "31": {
+  "area": "LAS",
+  "subtopico": "Leitura: coesão, coerência e conhecimento prévio",
+  "item": "LEITURA 5 e 6 / ANÁLISE LINGUÍSTICA 2 (Inferência; Coerência e coesão)",
+  "duvida": null,
+  "explicacao_correta": "Para entender a tirinha, o leitor precisa de um conhecimento prévio: o nome Cascão remete a um personagem conhecido por evitar água. A graça está na contradição com a fala 'estou ficando com água na boca'. O sentido é construído pelo leitor a partir do que está no texto e do que ele já sabe, e por isso a alternativa A é a verdadeira. A coesão ajuda, mas não basta para gerar sentido; um texto só se torna coerente na interação com o leitor.",
+  "por_que_erradas": {
+   "B": "A coesão não é o 'único pré-requisito' para o sentido; falta contar com a coerência e o conhecimento de mundo.",
+   "C": "Os elos coesivos ligam as falas, mas não 'respondem' à pergunta essencial de sentido, que depende do conhecimento prévio.",
+   "D": "A coesão por si só não garante coerência, e a coerência também depende de fatores fora do texto."
+  },
+  "fundamentacao": "Noções de coesão e coerência da linguística textual; a tese de que coerência se constrói na interação é consenso na área, sem citação específica confirmada por mim.",
+  "atualizacao": null
+ },
+ "32": {
+  "area": "LAS",
+  "subtopico": "Leitura: concepção interativa",
+  "item": "LEITURA 3 (Perspectivas no estudo da leitura) / 5 (Implícitos)",
+  "duvida": "Gabarito alterado após recursos (preliminar B, definitivo C).",
+  "explicacao_correta": "Na concepção interativa, o texto tem uma parte visível, a materialidade linguística (o explícito), e uma invisível, o implícito que o leitor recupera (I). Ler é mobilizar conhecimentos linguísticos, enciclopédicos, comunicacionais e de outros textos (II). E o texto não é mera soma de palavras e frases: é uma organização escolhida entre tantas possíveis (III). Por isso, as três afirmações são consideradas corretas pelo gabarito definitivo.",
+  "por_que_erradas": {
+   "A": "Deixa de fora a II, que descreve corretamente a leitura.",
+   "B": "Foi o gabarito preliminar; o definitivo considerou também a III correta.",
+   "D": "Deixa de fora a I, que trata do explícito e do implícito."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "33": {
+  "area": "LAS",
+  "subtopico": "Hipertexto",
+  "item": "ANÁLISE LINGUÍSTICA 10.1 (Hipertexto)",
+  "duvida": null,
+  "explicacao_correta": "Paulo Freire disse que a leitura do mundo precede a da palavra. O texto lido descreve o hipertexto como um espaço onde palavras, sons, gráficos e diagramas se combinam num todo de sentido. Assim, o hipertexto consolida o processo descrito por Freire, pois amplia, em várias dimensões, a compreensão do leitor ao explorar muitas informações e muitas vezes sem os recursos da hipermídia. As outras opções exageram ('dizer tudo') ou reduzem a leitura à decodificação.",
+  "por_que_erradas": {
+   "A": "O hipertexto não permite 'dizer tudo': todo texto deixa implícitos.",
+   "B": "Pede mais do leitor do que decodificar palavras; também exige navegação e relação entre linguagens.",
+   "C": "Afirma que o hipertexto limita os horizontes do leitor, contrariando a ideia de ampliação do texto."
+  },
+  "fundamentacao": "Paulo Freire, A importância do ato de ler (citação feita pelo próprio enunciado).",
+  "atualizacao": null
+ },
+ "34": {
+  "area": "LAS",
+  "subtopico": "Tecnologias no ensino",
+  "item": "ANÁLISE LINGUÍSTICA 10 (Tecnologias da comunicação e de informação no ensino da Língua Portuguesa)",
+  "duvida": "Poderia ser classificada em Ensino (metodologias).",
+  "explicacao_correta": "Uma tecnologia não é educativa por si mesma. O que a torna recurso pedagógico é o uso que o professor faz dela, com objetivos, planejamento e mediação. A alternativa B diz isso: o valor está no uso, e não no recurso. As demais atribuem propósito educativo ou garantia de inovação ao próprio artefato, o que ignora a prática pedagógica.",
+  "por_que_erradas": {
+   "A": "Acesso à informação não traz, por si só, uma proposta educativa.",
+   "C": "A inovação tecnológica não garante inovação pedagógica automática.",
+   "D": "O 'velho' ou 'novo' está no uso, e não na data de criação do artefato."
+  },
+  "fundamentacao": null,
+  "atualizacao": "Desde 2018 as tecnologias digitais ganharam espaço na BNCC (competências gerais e cultura digital). Relacione o tema ao documento no estudo."
+ },
+ "35": {
+  "area": "LAS",
+  "subtopico": "Variação linguística e preconceito",
+  "item": "ANÁLISE LINGUÍSTICA 8 (Variação linguística e preconceito linguístico)",
+  "duvida": null,
+  "explicacao_correta": "As falas de Chico Bento mostram uma variedade rural e popular, que é uma variedade legítima da língua. Uma visão preconceituosa considera essa variedade errada ou nociva. A alternativa C sugere proibir a revista porque o jeito de falar do personagem poderia influenciar a fala das crianças: isso trata a variedade como defeito. As outras três valorizam a diversidade e o multiculturalismo.",
+  "por_que_erradas": {
+   "A": "Valoriza a diversidade sociolinguística, o oposto do preconceito.",
+   "B": "Vê o personagem como ponte entre crianças urbanas e a cultura rural, sem desvalorizar a variedade.",
+   "D": "Propõe o personagem como símbolo do multiculturalismo, atitude de respeito."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "36": {
+  "area": "LAS",
+  "subtopico": "Gêneros textuais",
+  "item": "ANÁLISE LINGUÍSTICA 9 (Gêneros discursivos/textuais)",
+  "duvida": null,
+  "explicacao_correta": "Os estudos de gêneros tratam os textos como formas de ação social relativamente estáveis, ligadas a funções e esferas de circulação. Por isso afirmar que os gêneros são 'modelos estanques, com estruturas rígidas' é a resposta incorreta: eles são dinâmicos, flexíveis e mudam com o uso. As outras três falam de função, propósito e relação entre forma, estilo e conteúdo, ideias aceitas na área.",
+  "por_que_erradas": {
+   "A": "Defende o papel da função na determinação do gênero, ideia aceita.",
+   "B": "Destaca o propósito e a esfera de circulação, também aceito.",
+   "C": "Reúne forma, função, estilo e conteúdo, o que é consensual."
+  },
+  "fundamentacao": "Conceito de gêneros como tipos 'relativamente estáveis' de enunciados (Bakhtin).",
+  "atualizacao": null
+ },
+ "37": {
+  "area": "LAS",
+  "subtopico": "Gêneros textuais: critério de identificação",
+  "item": "ANÁLISE LINGUÍSTICA 9.1 (Identificação dos gêneros)",
+  "duvida": null,
+  "explicacao_correta": "A 'Receita do amor' tem a forma de uma receita (lista de ingredientes, modo de preparo), mas fala de sentimentos e tem intenção poética. Se o critério fosse a forma, seria uma receita culinária. Como o que a determina é a função (comunicar afeto de modo poético), o gênero é outro. Por isso a função é o critério que impera na determinação do gênero, e não o suporte, o contexto ou a forma.",
+  "por_que_erradas": {
+   "B": "O suporte (onde o texto circula) ajuda, mas não define o gênero.",
+   "C": "O contexto influencia a leitura, mas o critério decisivo aqui é a função.",
+   "D": "A forma é justamente o que engana: o texto imita uma receita, mas não cumpre a função de receita."
+  },
+  "fundamentacao": "Luiz Antônio Marcuschi, 'Gêneros textuais: definição e funcionalidade' (a ideia de que a função prevalece sobre a forma).",
+  "atualizacao": null
+ },
+ "38": {
+  "area": "LAS",
+  "subtopico": "Coesão referencial: expressões definidas e indefinidas",
+  "item": "LEITURA 7 (Relações coesivas: referência, substituição, elipse e repetição)",
+  "duvida": null,
+  "explicacao_correta": "Em coesão referencial, uma informação nova costuma entrar no texto por expressão indefinida ('uma calda') e, depois, ser retomada por expressão definida ('a calda'). É o que acontece no texto da receita. A primeira afirmação é verdadeira. A segunda é falsa, pois os ingredientes da lista, ao serem mencionados no modo de fazer, aparecem como definidos. A terceira é verdadeira: gemas, claras e açúcar são 'dados'; calda e aromatizante são 'novos'. A quarta é falsa, e a quinta é verdadeira: uma entidade definida só se retoma por outra definida.",
+  "por_que_erradas": {
+   "A": "Considera a segunda como verdadeira e a terceira como falsa, o inverso do correto.",
+   "C": "Marca como verdadeira a quarta, que é falsa, e como falsa a primeira.",
+   "D": "Nega a primeira e a quinta, que são verdadeiras."
+  },
+  "fundamentacao": "Distinção entre informação dada e nova na referenciação; autoria da definição não confirmada por mim.",
+  "atualizacao": null
+ },
+ "39": {
+  "area": "LAS",
+  "subtopico": "Agrupamentos de gêneros",
+  "item": "ANÁLISE LINGUÍSTICA 9 (Gêneros discursivos/textuais)",
+  "duvida": null,
+  "explicacao_correta": "Na proposta de agrupamento de gêneros, cada modalidade retórica reúne gêneros de mesma capacidade de linguagem. Seminário, conferência e entrevista de especialista são gêneros de exposição: transmitem e constroem saberes, ou seja, expor. As demais opções misturam gêneros de modalidades diferentes: regulamento e regras de jogo instruem, novela fantástica narra, currículo é exposição de dados.",
+  "por_que_erradas": {
+   "A": "Regulamento e regras de jogo pertencem a instruir/prescrever, e carta do leitor é argumentativa.",
+   "B": "Novela fantástica é narrativa; só texto de opinião e debate regrado argumentam.",
+   "D": "Curriculum vitae não é narrativo; fábula e lenda, sim."
+  },
+  "fundamentacao": "Proposta de agrupamento de gêneros de Dolz e Schneuwly (Gêneros orais e escritos na escola).",
+  "atualizacao": null
+ },
+ "40": {
+  "area": "ENS",
+  "subtopico": "Pluralidade cultural no ensino de língua",
+  "item": "ENSINO 2 (Metodologias e práticas para o ensino de Língua Portuguesa)",
+  "duvida": "Poderia ser classificada em Análise Linguística (gêneros).",
+  "explicacao_correta": "Um ensino culturalmente sensível reconhece a pluralidade de culturas e vozes. Explorar na escola temas como doenças endêmicas, ecologia, artes plásticas, trânsito, meios de comunicação e literatura trata a linguagem como forma de ação e inserção social e cultural. É isso que diz a alternativa D. As demais restringem o trabalho a aspectos internos da língua, privilegiam uma cultura urbana elitizada ou supõem que visitas, por si sós, garantem reconhecimento da pluralidade.",
+  "por_que_erradas": {
+   "A": "Limita o trabalho com gêneros ao sistema interno da língua, ignorando seu papel social e cultural.",
+   "B": "Privilegiar o urbanismo elitizado contradiz a pluralidade cultural.",
+   "C": "Visitas, 'por si sós', não garantem reconhecimento da pluralidade; precisa haver mediação pedagógica."
+  },
+  "fundamentacao": null,
+  "atualizacao": "A BNCC e o DCRC, cobrados no edital 2026, tratam da diversidade cultural nas competências gerais; vale reler esses documentos."
+ },
+ "41": {
+  "area": "LAS",
+  "subtopico": "Coesão referencial: hiperônimos, hipônimos e nomes gerais",
+  "item": "LEITURA 7 e 8 (Relações coesivas; hiperonímia/hiponímia)",
+  "duvida": null,
+  "explicacao_correta": "A reiteração pode ocorrer por repetição, sinônimos, hiperônimos e hipônimos, ou nomes gerais. Nomes gerais como gente, pessoa, coisa, negócio, lugar e ideia têm sentido muito amplo e, por isso, retomam elementos já ditos, funcionando como referência anafórica. Já o hiperônimo é o termo mais geral (animal), e o hipônimo, o mais específico (cachorro). A alternativa C é a única que descreve corretamente um desses recursos.",
+  "por_que_erradas": {
+   "A": "A reiteração por formas diversas também depende do conhecimento de mundo, e não só do linguístico.",
+   "B": "Inverte os conceitos: relação de classe com elemento é hiperonímia na ordem classe para elemento.",
+   "D": "Os hiperônimos são mais gerais e deixam o texto mais vago; os hipônimos é que são mais precisos."
+  },
+  "fundamentacao": "Conceitos de hiperonímia e hiponímia da semântica lexical.",
+  "atualizacao": null
+ },
+ "42": {
+  "area": "LAS",
+  "subtopico": "Organização retórica do parágrafo",
+  "item": "LEITURA 6 (Texto e fatores de textualidade) / ANÁLISE LINGUÍSTICA 2",
+  "duvida": "Terminologia (explanação, exemplificação, definição) vem de manual de redação; não confirmei a fonte exata cobrada.",
+  "explicacao_correta": "A questão pede que se identifique como o parágrafo se organiza. O parágrafo das adivinhações faz uma pergunta e a responde, explicando por que elas agradam às crianças: é um desenvolvimento por explanação. Os outros exemplos estão rotulados de forma errada: o do humor define o conceito, o do casarão descreve um lugar, e o da imaginação utópica apresenta uma ideia e a desenvolve com informações, sem ser uma descrição.",
+  "por_que_erradas": {
+   "A": "O parágrafo sobre o humor define o que é humor; o rótulo 'exemplificação' não se aplica.",
+   "C": "O parágrafo do casarão descreve um lugar, e não define um conceito.",
+   "D": "O parágrafo sobre imaginação utópica expõe uma ideia, e não descreve um objeto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "43": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: tempo",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": "Terminologia de Soares (Técnica de redação) conforme a fonte citada; conteúdo exato do critério não confirmado por mim.",
+  "explicacao_correta": "O parágrafo mostra a transformação do livro: de privilégio de uma minoria, acessível a poucos, a produto de consumo de massa. Para mostrar essa evolução, o texto segue uma ordem no tempo (antes, agora, os últimos anos). A alternativa A diz exatamente isso: o objetivo é mostrar a evolução e ele leva a uma ordenação por tempo. As demais acrescentam critérios de espaço que não organizam o texto.",
+  "por_que_erradas": {
+   "B": "Lista recursos gerais de indicação de tempo, mas não identifica o objetivo do parágrafo nem seu critério.",
+   "C": "O parágrafo não organiza por tempo e espaço ao mesmo tempo; só há ordenação temporal.",
+   "D": "Não há expressões de lugar marcando a ordenação do parágrafo; as indicações são temporais."
+  },
+  "fundamentacao": "Fonte citada na prova: M. B. T. Soares, Técnica de redação (1978).",
+  "atualizacao": null
+ },
+ "44": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: tempo e espaço",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": null,
+  "explicacao_correta": "O parágrafo sobre a televisão mostra o desenvolvimento do veículo ao longo do tempo (1908-1914, 1939, 1945, 1950) e em lugares diferentes (Estados Unidos, Brasil). Por isso o critério não é exclusivamente temporal: tempo e espaço aparecem juntos, o que torna F a primeira afirmação e V a segunda. A terceira é falsa, pois não é obrigatório escolher só um critério, e a quarta é verdadeira: experimentação (fato), entre 1908 e 1914 (tempo), nos Estados Unidos (espaço). A sequência é F, V, F, V.",
+  "por_que_erradas": {
+   "A": "Marca como verdadeira a primeira, que diz 'exclusivamente por tempo'.",
+   "B": "Marca como falsa a segunda e a quarta, que são verdadeiras.",
+   "C": "Marca como verdadeira a primeira e como falsa a terceira, ao contrário do correto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "45": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: contraste",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": null,
+  "explicacao_correta": "O parágrafo de Vianna Moog compara o português e o anglo-saxão diante da natureza. As palavras que opõem os dois elementos (o português e o anglo-saxão; conquistar o trópico e as zonas temperadas) mostram que o desenvolvimento é por contraste (II). Como expressões de contraste, aparecem 'enquanto', 'mas', 'agora' e 'pelo contrário' (IV). A I é falsa, pois a introdução não se limita aos dois primeiros períodos, e a III é falsa, pois inverte as ideias: o anglo-saxão tinha familiaridade, e o português, não.",
+  "por_que_erradas": {
+   "A": "A III inverte a familiaridade, e deixa de fora a II.",
+   "B": "A I é falsa; não se pode dizer que apenas os dois primeiros períodos formam a introdução.",
+   "D": "A I e a III são falsas."
+  },
+  "fundamentacao": "Fonte citada na prova: V. Moog, Bandeirantes e pioneiros (1969).",
+  "atualizacao": null
+ },
+ "46": {
+  "area": "LAS",
+  "subtopico": "Estrutura do parágrafo: ideia principal e conclusão",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": null,
+  "explicacao_correta": "A primeira frase, 'Viver é mesmo uma ginástica', apresenta a ideia principal. As frases seguintes dão exemplos do movimento do corpo (coração, pulmões, digestão, músculos). A frase final, introduzida por 'Portanto', retoma e reafirma a ideia principal, de modo que o desempenho da musculatura leva ao movimento da vida. A alternativa B descreve essa função. A conclusão não é uma ideia de apoio nem apresenta a ideia pela primeira vez.",
+  "por_que_erradas": {
+   "A": "A última frase retoma a ideia principal, e não explica nem amplia ideias de apoio.",
+   "C": "A ideia principal está na primeira frase, e não na que fala do coração.",
+   "D": "'Viver é mesmo uma ginástica' é a ideia principal, não uma de apoio."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "47": {
+  "area": "LAS",
+  "subtopico": "Organização do parágrafo: causa e consequência",
+  "item": "LEITURA 6 (Texto e fatores de textualidade)",
+  "duvida": "Não confirmei a justificativa do gabarito para o segundo item (problemas do equilíbrio homem/meio ambiente como causa).",
+  "explicacao_correta": "No parágrafo, a relação causal encadeia fatos: o acelerado desenvolvimento gera problemas ligados ao meio ambiente, que resultam em poluição e em desperdício, e que exigem uma formação ecológica para o progresso do país. Por isso, o gabarito oficial classifica como causa o desenvolvimento acelerado, os problemas do equilíbrio homem/meio ambiente e o desenvolvimento industrial. E como consequência: os problemas crescentes, o desperdício e a contribuição para o progresso. A sequência é CA, CA, CO, CA, CO, CO.",
+  "por_que_erradas": {
+   "A": "Inverte quase todas as relações, tratando o desenvolvimento acelerado como consequência.",
+   "B": "Marca o desenvolvimento industrial como consequência e o desperdício como causa.",
+   "D": "Troca causas por consequências nas duas primeiras posições."
+  },
+  "fundamentacao": "Parágrafo de Revista Petrobras, n. 271 (1975), citado no enunciado.",
+  "atualizacao": null
+ },
+ "48": {
+  "area": "ENS",
+  "subtopico": "Competências e habilidades dos PCN de Linguagens",
+  "item": "ENSINO 1 (Competências e habilidades com base na BNCC e no DCRC)",
+  "duvida": null,
+  "explicacao_correta": "A questão associa habilidades a três competências dos Parâmetros Curriculares do Ensino Médio. Analisar a função da linguagem e identificar elementos da progressão temática ligam-se ao uso dos sistemas simbólicos como meio de organização do real (competência 1). Reconhecer estratégias argumentativas de convencimento liga-se a confrontar opiniões e pontos de vista (competência 2). Reconhecer variedades linguísticas e usos da norma padrão liga-se a usar a língua materna como geradora de significação e identidade (competência 3). A sequência é 1, 2, 3, 3, 1.",
+  "por_que_erradas": {
+   "A": "Troca a segunda e a quinta, associando a estratégia argumentativa à língua materna.",
+   "C": "Começa por 2 para a análise da função da linguagem, que pertence à competência 1.",
+   "D": "Atribui a primeira habilidade à competência 3, que trata da língua materna."
+  },
+  "fundamentacao": "Parâmetros Curriculares Nacionais do Ensino Médio (PCNEM), área de Linguagens, Códigos e suas Tecnologias; não conferi o texto original.",
+  "atualizacao": "O edital 2026 cobra a BNCC e o DCRC, e não mais os PCN. A BNCC organiza o ensino médio por competências específicas e habilidades com códigos próprios. Estude o documento atual."
+ },
+ "49": {
+  "area": "ENS",
+  "subtopico": "Competências e habilidades dos PCN: contexto e texto literário",
+  "item": "ENSINO 1 (Competências e habilidades com base na BNCC e no DCRC)",
+  "duvida": null,
+  "explicacao_correta": "A competência destacada trata de analisar e interpretar recursos expressivos das linguagens e relacionar textos com seus contextos de produção e recepção. As habilidades I, II e V envolvem o texto literário: relacionar a obra ao contexto histórico, a concepções artísticas e a valores humanos presentes no patrimônio literário. As habilidades III e IV tratam das tecnologias da comunicação e informação, que pertencem a outra competência dos PCN. Por isso, só I, II e V correspondem.",
+  "por_que_erradas": {
+   "B": "Omite a V, que também trata do patrimônio literário.",
+   "C": "Inclui III e IV, ligadas às tecnologias, e omite I e V.",
+   "D": "Traz apenas habilidades de tecnologias, que pertencem a outra competência."
+  },
+  "fundamentacao": "PCNEM, área de Linguagens (competências e habilidades de Língua Portuguesa); não conferi o texto original.",
+  "atualizacao": "O edital 2026 cobra a BNCC e o DCRC. Use a BNCC do ensino médio, com suas competências específicas, no lugar dos PCN."
+ },
+ "50": {
+  "area": "LIT",
+  "subtopico": "Periodização da literatura brasileira",
+  "item": "LITERATURA 3 (Relações contextuais e intertextuais na literatura brasileira)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "51": {
+  "area": "LIT",
+  "subtopico": "Linguagem literária e não literária",
+  "item": "LITERATURA 4 (A linguagem literária e não literária)",
+  "duvida": null,
+  "explicacao_correta": "A linguagem literária explora o potencial significativo e sonoro da palavra e predomina o sentido conotativo, figurado, que depende do contexto. A linguagem não literária prioriza o sentido denotativo, literal, e tem função utilitária: informar, argumentar, convencer. Na sequência, 'a essência da linguagem está na palavra' e 'predomínio do sentido conotativo' são literárias (1), e 'sentido denotativo' e 'função utilitária' são não literárias (2). Logo, 1, 1, 2, 2.",
+  "por_que_erradas": {
+   "A": "Inverte o primeiro par: atribui à linguagem não literária a essência na palavra.",
+   "C": "Inverte tudo, tratando o conotativo como não literário.",
+   "D": "Alterna os dois grupos, ignorando que conotação é literária e denotação é utilitária."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "52": {
+  "area": "LIT",
+  "subtopico": "Barroco no Brasil",
+  "item": "LITERATURA 5 (O Barroco no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "A primeira afirmação é falsa: o marco inicial do Barroco no Brasil é o poema Prosopopeia, de Bento Teixeira, publicado em 1601, e não de Botelho de Oliveira. A segunda é verdadeira: o Barroco chegou pela influência espanhola e portuguesa e cultivou poesia, historiografia, literatura de informação da terra e oratória. A terceira é verdadeira: Botelho de Oliveira, Bento Teixeira, Gregório de Matos e Frei Manuel de Santa Maria Itaparica são nomes centrais. A quarta é verdadeira: surgiram as Academias. Sequência: F, V, V, V.",
+  "por_que_erradas": {
+   "B": "Marca como verdadeira a primeira, que atribui Prosopopeia a Botelho de Oliveira.",
+   "C": "Marca como falsas a terceira e a quarta, que são verdadeiras.",
+   "D": "Marca como verdadeira a primeira e como falsa a segunda e a quarta."
+  },
+  "fundamentacao": "Bento Teixeira, Prosopopeia (1601), marco inicial do Barroco brasileiro, conforme os manuais de história literária.",
+  "atualizacao": null
+ },
+ "53": {
+  "area": "LIT",
+  "subtopico": "Barroco: contexto social e político",
+  "item": "LITERATURA 5.1 (Relações sociais e históricas presentes no Barroco no Brasil)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "54": {
+  "area": "LIT",
+  "subtopico": "Gregório de Matos",
+  "item": "LITERATURA 5.2 (Tipos e problemas sociais nos textos de Gregório de Matos Guerra)",
+  "duvida": "Os motivos exatos pelos quais A e C estão erradas no gabarito não foram confirmados por mim.",
+  "explicacao_correta": "Gregório de Matos, o 'Boca do Inferno', é conhecido pela poesia satírica: ele critica a sociedade baiana e a lisboeta, o clero, as autoridades e os costumes. Poemas como 'Aos Vícios' e 'Aos Caramurus da Bahia' mostram essa face, e por isso B é a afirmação correta. O autor também escreveu poesia lírica amorosa e religiosa, mas as outras alternativas atribuem classificações ou dados de publicação que não confirmei. Sua obra circulou em manuscritos e foi reunida em livro muito depois de sua morte.",
+  "por_que_erradas": {
+   "A": "Trata a poesia religiosa como 'lírica' e lista títulos de forma que o gabarito não aceita; não confirmei qual detalhe específico a banca considera falso.",
+   "C": "Apresenta uma divisão da obra e uma data de publicação que não confirmei; o gabarito oficial a considera incorreta.",
+   "D": "Chama de 'épico' o estilo dos poemas de amor, que são líricos."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "55": {
+  "area": "LIT",
+  "subtopico": "Arcadismo no Brasil",
+  "item": "LITERATURA 6 (O Arcadismo no Brasil)",
+  "duvida": "Rótulos 'Rococó' e 'Pré-Romantismo' seguem o gabarito oficial; não confirmei a bibliografia.",
+  "explicacao_correta": "O Arcadismo brasileiro mantém ideais clássicos, como a razão e o bucolismo, mas já apresenta traços que preparam o Romantismo, sobretudo na obra de Tomás Antônio Gonzaga. Por isso o gabarito indica a ideia de transição pré-romântica. As outras alternativas têm erros de datação ou de nomes: o movimento começa com Obras Poéticas de Cláudio Manuel da Costa, em 1768, e não de Gonzaga, e não inclui autores como Gonçalves Dias, que é romântico.",
+  "por_que_erradas": {
+   "A": "Inclui Bocage e Gonçalves Dias, que não pertencem ao grupo árcade brasileiro.",
+   "B": "O Arcadismo brasileiro costuma ser iniciado por Obras Poéticas, de Cláudio Manuel da Costa, e não de Gonzaga.",
+   "C": "Reduz o Arcadismo a um produto da Inconfidência, enquanto ele é anterior e paralelo a ela."
+  },
+  "fundamentacao": "Marco de 1768 (Obras Poéticas, de Cláudio Manuel da Costa), segundo manuais de história literária.",
+  "atualizacao": null
+ },
+ "56": {
+  "area": "LIT",
+  "subtopico": "Barroco x Arcadismo",
+  "item": "LITERATURA 5 e 6 (Barroco e Arcadismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "O Barroco vive o conflito entre o espiritual e o terreno, com tom místico e paradoxal; a Idade Média aparece como retomada do teocentrismo. O Arcadismo retoma o Renascimento e o classicismo, com natureza bucólica, simplicidade e valorização da razão e da experiência. Assim: Idade Média (Barroco, 1), Renascimento (Arcadismo, 2), autêntico e paradoxal (1), celeste e místico (1), campestre e bucólico (2), conhecimento pela experiência e reflexão (2). A sequência é 1, 2, 1, 1, 2, 2.",
+  "por_que_erradas": {
+   "B": "Inverte o Barroco e o Arcadismo em várias posições.",
+   "C": "Atribui 'autêntico, ainda que paradoxal' ao Arcadismo.",
+   "D": "Atribui a volta à Idade Média ao Arcadismo e ao Barroco, o oposto do correto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "57": {
+  "area": "LIT",
+  "subtopico": "Poetas do Arcadismo brasileiro",
+  "item": "LITERATURA 6 (O Arcadismo no Brasil)",
+  "duvida": "Questão anulada pela banca.",
+  "anulada": true
+ },
+ "58": {
+  "area": "LIT",
+  "subtopico": "Arcadismo x Romantismo",
+  "item": "LITERATURA 6 e 7 (Arcadismo; Romantismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "O Arcadismo valoriza a razão, o rigor formal e a imitação dos clássicos. O Romantismo valoriza a emoção, a imaginação, a liberdade criadora, a natureza como espelho do eu e o nacionalismo. Assim: racionalismo e convencionalismo (Arcadismo, 1), amor e emoção do artista (Romantismo, 2), natureza e escritor em fusão (2), rigor formal (1), liberdade criadora (2), nacionalismo (2). A sequência é 1, 2, 2, 1, 2, 2.",
+  "por_que_erradas": {
+   "A": "Atribui ao Arcadismo a fusão da natureza com o escritor e ao Romantismo o rigor formal, o contrário do correto.",
+   "B": "Atribui ao Arcadismo a liberdade criadora e o nacionalismo.",
+   "D": "Inverte todos os pares, tratando o racionalismo como romântico."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "59": {
+  "area": "LIT",
+  "subtopico": "Contexto do Romantismo",
+  "item": "LITERATURA 7.1 (O Romantismo como reflexo dos costumes da sociedade burguesa)",
+  "duvida": null,
+  "explicacao_correta": "A questão pede a alternativa que diverge do contexto do início do século XIX. O Romantismo surgiu na Europa, no final do século XVIII, ligado à crise do Antigo Regime e ao liberalismo; a independência dos Estados Unidos não é o marco inicial do movimento. A alternativa A erra ao apresentá-la como início do Romantismo. As outras três descrevem corretamente a preocupação nacional dos intelectuais brasileiros e a relação do Romantismo com a Independência.",
+  "por_que_erradas": {
+   "B": "Descreve corretamente a preocupação com a formação da nação brasileira.",
+   "C": "Descreve corretamente o Romantismo brasileiro paralelo à emancipação política.",
+   "D": "Descreve o contexto da vinda da família real, que reconfigura a vida social da colônia."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "60": {
+  "area": "LIT",
+  "subtopico": "Romantismo brasileiro e identidade nacional",
+  "item": "LITERATURA 7 (O Romantismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "Os românticos brasileiros queriam uma literatura que expressasse o Brasil e se afastasse do modelo português. Para isso recorreram ao indianismo, à cor local e ao regionalismo. A alternativa B indica o oposto: inspirar-se em heróis medievais europeus não traduz a realidade brasileira. Como a questão pede a opção que NÃO traduz essa ideia, a resposta é B.",
+  "por_que_erradas": {
+   "A": "O indianismo é a busca de um antepassado nacional diferente do europeu e traduz a ideia.",
+   "C": "A cor local valoriza a paisagem brasileira e traduz a ideia.",
+   "D": "O regionalismo representa o sertão como espaço da cultura brasileira e traduz a ideia."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "61": {
+  "area": "LIT",
+  "subtopico": "Produção romântica: teatro, poesia e prosa",
+  "item": "LITERATURA 7 (O Romantismo no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "Martins Pena é o introdutor da comédia de costumes no teatro brasileiro e autor de 'O Noviço' e 'O Juiz de Paz na Roça', como diz a alternativa A. As outras trazem agrupamentos ou classificações trocados. Na poesia, Álvares de Azevedo e Casimiro de Abreu pertencem à geração ultrarromântica, e Gonçalves Dias está na primeira geração. Nos romances de Alencar, 'Senhora' é urbano e 'As Minas de Prata' é histórico.",
+  "por_que_erradas": {
+   "B": "Coloca Álvares de Azevedo na geração nacionalista e Gonçalves Dias na byroniana, quando os agrupamentos usuais são outros.",
+   "C": "Classifica os romances de forma imprecisa; não confirmei o ponto exato que a banca considera falso.",
+   "D": "Troca as categorias dos romances de Alencar: 'Senhora' é urbano, e 'As Minas de Prata', histórico."
+  },
+  "fundamentacao": "Divisão da poesia romântica em três gerações, segundo os manuais de história literária.",
+  "atualizacao": null
+ },
+ "62": {
+  "area": "LIT",
+  "subtopico": "Romantismo x Realismo",
+  "item": "LITERATURA 7 e 8 (Romantismo; Realismo-Naturalismo)",
+  "duvida": null,
+  "explicacao_correta": "O Realismo busca objetividade, observação impessoal da realidade e atenção ao presente, com linguagem clara e retrato fiel das personagens. O Romantismo valoriza a subjetividade, a fantasia e o passado, como o medieval e o histórico. Assim, a sequência é 2 (objetividade), 2 (momento presente), 1 (passado), 2 (observação impessoal), 1 (subjetividade e fantasia) e 2 (linguagem simples e clara): 2, 2, 1, 2, 1, 2.",
+  "por_que_erradas": {
+   "A": "Atribui ao Romantismo a objetividade e o presente, que são traços realistas.",
+   "B": "Atribui o passado ao Realismo e a subjetividade ao Realismo.",
+   "D": "Inverte todos os pares."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "63": {
+  "area": "LIT",
+  "subtopico": "Contexto do Realismo e do Naturalismo",
+  "item": "LITERATURA 8 (Autores realistas-naturalistas)",
+  "duvida": null,
+  "explicacao_correta": "O Realismo nasce da segunda metade do século XIX, num mundo marcado pela industrialização, pela distinção entre burguesia e proletariado e pelo interesse científico pela sociedade. As afirmações II, III e IV descrevem esse contexto, incluindo as mudanças no Brasil, como o fim do tráfico de escravos e o avanço do positivismo. A I é falsa porque atribui o nascimento da estética realista diretamente à Revolução Francesa, quando o impulso decisivo vem da Revolução Industrial e das transformações da segunda metade do século.",
+  "por_que_erradas": {
+   "A": "Inclui a I, falsa, e omite a II.",
+   "B": "Inclui a I, falsa, e omite a III.",
+   "C": "Inclui a I, falsa, e omite a IV."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "64": {
+  "area": "LIT",
+  "subtopico": "Realismo x Naturalismo",
+  "item": "LITERATURA 8.1 (Características do texto realista-naturalista)",
+  "duvida": null,
+  "explicacao_correta": "Os naturalistas enfatizam o determinismo: hereditariedade, meio e momento determinam o comportamento das personagens (primeira verdadeira). A personagem naturalista é quase reduzida a instintos e se aproxima do animal (segunda verdadeira). A ênfase nas necessidades instintivas e o desequilíbrio que se manifesta pela herança biológica combinada ao ambiente são marcas do Naturalismo, e não do Realismo (terceira e quarta falsas). A sequência é V, V, F, F.",
+  "por_que_erradas": {
+   "A": "Marca como falsas as duas primeiras, que descrevem o Naturalismo.",
+   "B": "Marca como falsa a segunda e como verdadeira a terceira, atribuindo instintos ao Realismo.",
+   "D": "Inverte todas as afirmações."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "65": {
+  "area": "LIT",
+  "subtopico": "Parnasianismo x Simbolismo",
+  "item": "LITERATURA 9 e 10 (Parnasianismo; Simbolismo)",
+  "duvida": null,
+  "explicacao_correta": "O Parnasianismo reage ao Romantismo: volta à cultura clássica, à objetividade e ao culto da forma, com atenção ao exterior (natureza, objetos). O Simbolismo reage ao materialismo do período e valoriza a interioridade, o sonho, o mistério e a emoção, retomando em parte aspectos românticos. Assim: volta ao Romantismo (2), volta à cultura clássica (1), exterioridade (1), interioridade (2) e poema dirigido à emoção (2). A sequência é 2, 1, 1, 2, 2.",
+  "por_que_erradas": {
+   "A": "Atribui ao Parnasianismo a volta ao Romantismo e à emoção.",
+   "C": "Atribui ao Parnasianismo a interioridade e ao Simbolismo a exterioridade.",
+   "D": "Atribui ao Simbolismo o culto da natureza."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "66": {
+  "area": "LIT",
+  "subtopico": "Parnasianismo",
+  "item": "LITERATURA 9 (Parnasianismo)",
+  "duvida": null,
+  "explicacao_correta": "Os parnasianos buscam a forma perfeita: preferem a forma fixa (como o soneto), a rima rica e preciosa, o vocabulário raro e a ordem indireta. Isso resume o ideal da 'arte pela arte'. As outras alternativas erram em dados ou conceitos: o marco inicial costuma ser Fanfarras, de Teófilo Dias, em 1882, e não de Bilac; a preferência por fatos exóticos que revelem estados de espírito pessoais descreve outra estética; e a 'arte pela arte' não versa sobre problemas políticos ou sociais.",
+  "por_que_erradas": {
+   "B": "Fanfarras (1882) é de Teófilo Dias, e não de Olavo Bilac.",
+   "C": "O gosto pelo exótico para revelar estados pessoais não é característica central do Parnasianismo.",
+   "D": "A arte pela arte rejeita o engajamento em problemas políticos e sociais."
+  },
+  "fundamentacao": "Marco inicial do Parnasianismo brasileiro: Fanfarras, de Teófilo Dias (1882), segundo manuais de história literária.",
+  "atualizacao": null
+ },
+ "67": {
+  "area": "LIT",
+  "subtopico": "Poesia simbolista: Cruz e Sousa e Alphonsus de Guimaraens",
+  "item": "LITERATURA 10.1 (Análise da poética de Cruz e Sousa e Alphonsus de Guimaraens)",
+  "duvida": null,
+  "explicacao_correta": "'Ismália' trata a morte como símbolo da eterna busca: a moça sobe para o céu e desce ao mar, entre dois mundos (2). A sinestesia, isto é, a mistura de sensações, é marca do Simbolismo e aparece nos dois poemas (3). A decadência anunciada em toda a natureza está em 'Alucinação', de Cruz e Sousa (1). A relação entre o visível e o mundo das essências é comum aos dois (3). A separação entre matéria e espírito sobrevivente às contingências terrenas é típica de 'Ismália' (2). A sequência é 2, 3, 1, 3, 2.",
+  "por_que_erradas": {
+   "A": "Atribui ao primeiro texto a valorização dos sentidos e à terceira marca a ambos.",
+   "B": "Atribui ao Texto II a decadência da natureza e ao Texto I a separação entre matéria e espírito.",
+   "C": "Atribui ao Texto I a morte como busca e ao Texto II a decadência."
+  },
+  "fundamentacao": "Cruz e Sousa, 'Alucinação'; Alphonsus de Guimaraens, 'Ismália' (os poemas citados no enunciado).",
+  "atualizacao": null
+ },
+ "68": {
+  "area": "LIT",
+  "subtopico": "Pré-Modernismo e vanguardas europeias",
+  "item": "LITERATURA 11 (Pré-Modernismo; vanguardas europeias)",
+  "duvida": "Divergência: minha leitura indicaria A como a descrição usual do Pré-Modernismo; o gabarito oficial definitivo é C e foi mantido.",
+  "explicacao_correta": "As vanguardas europeias (Futurismo, Cubismo, Dadaísmo, Surrealismo) chegaram ao Brasil e influenciaram alguns poetas e escritores. O gabarito oficial entende que o principal legado delas foi o impulso de destruir modelos arcaicos, desafiar o gosto estabelecido e propor um olhar novo para o mundo. Essa ideia de ruptura é o que a vanguarda deixou ao Modernismo brasileiro. As demais alternativas atribuem obras ou movimentos a datas e autores de forma imprecisa.",
+  "por_que_erradas": {
+   "A": "Cita o Romantismo como estética da segunda metade do século XIX, o que é impreciso; o Romantismo é da primeira metade.",
+   "B": "Mistura gêneros e títulos (por exemplo, Jeca Tatu é personagem de Monteiro Lobato, não um título de livro), o que o gabarito considera impreciso.",
+   "D": "Associa obras brasileiras a ismos europeus de forma anacrônica, citando Álvaro de Campos (heterônimo de Fernando Pessoa) como exemplo brasileiro."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "69": {
+  "area": "LAS",
+  "subtopico": "Ordem direta e colocação",
+  "item": "ANÁLISE LINGUÍSTICA 3 (Estrutura da frase e ordenação)",
+  "duvida": null,
+  "explicacao_correta": "A ordem canônica (direta) da frase em português é sujeito, verbo e complementos. Em 'A racha é na sintaxe', o sujeito ('a racha') vem antes do verbo ('é') e do predicativo ('na sintaxe'). Nas demais, há inversão ou deslocamento: sujeito depois do verbo ('Teimava o povo'), complemento antecipado ('Naquela tábua um dislate existe') e sujeito posposto ('Fogem ali os dizeres').",
+  "por_que_erradas": {
+   "B": "O sujeito 'o povo' vem depois do verbo 'Teimava' (ordem inversa).",
+   "C": "O trecho antecipa o adjunto e inverte sujeito e verbo ('um dislate existe').",
+   "D": "O verbo 'fogem' vem antes do sujeito 'os dizeres'."
+  },
+  "fundamentacao": "Texto de Monteiro Lobato, 'O Colocador de Pronomes' (1924), citado pela prova.",
+  "atualizacao": null
+ },
+ "70": {
+  "area": "LAS",
+  "subtopico": "Significação das palavras no contexto",
+  "item": "ANÁLISE LINGUÍSTICA 4 (Uso do vocábulo, valor e significação dentro do texto)",
+  "duvida": "Não confirmei o sentido de 'paredros' em dicionário; segui o gabarito oficial.",
+  "explicacao_correta": "O conto ridiculariza o personagem por usar palavras raras e pomposas. A questão pede a coerência entre o sentido de cada vocábulo e o uso no texto. 'Alarve' significa pessoa rude, ignorante. E, no contexto, 'paredros' refere-se a quem manda ou detém poder, ou seja, 'mandachuvas'. Por isso B é a opção coerente. As outras trocam o sentido, como 'tarelos' por 'tagarelas' ou 'empós' por 'depois'.",
+  "por_que_erradas": {
+   "A": "Os pares citados não correspondem ao sentido usado no contexto (por exemplo, 'asseio' não é 'lavagem').",
+   "C": "'Férula' é instrumento de castigo, ou autoridade, e não 'bastão episcopal'; o par não é coerente com o texto.",
+   "D": "'Maráus' não são 'sacerdotes', e 'empós' significa 'atrás' ou 'depois'; a opção mistura sentidos."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "71": {
+  "area": "LAS",
+  "subtopico": "Colocação pronominal",
+  "item": "ANÁLISE LINGUÍSTICA 5 (Concordância, regência e colocação)",
+  "duvida": null,
+  "explicacao_correta": "Mesóclise é o pronome no meio do verbo: em 'ir-lhes-ei' e 'fila-los-eis', o verbo está no futuro, e por isso a norma padrão pede mesóclise (II verdadeira). Próclise ou ênclise dependem de fatores como a posição do verbo na frase: 'Fogem-me' tem o verbo no início da oração, e 'E foi-lhes' mantém a ênclise no padrão do texto (III verdadeira). A I é falsa: 'hei de influir' é uma forma analítica, e não sintética.",
+  "por_que_erradas": {
+   "A": "Inclui a I, falsa, e deixa de fora a II, verdadeira.",
+   "B": "Inclui a I, falsa, e deixa de fora a III.",
+   "D": "Considera verdadeira a I, que descreve de forma errada a morfologia."
+  },
+  "fundamentacao": "Regras de colocação pronominal da gramática normativa (mesóclise com futuro do presente e do pretérito).",
+  "atualizacao": null
+ },
+ "72": {
+  "area": "LAS",
+  "subtopico": "Concordância verbal: voz passiva sintética",
+  "item": "ANÁLISE LINGUÍSTICA 5 (Concordância, regência e colocação)",
+  "duvida": null,
+  "explicacao_correta": "Em 'Ferra-se cavalos', o verbo está na voz passiva sintética: 'cavalos' é o sujeito paciente, e o verbo deveria concordar com ele ('Ferram-se cavalos'). O erro do ferreiro é, portanto, a falta de concordância do verbo com o sujeito. O 'se' aqui é partícula apassivadora, e não reflexivo nem índice de indeterminação. 'Cavalos' é o sujeito, não o objeto direto.",
+  "por_que_erradas": {
+   "A": "O 'se' é partícula apassivadora, não pronome reflexivo.",
+   "C": "O 'se' como índice de indeterminação exige verbo transitivo indireto, intransitivo ou de ligação; não é o caso.",
+   "D": "'Cavalos' é sujeito paciente da passiva sintética; não é objeto direto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "73": {
+  "area": "LIT",
+  "subtopico": "Poetas da segunda fase do Modernismo",
+  "item": "LITERATURA 12.2 (Segundo momento modernista: a poesia)",
+  "duvida": "Não confirmei qual detalhe de II e IV o gabarito considera falso.",
+  "explicacao_correta": "Na geração de 1930, Carlos Drummond de Andrade tem fases poéticas que refletem a evolução de seu pensamento e também escreveu contos e crônicas (I verdadeira). Vinicius de Moraes evoluiu de uma poesia de inspiração católica para uma poesia erótica e centrada na mulher (III verdadeira). A II e a IV trazem imprecisões sobre a trajetória de Jorge de Lima e a filiação de Cecília Meireles, que se liga à tradição simbolista e espiritualista, e não ao Parnasianismo.",
+  "por_que_erradas": {
+   "B": "A II e a IV contêm imprecisões segundo o gabarito.",
+   "C": "Inclui a II, que o gabarito considera incorreta.",
+   "D": "Inclui a IV, que liga Cecília Meireles ao Parnasianismo."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "74": {
+  "area": "LIT",
+  "subtopico": "Primeira fase do Modernismo",
+  "item": "LITERATURA 12.1 (Principais autores da primeira geração modernista)",
+  "duvida": null,
+  "explicacao_correta": "A primeira fase do Modernismo (1922 a 1930) rompe com a tradição, mas também a reescreve. Oswald de Andrade recortou trechos da Carta de Pero Vaz de Caminha e os remontou como poema, e parodiou a 'Canção do Exílio', de Gonçalves Dias. É a alternativa D. As outras trazem erros de autoria ou de gênero: Jorge Amado pertence à segunda fase, Villa-Lobos é compositor, e 'Pauliceia Desvairada' é livro de poemas.",
+  "por_que_erradas": {
+   "A": "Inclui Jorge Amado, que é da segunda fase.",
+   "B": "Inclui Villa-Lobos, que é músico, e não escritor da 'tríade'.",
+   "C": "'Pauliceia Desvairada' é livro de poemas de Mário de Andrade, e não romance."
+  },
+  "fundamentacao": "Oswald de Andrade, poemas de Pau-Brasil e paródia da 'Canção do Exílio', de Gonçalves Dias.",
+  "atualizacao": null
+ },
+ "75": {
+  "area": "LAS",
+  "subtopico": "Colocação pronominal no Modernismo",
+  "item": "ANÁLISE LINGUÍSTICA 5 (Colocação)",
+  "duvida": "Também pode ser classificada em Literatura (12.1, primeira fase do Modernismo).",
+  "explicacao_correta": "O poema 'Pronominais', de Oswald de Andrade, faz graça com a colocação do pronome. A gramática manda dizer 'Dê-me um cigarro', com ênclise no imperativo; o brasileiro, no dia a dia, diz 'Me dá um cigarro', com próclise. O conteúdo gramatical da sátira é, portanto, a colocação pronominal. Não se trata de concordância, de modos e tempos nem de regência.",
+  "por_que_erradas": {
+   "A": "O poema não trata de concordância entre palavras.",
+   "C": "Os modos e tempos verbais não são o foco da comparação.",
+   "D": "A regência (relação verbo e complemento) não está em jogo."
+  },
+  "fundamentacao": "Oswald de Andrade, 'Pronominais'.",
+  "atualizacao": null
+ },
+ "76": {
+  "area": "LIT",
+  "subtopico": "Romancistas da segunda fase do Modernismo",
+  "item": "LITERATURA 12.3 (O segundo momento modernista: a prosa)",
+  "duvida": null,
+  "explicacao_correta": "Rachel de Queiroz escreveu 'O Quinze', 'João Miguel' e 'Caminho de Pedras', como diz a alternativa A. A segunda fase do Modernismo (1930 a 1945) é marcada pelo romance regionalista de crítica social, em especial o do Nordeste. As demais alternativas têm erros: 'Vidas Secas' é de Graciliano Ramos, e o romance nordestino de 1930 começa com 'A Bagaceira', de José Américo de Almeida. As obras de José Lins do Rego e de Érico Veríssimo aparecem agrupadas em ciclos e gêneros que não correspondem à classificação usual.",
+  "por_que_erradas": {
+   "B": "'Vidas Secas' é de Graciliano Ramos; José Américo de Almeida é autor de 'A Bagaceira'.",
+   "C": "Reúne obras em ciclos que não correspondem à classificação usual da obra de José Lins do Rego.",
+   "D": "'Memórias do Cárcere' é de Graciliano Ramos, e não de Érico Veríssimo."
+  },
+  "fundamentacao": "Obras de Rachel de Queiroz: O Quinze (1930), João Miguel (1932), Caminho de Pedras (1937), segundo manuais de história literária.",
+  "atualizacao": null
+ },
+ "77": {
+  "area": "LIT",
+  "subtopico": "Terceira fase do Modernismo",
+  "item": "LITERATURA 12.4 (A diversidade artística e temática do terceiro momento modernista)",
+  "duvida": null,
+  "explicacao_correta": "A ficção da terceira fase (a partir de 1945) se divide entre uma vertente introspectiva, com Clarice Lispector, e uma vertente regionalista que se universaliza, como a de Guimarães Rosa. É isso que a alternativa C afirma. As outras trazem erros de autoria: 'O Pagador de Promessas' é de Dias Gomes, 'Grande Sertão: Veredas' é de Guimarães Rosa, e 'Pedra Bonita' não é obra de João Cabral.",
+  "por_que_erradas": {
+   "A": "'O Pagador de Promessas' é de Dias Gomes, e não de Nelson Rodrigues.",
+   "B": "'Grande Sertão: Veredas' é de Guimarães Rosa, e não de Graciliano Ramos.",
+   "D": "'Pedra Bonita' não é obra de João Cabral de Melo Neto."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "78": {
+  "area": "LIT",
+  "subtopico": "Pós-modernismo",
+  "item": "LITERATURA 13 (A problemática do pós-moderno no Brasil)",
+  "duvida": null,
+  "explicacao_correta": "O pós-modernismo designa formas culturais desde os anos 1960, com reflexão, ironia e mistura entre o popular e o erudito (I). Ele é visto ora como continuação do modernismo, ora como ruptura (II). A III é falsa: os discursos pós-modernos desafiam, e não respeitam, os limites fixos entre gêneros, entre arte erudita e cultura de massa. A IV também é falsa, pois atribui à prosa pós-moderna o enaltecimento do intimismo e a rejeição de outras prosas. Logo, só I e II estão corretas.",
+  "por_que_erradas": {
+   "A": "Inclui a III e a IV, ambas falsas.",
+   "B": "Inclui a IV, falsa, e omite a II.",
+   "C": "Inclui a III, falsa, e omite a I."
+  },
+  "fundamentacao": null,
+  "atualizacao": null
+ },
+ "79": {
+  "area": "LIT",
+  "subtopico": "Literatura afro-brasileira e a presença do negro na literatura",
+  "item": "LITERATURA 14 (Literatura afro-brasileira)",
+  "duvida": null,
+  "explicacao_correta": "A presença do negro na literatura brasileira carrega o tratamento marginalizador da sociedade (I). Há duas posições: o negro como objeto, visto de fora por escritores como Castro Alves e Aluísio Azevedo, e o negro como sujeito, na voz de autores negros como Luiz Gama, Cruz e Sousa e Lima Barreto (III). E, a partir dos anos 1970, 'literatura negra' passa a indicar uma literatura feita por negros que reivindica valores de identidade própria (V). A II erra a data (Gregório de Matos é do século XVII), e a IV é falsa porque a geração condoreira, de Castro Alves, trata da escravidão.",
+  "por_que_erradas": {
+   "B": "Inclui a IV, falsa, e omite a I e a V.",
+   "C": "Inclui a II e a IV, falsas.",
+   "D": "Inclui a II, falsa."
+  },
+  "fundamentacao": null,
+  "atualizacao": "O edital 2026 incluiu literatura afro-brasileira e indígena e as leis nº 10.639/2003 e 11.645/2008 no conteúdo. Vale ampliar o estudo com autores contemporâneos."
+ },
+ "80": {
+  "area": "LIT",
+  "subtopico": "O índio no imaginário literário",
+  "item": "LITERATURA 15 (O indígena no imaginário literário do Brasil)",
+  "duvida": null,
+  "explicacao_correta": "A segunda afirmação é verdadeira: Basílio da Gama, poeta árcade, narra em 'O Uraguai' a resistência dos índios ao ataque português aos Sete Povos das Missões. A primeira é falsa, pois a carta de Caminha é do Quinhentismo, e não do Barroco. A terceira é falsa: os indianistas românticos retratam o índio como símbolo nacional, e não a cultura europeia. A quarta é falsa porque 'Macunaíma' é de Mário de Andrade, e não de Oswald. A sequência é F, V, F, F.",
+  "por_que_erradas": {
+   "A": "Marca como verdadeiras a primeira e a quarta.",
+   "B": "Marca como verdadeira a terceira e como falsa a segunda.",
+   "D": "Marca como verdadeiras a primeira, a terceira e a quarta."
+  },
+  "fundamentacao": "Basílio da Gama, O Uraguai (1769); Mário de Andrade, Macunaíma (1928).",
+  "atualizacao": "O edital 2026 cobra também literatura indígena brasileira (resistência e interculturalidade), além da imagem do índio na literatura canônica."
+ }
+}

@@ -1,0 +1,415 @@
+{
+ "caderno": 3,
+ "codigo": 11,
+ "fonte_definitivo": {
+  "url": "https://www.cev.uece.br/wp-content/uploads/2022/02/comunicado129.2018.pdf",
+  "data": "2018-11-07",
+  "doc": "Comunicado nº 129/2018-CEV/UECE, Anexo I e tabela \"Professor: Língua Portuguesa, Código 11, Gabarito 3 – Definitivo (após recursos)\""
+ },
+ "fonte_preliminar": {
+  "url": "https://www.cev.uece.br/wp-content/uploads/2022/02/seducgabofpre.pdf",
+  "data": "2018-10-22"
+ },
+ "questoes": {
+  "1": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "2": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "3": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "4": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "5": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "6": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "7": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "8": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "9": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "B"
+  },
+  "10": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "11": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "12": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "13": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "14": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "15": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "16": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "17": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "18": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "19": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "20": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "21": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "22": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "23": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "24": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "25": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "C"
+  },
+  "26": {
+   "situacao": "anulada",
+   "letra": null,
+   "preliminar": "D"
+  },
+  "27": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "28": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "29": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "30": {
+   "situacao": "anulada",
+   "letra": null,
+   "preliminar": "B"
+  },
+  "31": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "32": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "B"
+  },
+  "33": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "34": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "35": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "36": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "37": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "38": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "39": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "40": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "41": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "42": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "43": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "44": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "45": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "46": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "47": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "48": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "49": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "50": {
+   "situacao": "anulada",
+   "letra": null,
+   "preliminar": "D"
+  },
+  "51": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "52": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "53": {
+   "situacao": "anulada",
+   "letra": null,
+   "preliminar": "C"
+  },
+  "54": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "55": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "56": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "57": {
+   "situacao": "anulada",
+   "letra": null,
+   "preliminar": "B"
+  },
+  "58": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "59": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "60": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "61": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "62": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "63": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "64": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "65": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "66": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "67": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "68": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "69": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "70": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "71": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "72": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "73": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "74": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "75": {
+   "situacao": "confirmado",
+   "letra": "B",
+   "preliminar": "B"
+  },
+  "76": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "77": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  },
+  "78": {
+   "situacao": "confirmado",
+   "letra": "D",
+   "preliminar": "D"
+  },
+  "79": {
+   "situacao": "confirmado",
+   "letra": "A",
+   "preliminar": "A"
+  },
+  "80": {
+   "situacao": "confirmado",
+   "letra": "C",
+   "preliminar": "C"
+  }
+ }
+}

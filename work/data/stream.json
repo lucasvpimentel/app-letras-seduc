@@ -1,0 +1,6890 @@
+[
+{
+"pg": 2,
+"col": "L",
+"x0": 50,
+"y0": 74,
+"y1": 83,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 85,
+"y1": 94,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 102,
+"y1": 111,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 119,
+"y1": 128,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 136,
+"y1": 145,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 153,
+"y1": 162,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 170,
+"y1": 179,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 187,
+"y1": 196,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 204,
+"y1": 213,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 221,
+"y1": 230,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 238,
+"y1": 247,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 255,
+"y1": 264,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 272,
+"y1": 280,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 289,
+"y1": 297,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 306,
+"y1": 314,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 323,
+"y1": 331,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 339,
+"y1": 348,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 356,
+"y1": 365,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 373,
+"y1": 382,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 390,
+"y1": 399,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 407,
+"y1": 416,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 424,
+"y1": 433,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 441,
+"y1": 450,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 458,
+"y1": 467,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 475,
+"y1": 484,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 492,
+"y1": 501,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 509,
+"y1": 518,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 526,
+"y1": 535,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 543,
+"y1": 551,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 560,
+"y1": 568,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 577,
+"y1": 585,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 594,
+"y1": 602,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 611,
+"y1": 619,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 627,
+"y1": 636,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 644,
+"y1": 653,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 661,
+"y1": 670,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 678,
+"y1": 687,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 695,
+"y1": 704,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 712,
+"y1": 721,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 729,
+"y1": 738,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 746,
+"y1": 755,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "L",
+"x0": 172,
+"y0": 763,
+"y1": 772,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 74,
+"y1": 83,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 91,
+"y1": 100,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 108,
+"y1": 117,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 125,
+"y1": 134,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 142,
+"y1": 151,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 159,
+"y1": 168,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 176,
+"y1": 185,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 193,
+"y1": 202,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 210,
+"y1": 219,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 227,
+"y1": 236,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 244,
+"y1": 253,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 261,
+"y1": 270,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 278,
+"y1": 286,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 295,
+"y1": 303,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 312,
+"y1": 320,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 329,
+"y1": 337,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 345,
+"y1": 354,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 362,
+"y1": 371,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 379,
+"y1": 388,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 396,
+"y1": 405,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 413,
+"y1": 422,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 430,
+"y1": 439,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 447,
+"y1": 456,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 464,
+"y1": 473,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 481,
+"y1": 490,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 498,
+"y1": 507,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 515,
+"y1": 524,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 532,
+"y1": 541,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 549,
+"y1": 557,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 566,
+"y1": 574,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 583,
+"y1": 591,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 600,
+"y1": 608,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 617,
+"y1": 625,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 633,
+"y1": 642,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 650,
+"y1": 659,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 667,
+"y1": 676,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 684,
+"y1": 693,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 701,
+"y1": 710,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 718,
+"y1": 727,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 735,
+"y1": 744,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 752,
+"y1": 761,
+"text": " \n"
+},
+{
+"pg": 2,
+"col": "R",
+"x0": 438,
+"y0": 769,
+"y1": 778,
+"text": " \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 68,
+"y0": 78,
+"y1": 106,
+"text": "EDUCAÇÃO BRASILEIRA: TEMAS \nEDUCACIONAIS E PEDAGÓGICOS \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 124,
+"y1": 189,
+"text": "01. A escola é uma instituição utilizada pela \nsociedade para oferecer, aos membros das novas \ngerações, as experiências de aprendizagem que lhes \npermitam incorporar-se a essa sociedade ativa e \ncriticamente. A escola assim entendida, determina \nque a escolarização seja considerada  \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 198,
+"y1": 206,
+"text": "A) \num projeto social dos mais esclarecidos. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 215,
+"y1": 223,
+"text": "B) \num benefício de governos democráticos. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 232,
+"y1": 240,
+"text": "C) \numa expectativa de muitas famílias. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 248,
+"y1": 257,
+"text": "D) \num direito a ser garantido a todo cidadão. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 265,
+"y1": 274,
+"text": " \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 283,
+"y1": 360,
+"text": "02. Os estímulos e o ambiente social são \nimportantes no desenvolvimento de determinadas \ninteligências. Tendo em vista os diferentes tipos de \ninteligência estudados por Howard Gardner, \nrelacione-os corretamente com o que se diz sobre \neles, numerando a Coluna II de acordo com a Coluna \nI. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 81,
+"y0": 368,
+"y1": 377,
+"text": "Coluna I \nColuna II \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 63,
+"y0": 385,
+"y1": 394,
+"text": "1. Lógica \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 153,
+"y0": 385,
+"y1": 427,
+"text": "(    ) \nPessoas que possuem \nfacilidade para \nconclusões baseadas \nna razão.  \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 63,
+"y0": 402,
+"y1": 411,
+"text": "2. Corporal \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 63,
+"y0": 419,
+"y1": 428,
+"text": "3. Espacial \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 153,
+"y0": 435,
+"y1": 498,
+"text": "(    ) \nTêm a capacidade de \nse autoconhecerem, \ntomando atitudes \ncapazes de melhorar a \nvida com base nestes \nconhecimentos. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 63,
+"y0": 436,
+"y1": 445,
+"text": "4. Intrapessoal \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 63,
+"y0": 453,
+"y1": 461,
+"text": "5. Interpessoal \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 153,
+"y0": 506,
+"y1": 548,
+"text": "(    ) \nPresentes em \ndançarinos famosos e \ncampeões de ginástica \nolímpica. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 153,
+"y0": 556,
+"y1": 598,
+"text": "(    ) \nCostumam ser ótimos \nlíderes e atuam \nfacilmente em \ntrabalhos em equipe. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 153,
+"y0": 606,
+"y1": 669,
+"text": "(    ) \nInterpretam e \nreconhecem \nfenômenos que \nenvolvem movimentos \ne posicionamento de \nobjetos. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 677,
+"y1": 686,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 694,
+"y1": 703,
+"text": "A) \n1, 4, 2, 5, 3. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 711,
+"y1": 720,
+"text": "B) \n1, 5, 3, 4, 2. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 728,
+"y1": 737,
+"text": "C) \n3, 4, 5, 1, 2. \n"
+},
+{
+"pg": 3,
+"col": "L",
+"x0": 50,
+"y0": 745,
+"y1": 754,
+"text": "D) \n4, 5, 2, 1, 3. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 119,
+"text": "03. A teoria crítica de currículo, nos anos de 1980, \nno Brasil, compreende duas vertentes que \ncaracterizam a produção pedagógica brasileira da \népoca, quais sejam:  \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 127,
+"y1": 136,
+"text": "A) \nTeorias da Reprodução e Marxismo Culturalista. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 144,
+"y1": 164,
+"text": "B) \nEducação Popular e Abordagens de Cunho \nTecnicista. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 172,
+"y1": 192,
+"text": "C) \nPedagogia Crítico-Social dos Conteúdos e \nEducação Popular. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 200,
+"y1": 209,
+"text": "D) \nNeo-marxismo e Teorias da Reprodução.  \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 217,
+"y1": 226,
+"text": " \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 235,
+"y1": 267,
+"text": "04. O currículo escolar é um dos mecanismos que \ncompõem o caminho que nos torna o que somos. \nNesse sentido, atente para as seguintes afirmações:  \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 328,
+"y0": 276,
+"y1": 328,
+"text": "I. \nO currículo escolar é um campo importante da \npolítica cultural, porquanto, é um lugar de \ncirculação das narrativas, além de lugar \nprivilegiado dos processos de subjetivação e \nda socialização dirigida. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 325,
+"y0": 336,
+"y1": 389,
+"text": "II. \nO currículo escolar é um instrumento que \npode nos contar muitas histórias sobre \nindivíduos, grupos, sociedades, culturas, \ntradições, e histórias que relatam como as \ncoisas são ou como deveriam ser. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 321,
+"y0": 397,
+"y1": 439,
+"text": "III. \nO currículo e seus componentes constituem \num conjunto articulado de saberes, regidos \npor uma determinada ordem, em que estão \nem luta diferentes visões de mundo. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 322,
+"y0": 447,
+"y1": 488,
+"text": "IV. \nÉ intenção curricular a concretização de um \nprojeto de indivíduo para um projeto de \nsociedade, que independe do projeto político-\npedagógico da escola. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 497,
+"y1": 505,
+"text": "Está correto o que se afirma em  \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 513,
+"y1": 522,
+"text": "A) \nI, III e IV apenas. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 530,
+"y1": 539,
+"text": "B) \nI, II e III apenas. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 547,
+"y1": 556,
+"text": "C) \nI, II, III e IV. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 564,
+"y1": 573,
+"text": "D) \nII, III e IV apenas. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 341,
+"y0": 581,
+"y1": 590,
+"text": " \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 599,
+"y1": 643,
+"text": "05. Abramovay, Andrade e Esteves (2007) \ndestacam que o protagonismo juvenil na área \neducacional tem relação direta com a cidadania, em \nvirtude de  \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 651,
+"y1": 671,
+"text": "A) \nfortalecer atitudes reprodutivas das práticas \ncurriculares. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 679,
+"y1": 698,
+"text": "B) \norientar para o desenvolvimento de \ncompetências conceituais. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 707,
+"y1": 726,
+"text": "C) \nfavorecer os automatismos relacionados com o \ncontexto tecnológico. \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 315,
+"y0": 735,
+"y1": 754,
+"text": "D) \npossibilitar o desenvolvimento de atividades que \nvalorizam a participação e escuta dos jovens.  \n"
+},
+{
+"pg": 3,
+"col": "R",
+"x0": 341,
+"y0": 762,
+"y1": 771,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 152,
+"text": "06. O Projeto Político Pedagógico (PPP) é o \nconjunto de concepções pedagógicas que a escola \nadota, a explicitação da sua função social e a \ndefinição de procedimentos didático-metodológicos \nque serão desenvolvidos no processo educativo de \nseus alunos. Levando em consideração tal definição, \nanalise as seguintes afirmações: \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 63,
+"y0": 160,
+"y1": 191,
+"text": "I. \nA dimensão administrativo-financeira não \ndeve ser contemplada no processo de \nelaboração e execução do PPP. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 59,
+"y0": 199,
+"y1": 240,
+"text": "II. \nO PPP deve ser elaborado coletivamente por \nrepresentantes de todos os segmentos da \ncomunidade escolar, como pais, alunos, \nprofessores e demais funcionários da escola. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 55,
+"y0": 249,
+"y1": 290,
+"text": "III. \nO planejamento do PPP envolve pensar a \norganização do trabalho pedagógico da escola \ncomo um todo e da sala de aula em \nparticular. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 57,
+"y0": 298,
+"y1": 340,
+"text": "IV. \nO PPP de uma escola pode ser implementado \npor outra escola, desde que ambas façam \nparte do mesmo contexto territorial e, \nconsequentemente, social. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 348,
+"y1": 357,
+"text": "Está correto somente o que se afirma em \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 365,
+"y1": 374,
+"text": "A) \nII e III. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 382,
+"y1": 391,
+"text": "B) \nI e IV. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 399,
+"y1": 408,
+"text": "C) \nII e IV. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 416,
+"y1": 425,
+"text": "D) \nI e III. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 71,
+"y0": 433,
+"y1": 442,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 450,
+"y1": 505,
+"text": "07. A avaliação institucional consiste em um \nprocesso de aperfeiçoamento do Projeto Político \nPedagógico (PPP) da escola. Nessa perspectiva, \nassinale a opção que corresponde a um princípio \nbásico da avaliação institucional.  \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 513,
+"y1": 533,
+"text": "A) \nProcesso avaliativo construído por agentes \nexternos à escola. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 541,
+"y1": 561,
+"text": "B) \nParticipação restrita ao corpo docente e núcleo \ngestor. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 569,
+"y1": 589,
+"text": "C) \nAdesão manifestada clara e individualmente pelo \nGestor Escolar. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 597,
+"y1": 606,
+"text": "D) \nRespeito à identidade da escola. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 71,
+"y0": 614,
+"y1": 623,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 632,
+"y1": 654,
+"text": "08. O ensino médio integrado é caracterizado pela \nintegração da  \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 662,
+"y1": 671,
+"text": "A) \neducação propedêutica com a cultura geral.   \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 679,
+"y1": 688,
+"text": "B) \ncultura geral com a educação tecnológica. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 696,
+"y1": 704,
+"text": "C) \neducação geral com a educação profissional.  \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 50,
+"y0": 713,
+"y1": 721,
+"text": "D) \neducação geral com o ensino em tempo integral. \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 71,
+"y0": 730,
+"y1": 738,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 71,
+"y0": 747,
+"y1": 755,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "L",
+"x0": 71,
+"y0": 764,
+"y1": 772,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 356,
+"y0": 78,
+"y1": 89,
+"text": "ADMINISTRAÇÃO PÚBLICA \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 107,
+"y1": 129,
+"text": "09. Em se tratando de Administração Púbica, \nconsideram-se providos os cargos efetivos com a(o) \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 137,
+"y1": 146,
+"text": "A) \nrealização de concurso público.  \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 154,
+"y1": 163,
+"text": "B) \nassinatura do termo de posse. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 171,
+"y1": 180,
+"text": "C) \ninício do exercício efetivo no cargo. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 188,
+"y1": 197,
+"text": "D) \npublicação do ato de nomeação. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 205,
+"y1": 214,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 223,
+"y1": 266,
+"text": "10. O conjunto de categorias funcionais reunidas \nsegundo a correlação e afinidade existentes entre \nelas, quanto à natureza do trabalho e/ou o grau de \nconhecimentos, denomina-se \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 275,
+"y1": 283,
+"text": "A) \nReferência Funcional. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 292,
+"y1": 300,
+"text": "B) \nCarreira Ocupacional. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 308,
+"y1": 317,
+"text": "C) \nClasse Funcional. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 325,
+"y1": 334,
+"text": "D) \nGrupo Ocupacional. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 342,
+"y1": 351,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 360,
+"y1": 415,
+"text": "11. Promoção sem titulação é a passagem do \nprofissional do Grupo MAG de um nível para outro \nimediatamente superior, dentro da respectiva \ncarreira, obedecidos aos critérios de desempenho \ne/ou antiguidade e dependerá de \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 423,
+"y1": 465,
+"text": "A) \naprovação em seleção interna a ser realizada \natravés de provas escritas e habilitação legal \npara o exercício do cargo/função integrante da \nclasse. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 473,
+"y1": 503,
+"text": "B) \nhabilitação legal para o ingresso na nova \ncarreira ou classe e comprovada necessidade de \nmão de obra para suprir carência identificada. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 512,
+"y1": 542,
+"text": "C) \ndesempenho eficaz de suas atribuições e \ncumprimento do interstício de trezentos e \nsessenta e cinco dias. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 550,
+"y1": 581,
+"text": "D) \naprovação em seleção interna realizada através \nde provas escritas e/ou práticas quando a \ncarreira assim exigir. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 589,
+"y1": 598,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 607,
+"y1": 640,
+"text": "12. A remuneração do professor da educação \nbásica de nível superior, integrante do Grupo MAG do \nEstado do Ceará, será composta, dentre outros, de \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 648,
+"y1": 657,
+"text": "A) \ndécimo terceiro salário. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 665,
+"y1": 674,
+"text": "B) \nabono pecuniário. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 682,
+"y1": 691,
+"text": "C) \nadicional de férias. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 699,
+"y1": 708,
+"text": "D) \nvencimento base. \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 716,
+"y1": 724,
+"text": " \n"
+},
+{
+"pg": 4,
+"col": "R",
+"x0": 315,
+"y0": 733,
+"y1": 741,
+"text": " \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 108,
+"text": "13. Por determinação da lei de diretrizes e bases \nda educação nacional (LDB), incumbe ao Estado do \nCeará  \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 116,
+"y1": 169,
+"text": "A) \nprestar assistência técnica e financeira aos \nmunicípios para o desenvolvimento de seus \nsistemas de ensino e o atendimento prioritário à \nescolaridade obrigatória, exercendo sua função \nsupletiva. \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 177,
+"y1": 208,
+"text": "B) \nautorizar, credenciar e supervisionar os \nestabelecimentos do sistema de ensino de seus \nmunicípios. \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 216,
+"y1": 268,
+"text": "C) \nelaborar e executar políticas e planos \neducacionais, em consonância com as diretrizes \ne planos nacionais de educação, integrando e \ncoordenando as suas ações e as dos seus \nmunicípios. \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 277,
+"y1": 307,
+"text": "D) \noferecer, em caráter suplementar, a educação \ninfantil em creches e pré-escolas, e, com \nprioridade, o ensino fundamental. \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 315,
+"y1": 324,
+"text": " \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 333,
+"y1": 355,
+"text": "14. À luz das normas legais, relativas à educação \nnacional, é correto afirmar que  \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 363,
+"y1": 405,
+"text": "A) \no ensino fundamental obrigatório, com duração \nde nove anos, gratuito na escola pública, \niniciando-se aos seis anos de idade, terá por \nobjetivo a formação básica do cidadão.  \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 413,
+"y1": 465,
+"text": "B) \na carga horária mínima anual será de oitocentas \nhoras para o ensino fundamental, distribuídas \npor um mínimo de duzentos dias de efetivo \ntrabalho escolar, incluído o tempo reservado aos \nexames finais. \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 474,
+"y1": 504,
+"text": "C) \no direito à educação infantil será assegurado às \ncrianças até o término do ano letivo em que \ncompletarem sete anos de idade.  \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 512,
+"y1": 543,
+"text": "D) \né dever dos pais ou responsáveis efetuar a \nmatrícula dos menores, a partir dos sete anos de \nidade, no ensino fundamental.  \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 71,
+"y0": 551,
+"y1": 560,
+"text": " \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 97,
+"y0": 571,
+"y1": 583,
+"text": "LÍNGUA PORTUGUESA \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 605,
+"y1": 648,
+"text": "imagem no espelho \nOs venezuelanos encarnam o pesadelo real de que \ntoda estabilidade é provisória e o pertencimento é \nsempre precário  \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 50,
+"y0": 652,
+"y1": 672,
+"text": "Eliane Brum \n \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 55,
+"y0": 674,
+"y1": 771,
+"text": "01 \n02 \n03 \n04 \n05 \n06 \n07 \n08 \n09 \n"
+},
+{
+"pg": 5,
+"col": "L",
+"x0": 77,
+"y0": 674,
+"y1": 771,
+"text": "Não se compreende a violência dos brasileiros \ncontra os venezuelanos sem entender o que é \nestar na fronteira e se saber à beira do mapa, \na borda como o precipício que lembra a quem \nse agarra ao lado de cá que há uma fera \nrosnando no desconhecido. Com exceção dos \npovos indígenas, a população não indígena de \nRoraima é formada por migrantes recentes, a \nmaioria da segunda metade do século XX. E \n"
+},
+{
+"pg": 5,
+"col": "R",
+"x0": 321,
+"y0": 74,
+"y1": 772,
+"text": "10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n29 \n30 \n31 \n32 \n33 \n34 \n35 \n36 \n37 \n38 \n39 \n40 \n41 \n42 \n43 \n44 \n45 \n46 \n47 \n48 \n49 \n50 \n51 \n52 \n53 \n54 \n55 \n56 \n57 \n58 \n59 \n60 \n61 \n62 \n63 \n64 \n65 \n66 \n67 \n68 \n69 \n70 \n71 \n72 \n73 \n"
+},
+{
+"pg": 5,
+"col": "R",
+"x0": 343,
+"y0": 74,
+"y1": 772,
+"text": "sempre chegando de um outro lugar em que o \nchão se tornou movediço embaixo dos pés. \nMuitos não desembarcaram em Roraima \ndiretamente do lugar em que nasceram, mas \nantes tentaram pertencer a outros pontos do \nmapa e não puderam se fixar por falta de \ntrabalho ou outras faltas. Quem alcança um \nestado como Roraima vindo das regiões mais \npobres do Brasil — ou das porções mais \npobres dos estados rico s— sabe que alcançou \numa espécie de território limite. Dali pra \nfrente não há mais para onde andar. Talvez o \nque um brasileiro de Roraima vislumbre num \nvenezuelano desesperado e sem lugar seja o \nretrato de si mesmo. Uma velha foto bem \nconhecida empurrada para o fundo de uma \ngaveta da qual ninguém quer lembrar, mas \nque nunca pôde ser totalmente esquecida. \nDiante dos venezuelanos famintos, doentes e \nassustados, desejando desesperadamente \nentrar, a imagem se materializa como um \nespelho que é preciso destruir. O que \ndestroem no corpo do outro é a imagem de si \nmesmos cujo retorno não podem aceitar.          \nA angústia de não pertencer rugia dentro da \nmaioria das pessoas que entrevistei em \nRoraima, em diferentes momentos. Mas isso \njamais era admitido. Ao contrário. Como \ncostuma acontecer neste tipo de fenômeno, \nela se expressava como uma identidade feroz, \na de ser o único cidadão legítimo, o único com \no direito de estar ali, o único que trabalha e \nquer progredir. Isso se manifestava em três \ncomportamentos clássicos: a hostilidade \ncontra estrangeiros de outra língua, \nespecialmente americanos, a desconfiança \ncom relação a brasileiros não migrantes, o \ndesejo de apagar as populações nativas, \nainda que pela assimilação ou pela supressão \nde direitos.                                             (...)  \nA identidade roraimense é fomentada na \npopulação por velhas e novas elites locais a \npartir da ideia de que o Brasil é contra eles \n(ou os ignora ou só aparece para se meter \nonde não devia, como na atual disputa pelo \nfechamento da fronteira com a Venezuela), os \n“gringos” querem tomar a Amazônia de seus \nlegítimos donos e os indígenas impedem o \nprogresso do estado e também de cada \nindivíduo que ali chegou com o sonho de fazer \nhistória, fortuna e, principalmente casa —\nlugar de pertencimento para quem tanto \nperegrinou pelo mapa do Brasil até finalmente \nalcançar a sua borda. Essa é sempre a \ncondição de fronteira entre aqueles que as \ndisputam. (...) A fronteira é um espaço de \nsobreviventes, que já conheceram o pior de \nvários mundos, sofreram estigmas, \npreconceitos e indignidades, e estão lutando \npor um lugar e sabem muito bem o porquê.      \n(...)                                                               \nA imagem dos venezuelanos entrando e \nentrando, desesperados, miseráveis e \nfamintos, é a imagem que um migrante mais \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 55,
+"y0": 74,
+"y1": 193,
+"text": "74 \n75 \n76 \n77 \n78 \n79 \n80 \n81 \n82 \n83 \n \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 77,
+"y0": 74,
+"y1": 182,
+"text": "teme para si mesmo. É também a prova de \nque a estabilidade é sempre provisória, de \nque é possível perder tudo mais uma vez. É a \nevidência viva, encarnada, de que não há \nlugar seguro, de que o pertencimento é \nsempre precário. De que do outro lado da \nborda, o abismo espreita com olhos injetados \nde sangue. Quem viveu escorregando de \ntodos os mapas sente a dor dessa experiência \nno corpo. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 64,
+"y0": 195,
+"y1": 213,
+"text": "Fonte: \nhttps://brasil.elpais.com/brasil/2018/08/27/opinion.html \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 150,
+"y0": 215,
+"y1": 223,
+"text": "Acesso em 06/09/2018. Adaptação. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 232,
+"y1": 243,
+"text": "15. O elemento que motivou a temática do texto é  \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 250,
+"y1": 259,
+"text": "A) \na identidade roraimense. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 266,
+"y1": 286,
+"text": "B) \na angústia dos roraimenses pelo não \npertencimento. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 293,
+"y1": 302,
+"text": "C) \no êxodo venezuelano. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 309,
+"y1": 317,
+"text": "D) \na formação da população em Roraima. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 71,
+"y0": 325,
+"y1": 333,
+"text": " \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 341,
+"y1": 363,
+"text": "16. Considerando a tipologia do texto, é correto \nafirmar que ele é predominantemente \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 371,
+"y1": 412,
+"text": "A) \nexpositivo, uma vez que privilegia o uso de \nexpressões que denotam sequência temporal \ndos fatos, a localização dos agentes nos cenários \nreferidos e a referência a seres concretos. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 419,
+"y1": 450,
+"text": "B) \ndissertativo, pois são frequentes os argumentos \nem favor de uma posição, com verbos, em geral \nno presente do indicativo. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 457,
+"y1": 488,
+"text": "C) \ninjuntivo, pois os elementos de referência \napresentam-se sem remissão a uma progressão \ntemporal. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 495,
+"y1": 536,
+"text": "D) \nnarrativo, já que faz o uso dos tempos verbais \npretéritos, com remissão a uma progressão \ntemporal, priorizando a informação do ‘antes’, \ndo ‘durante’ e do ‘depois’. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 71,
+"y0": 544,
+"y1": 552,
+"text": " \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 560,
+"y1": 593,
+"text": "17. Assinale a opção em que a palavra “mapa” \nestá empregada em um sentido metafórico e \nabstrato mais saliente. \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 601,
+"y1": 631,
+"text": "A) \n“Quem viveu escorregando de todos os mapas \nsente a dor dessa experiência no corpo.” (linhas \n81-83)  \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 638,
+"y1": 669,
+"text": "B) \n“... sem entender o que é estar na fronteira e se \nsaber à beira do mapa, a borda...” (linhas 02-\n04) \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 676,
+"y1": 707,
+"text": "C) \n“... mas antes tentaram pertencer a outros \npontos do mapa e não puderam se fixar por falta \nde trabalho ou outras faltas.” (linhas 13-16) \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 714,
+"y1": 745,
+"text": "D) \n“...lugar de pertencimento para quem tanto \nperegrinou pelo mapa do Brasil até finalmente \nalcançar a sua borda.” (linhas 61-63) \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 752,
+"y1": 760,
+"text": " \n"
+},
+{
+"pg": 6,
+"col": "L",
+"x0": 50,
+"y0": 768,
+"y1": 776,
+"text": " \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 87,
+"text": "18. Analise as seguintes orações: \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 328,
+"y0": 94,
+"y1": 125,
+"text": "I. \n“...a população não indígena de Roraima é \nformada por migrantes recentes...” (linhas \n07-08) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 325,
+"y0": 133,
+"y1": 153,
+"text": "II. \n“... mas antes tentaram pertencer a outros \npontos do mapa....”(linhas 13-15) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 321,
+"y0": 161,
+"y1": 203,
+"text": "III. \n“Talvez o que um brasileiro de Roraima \nvislumbre num venezuelano desesperado e \nsem lugar seja o retrato de si mesmo.” \n(linhas 21-24) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 322,
+"y0": 211,
+"y1": 252,
+"text": "IV. \n“A angústia de não pertencer rugia dentro da \nmaioria das pessoas que entrevistei em \nRoraima, em diferentes momentos.” (linhas \n34-36) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 326,
+"y0": 261,
+"y1": 291,
+"text": "V. \n“...o desejo de apagar as populações nativas, \nainda que pela assimilação ou pela supressão \nde direitos.” (linhas 46-49) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 322,
+"y0": 299,
+"y1": 341,
+"text": "VI. \n“A identidade roraimense é fomentada na \npopulação por velhas e novas elites locais a \npartir da ideia de que o Brasil é contra \neles...” (linhas 20-52) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 349,
+"y1": 369,
+"text": "No que diz respeito à função sintática dos termos \nsublinhados, é correto afirmar que em \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 377,
+"y1": 386,
+"text": "A) \nII e VI funcionam como objetos indiretos. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 394,
+"y1": 403,
+"text": "B) \nIV e V funcionam como complementos nominais. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 411,
+"y1": 420,
+"text": "C) \nI e III funcionam como agentes da passiva. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 428,
+"y1": 437,
+"text": "D) \nV funcionam como adjunto adnominal. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 337,
+"y0": 445,
+"y1": 454,
+"text": " \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 462,
+"y1": 517,
+"text": "19. Considerando a justificativa para a \nacentuação da palavra “pôde” em “... mas que \nnunca pôde ser totalmente esquecida” (linhas 26-\n27), assinale a opção em que a acentuação do \ntermo destacado é justificada pelo mesmo motivo. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 525,
+"y1": 545,
+"text": "A) \n“...estão lutando por um lugar e sabem muito \nbem o porquê.” (linhas 68-69) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 553,
+"y1": 573,
+"text": "B) \n“Dali pra frente não há mais para onde andar.” \n(linhas 20-21) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 581,
+"y1": 601,
+"text": "C) \n“Isso se manifestava em três \ncomportamentos...” (linhas 42-43) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 609,
+"y1": 618,
+"text": "D) \n“...a evidência viva, encarnada.” (linhas 76-77) \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 337,
+"y0": 626,
+"y1": 635,
+"text": " \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 644,
+"y1": 677,
+"text": "20. Em “A violência em Roraima é contra a \nimagem no espelho”, os termos sublinhados são \nclassificados sintaticamente como \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 685,
+"y1": 694,
+"text": "A) \nobjeto indireto. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 702,
+"y1": 710,
+"text": "B) \nobjeto direto. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 719,
+"y1": 727,
+"text": "C) \npredicativo do sujeito. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 736,
+"y1": 744,
+"text": "D) \nadjunto adverbial. \n"
+},
+{
+"pg": 6,
+"col": "R",
+"x0": 315,
+"y0": 753,
+"y1": 772,
+"text": " \n \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 97,
+"text": "21. Assinale a opção cujos termos sublinhados \nfuncionam como sujeito da oração. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 105,
+"y1": 136,
+"text": "A) \n“...a borda como o precipício que lembra a quem \nse agarra ao lado de cá que há uma fera \nrosnando no desconhecido.” (linhas 04-06)  \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 144,
+"y1": 164,
+"text": "B) \n“...a imagem se materializa como um espelho \nque é preciso destruir.” (linhas 30-31)  \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 172,
+"y1": 203,
+"text": "C) \n“O que destroem no corpo do outro é a imagem \nde si mesmos cujo retorno não podem aceitar.” \n(linhas 31-33)  \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 211,
+"y1": 241,
+"text": "D) \n“É também a prova de que a estabilidade é \nsempre provisória, de que é possível perder tudo \nmais uma vez.” (linhas 74-76)   \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 250,
+"y1": 258,
+"text": " \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 267,
+"y1": 311,
+"text": "22. Considerando os pronomes destacados em \n“...o Brasil é contra eles (ou os ignora ou só aparece \npara se meter onde não devia...)” (linhas 53-54), é \ncorreto afirmar que possuem referentes \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 319,
+"y1": 328,
+"text": "A) \ndiferentes e explicitados na progressão do texto.  \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 336,
+"y1": 356,
+"text": "B) \ndiferentes e recuperados a partir de informações \ndo cotexto. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 364,
+"y1": 384,
+"text": "C) \niguais e recuperados devido às informações \npresentes no cotexto. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 392,
+"y1": 401,
+"text": "D) \niguais e explicitados na progressão do texto. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 409,
+"y1": 418,
+"text": " \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 75,
+"y0": 429,
+"y1": 441,
+"text": "LEITURA E INTERPRETAÇÃO DE \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 100,
+"y0": 446,
+"y1": 458,
+"text": "DADOS E INDICADORES \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 128,
+"y0": 463,
+"y1": 474,
+"text": "EDUCACIONAIS \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 50,
+"y0": 492,
+"y1": 569,
+"text": "23. O Sistema Permanente de Avaliação da \nEducação Básica do Ceará – SPAECE – foi \nimplementado em 1992 pela Secretaria da Educação \n– SEDUC –, com o objetivo de promover um ensino \nde qualidade e equânime para todos os alunos da \nrede pública do Estado. Considerando o SPAECE, \nanalise as seguintes afirmações:  \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 63,
+"y0": 577,
+"y1": 629,
+"text": "I. \nEm 2007, a SEDUC ampliou a abrangência do \nSPAECE, incorporando a avaliação da \nalfabetização e expandindo a avaliação do \nEnsino Médio para as três séries, de forma \ncensitária. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 59,
+"y0": 637,
+"y1": 680,
+"text": "II. \nNo tocante aos 6º e 9º anos, o SPAECE avalia \na proficiência dos alunos em leitura e a \nevolução do seu desempenho em \nmatemática. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 55,
+"y0": 688,
+"y1": 741,
+"text": "III. \nA partir do 5º ano, o SPAECE aplica \nquestionários contextuais junto a alunos, \nprofessores e diretores, que possibilitam a \nelaboração de indicadores relacionados ao \nperfil socioeconômico e hábitos de estudo. \n"
+},
+{
+"pg": 7,
+"col": "L",
+"x0": 57,
+"y0": 749,
+"y1": 770,
+"text": "IV. \nOs questionários destinados aos professores \ne diretores permitem traçar o perfil \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 346,
+"y0": 74,
+"y1": 108,
+"text": "educacional, a experiência e a formação \nprofissional, a prática docente e a gestão \nescolar dos envolvidos na área educacional. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 118,
+"y1": 127,
+"text": "É verdadeiro o que se afirma em \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 135,
+"y1": 144,
+"text": "A) \nII, III e IV apenas. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 152,
+"y1": 161,
+"text": "B) \nI, III e IV apenas. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 169,
+"y1": 178,
+"text": "C) \nI, II e III apenas. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 186,
+"y1": 195,
+"text": "D) \nI, II, III e IV. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 337,
+"y0": 203,
+"y1": 212,
+"text": " \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 221,
+"y1": 286,
+"text": "24. O Exame Nacional do Ensino Médio – ENEM – \ntem como principal finalidade avaliar o desempenho \nescolar e acadêmico do aluno ao final do Ensino \nMédio. Partindo dessa informação e tendo como foco \nsituações para as quais servem os resultados do \nENEM, é correto afirmar que esse exame \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 328,
+"y0": 294,
+"y1": 325,
+"text": "I. \nfavorece a criação de referência nacional \npara o aperfeiçoamento dos currículos do \nEnsino Médio. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 324,
+"y0": 333,
+"y1": 375,
+"text": "II. \né utilizado como mecanismo único, \nalternativo ou complementar para acesso à \neducação superior, em especial para as \ninstituições federais.  \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 321,
+"y0": 383,
+"y1": 403,
+"text": "III. \nviabiliza o desenvolvimento de estudos e \nindicadores sobre a educação brasileira. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 322,
+"y0": 411,
+"y1": 442,
+"text": "IV. \nconstitui parâmetros para o sistema de \navaliação formal das instituições escolares \nintegrantes da rede de ensino privada.  \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 450,
+"y1": 458,
+"text": "Estão corretas as complementações contidas em  \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 467,
+"y1": 475,
+"text": "A) \nI, II e III apenas. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 484,
+"y1": 492,
+"text": "B) \nI, II, III e IV. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 501,
+"y1": 509,
+"text": "C) \nII, III e IV apenas. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 518,
+"y1": 526,
+"text": "D) \nI, III e IV apenas. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 337,
+"y0": 534,
+"y1": 543,
+"text": " \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 552,
+"y1": 574,
+"text": "25. O Índice de Desenvolvimento da Educação \nBásica – IDEB – foi criado para \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 328,
+"y0": 582,
+"y1": 591,
+"text": "I. \nmedir a qualidade do aprendizado nacional; \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 324,
+"y0": 599,
+"y1": 619,
+"text": "II. \norientar a elaboração dos currículos escolares \ndos estados e municípios; \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 321,
+"y0": 627,
+"y1": 647,
+"text": "III. \nmonitorar a ação educacional dos sistemas \nmunicipais de ensino; \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 322,
+"y0": 655,
+"y1": 664,
+"text": "IV. \nestabelecer metas para a melhoria do ensino. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 672,
+"y1": 692,
+"text": "Estão corretas somente as complementações contidas \nem  \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 700,
+"y1": 709,
+"text": "A) \nI e IV. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 717,
+"y1": 725,
+"text": "B) \nI e III. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 734,
+"y1": 742,
+"text": "C) \nII e III. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 315,
+"y0": 751,
+"y1": 759,
+"text": "D) \nII e IV. \n"
+},
+{
+"pg": 7,
+"col": "R",
+"x0": 337,
+"y0": 767,
+"y1": 776,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 120,
+"text": "26. Analise o seguinte gráfico disponibilizado pelo \nSPAECE, que indica a Evolução da Proficiência do 2º \nano no período de 2012-2016 da Rede Municipal e da \nRede Pública Estadual.   \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 294,
+"y0": 237,
+"y1": 246,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 252,
+"y1": 272,
+"text": "Com base na análise do gráfico acima, é correto \nafirmar que  \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 280,
+"y1": 300,
+"text": "A) \no pico de evolução na rede pública estadual \nocorreu de 2015 para 2016. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 308,
+"y1": 328,
+"text": "B) \no pico de evolução na rede municipal de \nFortaleza ocorreu de 2014 para 2015. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 336,
+"y1": 356,
+"text": "C) \nem 2012 e 2013, a evolução nas duas redes foi \nequivalente. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 364,
+"y1": 384,
+"text": "D) \na evolução na rede municipal de Fortaleza foi \nmaior do que a da rede pública estadual. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 71,
+"y0": 392,
+"y1": 401,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 410,
+"y1": 431,
+"text": "27. O Programa Internacional de Avaliação de \nAlunos – PISA – tem como objetivo avaliar \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 440,
+"y1": 470,
+"text": "A) \nos sistemas educacionais europeus e \namericanos, por meio de testes relacionados \ncom língua materna e matemática.  \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 479,
+"y1": 509,
+"text": "B) \nos sistemas educacionais no mundo por meio de \numa série de testes em assuntos de leitura, \nmatemática e ciências.     \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 517,
+"y1": 548,
+"text": "C) \nas redes escolares nos países da América Latina \ne Europa, no tocante ao seu desempenho \nacadêmico e gestão educacional.    \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 556,
+"y1": 598,
+"text": "D) \nos currículos escolares dos países em \ndesenvolvimento, verificando seu nível de \neficiência com relação à área de ciências e suas \ntecnologias. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 606,
+"y1": 615,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 624,
+"y1": 646,
+"text": "28. O cálculo do IDEB envolve dois componentes, \nquais sejam:  \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 654,
+"y1": 684,
+"text": "A) \nos índices de reprovação escolar e as médias do \nSistema de Avaliação da Educação Básica – \nSAEB. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 692,
+"y1": 712,
+"text": "B) \nos índices de aprovação e de reprovação escolar \ne as médias da Prova Brasil. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 720,
+"y1": 740,
+"text": "C) \na taxa de rendimento escolar e as médias de \ndesempenho nos exames aplicados pelo INEP. \n"
+},
+{
+"pg": 8,
+"col": "L",
+"x0": 50,
+"y0": 748,
+"y1": 768,
+"text": "D) \nas taxas de aprovação e de evasão escolar e as \nmédias dos sistemas de avaliação locais. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 108,
+"text": "29. A taxa de escolarização do ensino \nfundamental, no Ceará, com relação ao período de \n2013 a 2015, registrou os seguintes dados: \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 334,
+"y0": 117,
+"y1": 125,
+"text": "ANO \nTAXA BRUTA \nTAXA LÍQUIDA \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 334,
+"y0": 136,
+"y1": 145,
+"text": "2013 \n98,4% \n90,1 % \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 334,
+"y0": 155,
+"y1": 164,
+"text": "2015 \n97,5% \n89,6% \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 387,
+"y0": 180,
+"y1": 188,
+"text": "Fonte: Anuário Estatístico do Ceará – 2016 \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 196,
+"y1": 248,
+"text": "Com base na análise da tabela acima, e tendo em \nvista que a taxa líquida abrange somente os alunos \natendidos dentro da faixa etária regular obrigatória e \na bruta compreende todos os alunos atendidos, \nincluindo os fora de faixa, é correto afirmar que  \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 294,
+"y0": 237,
+"y1": 246,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 257,
+"y1": 287,
+"text": "A) \na universalização do atendimento no ensino \nfundamental para a população de 6 a 14 anos \nestá assegurada.  \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 295,
+"y1": 326,
+"text": "B) \no atendimento da população fora de faixa, \nregistrou pequeno aumento no período \nanalisado. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 334,
+"y1": 376,
+"text": "C) \no atendimento dos alunos da faixa de \nescolaridade obrigatória, no ensino fundamental, \nestá aumentando, portanto, está mais próxima \nde cumprir a determinação legal. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 384,
+"y1": 436,
+"text": "D) \no atendimento dos alunos da faixa de \nescolaridade obrigatória, no ensino fundamental, \nestá diminuindo, o que caracteriza maior \ndistanciamento do cumprimento da \ndeterminação legal.   \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 445,
+"y1": 453,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 462,
+"y1": 584,
+"text": "30. Pela legislação que organiza a oferta do ensino \nno Brasil, Lei Nº 9.394/96 – LDB, a criança deve \ningressar aos 6 anos de idade no 1º ano do ensino \nfundamental e concluir a etapa aos 14 anos. Na faixa \netária dos 15 aos 17 anos, o jovem deve estar \nmatriculado no ensino médio. Se, por qualquer razão, \nhá defasagem entre a idade do aluno e a idade \nrecomendada para a série que ele está cursando, \nocorre o fenômeno denominado de distorção idade-\nsérie, que é considerada somente quando a \ndefasagem é de    \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 592,
+"y1": 601,
+"text": "A) \n1 ano e 6 meses. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 609,
+"y1": 618,
+"text": "B) \n2 anos e mais. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 626,
+"y1": 635,
+"text": "C) \n3 anos e 11 meses. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 643,
+"y1": 651,
+"text": "D) \n3 anos e mais. \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 660,
+"y1": 668,
+"text": " \n"
+},
+{
+"pg": 8,
+"col": "R",
+"x0": 315,
+"y0": 679,
+"y1": 688,
+"text": " \n \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 74,
+"y0": 78,
+"y1": 89,
+"text": "CONHECIMENTOS ESPECÍFICOS \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 107,
+"y1": 129,
+"text": "31. Atente para a seguinte reprodução de uma \ntirinha da Turma da Mônica, de Maurício de Souza: \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 137,
+"y1": 157,
+"text": "Cascão (de joelhos): Por favor, Mônica! Me dá um teco \ndesse sorvete! Me dá um teco desse sorvete! \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 165,
+"y1": 174,
+"text": "Mônica: Oh, Cascão! Por que esse desespero todo? \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 182,
+"y1": 191,
+"text": "Cascão: Estou ficando com água na boca! \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 60,
+"y0": 199,
+"y1": 206,
+"text": "Fonte: https://brainly.com.br/tarefa/1475204. Acesso em \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 196,
+"y0": 208,
+"y1": 216,
+"text": "19/08/2018. Adaptação. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 224,
+"y1": 244,
+"text": "Considerando o texto acima, assinale a afirmação \nverdadeira. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 252,
+"y1": 305,
+"text": "A) \nO desespero do Cascão se justifica e o leitor \nconstrói sentido para o que lê quando ativa \nconhecimentos prévios constituídos e \narmazenados na memória: Cascão não gosta de \nágua, seu nome faz jus a essa aversão.  \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 313,
+"y1": 343,
+"text": "B) \nO diálogo estabelecido entre Cascão e Mônica \napresenta coesão, único pré-requisito necessário \npara a construção do sentido do texto. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 352,
+"y1": 404,
+"text": "C) \nOs elos coesivos presentes no diálogo \nrespondem à pergunta essencial para a \nconstrução do sentido do texto: por que o \ndesespero do Cascão por estar ficando com água \nna boca? \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 412,
+"y1": 465,
+"text": "D) \nO exemplo demonstra que a coesão por si só \npode ser responsável pela coerência textual, \numa vez que as marcas de coesão encontram-se \nno texto, e a coerência não, pois só é construída \na partir dele. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 473,
+"y1": 482,
+"text": " \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 491,
+"y1": 502,
+"text": "32. Na leitura, leva-se em conta que \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 63,
+"y0": 510,
+"y1": 552,
+"text": "I. \no texto possui, além da parte visível \nconstituída por sua materialidade linguística \n(o explícito), uma parte invisível (o \nimplícito). \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 59,
+"y0": 560,
+"y1": 601,
+"text": "II. \no ato de ler é uma atividade que requer a \nmobilização de conhecimentos: linguístico, \nenciclopédico, comunicacional, de textos, \nentre outros. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 55,
+"y0": 610,
+"y1": 651,
+"text": "III. \no texto é resultado da “soma” de palavras, \nfrases ou de outros textos, organizado de \ndeterminado modo, dentre tantos outros \npossíveis. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 659,
+"y1": 668,
+"text": "É correto o que consta em \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 676,
+"y1": 685,
+"text": "A) \nI e III apenas. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 693,
+"y1": 702,
+"text": "B) \nI e II apenas.  \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 710,
+"y1": 719,
+"text": "C) \nI, II e III. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 727,
+"y1": 736,
+"text": "D) \nII e III apenas. \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 71,
+"y0": 744,
+"y1": 753,
+"text": " \n"
+},
+{
+"pg": 9,
+"col": "L",
+"x0": 50,
+"y0": 761,
+"y1": 770,
+"text": " \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 87,
+"text": "33. Atente para o texto a seguir. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 94,
+"y1": 245,
+"text": "O educador Paulo Freire afirmou que “a leitura do \nmundo precede a leitura da palavra, daí que a \nposterior leitura desta não possa prescindir da \ncontinuidade da leitura daquele” (FREIRE, 1987). No \nviés da leitura do mundo pela palavra, vê-se emergir \numa tecnologia de linguagem cujo espaço de \napreensão de sentido não é apenas composto por \npalavras, mas, junto com elas, encontram-se sons, \ngráficos e diagramas, todos lançados sobre uma \nmesma superfície perceptual, amalgamados uns \nsobre os outros formando um todo significativo e de \nonde sentidos são complexamente disponibilizados \naos navegantes do oceano digital. É assim o \nhipertexto. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 254,
+"y1": 262,
+"text": "Considerando o texto acima, é correto afirmar que  \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 271,
+"y1": 334,
+"text": "A) \numa vantagem do hipertexto é que com ele se \npode dizer tudo, ou seja, se consegue a \nexplicação de todos os pormenores do texto, \nsendo a representação dele em forma de \nequação  texto = dito, enquanto a do texto \nimpresso é texto = dito + não-dito. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 342,
+"y1": 406,
+"text": "B) \no hipertexto concretiza a possibilidade de tornar \nseu usuário um leitor inserido nas principais \ndiscussões em curso no mundo, com a \nvantagem de que exige do usuário apenas a \ndecodificação das palavras que flutuam sobre a \nrealidade imediata. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 414,
+"y1": 466,
+"text": "C) \na leitura do mundo, da realidade que \ncircunscreve o leitor de Paulo Freire passa a ser \nprofundamente alargada pelo hipertexto, \nembora, na prática, esse limite os horizontes de \nexpectativa e de surpresa do leitor. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 474,
+"y1": 538,
+"text": "D) \no hipertexto consolida o processo descrito por \nPaulo Freire, uma vez que viabiliza \nmultidimensionalmente a compreensão do leitor \npela exploração superlativa de informações, \nmuitas delas inacessíveis sem os recursos da \nhipermídia. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 546,
+"y1": 555,
+"text": " \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 564,
+"y1": 597,
+"text": "34. No que diz respeito às tecnologias da \ncomunicação e de informação no ensino, assinale a \nopção verdadeira. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 605,
+"y1": 646,
+"text": "A) \nAs tecnologias que favorecem o acesso à \ninformação e aos canais de comunicação são, \npor si mesmas, educativas, pois trazem inerente \na si uma proposta educativa. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 655,
+"y1": 685,
+"text": "B) \nOs recursos tecnológicos são mutáveis e o seu \nvalor não está em si mesmos, mas no uso que o \nprofessor faz desses recursos. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 693,
+"y1": 724,
+"text": "C) \nAs inovações tecnológicas, por si só, já \ngarantem inovações pedagógicas em sala de \naula. \n"
+},
+{
+"pg": 9,
+"col": "R",
+"x0": 315,
+"y0": 732,
+"y1": 763,
+"text": "D) \nO atributo de velho ou novo está no produto, no \nartefato em si mesmo, na cronologia das \ninvenções, independente do uso que se faz dele. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 97,
+"text": "35. Leia a historinha O limoeiro de Maurício de \nSousa. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 55,
+"y0": 106,
+"y1": 115,
+"text": "Legenda: \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 55,
+"y0": 123,
+"y1": 142,
+"text": "CB – Chico Bento (falando com um limoeiro que \n        ele plantou) \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 55,
+"y0": 151,
+"y1": 159,
+"text": "P – Pai do Chico Bento \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 55,
+"y0": 168,
+"y1": 176,
+"text": "M – Mãe do Chico Bento \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 191,
+"y1": 462,
+"text": "CB: – Vixi! Como você cresceu! Inté parece qui foi \nonte qui prantei esse limoero! Agora, já ta cheio di \ngaio! Quase da minha artura! Como o tempo passa, \nné? Uns tempo atrais, ocê era deste tamanhico! Fiz \num buraquinho i ponhei ocê inda mudinha dentro! \nProtegi dos ventos, do sor, das geada... i nunca dexei \nfartá água! Imagina si eu ia dexá ocê passá sede! \nHoje você ta desse tamanhão! Quero vê o dia im qui \nocê tivé mais grande qui eu! Imagina só! Cum uns \ngaio cumprido cheio di limão i umas fia bem larga, \npra dá sombra pra quem tivé dibaxo! Aí, num vô \npercisá mais mi precupá c’ocê, né limoero? Pruque aí \nocê vai tá bem forte! Vai sabê si protegê do vento do \nsor i da geada, sozinho! I suas raiz vão tá tão \ncumprida qui ocê vai podê buscá água por sua conta! \nOcê vai sê dono doce mesmo! Sabe, limoero...Tava \npensando...Acho que dispois, vai sê eu qui vô percisá \ndocê! Isso é... Quando eu ficá mais véio! Craro! Cum \nuns limão tão bão qui ocê tem... i a sombra qui ocê \ndá, pode mi protegê inté dos pongo di chuva! Ocê vai \nfazê isso, limoeiro? Cuidá de mim também? Num \nimporta! O importante é qui eu prantei ocê! I é ansim \nqui eu gosto! Do jeito qui ocê é. \nP (para M): – Muié... tem reparado como nosso fio \ncresceu? \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 182,
+"y0": 470,
+"y1": 478,
+"text": "Fonte: Chico Bento, nº 354. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 487,
+"y1": 517,
+"text": "Considerando a variação linguística utilizada, assinale \na opção que apresenta uma visão preconceituosa a \nrespeito do texto. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 526,
+"y1": 556,
+"text": "A) \nAs historinhas do Chico Bento funcionam como \num recurso para despertar nos alunos a \nconsciência da diversidade sociolinguística. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 564,
+"y1": 595,
+"text": "B) \nA criação do personagem Chico Bento permite \nque as crianças com antecedentes urbanos se \nfamiliarizem com a cultura rural. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 603,
+"y1": 645,
+"text": "C) \nO Conselho Nacional de Cultura deveria proibir a \npublicação da revista, pois o modo de falar do \nChico pode influenciar a fala das crianças \nbrasileiras. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 653,
+"y1": 683,
+"text": "D) \nEm sala de aula, Chico Bento pode se \ntransformar em um símbolo do multiculturalismo \nque ali deve ser cultivado. \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 692,
+"y1": 700,
+"text": " \n"
+},
+{
+"pg": 10,
+"col": "L",
+"x0": 50,
+"y0": 709,
+"y1": 775,
+"text": "36. Os gêneros permitem o tratamento da \nintrigante e difícil questão que indaga: Por que os \nmembros de comunidades discursivas específicas \nusam a língua da maneira como fazem? Atente às \nrespostas para esse questionamento apresentadas a \nseguir e assinale a que for INCORRETA. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 74,
+"y1": 94,
+"text": "A) \nA determinação da língua se dá basicamente \npela função e não pela forma. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 102,
+"y1": 133,
+"text": "B) \nCada gênero textual tem um propósito bastante \nclaro que o determina e lhe dá uma esfera de \ncirculação. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 141,
+"y1": 161,
+"text": "C) \nTodos os gêneros têm uma forma e função, bem \ncomo um estilo e um conteúdo. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 169,
+"y1": 189,
+"text": "D) \nOs gêneros são modelos estanques com \nestruturas rígidas e com formas culturais. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 337,
+"y0": 197,
+"y1": 206,
+"text": " \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 215,
+"y1": 226,
+"text": "37. Leia atentamente o seguinte texto: \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 396,
+"y0": 240,
+"y1": 249,
+"text": "Receita do amor \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 330,
+"y0": 259,
+"y1": 268,
+"text": "Ingredientes: \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 330,
+"y0": 276,
+"y1": 339,
+"text": " 4 xícaras de carinho \n 2 xícaras de atenção \n 2 colheres de suspiros \n 8 pedaços de saudades \n 3 colheres de respeito \n Amor, sorrisos bobos, pimenta e ciúmes a \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 330,
+"y0": 341,
+"y1": 372,
+"text": "gosto \n \nModo de preparo: \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 330,
+"y0": 382,
+"y1": 598,
+"text": "– Misture 8 pedaços de saudade com 2 xícaras \nde atenção em uma panela até virar uma \nmistura onde qualquer momento seja especial. \nAcrescente sorrisos bobos até ficar homogêneo; \n– Junte todo o carinho na forma e caramelize \ncom suspiros de paixão, ao sentir o cheiro de \nsonhos se espalhando no ambiente retire do fogo \ne acrescente uma pitada de pimenta para \nsentirmos a intensidade dentro de nós sempre \nque provarmos; \n– Misture bem todos os ingredientes anteriores;    \n– Para não virar rotina, acrescente muito amor e \numa colher de ciúmes. Para dar um pequeno \nsabor de dedicação, adicione 3 colheres de \nrespeito. (Caso erre na medida de ciúmes \ncoloque respeito a gosto). \n(...) \nRendimento: Duas porções \nDica de acompanhamento: Aprecie com abraços \ne músicas. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 508,
+"y0": 600,
+"y1": 608,
+"text": "Diêgo Cabó \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 334,
+"y0": 617,
+"y1": 626,
+"text": " Fonte:https://www.pensador.com/frase/MTgyMjExMg/. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 463,
+"y0": 628,
+"y1": 636,
+"text": "Acesso em 08/09/2018. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 644,
+"y1": 664,
+"text": "O critério que impera na determinação interpretativa \ndo gênero apresentado é \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 672,
+"y1": 680,
+"text": "A) \na função. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 689,
+"y1": 697,
+"text": "B) \no suporte. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 706,
+"y1": 714,
+"text": "C) \no contexto. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 722,
+"y1": 731,
+"text": "D) \na forma. \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 337,
+"y0": 739,
+"y1": 748,
+"text": " \n"
+},
+{
+"pg": 10,
+"col": "R",
+"x0": 315,
+"y0": 756,
+"y1": 765,
+"text": " \n \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 119,
+"text": "38. Considerando que a questão da definitivização \ntambém pode ser incluída na substituição, leia o \ntexto a seguir e analise as afirmações que se seguem \ne escreva V para as verdadeiras e F para as falsas. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 135,
+"y0": 134,
+"y1": 142,
+"text": "Papos-de-anjo \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 151,
+"y1": 159,
+"text": "Ingredientes: \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 168,
+"y1": 176,
+"text": "18 gemas \n \n2 xícaras de açúcar \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 185,
+"y1": 193,
+"text": "4 claras \n \n2 1/2 xícaras de água \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 202,
+"y1": 210,
+"text": "Modo de fazer:  \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 218,
+"y1": 249,
+"text": "Bater bem as gemas. Em separado bater as claras \nem neve firme e juntá-las às gemas. Levar ao forno \nem forminhas untadas e polvilhadas com farinha. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 257,
+"y1": 321,
+"text": "À parte preparar uma calda com o açúcar e a \nágua, acrescentando um aromatizante. Quando os \ndocinhos estiverem cozidos, colocá-los na calda e \ndeixá-los ferver até ficarem bem embebidos. \nColocá-los numa compoteira ou num prato de \ncristal e deixar esfriar. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 94,
+"y0": 329,
+"y1": 337,
+"text": "Fonte: https://www.passeidireto.com. Acesso em \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 243,
+"y0": 339,
+"y1": 347,
+"text": "15/09/2018. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 355,
+"y1": 396,
+"text": "(    ) \nA informação nova é caracteristicamente \nintroduzida por expressões indefinidas e \nsubsequentemente referida por expressões \ndefinidas. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 405,
+"y1": 446,
+"text": "(    ) \nNa lista de ingredientes, são introduzidas \nas entidades “novas”, que, ao serem \nmencionadas no Modo de fazer, tomam a \nforma de expressões indefinidas. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 454,
+"y1": 496,
+"text": "(    ) \nNo Modo de fazer, há tanto entidades já \n“dadas”: as gemas, as claras, o açúcar, a \nágua; quanto entidades “novas”: uma \ncalda, um aromatizante, uma compoteira. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 504,
+"y1": 546,
+"text": "(    ) \nNuma sequência, um referente indefinido \ndeve, para que se mantenha a identidade \nreferencial, ser retomado por outro \nindefinido. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 55,
+"y0": 554,
+"y1": 584,
+"text": "(    ) \nPara que se mantenha a identidade \nreferencial, uma entidade definida só pode \nser retomada por outra definida. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 593,
+"y1": 601,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 610,
+"y1": 618,
+"text": "A) \nV, V, F, F, V. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 626,
+"y1": 635,
+"text": "B) \nV, F, V, F, V. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 644,
+"y1": 652,
+"text": "C) \nF, V, F, V, F. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 660,
+"y1": 669,
+"text": "D) \nF, F, V, V, F. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 71,
+"y0": 677,
+"y1": 686,
+"text": " \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 695,
+"y1": 750,
+"text": "39. Considerando que os gêneros estão agrupados \nem cinco modalidades retóricas correspondentes aos \ntipos textuais, assinale a opção em que a \ncorrespondência dos exemplos e as respectivas \nmodalidades está correta. \n"
+},
+{
+"pg": 11,
+"col": "L",
+"x0": 50,
+"y0": 758,
+"y1": 767,
+"text": " \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 74,
+"y1": 94,
+"text": "A) \nDESCREVER: regulamento, regras de jogo, carta \ndo leitor. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 102,
+"y1": 122,
+"text": "B) \nARGUMENTAR: novela fantástica, texto de \nopinião, debate regrado. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 130,
+"y1": 150,
+"text": "C) \nEXPOR: seminário, conferência, entrevista de \nespecialista. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 158,
+"y1": 167,
+"text": "D) \nNARRAR: fábula, curriculum vitae, lenda. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 337,
+"y0": 175,
+"y1": 184,
+"text": " \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 193,
+"y1": 237,
+"text": "40. Levando-se em conta o fato de que se deve \noferecer um ensino culturalmente sensível, tendo em \nvista a pluralidade cultural, assinale a afirmação \nverdadeira. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 245,
+"y1": 308,
+"text": "A) \nOs gêneros explorados na aula de língua estão \nrelacionados ao papel da linguagem e da cultura, \nno entanto, é um tipo de ação que deve limitar-\nse ao aspecto meramente interno ao sistema da \nlíngua, restringindo-se à atividade comunicativa \ne informacional. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 316,
+"y1": 358,
+"text": "B) \nDeve-se frisar a variação linguística, social, \ntemática, de costumes, crenças, valores, dentre \noutras; mas sempre cuidando de privilegiar o \nurbanismo elitizado. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 366,
+"y1": 408,
+"text": "C) \nVisitas a museus, parques, fábricas, instituições, \nuniversidades, feiras, mercados, teatros, dentre \noutros, garantem, por si só, o reconhecimento \nda pluralidade cultural. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 416,
+"y1": 479,
+"text": "D) \nAs temáticas dos gêneros explorados na escola, \ncomo, doenças endêmicas, ecologia, artes \nplásticas, sistema de trânsito, meios de \ncomunicação de massa, literatura, dentre \noutras, exploram a linguagem como forma de \nação e inserção social e cultural. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 337,
+"y0": 488,
+"y1": 496,
+"text": " \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 505,
+"y1": 538,
+"text": "41. Sabendo-se que a reiteração pode-se dar \ntambém por meio de hiperônimos e hipônimos, \nassinale a opção correta. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 546,
+"y1": 599,
+"text": "A) \nQuando há retomadas (repetições) do mesmo \nfenômeno por formas diversas, esse tipo de \nreiteração baseia-se num conhecimento somente \nlinguístico a despeito do conhecimento de \nmundo. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 607,
+"y1": 670,
+"text": "B) \nQuando o primeiro elemento mantém com o \nsegundo uma relação todo-parte, classe-\nelemento, tem-se um hipônimo; e, quando o \nprimeiro elemento mantém com o segundo uma \nrelação parte-todo, elemento-classe, tem-se o \nhiperônimo. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 679,
+"y1": 709,
+"text": "C) \nNomes gerais como: gente, pessoa, coisa, \nnegócio, lugar, ideia podem funcionar como \nitens de referência anafórica. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 717,
+"y1": 748,
+"text": "D) \nDiferentemente dos hipônimos, os hiperônimos \npermitem maior precisão, deixando o texto \nmenos vago. \n"
+},
+{
+"pg": 11,
+"col": "R",
+"x0": 315,
+"y0": 756,
+"y1": 765,
+"text": " \n"
+},
+{
+"pg": 12,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 108,
+"text": "42. Assinale a opção em que o parágrafo \nexemplificado e a respectiva identificação da \norganização retórica está correta. \n"
+},
+{
+"pg": 12,
+"col": "L",
+"x0": 50,
+"y0": 116,
+"y1": 234,
+"text": "A) \n“O humor, numa concepção mais exigente, não \né apenas a arte de fazer rir. Isso é comicidade, \nou qualquer outro nome que se escolha. Na \nverdade, humor é uma análise crítica do homem \ne da vida. Uma análise não obrigatoriamente \ncomprometida com o riso, uma análise \ndesmistificada, reveladora, cáustica. Humor é \numa forma de tirar a roupa da mentira, e o seu \nêxito está na alegria que ele provoca pela \ndescoberta inesperada da verdade.” = \nexemplificação \n"
+},
+{
+"pg": 12,
+"col": "L",
+"x0": 50,
+"y0": 243,
+"y1": 361,
+"text": "B) \n“As adivinhações agradam principalmente às \ncrianças. Por que isso acontece? Por que \nrepresentam a forma quase simbólica da \nexperiência infantil de conquista do real. Para \numa criança, o mundo está cheio de mistérios, \nacontecimentos incompreensíveis, figuras \nindecifráveis. A própria presença da criança no \nmundo é, para ela, uma incógnita. Daí surge o \nprazer da experimentação de modo \ndesinteressado, a brincadeira, a emoção do \nencontro com a surpresa.” = explanação \n"
+},
+{
+"pg": 12,
+"col": "L",
+"x0": 50,
+"y0": 369,
+"y1": 432,
+"text": "C) \n“Era o casarão clássico das antigas fazendas \nnegreiras. Assobradado, erguia-se em alicerces \no muramento, de pedra até meia altura e, dali \nem diante, de pau-a-pique [...] À porta da \nentrada, ia ter uma escadaria dupla, com \nalpendre e parapeito desgastado.” = definição \n"
+},
+{
+"pg": 12,
+"col": "L",
+"x0": 50,
+"y0": 441,
+"y1": 537,
+"text": "D) \n“A imaginação utópica é inerente ao homem. \nAlém disso, é uma constante em diferentes \nmomentos históricos. Nas sociedades primitivas, \nsob a forma de lendas. Nas formas do \npensamento religioso, tratam de um paraíso a \nser alcançado. Nas teorias de filósofos e \ncientistas sociais, espalham o sonho de uma \nvida mais justa, pedindo-nos que sejamos \nrealistas.” = descrição \n"
+},
+{
+"pg": 12,
+"col": "L",
+"x0": 50,
+"y0": 545,
+"y1": 775,
+"text": " \n43. Leia atentamente o seguinte parágrafo:         \n“O livro foi sempre considerado o baluarte em que \npoderiam confiar os pessimistas da cultura de massa \nno momento em que tivessem de salvar do incêndio \na cultura autêntica. Todavia, agora, e cada vez mais, \nesses pessimistas têm razões de sobra para se \ndesesperar. O livro, ao qual tinham acesso apenas as \nminorias privilegiadas, passa a figurar no cardápio da \nclasse média e do proletariado. Os últimos anos \nmarcaram o aparecimento em grande estilo dos \nlivros de bolso, ostensivamente concorrendo com \njornais e revistas nas bancas e na disputa das horas \nde ócio dos leitores. As edições de livros de bolso se \nmultiplicaram. O livro, antes privilégio da gente de \nespírito e sensibilidade, de repente é elevado à \ncategoria de produto de consumo para a massa, \ntratado no mesmo nível do sabão de coco e do \nsabonete. O livro penetra na drugstore e a cultura é \nequiparada a um comprimido que se compra para dor \nde cabeça. A cultura veiculada pelo livro adquire \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 74,
+"y1": 116,
+"text": "então o aspecto vulgar que faz a ira dos inimigos da \ncultura de massa: o de tratar com simplicidade \ncoisas por natureza complicadas”. (Charles R. \nWright)  \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 325,
+"y0": 124,
+"y1": 132,
+"text": "Fonte: SOARES, M. B. Técnica de redação: as articulações \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 329,
+"y0": 134,
+"y1": 142,
+"text": "linguísticas como técnica de pensamento. Rio de Janeiro:   \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 465,
+"y0": 143,
+"y1": 151,
+"text": "Ao Livro Técnico, 1978. \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 159,
+"y1": 179,
+"text": "No que diz respeito ao parágrafo acima, é correto \nafirmar que   \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 187,
+"y1": 229,
+"text": "A) \ntem por objetivo mostrar a evolução do livro: de \nprivilégio de uma minoria a produto de consumo \npara a massa. Tal objetivo obriga, \nevidentemente, a uma ordenação por tempo. \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 237,
+"y1": 300,
+"text": "B) \nnele a indicação de tempo se dá pelo emprego \ndos tempos verbais, bem como por advérbios e \nlocuções adverbiais, certas preposições e \nlocuções prepositivas, certas conjunções e \nlocuções conjuntivas, e adjuntos adverbiais de \ntempo presentes na ordenação. \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 309,
+"y1": 339,
+"text": "C) \nem função de seu objetivo, aparecem, \nsimultaneamente, os critérios de organização \npor tempo e espaço. \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 347,
+"y1": 389,
+"text": "D) \nnele há expressões indicadoras de tempo – \nadjuntos adverbiais de tempo – e de espaço – \nadjuntos adverbiais de lugar – marcadoras do \ncritério de ordenação do parágrafo. \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 337,
+"y0": 397,
+"y1": 406,
+"text": " \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 415,
+"y1": 427,
+"text": "44. Leia o seguinte parágrafo: \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 434,
+"y1": 694,
+"text": "“A dita Era da Televisão é, relativamente, nova. \nEmbora os princípios técnicos de base sobre os quais \nrepousa a transmissão televisual já estivessem em \nexperimentação entre 1908 e 1914, nos Estados \nUnidos, no decorrer de pesquisas sobre a \namplificação eletrônica, somente na década de vinte \nchegou-se ao tubo catódico, principal peça do \naparelho de tevê. Após várias experiências por \nsociedades eletrônicas, tiveram início, em 1939, as \ntransmissões regulares entre Nova Iorque e Chicago \n- mas quase não havia aparelhos particulares. A \nguerra impôs um hiato às experiências. A ascensão \nvertiginosa do novo veículo deu-se após 1945. No \nBrasil, a despeito de algumas experiências pioneiras \nde laboratório (Roquete Pinto chegou a interessar-se \npela transmissão da imagem), a tevê só foi mesmo \nimplantada em setembro de 1950, com a \ninauguração do Canal 3 (TV Tupi), por Assis \nChateaubriand. Nesse mesmo ano, nos Estados \nUnidos, já havia cerca de cem estações, servindo a \ndoze milhões de aparelhos. Existem hoje mais de 50 \ncanais em funcionamento, em todo o território \nbrasileiro, e perto de 4 milhões de aparelhos \nreceptores.” [dados de 1971] (Muniz Sodré)  \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 318,
+"y0": 702,
+"y1": 720,
+"text": "Fonte: \nhttp://www.pead.letras.ufrj.br/tema09/coesaogramatical.ht\n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 448,
+"y0": 722,
+"y1": 730,
+"text": "ml. Acesso em 15/09/2018. \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 738,
+"y1": 755,
+"text": "Considerando o parágrafo acima, escreva V ou F conforme \nseja verdadeiro ou falso o que se afirma a seguir.  \n"
+},
+{
+"pg": 12,
+"col": "R",
+"x0": 315,
+"y0": 763,
+"y1": 771,
+"text": " \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 55,
+"y0": 74,
+"y1": 116,
+"text": "(    ) \nO objetivo do parágrafo é mostrar a \nevolução da televisão ao longo do tempo, o \nque define o critério de organização \nexclusivamente por tempo. \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 55,
+"y0": 124,
+"y1": 166,
+"text": "(    ) \nAs expressões indicadoras de tempo e de \nlugar, ao longo do parágrafo, evidenciam a \nordenação por tempo e espaço \nsimultaneamente. \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 55,
+"y0": 174,
+"y1": 237,
+"text": "(    ) \nQuando se escreve sobre fatos, ideias ou \nfenômenos, com o objetivo de mostrar sua \nevolução ao longo do tempo e em \ndiferentes lugares, deve-se organizar o \nparágrafo por um dos critérios (tempo ou \nespaço). \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 55,
+"y0": 246,
+"y1": 287,
+"text": "(    ) \nHá no parágrafo, dentre outras, a \ncorrespondência: experimentação (fato) – \nentre 1908 e 1914 (tempo) – nos Estados \nUnidos (espaço). \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 295,
+"y1": 304,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 312,
+"y1": 321,
+"text": "A) \nV, F, V, F. \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 329,
+"y1": 338,
+"text": "B) \nF, F, V, F. \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 346,
+"y1": 355,
+"text": "C) \nV, V, F, V. \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 363,
+"y1": 372,
+"text": "D) \nF, V, F, V. \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 71,
+"y0": 380,
+"y1": 389,
+"text": " \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 398,
+"y1": 409,
+"text": "45. Atente para o seguinte parágrafo: \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 50,
+"y0": 417,
+"y1": 732,
+"text": "“Tolhido pelas montanhas no litoral, obrigado a \nenfrentar a floresta insidiosa, onde os perigos estão \nconstantemente à espreita, assim na terra como na \nágua, assim na água como no ar, tendo de \nacomodar-se a um clima para o qual o branco nunca \nfez qualquer aprendizado, seria praticamente \nimpossível ao português conquistar o trópico à \nmaneira como o anglo-saxão tem conquistado as \nzonas temperadas da terra. Haveria, isto sim, de \ndesenvolver faculdades e qualidades adequadas ao \nnovo meio e entre estas a suscetibilidade e a \ndelicadeza. Enquanto o anglo-saxão encontrou no \nNovo Mundo uma natureza de certa forma \nsemelhante à europeia e problemas que lhe eram \ndesde muito conhecidos e que desde muito \naprendera a enfrentar, o português, no Brasil, \ndefronta um mundo completamente estranho com \nmuito poucas semelhanças com o seu habitat \noriginal. O frio para ele não seria novidade, mas calor \ntropical com alto teor de umidade lhe era \ndesconhecido. O tipo de florestas virgens da América \ndo Norte não seria para o europeu absolutamente \nnovo em sua experiência. Agora a floresta tropical do \nBrasil, o jângal que avança até a beira dos rios como \nverdadeira muralha de verdura, por certo que não \nhavia de inspirar-lhe ardores panteísticos, de posse \nimediata. Pelo contrário, o seu sentimento dominante \nseria o terror, o terror cósmico que subsiste no \nbrasileiro ainda em nossos dias.” \n"
+},
+{
+"pg": 13,
+"col": "L",
+"x0": 60,
+"y0": 740,
+"y1": 757,
+"text": "Fonte: MOOG, V. Bandeirantes e pioneiros: paralelo entre \nduas culturas. Rio de Janeiro: Civilização Brasileira, 1969. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 74,
+"y1": 94,
+"text": "No que concerne ao parágrafo acima, considere as \nseguintes afirmações: \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 330,
+"y0": 102,
+"y1": 122,
+"text": "I. \nOs dois primeiros períodos constituem a \nintrodução do parágrafo. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 326,
+"y0": 130,
+"y1": 194,
+"text": "II. \nAs palavras ou expressões: o português, o \nanglo-saxão; conquistar o trópico, tem \nconquistado as zonas temperadas; \nimpossível conquistar, à maneira como tem \nconquistado, mostram que o parágrafo se \ndesenvolverá por contraste. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 322,
+"y0": 202,
+"y1": 243,
+"text": "III. \nOs pontos de diferença entre os dois \nelementos apresentados no parágrafo são: a \nfamiliaridade do português e a não \nfamiliaridade do anglo-saxão. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 324,
+"y0": 252,
+"y1": 282,
+"text": "IV. \nSão expressões indicadoras de contraste \nusadas no parágrafo: enquanto, mas, agora, \npelo contrário. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 290,
+"y1": 299,
+"text": "É correto o que se afirma somente em \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 307,
+"y1": 316,
+"text": "A) III e IV. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 324,
+"y1": 333,
+"text": "B) I e II. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 341,
+"y1": 350,
+"text": "C) II e IV.  \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 358,
+"y1": 367,
+"text": "D) I e III. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 337,
+"y0": 375,
+"y1": 384,
+"text": " \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 393,
+"y1": 405,
+"text": "46. Leia atentamente o seguinte parágrafo:  \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 412,
+"y1": 552,
+"text": "“Viver é mesmo uma ginástica. O coração se \ncontorce para bombear o sangue que, por sua vez, \ncorre o corpo inteiro. A respiração estica e encolhe os \npulmões. O aparelho digestivo se dobra e desdobra \ncom o alimento. Tudo na vida animal é movimento – \nmúsculos que se contraem, músculos que se \nestendem. Graças a cerca de 650 músculos o homem \npode, além de viver, ficar em pé, andar, dançar, \nfalar, piscar os olhos, cair na gargalhada, prorromper \nem lágrimas, expressar no rosto suas emoções, \nescrever e ler este texto. Portanto, o desempenho da \nmusculatura é muito mais forte que mera força \nbruta”. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 404,
+"y0": 560,
+"y1": 568,
+"text": "Revista Superinteressante, n. 2, 1988. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 576,
+"y1": 596,
+"text": "Considerando o parágrafo acima, assinale a afirmação \nverdadeira. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 604,
+"y1": 634,
+"text": "A) \nA última frase representa a conclusão do \nparágrafo e caracteriza-se por explicar e ampliar \nas ideias de apoio. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 643,
+"y1": 684,
+"text": "B) \nA frase “Portanto, o desempenho da \nmusculatura é muito mais forte que mera força \nbruta” é uma reafirmação e retomada da ideia \nprincipal. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 692,
+"y1": 723,
+"text": "C) \nA frase “O coração se contorce para bombear o \nsangue que, por sua vez, corre o corpo inteiro” \napresenta a ideia principal. \n"
+},
+{
+"pg": 13,
+"col": "R",
+"x0": 315,
+"y0": 731,
+"y1": 762,
+"text": "D) \n“Viver é mesmo uma ginástica” e “A respiração \nestica e encolhe os pulmões” são ideias de apoio \npara a ideia principal. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 87,
+"text": "47. Leia o parágrafo a seguir. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 94,
+"y1": 300,
+"text": "“O acelerado desenvolvimento da humanidade vem \ngerando crescentes e apreensivos problemas em que \nse destacam os referentes ao equilíbrio homem / \nmeio ambiente, tendo, muitas vezes, a interligá-los – \ncomo subprodutos danosos – as diversas \nmodalidades de poluição que resultam, afinal, na \nredução dos recursos naturais, na diminuição da \nprodutividade e na poluição biopsíquica e moral que \nvem definhando e matando, principalmente nas \ncivilizações mais evoluídas. Esta é uma das razões \npor que a poluição, consequente do desenvolvimento \nindustrial é considerada como um dos principais \nproblemas da atualidade. E sendo ela geradora de \ndesperdício, antagônica ao desenvolvimento, \nnecessário se faz uma campanha cerrada para \ncombatê-la. Mas, para tanto, é fundamental que \ntenhamos uma formação com base ecológica. Só \nassim estaremos contribuindo de fato para o \nprogresso do País. “ \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 133,
+"y0": 308,
+"y1": 316,
+"text": "Fonte: Revista Petrobrás, nº 271, 1975. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 324,
+"y1": 344,
+"text": "Escreva (CA) para o que for causa e (CO) para o que \nfor consequência, de acordo com o parágrafo. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 352,
+"y1": 361,
+"text": "(    ) \nacelerado desenvolvimento da humanidade \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 369,
+"y1": 388,
+"text": "(    ) \nproblemas referentes ao equilíbrio \nhomem/meio ambiente \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 397,
+"y1": 405,
+"text": "(    ) \ncrescentes e apreensivos problemas \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 414,
+"y1": 422,
+"text": "(    ) \ndesenvolvimento industrial \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 431,
+"y1": 439,
+"text": "(    ) \ndesperdício \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 447,
+"y1": 456,
+"text": "(    ) \ncontribuição para o progresso do país \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 464,
+"y1": 473,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 481,
+"y1": 490,
+"text": "A) \nCO, CA, CO, CO, CA, CO. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 498,
+"y1": 507,
+"text": "B) \nCA, CO, CA, CO, CA, CA. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 515,
+"y1": 524,
+"text": "C) \nCA, CA, CO, CA, CO, CO. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 532,
+"y1": 541,
+"text": "D) \nCO, CO, CA, CA, CO, CA. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 71,
+"y0": 549,
+"y1": 558,
+"text": " \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 50,
+"y0": 567,
+"y1": 600,
+"text": "48. Relacione corretamente as competências com \nas respectivas habilidades, numerando os parênteses \nabaixo de acordo com a seguinte indicação: \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 608,
+"y1": 660,
+"text": "1. Compreender e usar os sistemas simbólicos das \ndiferentes linguagens como meios de \norganização cognitiva da realidade pela \nconstituição de significados, expressão, \ncomunicação e informação. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 669,
+"y1": 699,
+"text": "2. Confrontar opiniões e pontos de vista sobre as \ndiferentes linguagens e suas manifestações \nespecíficas. \n"
+},
+{
+"pg": 14,
+"col": "L",
+"x0": 55,
+"y0": 707,
+"y1": 749,
+"text": "3. Compreender e usar a língua portuguesa como \nlíngua materna, geradora de significação e \nintegradora da organização do mundo e da \nprópria identidade. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 321,
+"y0": 74,
+"y1": 105,
+"text": "(    ) \nAnalisar a função da linguagem \npredominante nos textos em situações \nespecíficas de interlocução. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 321,
+"y0": 113,
+"y1": 166,
+"text": "(    ) \nReconhecer no texto estratégias \nargumentativas empregadas para o \nconvencimento do público, tais como a \nintimidação, sedução, comoção, \nchantagem, entre outras. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 321,
+"y0": 174,
+"y1": 216,
+"text": "(    ) \nIdentificar, em textos de diferentes \ngêneros, as marcas linguísticas que \nsingularizam as variedades linguísticas \nsociais, regionais e de registro. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 321,
+"y0": 224,
+"y1": 254,
+"text": "(    ) \nReconhecer os usos da norma padrão da \nlíngua portuguesa nas diferentes situações \nde comunicação. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 321,
+"y0": 263,
+"y1": 304,
+"text": "(    ) \nIdentificar os elementos que concorrem \npara a progressão temática e para a \norganização e estruturação de textos de \ndiferentes gêneros e tipos. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 312,
+"y1": 321,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 329,
+"y1": 338,
+"text": "A) \n1, 3, 2, 3, 2. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 346,
+"y1": 355,
+"text": "B) \n1, 2, 3, 3, 1. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 363,
+"y1": 372,
+"text": "C) \n2, 1, 1, 2, 3. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 380,
+"y1": 389,
+"text": "D) \n3, 1, 3, 2, 2. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 337,
+"y0": 397,
+"y1": 406,
+"text": " \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 415,
+"y1": 437,
+"text": "49. Analise a relação entre a competência \ndestacada e as habilidades a seguir. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 445,
+"y1": 454,
+"text": "Competência: \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 462,
+"y1": 514,
+"text": "Analisar, interpretar e aplicar recursos expressivos \ndas linguagens, relacionando textos com seus \ncontextos, mediante a natureza, função, organização, \nestrutura das manifestações, de acordo com as \ncondições de produção e recepção. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 522,
+"y1": 531,
+"text": "Habilidades: \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 330,
+"y0": 539,
+"y1": 581,
+"text": "I. \nEstabelecer relações entre o texto literário e \no momento de sua produção, situando \naspectos do contexto histórico, social e \npolítico. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 326,
+"y0": 589,
+"y1": 620,
+"text": "II. \nRelacionar informações sobre concepções \nartísticas e procedimentos de construção do \ntexto literário. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 322,
+"y0": 628,
+"y1": 659,
+"text": "III. \nReconhecer a função e o impacto social das \ndiferentes tecnologias da comunicação e \ninformação. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 324,
+"y0": 667,
+"y1": 686,
+"text": "IV. \nIdentificar pela análise de suas linguagens, \nas tecnologias da comunicação e informação. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 327,
+"y0": 695,
+"y1": 725,
+"text": "V. \nReconhecer a presença de valores sociais e \nhumanos atualizáveis e permanentes no \npatrimônio literário nacional. \n"
+},
+{
+"pg": 14,
+"col": "R",
+"x0": 315,
+"y0": 734,
+"y1": 775,
+"text": "De acordo com os Parâmetros Curriculares Nacionais \ndo Ensino Médio para a disciplina de Língua \nPortuguesa, é habilidade correspondente à \ncompetência destacada somente o que consta em \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 74,
+"y1": 83,
+"text": "A) \nI, II e V. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 91,
+"y1": 100,
+"text": "B) \nI e II. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 108,
+"y1": 117,
+"text": "C) \nII, III, IV. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 125,
+"y1": 134,
+"text": "D) \nIII e IV.  \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 142,
+"y1": 151,
+"text": " \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 160,
+"y1": 204,
+"text": "50. Embora não exista uma divisão única e \nestanque em relação às manifestações da literatura \nbrasileira, em uma visão panorâmica, é correto \nafirmar que \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 212,
+"y1": 253,
+"text": "A) \ncontemporaneamente, a partir do final do século \nXIX, figuram os estilos literários: o Modernismo \ne, na sequência, o Pós-Modernismo, também \nconsiderado ‘Tendências contemporâneas’. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 262,
+"y1": 303,
+"text": "B) \noutra divisão possível é pela temática: \npredomínio da fé e emoção: Barroco, \nRomantismo, Simbolismo; predomínio da ciência \ne razão: Arcadismo, Realismo e Modernismo. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 311,
+"y1": 342,
+"text": "C) \nna época renascentista, por volta do século XVI \nocorrem os estilos literários: a Literatura de \ninformação, o Barroco e o Arcadismo. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 350,
+"y1": 381,
+"text": "D) \nna época Moderna, por volta do século XIX e \ninício do século XX, ocorrem os estilos literários: \no Romantismo, o Realismo e o Simbolismo. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 71,
+"y0": 389,
+"y1": 398,
+"text": " \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 407,
+"y1": 440,
+"text": "51. Escreva (1) para o que caracteriza a linguagem \nliterária e (2) para o que caracteriza a linguagem não \nliterária. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 55,
+"y0": 448,
+"y1": 500,
+"text": "(    ) \nA essência da linguagem está na palavra, \nque é usada por escritores e poetas em \ntodo o seu potencial significativo e sonoro, \nestabelecendo interação entre autor e seus \nleitores/ouvintes. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 55,
+"y0": 509,
+"y1": 561,
+"text": "(    ) \nCaracteriza-se pelo predomínio do sentido \nconotativo (ou figurado), que é aquele que \nas palavras e expressões adquirem em um \ndado contexto, quando o seu sentido literal \né modificado.  \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 55,
+"y0": 569,
+"y1": 633,
+"text": "(    ) \nCaracteriza-se pelo predomínio do sentido \ndenotativo (ou literal), que é aquele que a \npalavra e as expressões são tomadas em \nsua significação “básica”, a qual pode ser \napreendida sem ajuda do cotexto e do \ncontexto. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 55,
+"y0": 641,
+"y1": 693,
+"text": "(    ) \nLinguagem típica de textos com função \nutilitária, ou seja, que têm como finalidade \npredominante satisfazer a alguma \nnecessidade específica, como informar, \nargumentar, convencer, dentre outras. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 702,
+"y1": 710,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 719,
+"y1": 727,
+"text": "A) \n2, 1, 2, 1. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 735,
+"y1": 744,
+"text": "B) \n1, 1, 2, 2. \n"
+},
+{
+"pg": 15,
+"col": "L",
+"x0": 50,
+"y0": 752,
+"y1": 761,
+"text": "C) \n2, 2, 1, 1. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 108,
+"text": "52. No que diz respeito ao Barroco no Brasil, \nescreva V para o que for verdadeiro e F para o que \nfor falso. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 321,
+"y0": 116,
+"y1": 158,
+"text": "(    ) \nO marco inicial da literatura barroca \nbrasileira é o surgimento do poema \n“Prosopopeia”, escrito por Botelho de \nOliveira em 1601. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 321,
+"y0": 166,
+"y1": 240,
+"text": "(    ) \nDurante a vigência da estética barroca, \nimportada diretamente da Espanha, nessa \naltura dominando Portugal, e dos poetas \nportugueses do século XVI, cultivam-se a \npoesia, a historiografia, a literatura \ndoutrinária ou de informação da terra e a \noratória. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 321,
+"y0": 249,
+"y1": 290,
+"text": "(    ) \nOs principais escritores barrocos em língua \nportuguesa no Brasil são Botelho de \nOliveira, Bento Teixeira, Gregório de matos \ne Frei Manuel de Santa Maria Itaparica.  \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 321,
+"y0": 298,
+"y1": 351,
+"text": "(    ) \nComo manifestação coletiva do Barroco, \nmostrando já uma certa estruturação da \nvida intelectual, surgiram as Academias, \nque eram grêmios literários ou eruditos, \ninspirados em modelos portugueses.  \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 359,
+"y1": 368,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 376,
+"y1": 385,
+"text": "A) \nF, V, V, V. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 393,
+"y1": 402,
+"text": "B) \nV, F, F, V. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 410,
+"y1": 419,
+"text": "C) \nF, V, F, F. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 427,
+"y1": 436,
+"text": "D) \nV, F, V, F. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 444,
+"y1": 452,
+"text": " \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 461,
+"y1": 494,
+"text": "53. Atente para o que se afirma a seguir sobre o \ncenário social e político onde se situa a literatura \nbarroca. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 330,
+"y0": 503,
+"y1": 555,
+"text": "I. \nNo início das manifestações barrocas, o \nBrasil vivia na fase da exploração do ouro, \nrazão pela qual os principais centros urbanos \nestavam localizados nas regiões ricas em \nouro. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 326,
+"y0": 563,
+"y1": 616,
+"text": "II. \nComo a vida econômica da colônia estava \nconcentrada no Nordeste, explica ser essa a \nregião onde se encontravam os principais \nartistas e escritores, inclusive por Salvador \nser a Capital do Brasil de 1549 até 1763. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 322,
+"y0": 624,
+"y1": 687,
+"text": "III. \nO olhar crítico de Gregório de Matos revela \nos aspectos negativos da vida na Bahia e em \nMinas Gerais nos fins do século XVII. \nDenuncia com irreverência, a corrupção \neconômica dos políticos e a corrupção moral \ndos padres e das freiras. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 696,
+"y1": 704,
+"text": "É correto o que se afirma em \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 713,
+"y1": 721,
+"text": "A) \nI, II e III. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 729,
+"y1": 738,
+"text": "B) \nI e II apenas. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 746,
+"y1": 755,
+"text": "C) \nII e III apenas. \n"
+},
+{
+"pg": 15,
+"col": "R",
+"x0": 315,
+"y0": 763,
+"y1": 772,
+"text": "D) \nI e III apenas. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 97,
+"text": "54. Sobre Gregório de Matos (1633-1696), é \ncorreto afirmar que \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 105,
+"y1": 191,
+"text": "A) \né lírico, quando se entrega à religião, \nprincipalmente à figura de Cristo, em que estão \npresentes o senso de pecado, a constatação da \nfragilidade humana e o temor diante da morte e \nda condenação, presentes em: “A Jesus Cristo \nNosso Senhor”; “Buscando a Cristo”; “À Perfeição \ndo Santo Exercício da Via Sacra”, “Feito com Boa \nDevoção”; “No Dia de Quarta-feira de Cinzas”. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 199,
+"y1": 251,
+"text": "B) \né satírico, quando nos fala da sociedade da \népoca, tanto baiana como lisboeta, presente em \n“Ao casamento de Pedro Alvares de Neiva”; “Ao \nDesembargador Belchior da Cunha Brochado”; \n“Aos Vícios”; “Aos Caramurus da Bahia”. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 260,
+"y1": 290,
+"text": "C) \nsua obra é póstuma e o seu primeiro volume foi \npublicado em 1882, dividido em três estilos: o \nSatírico, o Épico e o Lírico. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 298,
+"y1": 362,
+"text": "D) \né épico, quando fala de amor, cantando a beleza \ndas mulheres da época, em um estilo que retoma \ntemas clássicos como a oposição entre espírito e \nmatéria. Nesse estilo, enquadram-se os textos: \n“À Maria dos Povos, sua Futura Esposa”; “À D. \nAngela”; “Aos Mesmos Sentimentos”. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 370,
+"y1": 379,
+"text": " \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 388,
+"y1": 410,
+"text": "55. No que diz respeito ao Arcadismo no Brasil, \nassinale a afirmação verdadeira. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 418,
+"y1": 525,
+"text": "A) \nO Arcadismo, um movimento eminentemente \npoético, de repúdio às demasias perpetradas pelo \nBarroco, arregimentou pela primeira vez na \nhistória literária brasileira um grupo de escritores \nmais ou menos coeso em seus desígnios e com \num relativo sentido corporativo: Cláudio Manuel \nda Costa, Tomás Antônio Gonzaga, Silva \nAlvarenga, Alvarenga Peixoto, Basílio da Gama, \nFrei José de Santa Rita Durão, Bocage e \nGonçalves Dias.  \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 533,
+"y1": 564,
+"text": "B) \nO movimento arcádico inicia-se no Brasil com a \npublicação das “Obras Poéticas”, de Tomás \nAntônio Gonzaga. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 572,
+"y1": 646,
+"text": "C) \nO Neoclassicismo ou Arcadismo no Brasil surgiu \nem meio aos ideais revolucionários de jovens \nintelectuais, que inspirados na Revolução \nfrancesa, deflagraram o movimento conhecido \ncomo inconfidência Mineira, que pretendia \nconquistar independência política e cultural para \na explorada colônia. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 655,
+"y1": 751,
+"text": "D) \nO Arcadismo representou uma transição para o \nRomantismo, sobretudo representado por Tomás \nAntônio Gonzaga. Este Pré-Romantismo recebe o \nnome de Rococó, caracterizado pela emoção, \nsensualismo, afetação, linguagem melodiosa e \ngraciosa, excessivo apego à natureza. Assim, o \nRococó seria uma fase de saturação de uma \népoca, o que por isso mesmo constitui o germe \nde novos ideais. \n"
+},
+{
+"pg": 16,
+"col": "L",
+"x0": 50,
+"y0": 759,
+"y1": 768,
+"text": " \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 152,
+"text": "56. Considerando que, durante o Barroco, os \npoetas escreviam praticamente para si mesmos e \nque, no Arcadismo, a intenção é divulgar as ideias em \ntextos acessíveis ao maior número de leitores, \nidentifique as características desses estilos, listadas a \nseguir, escrevendo (1) para as características do \nBarroco e (2) para as características do Arcadismo. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 321,
+"y0": 160,
+"y1": 169,
+"text": "(    ) \nVolta à Idade Média. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 321,
+"y0": 177,
+"y1": 186,
+"text": "(    ) \nVolta ao Renascimento. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 321,
+"y0": 194,
+"y1": 203,
+"text": "(    ) \nAutêntico, ainda que paradoxal. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 321,
+"y0": 211,
+"y1": 220,
+"text": "(    ) \nCeleste, espiritual, místico. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 321,
+"y0": 228,
+"y1": 237,
+"text": "(    ) \nCampestre, pastoril, bucólico. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 321,
+"y0": 245,
+"y1": 264,
+"text": "(    ) \nTodo conhecimento vem da experiência e \nda reflexão. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 273,
+"y1": 281,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 290,
+"y1": 298,
+"text": "A) \n1, 2, 1, 1, 2, 2. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 307,
+"y1": 315,
+"text": "B) \n2, 1, 2, 1, 2, 1. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 323,
+"y1": 332,
+"text": "C) \n1, 2, 2, 1, 2, 2. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 340,
+"y1": 349,
+"text": "D) \n2, 2, 1, 2, 1, 1. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 337,
+"y0": 357,
+"y1": 366,
+"text": " \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 375,
+"y1": 408,
+"text": "57. Atente ao que se diz a seguir sobre os \nprincipais poetas do Arcadismo Brasileiro e assinale a \nafirmação verdadeira. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 416,
+"y1": 469,
+"text": "A) \nSanta Rita Durão escreveu o poema épico \nCaramuru, que fala dos acontecimentos \nlendários-históricos do naufrágio, salvamento e \naventuras de Diogo Álvares Correia, o Caramuru. \nCritilo Doroteu era seu pseudônimo árcade. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 477,
+"y1": 540,
+"text": "B) \nBasílio da Gama escreveu o poema épico O \nUraguai, que trata da guerra que portugueses e \nespanhóis moveram contra indígenas e jesuítas \nem Sete Povos das Missões, no Uruguai, em \n1759. Adotou o pseudônimo árcade de Termindo \nSipílio. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 548,
+"y1": 601,
+"text": "C) \nTomás Antônio Gonzaga, o maior sonetista \nneoclássico brasileiro, com influência bastante \nacentuada de Camões, inaugurou o Arcadismo no \nBrasil com Obras Poéticas, publicado em 1768. \nSeu pseudônimo árcade era Glauceste Sartúnio. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 609,
+"y1": 662,
+"text": "D) \nCláudio Manuel da Costa: escreveu Liras, com \ncaracterísticas pré-românticas, e Cartas Chilenas, \nsátira contundente contra as arbitrariedades \npraticadas pelo governador Luís da Cunha \nMeneses. Dirceu era seu pseudônimo árcade. \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 337,
+"y0": 670,
+"y1": 679,
+"text": " \n"
+},
+{
+"pg": 16,
+"col": "R",
+"x0": 315,
+"y0": 687,
+"y1": 753,
+"text": "58. Sabendo que o Romantismo considera a \nimaginação superior à razão e que a originalidade \nsubstitui a imitação dos (neo)clássicos, identifique as \ncaracterísticas desses estilos a seguir, escrevendo \nnos parênteses (1) para características do Arcadismo \ne (2) para características do Romantismo. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 55,
+"y0": 74,
+"y1": 105,
+"text": "(    ) \nexaltação ao racionalismo e ao \nconvencionalismo rígidos da literatura \nclássica \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 55,
+"y0": 113,
+"y1": 133,
+"text": "(    ) \ntransposição, para a obra, do amor, paixão, \nemoção, intuição e alma do artista \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 55,
+"y0": 141,
+"y1": 161,
+"text": "(    ) \nconsubstanciação da natureza com o \nescritor \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 55,
+"y0": 169,
+"y1": 178,
+"text": "(    ) \nrigor formal \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 55,
+"y0": 186,
+"y1": 195,
+"text": "(    ) \nliberdade criadora \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 55,
+"y0": 203,
+"y1": 212,
+"text": "(    ) \nnacionalismo \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 220,
+"y1": 229,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 237,
+"y1": 246,
+"text": "A) \n1, 2, 1, 1, 2, 2. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 254,
+"y1": 263,
+"text": "B) \n1, 2, 1, 2, 1, 1. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 271,
+"y1": 279,
+"text": "C) \n1, 2, 2, 1, 2, 2. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 288,
+"y1": 296,
+"text": "D) \n2, 1, 2, 2, 1, 1. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 305,
+"y1": 313,
+"text": " \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 325,
+"y1": 358,
+"text": "59. Sobre o contexto do Romantismo na Europa e \nno Brasil, assinale a opção que diverge do contexto \nda primeira metade do século XIX. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 366,
+"y1": 495,
+"text": "A) \nO século XIX assistiu a uma das mais violentas \ntransformações por que passou a Europa e a \nAmérica, época em que o clima do ambiente \nintelectual era de rebeldia; na política, caíam os \nsistemas de governo despótico e surgia o \nliberalismo, com ideais de igualdade e liberdade; \nno campo social, imperava o inconformismo e \ncrescia o sentimento de nacionalismo, e, no \ncampo artístico, o repúdio às regras. A \nindependência dos Estados Unidos da América é \no clímax de um século de oposição e o marco \ninicial de uma nova época: o Romantismo. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 503,
+"y1": 589,
+"text": "B) \nOs acontecimentos políticos e as ideias vindas da \nEuropa no início do século XIX servem de pano \nde fundo que determinaram a principal \npreocupação dos intelectuais brasileiros: a \nformação da nação brasileira e a definição dos \nsímbolos dessa nacionalidade. Essa preocupação \npermaneceu durante toda a produção romântica \nnacional. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 597,
+"y1": 726,
+"text": "C) \nO Romantismo foi tardio em todo o continente \namericano, devido à dependência cultural da \nAmérica em relação à Europa. No Brasil, o \nperíodo românico deve ser compreendido \nparalelamente ao processo de emancipação \npolítica. Dois princípios orientaram os escritores \nda época: a) o desejo consciente de enfatizar o \norgulho patriótico; e b) a intenção de criar uma \nliteratura independente e diferente da \nportuguesa, equivalendo, no plano cultural, ao \nque a proclamação da independência representou \nno plano político. \n"
+},
+{
+"pg": 17,
+"col": "L",
+"x0": 50,
+"y0": 734,
+"y1": 776,
+"text": "D) \nNo início do século XIX, o Brasil vive um período \nmuito especial de sua história: a crise em \nPortugal, provocada pelas manobras \nexpansionistas de Napoleão Bonaparte, \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 337,
+"y0": 74,
+"y1": 105,
+"text": "desencadeia acontecimentos que modificaram a \nvida social e econômica na colônia. O principal \ndele é a vinda da família real para o Brasil. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 113,
+"y1": 122,
+"text": " \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 131,
+"y1": 197,
+"text": "60. Embora o Romantismo brasileiro repetisse as \nmesmas características do Romantismo europeu, os \nescritores brasileiros tinham a consciência da \nnecessidade de criar uma literatura que traduzisse a \nrealidade brasileira. Assinale a opção que NÃO traduz \nessa ideia. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 205,
+"y1": 235,
+"text": "A) \nO indianismo, representando a busca de um \nlegítimo antepassado nacional que fosse \ndiferente do europeu. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 244,
+"y1": 274,
+"text": "B) \nPassado medieval, inspirando-se em seus heróis \ntípicos, como os europeus, para simbolizar as \norigens heroicas brasileiras. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 283,
+"y1": 324,
+"text": "C) \nDestaque para a cor local, sobressaindo as \ncaracterísticas físicas da paisagem brasileira, \ntropical, para valorizar o país. Essa descrição é \nidealizada. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 332,
+"y1": 385,
+"text": "D) \nRegionalismo, em que o sertão representa o \nverdadeiro Brasil, espaço que conserva ainda \nintactos e naturais alguns traços peculiares da \ncultura brasileira – como a língua e os costumes \n– e da paisagem brasileira. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 393,
+"y1": 426,
+"text": " \n61. No que concerne à produção dos escritores \nromânticos brasileiros, assinale a opção correta. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 434,
+"y1": 475,
+"text": "A) \nNo teatro romântico brasileiro, destaca-se \nMartins Pena, introdutor do teatro de costumes \nna literatura brasileira e autor das peças           \n“O Noviço” e “O Juiz da Paz na Roça”. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 482,
+"y1": 590,
+"text": "B) \nA poesia romântica brasileira desenvolveu-se em \ntrês gerações distintas: Geração nacionalista, \nrepresentada por Gonçalves de Magalhães, autor \nde “Suspiros Poéticos e Saudades”, e por Álvares \nde Azevedo, autor de poemas em “Lira dos Vinte \nAnos”; a Geração byroniana, representada por \nGonçalves Dias, autor de “I-Juca Pirama”, e por \nCasemiro de Abreu, com “As Primaveras”; e a \nGeração condoreira, representada principalmente \npor Castro Alves, autor de “Espumas flutuantes”. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 597,
+"y1": 671,
+"text": "C) \nA prosa no Romantismo brasileiro é representada \npelos autores dos romances: urbano –                       \n“A Moreninha”, de Joaquim Manuel de Macedo, e \n“A Escrava Isaura”, de Bernardo Guimarães; \nindianista – “Iracema”, de José de Alencar; \nregionalista – “Inocência”, de Visconde de \nTaunay. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 678,
+"y1": 731,
+"text": "D) \nJosé de Alencar, um dos principais \nrepresentantes da prosa romântica, escreveu \nromances indianistas, “Ubirajara”; históricos, \n“Senhora”; regionalistas, “O Tronco do Ipê”; e \nurbanos, “As Minas de Prata”. \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 337,
+"y0": 738,
+"y1": 747,
+"text": " \n"
+},
+{
+"pg": 17,
+"col": "R",
+"x0": 315,
+"y0": 754,
+"y1": 763,
+"text": " \n \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 130,
+"text": "62. Considerando o Romantismo da primeira \nmetade do século XIX e o Realismo no Brasil, atente \npara os itens listados a seguir e escreva, nos \nparênteses, 1 para as características do Romantismo \ne 2 para as características do Realismo. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 55,
+"y0": 138,
+"y1": 191,
+"text": "(    ) \nObjetividade e compromisso com a verdade \nnarrada com imparcialidade e \nimpessoalidade diante dos fatos narrados e \ndos seres que inventa para viver esses \nfatos. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 55,
+"y0": 199,
+"y1": 219,
+"text": "(    ) \nO escritor preocupa-se com o seu momento \nhistórico, presente. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 55,
+"y0": 227,
+"y1": 235,
+"text": "(    ) \nO escritor dá grande destaque ao passado. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 55,
+"y0": 244,
+"y1": 263,
+"text": "(    ) \nObservação impessoal e objetiva da \nrealidade. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 55,
+"y0": 272,
+"y1": 280,
+"text": "(    ) \nAutêntica subjetividade e fantasia. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 55,
+"y0": 289,
+"y1": 330,
+"text": "(    ) \nLinguagem simples, preferência por \nperíodos curtos, com clareza e harmonia, \nobservando a correção gramatical, \nretratando fielmente os personagens. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 338,
+"y1": 347,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 355,
+"y1": 364,
+"text": "A) \n1, 1, 2, 2, 1, 1. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 372,
+"y1": 381,
+"text": "B) \n2, 1, 2, 2, 2, 1. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 389,
+"y1": 398,
+"text": "C) \n2, 2, 1, 2, 1, 2. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 406,
+"y1": 415,
+"text": "D) \n1, 2, 1, 1, 2, 2. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 423,
+"y1": 432,
+"text": " \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 50,
+"y0": 441,
+"y1": 474,
+"text": "63. Sobre o contexto sócio-histórico do Realismo e \ndo Naturalismo na segunda metade do século XIX, é \ncorreto afirmar que  \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 64,
+"y0": 482,
+"y1": 545,
+"text": "I. \na Revolução Francesa está diretamente \nassociada ao nascimento da estética realista. \nEla desencadeou mudanças tão profundas no \nmodo de produção que se tornou \nresponsável pela reordenação da economia \nmundial no século XIX. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 60,
+"y0": 553,
+"y1": 639,
+"text": "II. \na industrialização acarretou um efeito social \nde acentuada distinção entre a burguesia e a \nclasse trabalhadora (proletariado). Acentua-\nse uma burguesia hipócrita e fútil, que \nexplora o proletariado enquanto professa o \namor à justiça e à igualdade, \ncomportamento denunciado em boa parte \ndos romances escritos nesse período. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 56,
+"y0": 647,
+"y1": 732,
+"text": "III. \no interesse pelo funcionamento e pela \norganização da sociedade leva os escritores \nrealistas a abordarem as necessidades \nmateriais humanas (alimentação, moradia, \netc.) e discutir as condições econômicas \n(aspectos referentes ao mundo do trabalho) \nnecessárias para satisfazer tais \nnecessidades. \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 82,
+"y0": 740,
+"y1": 749,
+"text": " \n"
+},
+{
+"pg": 18,
+"col": "L",
+"x0": 82,
+"y0": 757,
+"y1": 766,
+"text": " \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 324,
+"y0": 74,
+"y1": 214,
+"text": "IV. \nmudanças profundas ocorreram no Brasil na \nsegunda metade do século XIX, afetando a \neconomia, a política, a arte, como, por \nexemplo, a extinção do tráfico de escravos, o \nimigrante assalariado como nova mão de \nobra; livre comércio com o exterior; \nampliação da burguesia mercantil; o avanço \ncientífico e o progresso tecnológico; crise \nentre a Igreja e o Governo; cisão entre o \nexército e o imperador; além da influência \ndo positivismo, sobretudo no meio militar, na \nburguesia e entre alguns grupos de \nintelectuais. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 223,
+"y1": 231,
+"text": "É correto o que se afirma apenas em \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 240,
+"y1": 248,
+"text": "A) \nI, III e IV.  \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 257,
+"y1": 265,
+"text": "B) \nI, II e IV. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 273,
+"y1": 282,
+"text": "C) \nI, II e III. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 290,
+"y1": 299,
+"text": "D) \nII, III e IV. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 337,
+"y0": 307,
+"y1": 316,
+"text": " \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 325,
+"y1": 369,
+"text": "64. A distinção entre o Realismo e o Naturalismo \nnem sempre é muito nítida, exceto nos textos em que \nse exagera a segunda tendência. Sobre isso, escreva \nV para o que for verdadeiro e F para o que for falso. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 321,
+"y0": 377,
+"y1": 419,
+"text": "(    ) \nOs naturalistas enfatizam o fato de a \nhereditariedade física e psicológica \ndeterminar o comportamento das \npersonagens. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 321,
+"y0": 427,
+"y1": 457,
+"text": "(    ) \nA personagem naturalista é reduzida a \nquase nada; seu comportamento aproxima-\nse do comportamento animal.  \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 321,
+"y0": 466,
+"y1": 496,
+"text": "(    ) \nUma característica frequente nas \npersonagens realistas é a ênfase na \nsatisfação de necessidades instintivas. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 321,
+"y0": 504,
+"y1": 579,
+"text": "(    ) \nO desequilíbrio das personagens realistas \npermanece latente até que o ambiente físico \ne social favoreça sua manifestação, \nportanto, juntando-se os fatores herança \nbiológica e ambiente, criam-se condições \npara que se manifeste o conflito dramático \nda personagem realista. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 587,
+"y1": 596,
+"text": "A sequência correta, de cima para baixo, é \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 604,
+"y1": 613,
+"text": "A) \nF, F, V, V. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 621,
+"y1": 630,
+"text": "B) \nV, F, V, F. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 638,
+"y1": 647,
+"text": "C) \nV, V, F, F. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 655,
+"y1": 664,
+"text": "D) \nF, V, F, V. \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 672,
+"y1": 680,
+"text": " \n"
+},
+{
+"pg": 18,
+"col": "R",
+"x0": 315,
+"y0": 689,
+"y1": 697,
+"text": " \n \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 141,
+"text": "65. Considerando o Parnasianismo da segunda \nmetade do século XIX e o Simbolismo do fim do \nséculo XIX e início do século XX no Brasil, atente para \nos itens listados a seguir e escreva, nos parênteses, 1  \npara as características do Parnasianismo e 2 para as \ncaracterísticas do Simbolismo. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 55,
+"y0": 149,
+"y1": 158,
+"text": "(    ) \nVolta ao Romantismo. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 55,
+"y0": 166,
+"y1": 175,
+"text": "(    ) \nVolta à cultura clássica. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 55,
+"y0": 183,
+"y1": 192,
+"text": "(    ) \nExterioridade: culto à natureza. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 55,
+"y0": 200,
+"y1": 220,
+"text": "(    ) \nInterioridade: culto do sonho, da fantasia, da \nimaginação. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 55,
+"y0": 228,
+"y1": 237,
+"text": "(    ) \nPoema endereçado à emoção. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 245,
+"y1": 253,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 262,
+"y1": 270,
+"text": "A) \n1, 2, 1, 2, 1. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 279,
+"y1": 287,
+"text": "B) \n2, 1, 1, 2, 2. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 296,
+"y1": 304,
+"text": "C) \n1, 2, 2, 1, 1. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 313,
+"y1": 321,
+"text": "D) \n2, 1, 2, 1, 2. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 329,
+"y1": 338,
+"text": " \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 347,
+"y1": 369,
+"text": "66. No que concerne ao Parnasianismo, é correto \nafirmar que \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 377,
+"y1": 430,
+"text": "A) \na busca da forma perfeita é uma preocupação \nfundamental para os parnasianos: há a \npreferência por uma forma fixa, pela ordem \nindireta, por palavras raras, pela rima rica ou \npreciosa. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 438,
+"y1": 490,
+"text": "B) \nno Brasil, considera-se como marco inicial a \npublicação da obra Fanfarras, de Olavo Bilac, em \n1882. Além do ‘Príncipe dos Poetas Brasileiros’, \nsão grandes expoentes do parnasianismo \nBrasileiro Alberto de Oliveira e Raimundo Correia. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 499,
+"y1": 529,
+"text": "C) \nse caracteriza pelo gosto por coisas e fatos \nexóticos que revelem estados de espírito \npessoais. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 537,
+"y1": 579,
+"text": "D) \né adepto da arte pela arte, concepção pela qual a \narte deve existir apenas em função dela mesma, \nembora verse sobre problemas políticos, sociais, \nafetivos e religiosos. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 68,
+"y0": 587,
+"y1": 596,
+"text": " \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 50,
+"y0": 605,
+"y1": 617,
+"text": "67. Leia os textos simbolistas I e II. \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 152,
+"y0": 624,
+"y1": 633,
+"text": "Texto I \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 141,
+"y0": 641,
+"y1": 650,
+"text": "Alucinação \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 217,
+"y0": 652,
+"y1": 661,
+"text": "Cruz e Sousa \n"
+},
+{
+"pg": 19,
+"col": "L",
+"x0": 55,
+"y0": 669,
+"y1": 776,
+"text": "Ó solidão do Mar, ó amargor das vagas, \nOndas em convulsões, ondas em rebeldias, \nDesespero do Mar, furiosa ventania, \nBoca em fel dos tritões engasgada de pragas. \n \nVelhas chagas do sol, ensanguentadas chagas \nDe ocasos purpurais de atroz melancolia, \nLuas tristes, fatais, da atra mudez sombria \nDa trágica ruína em vastidões pressagas. \nPara onde tudo vai, para onde tudo voa, \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 74,
+"y1": 127,
+"text": "Sumido, confundido, esboroado, à toa, \nNo caos tremendo e nu dos tempos a rolar? \nQue Nirvana genial há de engolir tudo isto \n- Mundos de Inferno e Céu, de Judas e de Cristo, \nLuas, chagas do sol e turbilhões do Mar?! \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 416,
+"y0": 135,
+"y1": 155,
+"text": " \nTexto II \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 413,
+"y0": 163,
+"y1": 172,
+"text": "Ismália \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 426,
+"y0": 180,
+"y1": 189,
+"text": "Alphonsus de Guimaraens \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 197,
+"y1": 457,
+"text": "Quando Ismália enlouqueceu, \nPôs-se na torre a sonhar… \nViu uma lua no céu, \nViu outra lua no mar. \n \nNo sonho em que se perdeu, \nBanhou-se toda em luar… \nQueria subir ao céu, \nQueria descer ao mar… \n \nE, no desvario seu, \nNa torre pôs-se a cantar… \nEstava perto do céu, \nEstava longe do mar… \n \nE como um anjo pendeu \nAs asas para voar… \nQueria a lua do céu, \nQueria a lua do mar… \n \nAs asas que Deus lhe deu \nRuflaram de par em par… \nSua alma subiu ao céu, \nSeu corpo desceu ao mar… \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 465,
+"y1": 474,
+"text": " \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 482,
+"y1": 524,
+"text": "Escreva 1 para as características relativas ao Texto I, \nde Cruz e Sousa; 2 para as características relativas \nao Texto II, de Alphonsus de Guimaraens e 3 para o \nque é comum aos Textos I e II. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 532,
+"y1": 541,
+"text": "(    ) \nMorte como símbolo da eterna busca. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 549,
+"y1": 569,
+"text": "(    ) \nValorização das sensações provenientes de \nsentidos diferentes. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 577,
+"y1": 597,
+"text": "(    ) \nDecadência anunciada em todos os \nelementos da natureza. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 605,
+"y1": 625,
+"text": "(    ) \nRelações entre o mundo visível e o mundo \ndas essências. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 321,
+"y0": 633,
+"y1": 652,
+"text": "(    ) \nSeparação da matéria e do espírito \nsobrevivente às contingências terrenas. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 661,
+"y1": 669,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 677,
+"y1": 686,
+"text": "A) \n2, 1, 3, 1, 3. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 694,
+"y1": 703,
+"text": "B) \n3, 2, 2, 2, 1. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 711,
+"y1": 720,
+"text": "C) \n1, 2, 3, 3, 2. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 728,
+"y1": 737,
+"text": "D) \n2, 3, 1, 3, 2. \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 745,
+"y1": 754,
+"text": " \n"
+},
+{
+"pg": 19,
+"col": "R",
+"x0": 315,
+"y0": 765,
+"y1": 774,
+"text": " \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 119,
+"text": "68. Sabendo que se denomina de Pré-Modernismo \ntudo que aconteceu no âmbito artístico-cultural no \nBrasil, no século XX, antes da Semana da Arte \nModerna, assinale a afirmação verdadeira. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 127,
+"y1": 202,
+"text": "A) \nO Pré-Modernismo é considerado um período de \ntransição e não uma escola literária, pois \nconserva algumas tendências das estéticas da \nsegunda metade do século XIX (Romantismo, \nRealismo, Parnasianismo e Simbolismo), ao \nmesmo tempo que antecipa outras, aprofundadas \ndurante o Modernismo. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 210,
+"y1": 284,
+"text": "B) \nNa prosa, a arte pré-modernista volta-se para \nquestões políticas, econômicas e sociais, \nrepresentadas, sobretudo, nas obras “Os \nSertões”, de Euclides da Cunha; “Canaã”, de \nGraça Aranha; “Triste Fim de Policarpo \nQuaresma”; de Lima Barreto; e “Jeca Tatu”, de \nMonteiro Lobato. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 292,
+"y1": 356,
+"text": "C) \nO principal legado das vanguardas europeias \npara a literatura brasileira, além da influência \nlocalizada em alguns poetas e escritores, é o \nimpulso de destruir os modelos arcaicos, desfiar \no gosto estabelecido e propor um olhar novo \npara o mundo. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 364,
+"y1": 482,
+"text": "D) \nNo começo do século XX, a multiplicidade de \nruptura de ismos revela a efervescência caótica \npor que passava a Europa, que, por extensão, \ninfluencia a arte brasileira, por exemplo: no \nCubismo, a poesia “Bangalô”, de Oswald de \nAndrade; no Futurismo, “Ode Triunfal”, de Álvaro \nde Campos; no Dadaísmo, “Prefácio \nInteressantíssimo”, de Mário de Andrade; e no \nSurrealismo, “Aproximação do terror”, de Murilo \nMendes; no Expressionismo, “Amar, verbo \nintransitivo”, de Mário de Andrade. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 490,
+"y1": 499,
+"text": " \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 50,
+"y0": 507,
+"y1": 538,
+"text": "Leia o fragmento do conto pré-modernista “O \nColocador de Pronomes”, de Monteiro Lobato \n(1924) para a resolução das questões 69 a 72. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 172,
+"y0": 546,
+"y1": 555,
+"text": " \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 107,
+"y0": 563,
+"y1": 572,
+"text": "O Colocador de Pronomes \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 126,
+"y0": 580,
+"y1": 589,
+"text": "                              Monteiro Lobato \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 55,
+"y0": 597,
+"y1": 770,
+"text": "01 \n02 \n03 \n04 \n05 \n06 \n07 \n08 \n09 \n10 \n11 \n12 \n13 \n14 \n15 \n \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 77,
+"y0": 597,
+"y1": 606,
+"text": "(...) \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 77,
+"y0": 608,
+"y1": 638,
+"text": "Pouco durou a Agência, morta à míngua \nde clientes. Teimava o povo em permanecer \nempapado no chafurdeiro da corrupção... \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 77,
+"y0": 641,
+"y1": 660,
+"text": "O rosário de insucessos, entretanto, em \nvez de desalentar exasperava o apóstolo. \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 77,
+"y0": 662,
+"y1": 704,
+"text": "- Hei-de influir na minha época. Aos \ntarelos hei de vencer. Fogem-me à férula os \nmaráus de pau e corda? Ir-lhes-ei empós, fila-\nlos-eis pela gorja... Salta rumor! \n"
+},
+{
+"pg": 20,
+"col": "L",
+"x0": 77,
+"y0": 706,
+"y1": 759,
+"text": "E foi-lhes “empós”, Andou pelas ruas \nexaminando dísticos e tabuletas com vícios de \nlíngua. Descoberta a “asnidade”, ia ter com o \nproprietário, contra ele desfechando os \nmelhores argumentos catequistas. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 321,
+"y0": 74,
+"y1": 324,
+"text": "16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n29 \n30 \n31 \n32 \n33 \n34 \n35 \n36 \n37 \n38 \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 343,
+"y0": 74,
+"y1": 105,
+"text": "Foi assim com o ferreiro da esquina, em \ncujo portão de tenda uma tabuleta - “Ferra-se \ncavalos” - escoicinhava a santa gramática. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 343,
+"y0": 107,
+"y1": 149,
+"text": "- Amigo, disse-lhe pachorrentamente \nAldrovando, natural a mim me parece que erre, \nalarve que és. Se erram paredros, nesta época \nde ouro da corrupção... \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 343,
+"y0": 151,
+"y1": 171,
+"text": "O ferreiro pôs de lado o malho e \nentreabriu a boca. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 343,
+"y0": 173,
+"y1": 236,
+"text": "- Mas da boa sombra do teu focinho \nespero, continuou o apóstolo, que ouvidos me \ndarás. Naquela tábua um dislate existe que \nseriamente à língua lusa ofende. Venho pedir-\nte, em nome do asseio gramatical, que o \nexpunjas. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 343,
+"y0": 239,
+"y1": 291,
+"text": "- ??? \n- Que reformes a tabuleta, digo. \n- Reformar a tabuleta? Uma tabuleta \nnova, com a licença paga? Estará acaso \nrachada? \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 321,
+"y0": 293,
+"y1": 346,
+"text": "- Fisicamente, não. A racha é na \nsintaxe. Fogem ali os dizeres à sã \ngramaticalidade.[Escrita original conservada.] \n \nFonte: \nhttps://www.passeiweb.com/estudos/livros/o_c\n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 372,
+"y0": 348,
+"y1": 357,
+"text": "olocador_de_pronomes_conto. Acesso em \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 506,
+"y0": 359,
+"y1": 368,
+"text": "15/09/2018. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 377,
+"y1": 398,
+"text": "69. Assinale a única opção que está na ordem \ncanônica da língua portuguesa. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 407,
+"y1": 416,
+"text": "A) \n“A racha é na sintaxe.” (linhas 36-37) \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 424,
+"y1": 443,
+"text": "B) \n“Teimava o povo em permanecer empapado no \nchafurdeiro da corrupção...” (linhas 3-4) \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 452,
+"y1": 471,
+"text": "C) \n“Naquela tábua um dislate existe que seriamente \nà língua lusa ofende.” (linhas 27-28) \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 479,
+"y1": 499,
+"text": "D) \n“Fogem ali os dizeres à sã gramaticalidade.” \n(linhas 37-38) \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 507,
+"y1": 516,
+"text": " \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 525,
+"y1": 623,
+"text": "70. No conto intitulado “O Colocador de \nPronomes”, publicado em 1924, Monteiro Lobato \nridiculariza a personagem central, Aldrovando, \nexatamente pelo uso de uma linguagem empolada e \ndescabida, cheia de preciosismos e de palavras \nincompreensíveis para a maioria das pessoas. \nAssinale a opção em que a significação (em itálico) \ndo par de vocábulos está coerente com o uso \npresente no texto. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 632,
+"y1": 651,
+"text": "A) \nNas linhas 29-30, asseio: lavagem; expunjas: \napagues. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 660,
+"y1": 679,
+"text": "B) \nNa linha 21, alarve: ignorante; Paredros: manda-\nchuvas. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 687,
+"y1": 707,
+"text": "C) \nNa linha 8, tarelos: tagarelas; férula: bastão \nepiscopal.  \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 715,
+"y1": 724,
+"text": "D) \nNa linha 9, maráus: sacerdortes; empós: depois. \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 732,
+"y1": 741,
+"text": " \n"
+},
+{
+"pg": 20,
+"col": "R",
+"x0": 315,
+"y0": 749,
+"y1": 758,
+"text": " \n \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 97,
+"text": "71. Leia o fragmento (linhas 7-13) e analise as \nafirmações que se seguem: \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 105,
+"y1": 147,
+"text": "“ - Hei-de influir na minha época. Aos tarelos hei de \nvencer. Fogem-me à férula os maráus de pau e \ncorda? Ir-lhes-ei empós, fila-los-eis pela gorja... \nSalta rumor! \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 155,
+"y1": 175,
+"text": "E foi-lhes “empós”, Andou pelas ruas examinando \ndísticos e tabuletas com vícios de língua.” \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 64,
+"y0": 183,
+"y1": 225,
+"text": "I. \n“Hei-de influir” e “hei de vencer” são as \nformas sintéticas antigas da morfologia \nanalítica do futuro atual dos verbos influirei e \nvencerei, respectivamente. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 60,
+"y0": 233,
+"y1": 285,
+"text": "II. \n“Ir-lhes-ei” e “fila-los-ei são exemplos de \ncolocação pronominal mesoclítica, cujo \nemprego padrão, segundo a gramática \nnormativa, é explicado pelo fato de o verbo \nestar no futuro em início de oração. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 56,
+"y0": 293,
+"y1": 379,
+"text": "III. \n.“Fogem-me...” e “E foi-lhes...” são \nexemplos de colocação pronominal enclítica, \ncujo emprego padrão, segundo a gramática \nnormativa, é explicado pelo fato de o verbo \nestar no início de oração, no primeiro, e \nantecedido da conjunção coordenada aditiva \n“E”, no segundo, em que o pronome é \nrepetido. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 387,
+"y1": 396,
+"text": "É correto o que se afirma em \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 404,
+"y1": 413,
+"text": "A) \nI e III apenas. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 421,
+"y1": 430,
+"text": "B) \nI e II apenas. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 438,
+"y1": 446,
+"text": "C) \nII e III apenas. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 455,
+"y1": 464,
+"text": "D) \nI, II e III. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 71,
+"y0": 472,
+"y1": 480,
+"text": " \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 489,
+"y1": 533,
+"text": "72. No enunciado “Foi assim com o ferreiro da \nesquina, em cujo portão de tenda uma tabuleta – \n‘Ferra-se cavalos’ - escoicinhava a santa gramática” \n(linhas 16-18), a correção da personagem reside \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 541,
+"y1": 550,
+"text": "A) \nno uso indevido do ‘se’ como pronome reflexivo. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 558,
+"y1": 578,
+"text": "B) \nna falta de concordância do verbo com o sujeito, \nposto que a oração está na voz passiva sintética. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 586,
+"y1": 606,
+"text": "C) \nno uso indevido do se como índice da \nindeterminação do sujeito na tabuleta. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 614,
+"y1": 623,
+"text": "D) \nno uso do objeto direto no plural ‘cavalos’. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 71,
+"y0": 631,
+"y1": 640,
+"text": " \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 50,
+"y0": 649,
+"y1": 692,
+"text": "73. A geração de 1930 vive um período de tensão \ne de crise e busca uma estabilização das conquistas \nmodernas. Analise as afirmações sobre os poetas \nbrasileiros dessa geração e sua produção. \n"
+},
+{
+"pg": 21,
+"col": "L",
+"x0": 64,
+"y0": 699,
+"y1": 740,
+"text": "I. \nCarlos Drummond de Andrade: as diferentes \nfases de sua poesia refletem a evolução de \nseu pensamento. Era também contista e \ncronista. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 326,
+"y0": 74,
+"y1": 105,
+"text": "II. \nJorge de Lima: sua poesia evoluiu de realista \npara uma poesia religiosa, mística, e então \nsurrealista. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 322,
+"y0": 111,
+"y1": 142,
+"text": "III. \nVinicius de Morais: sua poesia evoluiu de \ncatólica para uma poesia erótica onde a \npresença da mulher é constante. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 324,
+"y0": 148,
+"y1": 190,
+"text": "IV. \nCecília Meireles: vem do Parnasianismo e \nfilia-se ao Modernismo de segunda fase, quer \npelo espiritualismo, quer pela forma, quer \npela harmonia de seus versos. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 196,
+"y1": 205,
+"text": "É correto apenas o que se afirma em \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 212,
+"y1": 221,
+"text": "A) \nI e III. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 229,
+"y1": 238,
+"text": "B) \nII e IV. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 246,
+"y1": 254,
+"text": "C) \nI e II. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 263,
+"y1": 271,
+"text": "D) \nIII e IV. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 337,
+"y0": 280,
+"y1": 288,
+"text": " \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 297,
+"y1": 352,
+"text": "74. O Modernismo brasileiro é tradicionalmente \ndividido em três fases: primeira fase (fase heroica), \nsegunda fase (geração de 1930) e terceira fase \n(geração de 1945). Particularizando, assinale a opção \ncorreta sobre a primeira fase. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 360,
+"y1": 424,
+"text": "A) \nAlém da conhecida “tríade modernista”, são \nautores do Modernismo da primeira fase no \nBrasil: Manuel Bandeira, Menotti Del Picchia, Raul \nBopp, Jorge Amado, Cassiano Ricardo, Guilherme \nde Almeida, Ronald de Carvalho, Alcântara \nMachado e Plínio Salgado. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 432,
+"y1": 517,
+"text": "B) \nA primeira geração modernista é representada, \nprincipalmente, pela “tríade modernista”, isto é, \nos escritores Mário de Andrade, Vila-Lobos e \nOswald de Andrade, que deram continuidade aos \npostulados de 1922, apresentando uma estética \ntransgressora, testando os limites da forma e do \nconteúdo e combatendo as escolas tradicionais \nda literatura brasileira. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 525,
+"y1": 556,
+"text": "C) \n“Paulicéia Desvairada”, cujo autor é Mário de \nAndrade, é o título do romance considerado como \nmarco inicial do Modernismo brasileiro. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 564,
+"y1": 660,
+"text": "D) \nUma das características da primeira fase do \nModernismo no Brasil é a reescritura de textos do \npassado, por exemplo: Oswald de Andrade \npinçou trechos de “A Carta de Pero Vaz de \nCaminha” (prosa) e remontou-os em forma de \npoema; além disso, ele fez uma paródia de um \ndos mais famosos poemas do Romantismo da \nliteratura brasileira, a “Canção de Exílio”, de \nGonçalves Dias. \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 669,
+"y1": 677,
+"text": " \n"
+},
+{
+"pg": 21,
+"col": "R",
+"x0": 315,
+"y0": 686,
+"y1": 694,
+"text": " \n \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 75,
+"y1": 130,
+"text": "75. Na primeira fase do modernismo, Oswald de \nAndrade, através do poema “Pronominais”, faz uma \nsátira contra a cultura acadêmica e, por extensão, \ncontra o rigor da norma culta que privilegia os \nmoldes lusitanos. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 134,
+"y0": 138,
+"y1": 147,
+"text": "PRONOMINAIS \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 155,
+"y1": 273,
+"text": "Oswald de Andrade \nDê-me um cigarro \nDiz a gramática \nDo professor e do aluno \nE do mulato sabido \nMas o bom negro e o bom branco \nDa Nação Brasileira \nDizem todos os dias \nDeixa disso camarada \nMe dá um cigarro. \n \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 275,
+"y1": 283,
+"text": "Fonte: https://www.todamateria.com.br/oswald-de-andrade. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 200,
+"y0": 285,
+"y1": 293,
+"text": "Acesso em 15/09/2018. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 301,
+"y1": 331,
+"text": "O conteúdo gramatical que o poeta utiliza para a \ndefesa de uma linguagem cotidiana brasileira é a \nsintaxe \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 340,
+"y1": 348,
+"text": "A) \nde concordância. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 357,
+"y1": 365,
+"text": "B) \nde colocação. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 374,
+"y1": 382,
+"text": "C) \ndos modos e dos tempos. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 391,
+"y1": 399,
+"text": "D) \nde regência. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 71,
+"y0": 407,
+"y1": 416,
+"text": " \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 425,
+"y1": 458,
+"text": "76. Assinale a opção em que todas as informações \nsobre os romancistas da segunda fase do \nModernismo brasileiro são corretas. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 466,
+"y1": 486,
+"text": "A) \nRaquel de Queiroz escreveu os romances “O \nQuinze”, “João Miguel” e “Caminho de Pedras”. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 494,
+"y1": 525,
+"text": "B) \nJosé Américo de Almeida escreveu “Vidas Secas”, \nque marca o início do cognominado romance \nnordestino. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 533,
+"y1": 607,
+"text": "C) \nJosé Lins do Rego: sua obra é dividida em três \nciclos distintos: ciclo da cana-de-acúcar (do qual \nfazem parte: “Menino de Engenho” e “Fogo \nMorto”); ciclo do cacau (“Pedra Bonita” e \n“Cangaceiros”); e ciclo da ficção intimista cuja \nambientação foge ao Nordeste (“Água-Mãe” e \n“Eurídice”). \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 615,
+"y1": 712,
+"text": "D) \nÉrico Veríssimo: sua obra é dividida em: \nRomances urbanos – destacam-se “Clarissa”, \n“Caminhos Cruzados” e “Olhai os Lírios do \nCampo”; Romances épicos: formam a trilogia \nconhecida pelo nome geral de “O Tempo e o \nVento”; Romances autobiográficos:  “Infância” e \n“Memórias do Cárcere”; Romances políticos: \nentre os quais se destacam “O Senhor \nEmbaixador” e “Incidente em Antares”. \n"
+},
+{
+"pg": 22,
+"col": "L",
+"x0": 50,
+"y0": 720,
+"y1": 751,
+"text": " \n \n \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 315,
+"y0": 75,
+"y1": 108,
+"text": "77. Assinale a opção em que todas as informações \nsobre a terceira fase do Modernismo brasileiro são \ncorretas. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 315,
+"y0": 116,
+"y1": 158,
+"text": "A) \nNo campo teatral, destacam-se, entre outros: \nNélson Rodrigues, autor de “Vestido de Noiva” e \n“O Pagador de Promessas”; Gianfrancesco \nGuarnieri, autor de “Eles não usam black-tie”. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 315,
+"y0": 166,
+"y1": 273,
+"text": "B) \nEntre os principais autores da ficção desse \nterceiro momento modernista são: Clarice \nLispector: seus romances são herméticos, com \nprofundo mergulho na alma humana, como em \n“Perto do Coração Selvagem”; Graciliano Ramos: \ngenial inovador da linguagem da linguagem, sua \nobra-prima é “Grande Sertão: Veredas”; João \nCândido de Carvalho: autor de “O Coronel e o \nLobisomem”; Pedro Nava: autor de “O Círio \nPerfeito”. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 315,
+"y0": 281,
+"y1": 334,
+"text": "C) \nA ficção da terceira fase do Modernismo brasileiro \ncaracteriza-se ou por suas tendências \nintrospectivas ou por um tipo de regionalismo – \nuniversalista – diferente daquele da segunda \nfase. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 315,
+"y0": 342,
+"y1": 416,
+"text": "D) \nEntre o poetas brasileiros da terceira fase do \nModernismo destacam-se: João Cabral de Melo \nNeto, considerado um engenheiro de palavras, é \nautor de “Morte e vida Severina” e de” Pedra \nBonita”; Augusto de Campos, Décio Pignatari e \nFerreira Gullar, principais representantes da \npoesia concreta. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 337,
+"y0": 425,
+"y1": 433,
+"text": " \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 315,
+"y0": 442,
+"y1": 486,
+"text": "78. Embora não haja consenso em relação a uma \netiqueta para as tendências literárias \ncontemporâneas, mas, utilizando o termo “pós-\nmodernismo, analise as asserções que se seguem. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 330,
+"y0": 494,
+"y1": 558,
+"text": "I. \nPós-modernismo é um nome geralmente \ndado às formas culturais de um período que \naparecem desde os anos 60, abrangendo \ncertas características como reflexão, ironia e \num tipo de arte que mistura o popular e o \nerudito. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 326,
+"y0": 566,
+"y1": 619,
+"text": "II. \nÉ visto ora como continuação dos aspectos \nmais radicais de modernismo, ora, ao \ncontrário, como marcando uma ruptura com \no modernismo como um modernismo não-\nhistórico que anseia acabar. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 322,
+"y0": 627,
+"y1": 712,
+"text": "III. \nComo alguns dos denominadores comuns \nque servem para definir o pós-modernismo, \npode-se citar que os discursos pós-modernos \ninstalam e subvertem convenções; que esses \ndiscursos não desafiam os limites fixos entre \nos gêneros, entre os tipos de arte, entre \nteoria e arte, entre arte erudita e cultura de \nmassa. \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 348,
+"y0": 720,
+"y1": 729,
+"text": " \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 348,
+"y0": 737,
+"y1": 746,
+"text": " \n"
+},
+{
+"pg": 22,
+"col": "R",
+"x0": 348,
+"y0": 754,
+"y1": 763,
+"text": " \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 58,
+"y0": 74,
+"y1": 214,
+"text": "IV. \nUma das características marcantes do pós-\nmodernismo é o pluralismo de estilos e, \nparticularmente, o que caracteriza a poesia \npós-modernista é o ludismo na criação da \nobra, presença marcante da \nintertextualidade, a intensificação da \nmetalinguagem e o fragmentarismo textual; \njá o que caracteriza a prosa pós-modernista \né o enaltecimento do intimismo e da \n“literatura-verdade” presente na  prosa \npolítica (romance-reportagem e o realismo \nfantástico), que rejeita as prosas \nregionalista, urbana e autobiográfica. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 50,
+"y0": 223,
+"y1": 231,
+"text": "É correto apenas o que se afirma em \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 50,
+"y0": 240,
+"y1": 248,
+"text": "A) \nIII e IV. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 50,
+"y0": 257,
+"y1": 265,
+"text": "B) \nI e IV. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 50,
+"y0": 273,
+"y1": 282,
+"text": "C) \nII e III. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 50,
+"y0": 290,
+"y1": 299,
+"text": "D) \nI e II. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 71,
+"y0": 307,
+"y1": 316,
+"text": " \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 50,
+"y0": 325,
+"y1": 347,
+"text": "79. Sobre os aspectos étnicos e raciais na \nliteratura brasileira, \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 64,
+"y0": 355,
+"y1": 408,
+"text": "I. \na presença do negro na literatura brasileira \nnão escapa ao tratamento marginalizador \nque, desde as instâncias fundadoras, marca \na etnia no processo de construção da \nsociedade brasileira. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 60,
+"y0": 416,
+"y1": 468,
+"text": "II. \na matéria negra, embora só ganhe presença \nmais significativa a partir do século XIX, \nsurge na literatura brasileira desde o século \nXVI, nos versos satíricos e demolidores de \nGregório de Matos. \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 56,
+"y0": 477,
+"y1": 606,
+"text": "III. \nevidenciam-se, na trajetória do negro no \ndiscurso literário nacional, dois \nposicionamentos: a condição negra como \nobjeto, numa visão distanciada do escritor \nsobre o negro (Bernardo Guimarães e Castro \nAlves, no Romantismo; Aluísio de Azevedo e \nAdolfo  Caminha, no Realismo, por exemplo) \ne o negro como sujeito, numa atitude \ncompromissada do escritor negro (Luiz Gama \nno Romantismo; Cruz e Souza  no \nSimbolismo: Lima Barreto no Pré-\nmodernismo). \n"
+},
+{
+"pg": 23,
+"col": "L",
+"x0": 58,
+"y0": 614,
+"y1": 677,
+"text": "IV. \nNa terceira geração romântica brasileira, os \npoetas interessam-se mais pela idealização \namorosa, em um sentimentalismo \nexacerbado, do que pelo conflito entre \nliberdade e escravidão, que atingia a \nsociedade da época. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 327,
+"y0": 74,
+"y1": 182,
+"text": "V. \nDesde os anos de 1970, a designação \nliteratura negra, tal como vem sendo \nutilizada no Brasil e em outros países da \nAmérica, vincula-se à uma literatura feita por \nnegros ou por descendentes assumidos de \nnegros e emerge no bojo de uma situação \nhistórica dada, configuradora da \nreivindicação pelos negros de determinados \nvalores caracterizadores de uma identidade \nprópria. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 190,
+"y1": 199,
+"text": "É correto apenas o que se afirma em \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 207,
+"y1": 216,
+"text": "A) \nI, III e V. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 224,
+"y1": 233,
+"text": "B) \nIII e IV. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 241,
+"y1": 249,
+"text": "C) \nI, II e IV. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 258,
+"y1": 266,
+"text": "D) \nII e V. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 275,
+"y1": 283,
+"text": " \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 292,
+"y1": 325,
+"text": "80. Atente para o que se afirma a seguir sobre o \níndio no imaginário literário do Brasil, e escreva V \npara o que for verdadeiro e F para o que for falso. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 321,
+"y0": 333,
+"y1": 386,
+"text": "(    ) \nO indianismo Barroco está presente na carta \nde Pero Vaz de Caminha, que define os \níndios como inocentes, curiosos e, até certo \nponto, hospitaleiro, por receber os \nportugueses de modo acolhedor. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 321,
+"y0": 394,
+"y1": 436,
+"text": "(    ) \nO poeta árcade Basílio da Gama, no poema \népico “O Uraguai”, compõe a história da \nresistência dos índios ao ataque português \naos Sete Povos das Missões. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 321,
+"y0": 444,
+"y1": 507,
+"text": "(    ) \nNo Brasil, os escritores indianistas dos \nromances românticos têm o interesse de \nretratar a cultura europeia, buscando \nresgatar a imagem do índio brasileiro como \nsímbolo de um povo livre e soberano, de \numa terra exuberante e incomparável. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 321,
+"y0": 515,
+"y1": 644,
+"text": "(    ) \nA imagem idealizada de pátria e de povo é \nquestionada pelos modernistas, que \npromovem uma “releitura” dos textos \nquinhentistas e românticos, para propor \numa visão desmistificada do Brasil e dos \níndios. O exemplo mais célebre dessa nova \nvisão é “Macunaíma”, de Oswald de \nAndrade, em que Macunaíma é o índio \nindolente. Preguiçoso, sem caráter, que \nabre caminho para a desconstrução e dos \nmitos românticos e exemplifica a visão \nantropofágica defendida pelos modernistas. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 653,
+"y1": 661,
+"text": "A sequência correta, de cima para baixo, é: \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 670,
+"y1": 678,
+"text": "A) \nV, V, F, V. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 686,
+"y1": 695,
+"text": "B) \nF, F, V, F. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 704,
+"y1": 712,
+"text": "C) \nF, V, F, F. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 720,
+"y1": 729,
+"text": "D) \nV, F, V, V. \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 737,
+"y1": 746,
+"text": " \n"
+},
+{
+"pg": 23,
+"col": "R",
+"x0": 315,
+"y0": 754,
+"y1": 765,
+"text": " \n"
+}
+]

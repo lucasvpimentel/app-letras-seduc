@@ -1,0 +1,2144 @@
+{
+ "questoes": [
+  {
+   "id": 1,
+   "pg": 3,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "A escola é uma instituição utilizada pela sociedade para oferecer, aos membros das novas gerações, as experiências de aprendizagem que lhes permitam incorporar-se a essa sociedade ativa e criticamente. A escola assim entendida, determina que a escolarização seja considerada"
+   ],
+   "alternativas": {
+    "A": "um projeto social dos mais esclarecidos.",
+    "B": "um benefício de governos democráticos.",
+    "C": "uma expectativa de muitas famílias.",
+    "D": "um direito a ser garantido a todo cidadão."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 2,
+   "pg": 3,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "Os estímulos e o ambiente social são importantes no desenvolvimento de determinadas inteligências. Tendo em vista os diferentes tipos de inteligência estudados por Howard Gardner, relacione-os corretamente com o que se diz sobre eles, numerando a Coluna II de acordo com a Coluna",
+    "I. Coluna I",
+    "Coluna II",
+    "1. Lógica",
+    "(    ) Pessoas que possuem facilidade para conclusões baseadas na razão.",
+    "2. Corporal",
+    "3. Espacial",
+    "(    ) Têm a capacidade de se autoconhecerem, tomando atitudes capazes de melhorar a vida com base nestes conhecimentos.",
+    "4. Intrapessoal",
+    "5. Interpessoal",
+    "(    ) Presentes em dançarinos famosos e campeões de ginástica olímpica.",
+    "(    ) Costumam ser ótimos líderes e atuam facilmente em trabalhos em equipe.",
+    "(    ) Interpretam e reconhecem fenômenos que envolvem movimentos e posicionamento de objetos.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "1, 4, 2, 5, 3.",
+    "B": "1, 5, 3, 4, 2.",
+    "C": "3, 4, 5, 1, 2.",
+    "D": "4, 5, 2, 1, 3."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q02_1.png",
+     "pg": 3,
+     "bbox": [
+      44,
+      279,
+      300,
+      690
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "pg": 3,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "A teoria crítica de currículo, nos anos de 1980, no Brasil, compreende duas vertentes que caracterizam a produção pedagógica brasileira da época, quais sejam:"
+   ],
+   "alternativas": {
+    "A": "Teorias da Reprodução e Marxismo Culturalista.",
+    "B": "Educação Popular e Abordagens de Cunho Tecnicista.",
+    "C": "Pedagogia Crítico-Social dos Conteúdos e Educação Popular.",
+    "D": "Neo-marxismo e Teorias da Reprodução."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 4,
+   "pg": 3,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "O currículo escolar é um dos mecanismos que compõem o caminho que nos torna o que somos. Nesse sentido, atente para as seguintes afirmações:",
+    "I. O currículo escolar é um campo importante da política cultural, porquanto, é um lugar de circulação das narrativas, além de lugar privilegiado dos processos de subjetivação e da socialização dirigida.",
+    "II. O currículo escolar é um instrumento que pode nos contar muitas histórias sobre indivíduos, grupos, sociedades, culturas, tradições, e histórias que relatam como as coisas são ou como deveriam ser.",
+    "III. O currículo e seus componentes constituem um conjunto articulado de saberes, regidos por uma determinada ordem, em que estão em luta diferentes visões de mundo.",
+    "IV. É intenção curricular a concretização de um projeto de indivíduo para um projeto de sociedade, que independe do projeto político-pedagógico da escola.",
+    "Está correto o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "I, III e IV apenas.",
+    "B": "I, II e III apenas.",
+    "C": "I, II, III e IV.",
+    "D": "II, III e IV apenas."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 5,
+   "pg": 3,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "Abramovay, Andrade e Esteves (2007) destacam que o protagonismo juvenil na área educacional tem relação direta com a cidadania, em virtude de"
+   ],
+   "alternativas": {
+    "A": "fortalecer atitudes reprodutivas das práticas curriculares.",
+    "B": "orientar para o desenvolvimento de competências conceituais.",
+    "C": "favorecer os automatismos relacionados com o contexto tecnológico.",
+    "D": "possibilitar o desenvolvimento de atividades que valorizam a participação e escuta dos jovens."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 6,
+   "pg": 4,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "O Projeto Político Pedagógico (PPP) é o conjunto de concepções pedagógicas que a escola adota, a explicitação da sua função social e a definição de procedimentos didático-metodológicos que serão desenvolvidos no processo educativo de seus alunos. Levando em consideração tal definição, analise as seguintes afirmações:",
+    "I. A dimensão administrativo-financeira não deve ser contemplada no processo de elaboração e execução do PPP.",
+    "II. O PPP deve ser elaborado coletivamente por representantes de todos os segmentos da comunidade escolar, como pais, alunos, professores e demais funcionários da escola.",
+    "III. O planejamento do PPP envolve pensar a organização do trabalho pedagógico da escola como um todo e da sala de aula em particular.",
+    "IV. O PPP de uma escola pode ser implementado por outra escola, desde que ambas façam parte do mesmo contexto territorial e, consequentemente, social.",
+    "Está correto somente o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "II e III.",
+    "B": "I e IV.",
+    "C": "II e IV.",
+    "D": "I e III."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 7,
+   "pg": 4,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "A avaliação institucional consiste em um processo de aperfeiçoamento do Projeto Político Pedagógico (PPP) da escola. Nessa perspectiva, assinale a opção que corresponde a um princípio básico da avaliação institucional."
+   ],
+   "alternativas": {
+    "A": "Processo avaliativo construído por agentes externos à escola.",
+    "B": "Participação restrita ao corpo docente e núcleo gestor.",
+    "C": "Adesão manifestada clara e individualmente pelo Gestor Escolar.",
+    "D": "Respeito à identidade da escola."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 8,
+   "pg": 4,
+   "secao": "Educação Brasileira",
+   "enunciado": [
+    "O ensino médio integrado é caracterizado pela integração da"
+   ],
+   "alternativas": {
+    "A": "educação propedêutica com a cultura geral.",
+    "B": "cultura geral com a educação tecnológica.",
+    "C": "educação geral com a educação profissional.",
+    "D": "educação geral com o ensino em tempo integral."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 9,
+   "pg": 4,
+   "secao": "Administração Pública",
+   "enunciado": [
+    "Em se tratando de Administração Púbica, consideram-se providos os cargos efetivos com a(o)"
+   ],
+   "alternativas": {
+    "A": "realização de concurso público.",
+    "B": "assinatura do termo de posse.",
+    "C": "início do exercício efetivo no cargo.",
+    "D": "publicação do ato de nomeação."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 10,
+   "pg": 4,
+   "secao": "Administração Pública",
+   "enunciado": [
+    "O conjunto de categorias funcionais reunidas segundo a correlação e afinidade existentes entre elas, quanto à natureza do trabalho e/ou o grau de conhecimentos, denomina-se"
+   ],
+   "alternativas": {
+    "A": "Referência Funcional.",
+    "B": "Carreira Ocupacional.",
+    "C": "Classe Funcional.",
+    "D": "Grupo Ocupacional."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 11,
+   "pg": 4,
+   "secao": "Administração Pública",
+   "enunciado": [
+    "Promoção sem titulação é a passagem do profissional do Grupo MAG de um nível para outro imediatamente superior, dentro da respectiva carreira, obedecidos aos critérios de desempenho e/ou antiguidade e dependerá de"
+   ],
+   "alternativas": {
+    "A": "aprovação em seleção interna a ser realizada através de provas escritas e habilitação legal para o exercício do cargo/função integrante da classe.",
+    "B": "habilitação legal para o ingresso na nova carreira ou classe e comprovada necessidade de mão de obra para suprir carência identificada.",
+    "C": "desempenho eficaz de suas atribuições e cumprimento do interstício de trezentos e sessenta e cinco dias.",
+    "D": "aprovação em seleção interna realizada através de provas escritas e/ou práticas quando a carreira assim exigir."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 12,
+   "pg": 4,
+   "secao": "Administração Pública",
+   "enunciado": [
+    "A remuneração do professor da educação básica de nível superior, integrante do Grupo MAG do Estado do Ceará, será composta, dentre outros, de"
+   ],
+   "alternativas": {
+    "A": "décimo terceiro salário.",
+    "B": "abono pecuniário.",
+    "C": "adicional de férias.",
+    "D": "vencimento base."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 13,
+   "pg": 5,
+   "secao": "Administração Pública",
+   "enunciado": [
+    "Por determinação da lei de diretrizes e bases da educação nacional (LDB), incumbe ao Estado do Ceará"
+   ],
+   "alternativas": {
+    "A": "prestar assistência técnica e financeira aos municípios para o desenvolvimento de seus sistemas de ensino e o atendimento prioritário à escolaridade obrigatória, exercendo sua função supletiva.",
+    "B": "autorizar, credenciar e supervisionar os estabelecimentos do sistema de ensino de seus municípios.",
+    "C": "elaborar e executar políticas e planos educacionais, em consonância com as diretrizes e planos nacionais de educação, integrando e coordenando as suas ações e as dos seus municípios.",
+    "D": "oferecer, em caráter suplementar, a educação infantil em creches e pré-escolas, e, com prioridade, o ensino fundamental."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 14,
+   "pg": 5,
+   "secao": "Administração Pública",
+   "enunciado": [
+    "À luz das normas legais, relativas à educação nacional, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "o ensino fundamental obrigatório, com duração de nove anos, gratuito na escola pública, iniciando-se aos seis anos de idade, terá por objetivo a formação básica do cidadão.",
+    "B": "a carga horária mínima anual será de oitocentas horas para o ensino fundamental, distribuídas por um mínimo de duzentos dias de efetivo trabalho escolar, incluído o tempo reservado aos exames finais.",
+    "C": "o direito à educação infantil será assegurado às crianças até o término do ano letivo em que completarem sete anos de idade.",
+    "D": "é dever dos pais ou responsáveis efetuar a matrícula dos menores, a partir dos sete anos de idade, no ensino fundamental."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 15,
+   "pg": 6,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "O elemento que motivou a temática do texto é"
+   ],
+   "alternativas": {
+    "A": "a identidade roraimense.",
+    "B": "a angústia dos roraimenses pelo não pertencimento.",
+    "C": "o êxodo venezuelano.",
+    "D": "a formação da população em Roraima."
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 16,
+   "pg": 6,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Considerando a tipologia do texto, é correto afirmar que ele é predominantemente"
+   ],
+   "alternativas": {
+    "A": "expositivo, uma vez que privilegia o uso de expressões que denotam sequência temporal dos fatos, a localização dos agentes nos cenários referidos e a referência a seres concretos.",
+    "B": "dissertativo, pois são frequentes os argumentos em favor de uma posição, com verbos, em geral no presente do indicativo.",
+    "C": "injuntivo, pois os elementos de referência apresentam-se sem remissão a uma progressão temporal.",
+    "D": "narrativo, já que faz o uso dos tempos verbais pretéritos, com remissão a uma progressão temporal, priorizando a informação do ‘antes’, do ‘durante’ e do ‘depois’."
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 17,
+   "pg": 6,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Assinale a opção em que a palavra “mapa” está empregada em um sentido metafórico e abstrato mais saliente."
+   ],
+   "alternativas": {
+    "A": "“Quem viveu escorregando de todos os <u>mapas</u> sente a dor dessa experiência no corpo.” (linhas 81-83)",
+    "B": "“... sem entender o que é estar na fronteira e se saber à beira do <u>mapa</u>, a borda...” (linhas 02-04)",
+    "C": "“... mas antes tentaram pertencer a outros pontos do <u>mapa</u> e não puderam se fixar por falta de trabalho ou outras faltas.” (linhas 13-16)",
+    "D": "“...lugar de pertencimento para quem tanto peregrinou pelo <u>mapa</u> do Brasil até finalmente alcançar a sua borda.” (linhas 61-63)"
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 18,
+   "pg": 6,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Analise as seguintes orações:",
+    "I. “...a população não indígena de Roraima é formada <u>por migrantes recentes</u>...” (linhas 07-08)",
+    "II. “... mas antes tentaram pertencer <u>a outros</u> <u>pontos do mapa...</u>.”(linhas 13-15)",
+    "III. “Talvez o que um brasileiro de Roraima vislumbre <u>num venezuelano desesperado e</u> <u>sem lugar</u> seja o retrato de si mesmo.” (linhas 21-24)",
+    "IV. “A angústia <u>de não pertencer</u> rugia dentro da maioria das pessoas que entrevistei em Roraima, em diferentes momentos.” (linhas 34-36)",
+    "V. “...o desejo <u>de apagar as populações nativas</u>, ainda que pela assimilação ou pela supressão de direitos.” (linhas 46-49)",
+    "VI. “A identidade roraimense é fomentada na população <u>por velhas e novas elites locais</u> a partir da ideia de que o Brasil é contra eles...” (linhas 20-52)",
+    "No que diz respeito à função sintática dos termos sublinhados, é correto afirmar que em"
+   ],
+   "alternativas": {
+    "A": "II e VI funcionam como objetos indiretos.",
+    "B": "IV e V funcionam como complementos nominais.",
+    "C": "I e III funcionam como agentes da passiva.",
+    "D": "V funcionam como adjunto adnominal."
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 19,
+   "pg": 6,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Considerando a justificativa para a acentuação da palavra “<b>pôde</b>” em “... mas que nunca <b>pôde</b> ser totalmente esquecida” (linhas 26-27), assinale a opção em que a acentuação do termo destacado é justificada pelo mesmo motivo."
+   ],
+   "alternativas": {
+    "A": "“...estão lutando por um lugar e sabem muito bem o <b>porquê</b>.” (linhas 68-69)",
+    "B": "“Dali pra frente não <b>há</b> mais para onde andar.” (linhas 20-21)",
+    "C": "“Isso se manifestava em <b>três</b> comportamentos...” (linhas 42-43)",
+    "D": "“...a <b>evidência</b> viva, encarnada.” (linhas 76-77)"
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 20,
+   "pg": 6,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Em “A violência em Roraima é <u>contra a</u> <u>imagem no espelho</u>”, os termos sublinhados são classificados sintaticamente como"
+   ],
+   "alternativas": {
+    "A": "objeto indireto.",
+    "B": "objeto direto.",
+    "C": "predicativo do sujeito.",
+    "D": "adjunto adverbial."
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 21,
+   "pg": 7,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Assinale a opção cujos termos sublinhados funcionam como sujeito da oração."
+   ],
+   "alternativas": {
+    "A": "“...a borda como o precipício que lembra a quem se agarra ao lado de cá <u>que há uma fera</u> <u>rosnando no desconhecido</u>.” (linhas 04-06)",
+    "B": "“...a imagem se materializa como um espelho <u>que</u> é preciso destruir.” (linhas 30-31)",
+    "C": "“O que destroem no corpo do outro é a imagem de si mesmos <u>cujo retorno</u> não podem aceitar.” (linhas 31-33)",
+    "D": "“É também a prova de que a estabilidade é sempre provisória, de que é possível <u>perder tudo</u> <u>mais uma vez</u>.” (linhas 74-76)"
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 22,
+   "pg": 7,
+   "secao": "Língua Portuguesa",
+   "enunciado": [
+    "Considerando os pronomes destacados em “...o Brasil é contra <b>eles</b> (ou <b>os</b> ignora ou só aparece para se meter onde não devia...)” (linhas 53-54), é correto afirmar que possuem referentes"
+   ],
+   "alternativas": {
+    "A": "diferentes e explicitados na progressão do texto.",
+    "B": "diferentes e recuperados a partir de informações do cotexto.",
+    "C": "iguais e recuperados devido às informações presentes no cotexto.",
+    "D": "iguais e explicitados na progressão do texto."
+   },
+   "texto_ref": "t15",
+   "imagens": []
+  },
+  {
+   "id": 23,
+   "pg": 7,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "O Sistema Permanente de Avaliação da Educação Básica do Ceará – SPAECE – foi implementado em 1992 pela Secretaria da Educação – SEDUC –, com o objetivo de promover um ensino de qualidade e equânime para todos os alunos da rede pública do Estado. Considerando o SPAECE, analise as seguintes afirmações:",
+    "I. Em 2007, a SEDUC ampliou a abrangência do SPAECE, incorporando a avaliação da alfabetização e expandindo a avaliação do Ensino Médio para as três séries, de forma censitária.",
+    "II. No tocante aos 6º e 9º anos, o SPAECE avalia a proficiência dos alunos em leitura e a evolução do seu desempenho em matemática.",
+    "III. A partir do 5º ano, o SPAECE aplica questionários contextuais junto a alunos, professores e diretores, que possibilitam a elaboração de indicadores relacionados ao perfil socioeconômico e hábitos de estudo.",
+    "IV. Os questionários destinados aos professores",
+    "e diretores permitem traçar o perfil educacional, a experiência e a formação",
+    "profissional, a prática docente e a gestão",
+    "escolar dos envolvidos na área educacional.",
+    "É verdadeiro o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "II, III e IV apenas.",
+    "B": "I, III e IV apenas.",
+    "C": "I, II e III apenas.",
+    "D": "I, II, III e IV."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 24,
+   "pg": 7,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "O Exame Nacional do Ensino Médio – ENEM – tem como principal finalidade avaliar o desempenho escolar e acadêmico do aluno ao final do Ensino Médio. Partindo dessa informação e tendo como foco situações para as quais servem os resultados do ENEM, é correto afirmar que esse exame",
+    "I. favorece a criação de referência nacional para o aperfeiçoamento dos currículos do Ensino Médio.",
+    "II. é utilizado como mecanismo único, alternativo ou complementar para acesso à educação superior, em especial para as instituições federais.",
+    "III. viabiliza o desenvolvimento de estudos e indicadores sobre a educação brasileira.",
+    "IV. constitui parâmetros para o sistema de avaliação formal das instituições escolares integrantes da rede de ensino privada.",
+    "Estão corretas as complementações contidas em"
+   ],
+   "alternativas": {
+    "A": "I, II e III apenas.",
+    "B": "I, II, III e IV.",
+    "C": "II, III e IV apenas.",
+    "D": "I, III e IV apenas."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 25,
+   "pg": 7,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "O Índice de Desenvolvimento da Educação Básica – IDEB – foi criado para",
+    "I. medir a qualidade do aprendizado nacional;",
+    "II. orientar a elaboração dos currículos escolares dos estados e municípios;",
+    "III. monitorar a ação educacional dos sistemas municipais de ensino;",
+    "IV. estabelecer metas para a melhoria do ensino.",
+    "Estão corretas somente as complementações contidas em"
+   ],
+   "alternativas": {
+    "A": "I e IV.",
+    "B": "I e III.",
+    "C": "II e III.",
+    "D": "II e IV."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 26,
+   "pg": 8,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "Analise o seguinte gráfico disponibilizado pelo SPAECE, que indica a Evolução da Proficiência do 2º ano no período de 2012-2016 da Rede Municipal e da Rede Pública Estadual.",
+    "Com base na análise do gráfico acima, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "o pico de evolução na rede pública estadual ocorreu de 2015 para 2016.",
+    "B": "o pico de evolução na rede municipal de Fortaleza ocorreu de 2014 para 2015.",
+    "C": "em 2012 e 2013, a evolução nas duas redes foi equivalente.",
+    "D": "a evolução na rede municipal de Fortaleza foi maior do que a da rede pública estadual."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q26_1.png",
+     "pg": 8,
+     "bbox": [
+      44,
+      71,
+      300,
+      276
+     ]
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "pg": 8,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "O Programa Internacional de Avaliação de Alunos – PISA – tem como objetivo avaliar"
+   ],
+   "alternativas": {
+    "A": "os sistemas educacionais europeus e americanos, por meio de testes relacionados com língua materna e matemática.",
+    "B": "os sistemas educacionais no mundo por meio de uma série de testes em assuntos de leitura, matemática e ciências.",
+    "C": "as redes escolares nos países da América Latina e Europa, no tocante ao seu desempenho acadêmico e gestão educacional.",
+    "D": "os currículos escolares dos países em desenvolvimento, verificando seu nível de eficiência com relação à área de ciências e suas tecnologias."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 28,
+   "pg": 8,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "O cálculo do IDEB envolve dois componentes, quais sejam:"
+   ],
+   "alternativas": {
+    "A": "os índices de reprovação escolar e as médias do Sistema de Avaliação da Educação Básica – SAEB.",
+    "B": "os índices de aprovação e de reprovação escolar e as médias da Prova Brasil.",
+    "C": "a taxa de rendimento escolar e as médias de desempenho nos exames aplicados pelo INEP.",
+    "D": "as taxas de aprovação e de evasão escolar e as médias dos sistemas de avaliação locais."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 29,
+   "pg": 8,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "A taxa de escolarização do ensino fundamental, no Ceará, com relação ao período de 2013 a 2015, registrou os seguintes dados:",
+    "<b>ANO</b> <b>TAXA BRUTA</b>",
+    "<b>TAXA LÍQUIDA</b>",
+    "2013",
+    "98,4% 90,1 %",
+    "2015",
+    "97,5% 89,6%",
+    "Fonte: Anuário Estatístico do Ceará – 2016",
+    "Com base na análise da tabela acima, e tendo em vista que a taxa líquida abrange somente os alunos atendidos dentro da faixa etária regular obrigatória e a bruta compreende todos os alunos atendidos, incluindo os fora de faixa, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "a universalização do atendimento no ensino fundamental para a população de 6 a 14 anos está assegurada.",
+    "B": "o atendimento da população fora de faixa, registrou pequeno aumento no período analisado.",
+    "C": "o atendimento dos alunos da faixa de escolaridade obrigatória, no ensino fundamental, está aumentando, portanto, está mais próxima de cumprir a determinação legal.",
+    "D": "o atendimento dos alunos da faixa de escolaridade obrigatória, no ensino fundamental, está diminuindo, o que caracteriza maior distanciamento do cumprimento da determinação legal."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q29_1.png",
+     "pg": 8,
+     "bbox": [
+      308,
+      71,
+      566,
+      252
+     ]
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "pg": 8,
+   "secao": "Leitura e Interpretação de Dados e Indicadores Educacionais",
+   "enunciado": [
+    "Pela legislação que organiza a oferta do ensino no Brasil, Lei Nº 9.394/96 – LDB, a criança deve ingressar aos 6 anos de idade no 1º ano do ensino fundamental e concluir a etapa aos 14 anos. Na faixa etária dos 15 aos 17 anos, o jovem deve estar matriculado no ensino médio. Se, por qualquer razão, há defasagem entre a idade do aluno e a idade recomendada para a série que ele está cursando, ocorre o fenômeno denominado de distorção idade-série, que é considerada somente quando a defasagem é de"
+   ],
+   "alternativas": {
+    "A": "1 ano e 6 meses.",
+    "B": "2 anos e mais.",
+    "C": "3 anos e 11 meses.",
+    "D": "3 anos e mais."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 31,
+   "pg": 9,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Atente para a seguinte reprodução de uma tirinha da Turma da Mônica, de Maurício de Souza:",
+    "Cascão<b> </b>(de joelhos): Por favor, Mônica! Me dá um teco desse sorvete! Me dá um teco desse sorvete!",
+    "Mônica: Oh, Cascão! Por que esse desespero todo?",
+    "Cascão: Estou ficando com água na boca!",
+    "Fonte: https://brainly.com.br/tarefa/1475204. Acesso em 19/08/2018. Adaptação.",
+    "Considerando o texto acima, assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "O desespero do Cascão se justifica e o leitor constrói sentido para o que lê quando ativa conhecimentos prévios constituídos e armazenados na memória: Cascão não gosta de água, seu nome faz jus a essa aversão.",
+    "B": "O diálogo estabelecido entre Cascão e Mônica apresenta coesão, único pré-requisito necessário para a construção do sentido do texto.",
+    "C": "Os elos coesivos presentes no diálogo respondem à pergunta essencial para a construção do sentido do texto: por que o desespero do Cascão por estar ficando com água na boca?",
+    "D": "O exemplo demonstra que a coesão por si só pode ser responsável pela coerência textual, uma vez que as marcas de coesão encontram-se no texto, e a coerência não, pois só é construída a partir dele."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q31_1.png",
+     "pg": 9,
+     "bbox": [
+      44,
+      103,
+      300,
+      248
+     ]
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "pg": 9,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Na leitura, leva-se em conta que",
+    "I. o texto possui, além da parte visível constituída por sua materialidade linguística (o explícito), uma parte invisível (o implícito).",
+    "II. o ato de ler é uma atividade que requer a mobilização de conhecimentos: linguístico, enciclopédico, comunicacional, de textos, entre outros.",
+    "III. o texto é resultado da “soma” de palavras, frases ou de outros textos, organizado de determinado modo, dentre tantos outros possíveis.",
+    "É correto o que consta em"
+   ],
+   "alternativas": {
+    "A": "I e III apenas.",
+    "B": "I e II apenas.",
+    "C": "I, II e III.",
+    "D": "II e III apenas."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 33,
+   "pg": 9,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Atente para o texto a seguir.",
+    "O educador Paulo Freire afirmou que “<i>a leitura do</i> <i>mundo precede a leitura da palavra, daí que a</i> <i>posterior leitura desta não possa prescindir da</i> <i>continuidade da leitura daquele</i>” (FREIRE, 1987). No viés da leitura do mundo pela palavra, vê-se emergir uma tecnologia de linguagem cujo espaço de apreensão de sentido não é apenas composto por palavras, mas, junto com elas, encontram-se sons, gráficos e diagramas, todos lançados sobre uma mesma superfície perceptual, amalgamados uns sobre os outros formando um todo significativo e de onde sentidos são complexamente disponibilizados aos navegantes do oceano digital. É assim o hipertexto.",
+    "Considerando o texto acima, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "uma vantagem do hipertexto é que com ele se pode dizer tudo, ou seja, se consegue a explicação de todos os pormenores do texto, sendo a representação dele em forma de equação  texto = dito, enquanto a do texto impresso é texto = dito + não-dito.",
+    "B": "o hipertexto concretiza a possibilidade de tornar seu usuário um leitor inserido nas principais discussões em curso no mundo, com a vantagem de que exige do usuário apenas a decodificação das palavras que flutuam sobre a realidade imediata.",
+    "C": "a leitura do mundo, da realidade que circunscreve o leitor de Paulo Freire passa a ser profundamente alargada pelo hipertexto, embora, na prática, esse limite os horizontes de expectativa e de surpresa do leitor.",
+    "D": "o hipertexto consolida o processo descrito por Paulo Freire, uma vez que viabiliza multidimensionalmente a compreensão do leitor pela exploração superlativa de informações, muitas delas inacessíveis sem os recursos da hipermídia."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 34,
+   "pg": 9,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No que diz respeito às tecnologias da comunicação e de informação no ensino, assinale a opção verdadeira."
+   ],
+   "alternativas": {
+    "A": "As tecnologias que favorecem o acesso à informação e aos canais de comunicação são, por si mesmas, educativas, pois trazem inerente a si uma proposta educativa.",
+    "B": "Os recursos tecnológicos são mutáveis e o seu valor não está em si mesmos, mas no uso que o professor faz desses recursos.",
+    "C": "As inovações tecnológicas, por si só, já garantem inovações pedagógicas em sala de aula.",
+    "D": "O atributo de velho ou novo está no produto, no artefato em si mesmo, na cronologia das invenções, independente do uso que se faz dele."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 35,
+   "pg": 10,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia a historinha <i>O limoeiro</i> de Maurício de Sousa.",
+    "Legenda:",
+    "<b>CB</b> – Chico Bento (falando com um limoeiro que",
+    "ele plantou)",
+    "<b>P</b> – Pai do Chico Bento",
+    "<b>M</b> – Mãe do Chico Bento",
+    "<b>CB</b>: – Vixi! Como você cresceu! Inté parece qui foi onte qui prantei esse limoero! Agora, já ta cheio di gaio! Quase da minha artura! Como o tempo passa, né? Uns tempo atrais, ocê era deste tamanhico! Fiz um buraquinho i ponhei ocê inda mudinha dentro! Protegi dos ventos, do sor, das geada... i nunca dexei fartá água! Imagina si eu ia dexá ocê passá sede! Hoje você ta desse tamanhão! Quero vê o dia im qui ocê tivé mais grande qui eu! Imagina só! Cum uns gaio cumprido cheio di limão i umas fia bem larga, pra dá sombra pra quem tivé dibaxo! Aí, num vô percisá mais mi precupá c’ocê, né limoero? Pruque aí ocê vai tá bem forte! Vai sabê si protegê do vento do sor i da geada, sozinho! I suas raiz vão tá tão cumprida qui ocê vai podê buscá água por sua conta! Ocê vai sê dono doce mesmo! Sabe, limoero...Tava pensando...Acho que dispois, vai sê eu qui vô percisá docê! Isso é... Quando eu ficá mais véio! Craro! Cum uns limão tão bão qui ocê tem... i a sombra qui ocê dá, pode mi protegê inté dos pongo di chuva! Ocê vai fazê isso, limoeiro? Cuidá de mim também? Num importa! O importante é qui eu prantei ocê! I é ansim qui eu gosto! Do jeito qui ocê é. <b>P</b> (para <b>M</b>): – Muié... tem reparado como nosso fio cresceu?",
+    "Fonte: <i>Chico Bento</i>, nº 354.",
+    "Considerando a variação linguística utilizada, assinale a opção que apresenta uma visão preconceituosa a respeito do texto."
+   ],
+   "alternativas": {
+    "A": "As historinhas do Chico Bento funcionam como um recurso para despertar nos alunos a consciência da diversidade sociolinguística.",
+    "B": "A criação do personagem Chico Bento permite que as crianças com antecedentes urbanos se familiarizem com a cultura rural.",
+    "C": "O Conselho Nacional de Cultura deveria proibir a publicação da revista, pois o modo de falar do Chico pode influenciar a fala das crianças brasileiras.",
+    "D": "Em sala de aula, Chico Bento pode se transformar em um símbolo do multiculturalismo que ali deve ser cultivado."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q35_1.png",
+     "pg": 10,
+     "bbox": [
+      44,
+      71,
+      300,
+      521
+     ]
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "pg": 10,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Os gêneros permitem o tratamento da intrigante e difícil questão que indaga: Por que os membros de comunidades discursivas específicas usam a língua da maneira como fazem? Atente às respostas para esse questionamento apresentadas a seguir e assinale a que for <b>INCORRETA</b>."
+   ],
+   "alternativas": {
+    "A": "A determinação da língua se dá basicamente pela função e não pela forma.",
+    "B": "Cada gênero textual tem um propósito bastante claro que o determina e lhe dá uma esfera de circulação.",
+    "C": "Todos os gêneros têm uma forma e função, bem como um estilo e um conteúdo.",
+    "D": "Os gêneros são modelos estanques com estruturas rígidas e com formas culturais."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 37,
+   "pg": 10,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia atentamente o seguinte texto:",
+    "<b>Receita do amor</b>",
+    "<b>Ingredientes:</b>",
+    "• 4 xícaras de carinho",
+    "• 2 xícaras de atenção",
+    "• 2 colheres de suspiros",
+    "• 8 pedaços de saudades",
+    "• 3 colheres de respeito",
+    "• Amor, sorrisos bobos, pimenta e ciúmes a gosto",
+    "<b>Modo de preparo:</b>",
+    "<b>–</b> Misture 8 pedaços de saudade com 2 xícaras de atenção em uma panela até virar uma mistura onde qualquer momento seja especial. Acrescente sorrisos bobos até ficar homogêneo; <b>– </b>Junte todo o carinho na forma e caramelize com suspiros de paixão, ao sentir o cheiro de sonhos se espalhando no ambiente retire do fogo e acrescente uma pitada de pimenta para sentirmos a intensidade dentro de nós sempre que provarmos; <b>– </b>Misture bem todos os ingredientes anteriores; <b>–</b> Para não virar rotina, acrescente muito amor e uma colher de ciúmes. Para dar um pequeno sabor de dedicação, adicione 3 colheres de respeito. (Caso erre na medida de ciúmes coloque respeito a gosto). (...) Rendimento: Duas porções Dica de acompanhamento: Aprecie com abraços e músicas.",
+    "Diêgo Cabó",
+    "Fonte:https://www.pensador.com/frase/MTgyMjExMg/. Acesso em 08/09/2018.",
+    "O critério que impera na determinação interpretativa do gênero apresentado é"
+   ],
+   "alternativas": {
+    "A": "a função.",
+    "B": "o suporte.",
+    "C": "o contexto.",
+    "D": "a forma."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q37_1.png",
+     "pg": 10,
+     "bbox": [
+      308,
+      211,
+      566,
+      668
+     ]
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "pg": 11,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Considerando que a questão da definitivização também pode ser incluída na substituição, leia o texto a seguir e analise as afirmações que se seguem e escreva <b>V</b> para as verdadeiras e <b>F</b> para as falsas.",
+    "<b>Papos-de-anjo</b>",
+    "<b>Ingredientes:</b>",
+    "18 gemas",
+    "2 xícaras de açúcar",
+    "4 claras",
+    "2 1/2 xícaras de água",
+    "<b>Modo de fazer:</b>",
+    "Bater bem as gemas. Em separado bater as claras em neve firme e juntá-las às gemas. Levar ao forno em forminhas untadas e polvilhadas com farinha.",
+    "À parte preparar uma calda com o açúcar e a água, acrescentando um aromatizante. Quando os docinhos estiverem cozidos, colocá-los na calda e deixá-los ferver até ficarem bem embebidos. Colocá-los numa compoteira ou num prato de cristal e deixar esfriar.",
+    "Fonte: https://www.passeidireto.com. Acesso em 15/09/2018.",
+    "(    ) A informação nova é caracteristicamente introduzida por expressões indefinidas e subsequentemente referida por expressões definidas.",
+    "(    ) Na lista de ingredientes, são introduzidas as entidades “novas”, que, ao serem mencionadas no <i>Modo de fazer</i>, tomam a forma de expressões indefinidas.",
+    "(    ) No <i>Modo de fazer</i>, há tanto entidades já “dadas”: as gemas, as claras, o açúcar, a água; quanto entidades “novas”: uma calda, um aromatizante, uma compoteira.",
+    "(    ) Numa sequência, um referente indefinido deve, para que se mantenha a identidade referencial, ser retomado por outro indefinido.",
+    "(    ) Para que se mantenha a identidade referencial, uma entidade definida só pode ser retomada por outra definida.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "V, V, F, F, V.",
+    "B": "V, F, V, F, V.",
+    "C": "F, V, F, V, F.",
+    "D": "F, F, V, V, F."
+   },
+   "texto_ref": null,
+   "imagens": [
+    {
+     "arquivo": "img/q38_1.png",
+     "pg": 11,
+     "bbox": [
+      44,
+      71,
+      300,
+      605
+     ]
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "pg": 11,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Considerando que os gêneros estão agrupados em cinco modalidades retóricas correspondentes aos tipos textuais, assinale a opção em que a correspondência dos exemplos e as respectivas modalidades está correta."
+   ],
+   "alternativas": {
+    "A": "DESCREVER: regulamento, regras de jogo, carta do leitor.",
+    "B": "ARGUMENTAR: novela fantástica, texto de opinião, debate regrado.",
+    "C": "EXPOR: seminário, conferência, entrevista de especialista.",
+    "D": "NARRAR: fábula, curriculum vitae, lenda."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 40,
+   "pg": 11,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Levando-se em conta o fato de que se deve oferecer um ensino culturalmente sensível, tendo em vista a pluralidade cultural, assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "Os gêneros explorados na aula de língua estão relacionados ao papel da linguagem e da cultura, no entanto, é um tipo de ação que deve limitar-se ao aspecto meramente interno ao sistema da língua, restringindo-se à atividade comunicativa e informacional.",
+    "B": "Deve-se frisar a variação linguística, social, temática, de costumes, crenças, valores, dentre outras; mas sempre cuidando de privilegiar o urbanismo elitizado.",
+    "C": "Visitas a museus, parques, fábricas, instituições, universidades, feiras, mercados, teatros, dentre outros, garantem, por si só, o reconhecimento da pluralidade cultural.",
+    "D": "As temáticas dos gêneros explorados na escola, como, doenças endêmicas, ecologia, artes plásticas, sistema de trânsito, meios de comunicação de massa, literatura, dentre outras, exploram a linguagem como forma de ação e inserção social e cultural."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 41,
+   "pg": 11,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sabendo-se que a reiteração pode-se dar também por meio de hiperônimos e hipônimos, assinale a opção correta."
+   ],
+   "alternativas": {
+    "A": "Quando há retomadas (repetições) do mesmo fenômeno por formas diversas, esse tipo de reiteração baseia-se num conhecimento somente linguístico a despeito do conhecimento de mundo.",
+    "B": "Quando o primeiro elemento mantém com o segundo uma relação todo-parte, classe-elemento, tem-se um hipônimo; e, quando o primeiro elemento mantém com o segundo uma relação parte-todo, elemento-classe, tem-se o hiperônimo.",
+    "C": "Nomes gerais como: gente, pessoa, coisa, negócio, lugar, ideia podem funcionar como itens de referência anafórica.",
+    "D": "Diferentemente dos hipônimos, os hiperônimos permitem maior precisão, deixando o texto menos vago."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 42,
+   "pg": 12,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Assinale a opção em que o parágrafo exemplificado e a respectiva identificação da organização retórica está correta."
+   ],
+   "alternativas": {
+    "A": "“O humor, numa concepção mais exigente, não é apenas a arte de fazer rir. Isso é comicidade, ou qualquer outro nome que se escolha. Na verdade, humor é uma análise crítica do homem e da vida. Uma análise não obrigatoriamente comprometida com o riso, uma análise desmistificada, reveladora, cáustica. Humor é uma forma de tirar a roupa da mentira, e o seu êxito está na alegria que ele provoca pela descoberta inesperada da verdade.” = <b>exemplificação</b>",
+    "B": "“As adivinhações agradam principalmente às crianças. Por que isso acontece? Por que representam a forma quase simbólica da experiência infantil de conquista do real. Para uma criança, o mundo está cheio de mistérios, acontecimentos incompreensíveis, figuras indecifráveis. A própria presença da criança no mundo é, para ela, uma incógnita. Daí surge o prazer da experimentação de modo desinteressado, a brincadeira, a emoção do encontro com a surpresa.” =<b> explanação</b>",
+    "C": "“Era o casarão clássico das antigas fazendas negreiras. Assobradado, erguia-se em alicerces o muramento, de pedra até meia altura e, dali em diante, de pau-a-pique [...] À porta da entrada, ia ter uma escadaria dupla, com alpendre e parapeito desgastado.” = <b>definição</b>",
+    "D": "“A imaginação utópica é inerente ao homem. Além disso, é uma constante em diferentes momentos históricos. Nas sociedades primitivas, sob a forma de lendas. Nas formas do pensamento religioso, tratam de um paraíso a ser alcançado. Nas teorias de filósofos e cientistas sociais, espalham o sonho de uma vida mais justa, pedindo-nos que sejamos realistas.” =<b> descrição</b>"
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 43,
+   "pg": 12,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia atentamente o seguinte parágrafo: “O livro foi sempre considerado o baluarte em que poderiam confiar os pessimistas da cultura de massa no momento em que tivessem de salvar do incêndio a cultura autêntica. Todavia, agora, e cada vez mais, esses pessimistas têm razões de sobra para se desesperar. O livro, ao qual tinham acesso apenas as minorias privilegiadas, passa a figurar no cardápio da classe média e do proletariado. Os últimos anos marcaram o aparecimento em grande estilo dos livros de bolso, ostensivamente concorrendo com jornais e revistas nas bancas e na disputa das horas de ócio dos leitores. As edições de livros de bolso se multiplicaram. O livro, antes privilégio da gente de espírito e sensibilidade, de repente é elevado à categoria de produto de consumo para a massa, tratado no mesmo nível do sabão de coco e do sabonete. O livro penetra na <i>drugstore</i> e a cultura é equiparada a um comprimido que se compra para dor de cabeça. A cultura veiculada pelo livro adquire então o aspecto vulgar que faz a ira dos inimigos da cultura de massa: o de tratar com simplicidade coisas por natureza complicadas”. (Charles R. Wright)",
+    "Fonte: SOARES, M. B. <i>Técnica de redação:</i> as articulações linguísticas como técnica de pensamento. Rio de Janeiro: Ao Livro Técnico, 1978.",
+    "No que diz respeito ao parágrafo acima, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "tem por objetivo mostrar a evolução do livro: de privilégio de uma minoria a produto de consumo para a massa. Tal objetivo obriga, evidentemente, a uma ordenação por tempo.",
+    "B": "nele a indicação de tempo se dá pelo emprego dos tempos verbais, bem como por advérbios e locuções adverbiais, certas preposições e locuções prepositivas, certas conjunções e locuções conjuntivas, e adjuntos adverbiais de tempo presentes na ordenação.",
+    "C": "em função de seu objetivo, aparecem, simultaneamente, os critérios de organização por tempo e espaço.",
+    "D": "nele há expressões indicadoras de tempo – adjuntos adverbiais de tempo – e de espaço – adjuntos adverbiais de lugar – marcadoras do critério de ordenação do parágrafo."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 44,
+   "pg": 12,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia o seguinte parágrafo:",
+    "“A dita Era da Televisão é, relativamente, nova. Embora os princípios técnicos de base sobre os quais repousa a transmissão televisual já estivessem em experimentação entre 1908 e 1914, nos Estados Unidos, no decorrer de pesquisas sobre a amplificação eletrônica, somente na década de vinte chegou-se ao tubo catódico, principal peça do aparelho de tevê. Após várias experiências por sociedades eletrônicas, tiveram início, em 1939, as transmissões regulares entre Nova Iorque e Chicago - mas quase não havia aparelhos particulares. A guerra impôs um hiato às experiências. A ascensão vertiginosa do novo veículo deu-se após 1945. No Brasil, a despeito de algumas experiências pioneiras de laboratório (Roquete Pinto chegou a interessar-se pela transmissão da imagem), a tevê só foi mesmo implantada em setembro de 1950, com a inauguração do Canal 3 (TV Tupi), por Assis Chateaubriand. Nesse mesmo ano, nos Estados Unidos, já havia cerca de cem estações, servindo a doze milhões de aparelhos. Existem hoje mais de 50 canais em funcionamento, em todo o território brasileiro, e perto de 4 milhões de aparelhos receptores.” [dados de 1971] (Muniz Sodré)",
+    "Fonte: http://www.pead.letras.ufrj.br/tema09/coesaogramatical.html. Acesso em 15/09/2018.",
+    "Considerando o parágrafo acima, escreva <b>V</b> ou <b>F</b> conforme seja verdadeiro ou falso o que se afirma a seguir.",
+    "(    ) O objetivo do parágrafo é mostrar a evolução da televisão ao longo do tempo, o que define o critério de organização exclusivamente por tempo.",
+    "(    ) As expressões indicadoras de tempo e de lugar, ao longo do parágrafo, evidenciam a ordenação por tempo e espaço simultaneamente.",
+    "(    ) Quando se escreve sobre fatos, ideias ou fenômenos, com o objetivo de mostrar sua evolução ao longo do tempo e em diferentes lugares, deve-se organizar o parágrafo por um dos critérios (tempo ou espaço).",
+    "(    ) Há no parágrafo, dentre outras, a correspondência: experimentação (fato) – entre 1908 e 1914 (tempo) – nos Estados Unidos (espaço).",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "V, F, V, F.",
+    "B": "F, F, V, F.",
+    "C": "V, V, F, V.",
+    "D": "F, V, F, V."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 45,
+   "pg": 13,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Atente para o seguinte parágrafo:",
+    "“Tolhido pelas montanhas no litoral, obrigado a enfrentar a floresta insidiosa, onde os perigos estão constantemente à espreita, assim na terra como na água, assim na água como no ar, tendo de acomodar-se a um clima para o qual o branco nunca fez qualquer aprendizado, seria praticamente impossível ao português conquistar o trópico à maneira como o anglo-saxão tem conquistado as zonas temperadas da terra. Haveria, isto sim, de desenvolver faculdades e qualidades adequadas ao novo meio e entre estas a suscetibilidade e a delicadeza. Enquanto o anglo-saxão encontrou no Novo Mundo uma natureza de certa forma semelhante à europeia e problemas que lhe eram desde muito conhecidos e que desde muito aprendera a enfrentar, o português, no Brasil, defronta um mundo completamente estranho com muito poucas semelhanças com o seu <i>habitat</i> original. O frio para ele não seria novidade, mas calor tropical com alto teor de umidade lhe era desconhecido. O tipo de florestas virgens da América do Norte não seria para o europeu absolutamente novo em sua experiência. Agora a floresta tropical do Brasil, o jângal que avança até a beira dos rios como verdadeira muralha de verdura, por certo que não havia de inspirar-lhe ardores panteísticos, de posse imediata. Pelo contrário, o seu sentimento dominante seria o terror, o terror cósmico que subsiste no brasileiro ainda em nossos dias.”",
+    "Fonte: MOOG, V. <i>Bandeirantes e pioneiros</i>: paralelo entre duas culturas. Rio de Janeiro: Civilização Brasileira, 1969. No que concerne ao parágrafo acima, considere as seguintes afirmações:",
+    "I. Os dois primeiros períodos constituem a introdução do parágrafo.",
+    "II. As palavras ou expressões: o português, o anglo-saxão; conquistar o trópico, tem conquistado as zonas temperadas; impossível conquistar, à maneira como tem conquistado, mostram que o parágrafo se desenvolverá por contraste.",
+    "III. Os pontos de diferença entre os dois elementos apresentados no parágrafo são: a familiaridade do português e a não familiaridade do anglo-saxão.",
+    "IV. São expressões indicadoras de contraste usadas no parágrafo: enquanto, mas, agora, pelo contrário.",
+    "É correto o que se afirma somente em"
+   ],
+   "alternativas": {
+    "A": "III e IV.",
+    "B": "I e II.",
+    "C": "II e IV.",
+    "D": "I e III."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 46,
+   "pg": 13,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia atentamente o seguinte parágrafo:",
+    "“Viver é mesmo uma ginástica. O coração se contorce para bombear o sangue que, por sua vez, corre o corpo inteiro. A respiração estica e encolhe os pulmões. O aparelho digestivo se dobra e desdobra com o alimento. Tudo na vida animal é movimento – músculos que se contraem, músculos que se estendem. Graças a cerca de 650 músculos o homem pode, além de viver, ficar em pé, andar, dançar, falar, piscar os olhos, cair na gargalhada, prorromper em lágrimas, expressar no rosto suas emoções, escrever e ler este texto. Portanto, o desempenho da musculatura é muito mais forte que mera força bruta”.",
+    "Revista Superinteressante, n. 2, 1988.",
+    "Considerando o parágrafo acima, assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "A última frase representa a conclusão<b> </b>do parágrafo e caracteriza-se por explicar e ampliar as ideias de apoio.",
+    "B": "A frase “Portanto, o desempenho da musculatura é muito mais forte que mera força bruta” é uma reafirmação e retomada da ideia principal.",
+    "C": "A frase “O coração se contorce para bombear o sangue que, por sua vez, corre o corpo inteiro” apresenta a ideia principal.",
+    "D": "“Viver é mesmo uma ginástica” e “A respiração estica e encolhe os pulmões” são ideias de apoio para a ideia principal."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 47,
+   "pg": 14,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia o parágrafo a seguir.",
+    "“O acelerado desenvolvimento da humanidade vem gerando crescentes e apreensivos problemas em que se destacam os referentes ao equilíbrio homem / meio ambiente, tendo, muitas vezes, a interligá-los – como subprodutos danosos – as diversas modalidades de poluição que resultam, afinal, na redução dos recursos naturais, na diminuição da produtividade e na poluição biopsíquica e moral que vem definhando e matando, principalmente nas civilizações mais evoluídas. Esta é uma das razões por que a poluição, consequente do desenvolvimento industrial é considerada como um dos principais problemas da atualidade. E sendo ela geradora de desperdício, antagônica ao desenvolvimento, necessário se faz uma campanha cerrada para combatê-la. Mas, para tanto, é fundamental que tenhamos uma formação com base ecológica. Só assim estaremos contribuindo de fato para o progresso do País. “",
+    "Fonte: Revista Petrobrás, nº 271, 1975.",
+    "Escreva (<b>CA</b>) para o que for causa e (<b>CO</b>) para o que for consequência, de acordo com o parágrafo.",
+    "(    ) acelerado desenvolvimento da humanidade",
+    "(    ) problemas referentes ao equilíbrio homem/meio ambiente",
+    "(    ) crescentes e apreensivos problemas",
+    "(    ) desenvolvimento industrial",
+    "(    ) desperdício",
+    "(    ) contribuição para o progresso do país",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "CO, CA, CO, CO, CA, CO.",
+    "B": "CA, CO, CA, CO, CA, CA.",
+    "C": "CA, CA, CO, CA, CO, CO.",
+    "D": "CO, CO, CA, CA, CO, CA."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 48,
+   "pg": 14,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Relacione corretamente as competências com as respectivas habilidades, numerando os parênteses abaixo de acordo com a seguinte indicação:",
+    "<b>1. </b>Compreender e usar os sistemas simbólicos das diferentes linguagens como meios de organização cognitiva da realidade pela constituição de significados, expressão, comunicação e informação.",
+    "<b>2. </b>Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas.",
+    "<b>3. </b>Compreender e usar a língua portuguesa como língua materna, geradora de significação e integradora da organização do mundo e da própria identidade.",
+    "(    ) Analisar a função da linguagem predominante nos textos em situações específicas de interlocução.",
+    "(    ) Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras.",
+    "(    ) Identificar, em textos de diferentes gêneros, as marcas linguísticas que singularizam as variedades linguísticas sociais, regionais e de registro.",
+    "(    ) Reconhecer os usos da norma padrão da língua portuguesa nas diferentes situações de comunicação.",
+    "(    ) Identificar os elementos que concorrem para a progressão temática e para a organização e estruturação de textos de diferentes gêneros e tipos.",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "1, 3, 2, 3, 2.",
+    "B": "1, 2, 3, 3, 1.",
+    "C": "2, 1, 1, 2, 3.",
+    "D": "3, 1, 3, 2, 2."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 49,
+   "pg": 14,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Analise a relação entre a competência destacada e as habilidades a seguir.",
+    "<b>Competência:</b>",
+    "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção.",
+    "<b>Habilidades:</b>",
+    "I. Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político.",
+    "II. Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário.",
+    "III. Reconhecer a função e o impacto social das diferentes tecnologias da comunicação e informação.",
+    "IV. Identificar pela análise de suas linguagens, as tecnologias da comunicação e informação.",
+    "V. Reconhecer a presença de valores sociais e humanos atualizáveis e permanentes no patrimônio literário nacional.",
+    "De acordo com os Parâmetros Curriculares Nacionais do Ensino Médio para a disciplina de Língua Portuguesa, é habilidade correspondente à competência destacada somente o que consta em"
+   ],
+   "alternativas": {
+    "A": "I, II e V.",
+    "B": "I e II.",
+    "C": "II, III, IV.",
+    "D": "III e IV."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 50,
+   "pg": 15,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Embora não exista uma divisão única e estanque em relação às manifestações da literatura brasileira, em uma visão panorâmica, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "contemporaneamente, a partir do final do século XIX, figuram os estilos literários: o Modernismo e, na sequência, o Pós-Modernismo, também considerado ‘Tendências contemporâneas’.",
+    "B": "outra divisão possível é pela temática: predomínio da fé e emoção: Barroco, Romantismo, Simbolismo; predomínio da ciência e razão: Arcadismo, Realismo e Modernismo.",
+    "C": "na época renascentista, por volta do século XVI ocorrem os estilos literários: a Literatura de informação, o Barroco e o Arcadismo.",
+    "D": "na época Moderna, por volta do século XIX e início do século XX, ocorrem os estilos literários: o Romantismo, o Realismo e o Simbolismo."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 51,
+   "pg": 15,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Escreva (<b>1</b>) para o que caracteriza a linguagem literária e (<b>2</b>) para o que caracteriza a linguagem não literária.",
+    "(    ) A essência da linguagem está na palavra, que é usada por escritores e poetas em todo o seu potencial significativo e sonoro, estabelecendo interação entre autor e seus leitores/ouvintes.",
+    "(    ) Caracteriza-se pelo predomínio do sentido conotativo (ou figurado), que é aquele que as palavras e expressões adquirem em um dado contexto, quando o seu sentido literal é modificado.",
+    "(    ) Caracteriza-se pelo predomínio do sentido denotativo (ou literal), que é aquele que a palavra e as expressões são tomadas em sua significação “básica”, a qual pode ser apreendida sem ajuda do cotexto e do contexto.",
+    "(    ) Linguagem típica de textos com função utilitária, ou seja, que têm como finalidade predominante satisfazer a alguma necessidade específica, como informar, argumentar, convencer, dentre outras.",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "2, 1, 2, 1.",
+    "B": "1, 1, 2, 2.",
+    "C": "2, 2, 1, 1.",
+    "D": "1, 2, 1, 2."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 52,
+   "pg": 15,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No que diz respeito ao Barroco no Brasil, escreva <b>V</b> para o que for verdadeiro e <b>F</b> para o que for falso.",
+    "(    ) O marco inicial da literatura barroca brasileira é o surgimento do poema “Prosopopeia”<i>, </i>escrito por Botelho de Oliveira em 1601.",
+    "(    ) Durante a vigência da estética barroca, importada diretamente da Espanha, nessa altura dominando Portugal, e dos poetas portugueses do século XVI, cultivam-se a poesia, a historiografia, a literatura doutrinária ou de informação da terra e a oratória.",
+    "(    ) Os principais escritores barrocos em língua portuguesa no Brasil são Botelho de Oliveira, Bento Teixeira, Gregório de matos e Frei Manuel de Santa Maria Itaparica.",
+    "(    ) Como manifestação coletiva do Barroco, mostrando já uma certa estruturação da vida intelectual, surgiram as Academias, que eram grêmios literários ou eruditos, inspirados em modelos portugueses.",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "F, V, V, V.",
+    "B": "V, F, F, V.",
+    "C": "F, V, F, F.",
+    "D": "V, F, V, F."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 53,
+   "pg": 15,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Atente para o que se afirma a seguir sobre o cenário social e político onde se situa a literatura barroca.",
+    "I. No início das manifestações barrocas, o Brasil vivia na fase da exploração do ouro, razão pela qual os principais centros urbanos estavam localizados nas regiões ricas em ouro.",
+    "II. Como a vida econômica da colônia estava concentrada no Nordeste, explica ser essa a região onde se encontravam os principais artistas e escritores, inclusive por Salvador ser a Capital do Brasil de 1549 até 1763.",
+    "III. O olhar crítico de Gregório de Matos revela os aspectos negativos da vida na Bahia e em Minas Gerais nos fins do século XVII. Denuncia com irreverência, a corrupção econômica dos políticos e a corrupção moral dos padres e das freiras.",
+    "É correto o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "I, II e III.",
+    "B": "I e II apenas.",
+    "C": "II e III apenas.",
+    "D": "I e III apenas."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 54,
+   "pg": 16,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sobre Gregório de Matos (1633-1696), é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "é lírico, quando se entrega à religião, principalmente à figura de Cristo, em que estão presentes o senso de pecado, a constatação da fragilidade humana e o temor diante da morte e da condenação, presentes em: “A Jesus Cristo Nosso Senhor”; “Buscando a Cristo”; “À Perfeição do Santo Exercício da Via Sacra”, “Feito com Boa Devoção”; “No Dia de Quarta-feira de Cinzas”.",
+    "B": "é satírico, quando nos fala da sociedade da época, tanto baiana como lisboeta, presente em “Ao casamento de Pedro Alvares de Neiva”; “Ao Desembargador Belchior da Cunha Brochado”; “Aos Vícios”; “Aos Caramurus da Bahia”.",
+    "C": "sua obra é póstuma e o seu primeiro volume foi publicado em 1882, dividido em três estilos: o Satírico, o Épico e o Lírico.",
+    "D": "é épico, quando fala de amor, cantando a beleza das mulheres da época, em um estilo que retoma temas clássicos como a oposição entre espírito e matéria. Nesse estilo, enquadram-se os textos: “À Maria dos Povos, sua Futura Esposa”; “À D. Angela”; “Aos Mesmos Sentimentos”."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 55,
+   "pg": 16,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No que diz respeito ao Arcadismo no Brasil, assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "O Arcadismo, um movimento eminentemente poético, de repúdio às demasias perpetradas pelo Barroco, arregimentou pela primeira vez na história literária brasileira um grupo de escritores mais ou menos coeso em seus desígnios e com um relativo sentido corporativo: Cláudio Manuel da Costa, Tomás Antônio Gonzaga, Silva Alvarenga, Alvarenga Peixoto, Basílio da Gama, Frei José de Santa Rita Durão, Bocage e Gonçalves Dias.",
+    "B": "O movimento arcádico inicia-se no Brasil com a publicação das “Obras Poéticas”, de Tomás Antônio Gonzaga.",
+    "C": "O Neoclassicismo ou Arcadismo no Brasil surgiu em meio aos ideais revolucionários de jovens intelectuais, que inspirados na Revolução francesa, deflagraram o movimento conhecido como inconfidência Mineira, que pretendia conquistar independência política e cultural para a explorada colônia.",
+    "D": "O Arcadismo representou uma transição para o Romantismo, sobretudo representado por Tomás Antônio Gonzaga. Este Pré-Romantismo recebe o nome de Rococó, caracterizado pela emoção, sensualismo, afetação, linguagem melodiosa e graciosa, excessivo apego à natureza. Assim, o Rococó seria uma fase de saturação de uma época, o que por isso mesmo constitui o germe de novos ideais."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 56,
+   "pg": 16,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Considerando que, durante o Barroco, os poetas escreviam praticamente para si mesmos e que, no Arcadismo, a intenção é divulgar as ideias em textos acessíveis ao maior número de leitores, identifique as características desses estilos, listadas a seguir, escrevendo (<b>1</b>) para as características do Barroco e (<b>2</b>) para as características do Arcadismo.",
+    "(    ) Volta à Idade Média.",
+    "(    ) Volta ao Renascimento.",
+    "(    ) Autêntico, ainda que paradoxal.",
+    "(    ) Celeste, espiritual, místico.",
+    "(    ) Campestre, pastoril, bucólico.",
+    "(    ) Todo conhecimento vem da experiência e da reflexão.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "1, 2, 1, 1, 2, 2.",
+    "B": "2, 1, 2, 1, 2, 1.",
+    "C": "1, 2, 2, 1, 2, 2.",
+    "D": "2, 2, 1, 2, 1, 1."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 57,
+   "pg": 16,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Atente ao que se diz a seguir sobre os principais poetas do Arcadismo Brasileiro e assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "Santa Rita Durão escreveu o poema épico Caramuru, que fala dos acontecimentos lendários-históricos do naufrágio, salvamento e aventuras de Diogo Álvares Correia, o Caramuru. Critilo Doroteu era seu pseudônimo árcade.",
+    "B": "Basílio da Gama escreveu o poema épico O Uraguai, que trata da guerra que portugueses e espanhóis moveram contra indígenas e jesuítas em Sete Povos das Missões, no Uruguai, em 1759. Adotou o pseudônimo árcade de Termindo Sipílio.",
+    "C": "Tomás Antônio Gonzaga, o maior sonetista neoclássico brasileiro, com influência bastante acentuada de Camões, inaugurou o Arcadismo no Brasil com Obras Poéticas, publicado em 1768. Seu pseudônimo árcade era Glauceste Sartúnio.",
+    "D": "Cláudio Manuel da Costa: escreveu Liras, com características pré-românticas, e Cartas Chilenas, sátira contundente contra as arbitrariedades praticadas pelo governador Luís da Cunha Meneses. Dirceu era seu pseudônimo árcade."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 58,
+   "pg": 16,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sabendo que o Romantismo considera a imaginação superior à razão e que a originalidade substitui a imitação dos (neo)clássicos, identifique as características desses estilos a seguir, escrevendo nos parênteses (<b>1</b>) para características do Arcadismo e (<b>2</b>) para características do Romantismo.",
+    "(    ) exaltação ao racionalismo e ao convencionalismo rígidos da literatura clássica",
+    "(    ) transposição, para a obra, do amor, paixão, emoção, intuição e alma do artista",
+    "(    ) consubstanciação da natureza com o escritor",
+    "(    ) rigor formal",
+    "(    ) liberdade criadora",
+    "(    ) nacionalismo",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "1, 2, 1, 1, 2, 2.",
+    "B": "1, 2, 1, 2, 1, 1.",
+    "C": "1, 2, 2, 1, 2, 2.",
+    "D": "2, 1, 2, 2, 1, 1."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 59,
+   "pg": 17,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sobre o contexto do Romantismo na Europa e no Brasil, assinale a opção que diverge do contexto da primeira metade do século XIX."
+   ],
+   "alternativas": {
+    "A": "O século XIX assistiu a uma das mais violentas transformações por que passou a Europa e a América, época em que o clima do ambiente intelectual era de rebeldia; na política, caíam os sistemas de governo despótico e surgia o liberalismo, com ideais de igualdade e liberdade; no campo social, imperava o inconformismo e crescia o sentimento de nacionalismo, e, no campo artístico, o repúdio às regras. A independência dos Estados Unidos da América é o clímax de um século de oposição e o marco inicial de uma nova época: o Romantismo.",
+    "B": "Os acontecimentos políticos e as ideias vindas da Europa no início do século XIX servem de pano de fundo que determinaram a principal preocupação dos intelectuais brasileiros: a formação da nação brasileira e a definição dos símbolos dessa nacionalidade. Essa preocupação permaneceu durante toda a produção romântica nacional.",
+    "C": "O Romantismo foi tardio em todo o continente americano, devido à dependência cultural da América em relação à Europa. No Brasil, o período românico deve ser compreendido paralelamente ao processo de emancipação política. Dois princípios orientaram os escritores da época: a) o desejo consciente de enfatizar o orgulho patriótico; e b) a intenção de criar uma literatura independente e diferente da portuguesa, equivalendo, no plano cultural, ao que a proclamação da independência representou no plano político.",
+    "D": "No início do século XIX, o Brasil vive um período muito especial de sua história: a crise em Portugal, provocada pelas manobras expansionistas de Napoleão Bonaparte, desencadeia acontecimentos que modificaram a vida social e econômica na colônia. O principal dele é a vinda da família real para o Brasil."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 60,
+   "pg": 17,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Embora o Romantismo brasileiro repetisse as mesmas características do Romantismo europeu, os escritores brasileiros tinham a consciência da necessidade de criar uma literatura que traduzisse a realidade brasileira. Assinale a opção que <b>NÃO</b> traduz essa ideia."
+   ],
+   "alternativas": {
+    "A": "O indianismo, representando a busca de um legítimo antepassado nacional que fosse diferente do europeu.",
+    "B": "Passado medieval, inspirando-se em seus heróis típicos, como os europeus, para simbolizar as origens heroicas brasileiras.",
+    "C": "Destaque para a cor local, sobressaindo as características físicas da paisagem brasileira, tropical, para valorizar o país. Essa descrição é idealizada.",
+    "D": "Regionalismo, em que o sertão representa o verdadeiro Brasil, espaço que conserva ainda intactos e naturais alguns traços peculiares da cultura brasileira – como a língua e os costumes – e da paisagem brasileira."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 61,
+   "pg": 17,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No que concerne à produção dos escritores românticos brasileiros, assinale a opção correta."
+   ],
+   "alternativas": {
+    "A": "No teatro romântico brasileiro, destaca-se Martins Pena, introdutor do teatro de costumes na literatura brasileira e autor das peças “O Noviço” e “O Juiz da Paz na Roça”.",
+    "B": "A poesia romântica brasileira desenvolveu-se em três gerações distintas: Geração nacionalista, representada por Gonçalves de Magalhães, autor de “Suspiros Poéticos e Saudades”, e por Álvares de Azevedo, autor de poemas em “Lira dos Vinte Anos”; a Geração byroniana, representada por Gonçalves Dias, autor de “I-Juca Pirama”, e por Casemiro de Abreu, com “As Primaveras”; e a Geração condoreira, representada principalmente por Castro Alves, autor de “Espumas flutuantes”.",
+    "C": "A prosa no Romantismo brasileiro é representada pelos autores dos romances: urbano – “A Moreninha”, de Joaquim Manuel de Macedo, e “A Escrava Isaura”, de Bernardo Guimarães; indianista – “Iracema”, de José de Alencar; regionalista – “Inocência”, de Visconde de Taunay.",
+    "D": "José de Alencar, um dos principais representantes da prosa romântica, escreveu romances indianistas, “Ubirajara”; históricos, “Senhora”; regionalistas, “O Tronco do Ipê”; e urbanos, “As Minas de Prata”."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 62,
+   "pg": 18,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Considerando o Romantismo da primeira metade do século XIX e o Realismo no Brasil, atente para os itens listados a seguir e escreva, nos parênteses, <b>1</b> para as características do Romantismo e <b>2</b> para as características do Realismo.",
+    "(    ) Objetividade e compromisso com a verdade narrada com imparcialidade e impessoalidade diante dos fatos narrados e dos seres que inventa para viver esses fatos.",
+    "(    ) O escritor preocupa-se com o seu momento histórico, presente.",
+    "(    ) O escritor dá grande destaque ao passado.",
+    "(    ) Observação impessoal e objetiva da realidade.",
+    "(    ) Autêntica subjetividade e fantasia.",
+    "(    ) Linguagem simples, preferência por períodos curtos, com clareza e harmonia, observando a correção gramatical, retratando fielmente os personagens.",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "1, 1, 2, 2, 1, 1.",
+    "B": "2, 1, 2, 2, 2, 1.",
+    "C": "2, 2, 1, 2, 1, 2.",
+    "D": "1, 2, 1, 1, 2, 2."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 63,
+   "pg": 18,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sobre o contexto sócio-histórico do Realismo e do Naturalismo na segunda metade do século XIX, é correto afirmar que",
+    "I. a Revolução Francesa está diretamente associada ao nascimento da estética realista. Ela desencadeou mudanças tão profundas no modo de produção que se tornou responsável pela reordenação da economia mundial no século XIX.",
+    "II. a industrialização acarretou um efeito social de acentuada distinção entre a burguesia e a classe trabalhadora (proletariado). Acentua-se uma burguesia hipócrita e fútil, que explora o proletariado enquanto professa o amor à justiça e à igualdade, comportamento denunciado em boa parte dos romances escritos nesse período.",
+    "III. o interesse pelo funcionamento e pela organização da sociedade leva os escritores realistas a abordarem as necessidades materiais humanas (alimentação, moradia, etc.) e discutir as condições econômicas (aspectos referentes ao mundo do trabalho) necessárias para satisfazer tais necessidades.",
+    "IV. mudanças profundas ocorreram no Brasil na segunda metade do século XIX, afetando a economia, a política, a arte, como, por exemplo, a extinção do tráfico de escravos, o imigrante assalariado como nova mão de obra; livre comércio com o exterior; ampliação da burguesia mercantil; o avanço científico e o progresso tecnológico; crise entre a Igreja e o Governo; cisão entre o exército e o imperador; além da influência do positivismo, sobretudo no meio militar, na burguesia e entre alguns grupos de intelectuais.",
+    "É correto o que se afirma apenas em"
+   ],
+   "alternativas": {
+    "A": "I, III e IV.",
+    "B": "I, II e IV.",
+    "C": "I, II e III.",
+    "D": "II, III e IV."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 64,
+   "pg": 18,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "A distinção entre o Realismo e o Naturalismo nem sempre é muito nítida, exceto nos textos em que se exagera a segunda tendência. Sobre isso, escreva <b>V </b>para o que for verdadeiro e <b>F </b>para o que for falso.",
+    "(    ) Os naturalistas enfatizam o fato de a hereditariedade física e psicológica determinar o comportamento das personagens.",
+    "(    ) A personagem naturalista é reduzida a quase nada; seu comportamento aproxima-se do comportamento animal.",
+    "(    ) Uma característica frequente nas personagens realistas é a ênfase na satisfação de necessidades instintivas.",
+    "(    ) O desequilíbrio das personagens realistas permanece latente até que o ambiente físico e social favoreça sua manifestação, portanto, juntando-se os fatores herança biológica e ambiente, criam-se condições para que se manifeste o conflito dramático da personagem realista.",
+    "A sequência correta, de cima para baixo, é"
+   ],
+   "alternativas": {
+    "A": "F, F, V, V.",
+    "B": "V, F, V, F.",
+    "C": "V, V, F, F.",
+    "D": "F, V, F, V."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 65,
+   "pg": 19,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Considerando o Parnasianismo da segunda metade do século XIX e o Simbolismo do fim do século XIX e início do século XX no Brasil, atente para os itens listados a seguir e escreva, nos parênteses, <b>1</b> para as características do Parnasianismo e <b>2</b> para as características do Simbolismo.",
+    "(    ) Volta ao Romantismo.",
+    "(    ) Volta à cultura clássica.",
+    "(    ) Exterioridade: culto à natureza.",
+    "(    ) Interioridade: culto do sonho, da fantasia, da imaginação.",
+    "(    ) Poema endereçado à emoção.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "1, 2, 1, 2, 1.",
+    "B": "2, 1, 1, 2, 2.",
+    "C": "1, 2, 2, 1, 1.",
+    "D": "2, 1, 2, 1, 2."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 66,
+   "pg": 19,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No que concerne ao Parnasianismo, é correto afirmar que"
+   ],
+   "alternativas": {
+    "A": "a busca da forma perfeita é uma preocupação fundamental para os parnasianos: há a preferência por uma forma fixa, pela ordem indireta, por palavras raras, pela rima rica ou preciosa.",
+    "B": "no Brasil, considera-se como marco inicial a publicação da obra Fanfarras, de Olavo Bilac, em 1882. Além do ‘Príncipe dos Poetas Brasileiros’, são grandes expoentes do parnasianismo Brasileiro Alberto de Oliveira e Raimundo Correia.",
+    "C": "se caracteriza pelo gosto por coisas e fatos exóticos que revelem estados de espírito pessoais.",
+    "D": "é adepto da arte pela arte, concepção pela qual a arte deve existir apenas em função dela mesma, embora verse sobre problemas políticos, sociais, afetivos e religiosos."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 67,
+   "pg": 19,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia os textos simbolistas I e II.",
+    "Texto I",
+    "<b>Alucinação</b> Cruz e Sousa",
+    "Ó solidão do Mar, ó amargor das vagas,<br>Ondas em convulsões, ondas em rebeldias,<br>Desespero do Mar, furiosa ventania,<br>Boca em fel dos tritões engasgada de pragas.",
+    "Velhas chagas do sol, ensanguentadas chagas<br>De ocasos purpurais de atroz melancolia,<br>Luas tristes, fatais, da atra mudez sombria<br>Da trágica ruína em vastidões pressagas.<br>Para onde tudo vai, para onde tudo voa,<br>Sumido, confundido, esboroado, à toa,<br>No caos tremendo e nu dos tempos a rolar?<br>Que Nirvana genial há de engolir tudo isto<br>- Mundos de Inferno e Céu, de Judas e de Cristo,<br>Luas, chagas do sol e turbilhões do Mar?!",
+    "Texto II",
+    "<b>Ismália</b>",
+    "Alphonsus de Guimaraens",
+    "Quando Ismália enlouqueceu,<br>Pôs-se na torre a sonhar…<br>Viu uma lua no céu,<br>Viu outra lua no mar.",
+    "No sonho em que se perdeu,<br>Banhou-se toda em luar…<br>Queria subir ao céu,<br>Queria descer ao mar…",
+    "E, no desvario seu,<br>Na torre pôs-se a cantar…<br>Estava perto do céu,<br>Estava longe do mar…",
+    "E como um anjo pendeu<br>As asas para voar…<br>Queria a lua do céu,<br>Queria a lua do mar…",
+    "As asas que Deus lhe deu<br>Ruflaram de par em par…<br>Sua alma subiu ao céu,<br>Seu corpo desceu ao mar…",
+    "Escreva <b>1</b> para as características relativas ao Texto I, de Cruz e Sousa; <b>2</b> para as características relativas ao Texto II, de Alphonsus de Guimaraens e <b>3</b> para o que é comum aos Textos I e II.",
+    "(    ) Morte como símbolo da eterna busca.",
+    "(    ) Valorização das sensações provenientes de sentidos diferentes.",
+    "(    ) Decadência anunciada em todos os elementos da natureza.",
+    "(    ) Relações entre o mundo visível e o mundo das essências.",
+    "(    ) Separação da matéria e do espírito sobrevivente às contingências terrenas.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "2, 1, 3, 1, 3.",
+    "B": "3, 2, 2, 2, 1.",
+    "C": "1, 2, 3, 3, 2.",
+    "D": "2, 3, 1, 3, 2."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 68,
+   "pg": 20,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sabendo que se denomina de Pré-Modernismo tudo que aconteceu no âmbito artístico-cultural no Brasil, no século XX, antes da Semana da Arte Moderna, assinale a afirmação verdadeira."
+   ],
+   "alternativas": {
+    "A": "O Pré-Modernismo é considerado um período de transição e não uma escola literária, pois conserva algumas tendências das estéticas da segunda metade do século XIX (Romantismo, Realismo, Parnasianismo e Simbolismo), ao mesmo tempo que antecipa outras, aprofundadas durante o Modernismo.",
+    "B": "Na prosa, a arte pré-modernista volta-se para questões políticas, econômicas e sociais, representadas, sobretudo, nas obras “Os Sertões”, de Euclides da Cunha; “Canaã”, de Graça Aranha; “Triste Fim de Policarpo Quaresma”; de Lima Barreto; e “Jeca Tatu”, de Monteiro Lobato.",
+    "C": "O principal legado das vanguardas europeias para a literatura brasileira, além da influência localizada em alguns poetas e escritores, é o impulso de destruir os modelos arcaicos, desfiar o gosto estabelecido e propor um olhar novo para o mundo.",
+    "D": "No começo do século XX, a multiplicidade de ruptura de ismos revela a efervescência caótica por que passava a Europa, que, por extensão, influencia a arte brasileira, por exemplo: no Cubismo, a poesia “Bangalô”, de Oswald de Andrade; no Futurismo, “Ode Triunfal”, de Álvaro de Campos; no Dadaísmo, “Prefácio Interessantíssimo”, de Mário de Andrade; e no Surrealismo, “Aproximação do terror”, de Murilo Mendes; no Expressionismo, “Amar, verbo intransitivo”, de Mário de Andrade."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 69,
+   "pg": 20,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Assinale a única opção que está na ordem canônica da língua portuguesa."
+   ],
+   "alternativas": {
+    "A": "“A racha é na sintaxe.” (linhas 36-37)",
+    "B": "“Teimava o povo em permanecer empapado no chafurdeiro da corrupção...” (linhas 3-4)",
+    "C": "“Naquela tábua um dislate existe que seriamente à língua lusa ofende.” (linhas 27-28)",
+    "D": "“Fogem ali os dizeres à sã gramaticalidade.” (linhas 37-38)"
+   },
+   "texto_ref": "t69",
+   "imagens": []
+  },
+  {
+   "id": 70,
+   "pg": 20,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No conto intitulado “O Colocador de Pronomes”, publicado em 1924, Monteiro Lobato ridiculariza a personagem central, Aldrovando, exatamente pelo uso de uma linguagem empolada e descabida, cheia de preciosismos e de palavras incompreensíveis para a maioria das pessoas. Assinale a opção em que a significação (em itálico) do par de vocábulos está coerente com o uso presente no texto."
+   ],
+   "alternativas": {
+    "A": "Nas linhas 29-30, asseio: <i>lavagem</i>; expunjas: <i>apagues</i>.",
+    "B": "Na linha 21, alarve: <i>ignorante</i>; Paredros: <i>manda-</i> <i>chuvas</i>.",
+    "C": "Na linha 8, tarelos: <i>tagarelas</i>; férula: <i>bastão</i> <i>episcopal</i>.",
+    "D": "Na linha 9, maráus: <i>sacerdortes</i>; empós: <i>depois</i>."
+   },
+   "texto_ref": "t69",
+   "imagens": []
+  },
+  {
+   "id": 71,
+   "pg": 21,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Leia o fragmento (linhas 7-13) e analise as afirmações que se seguem:",
+    "“ - Hei-de influir na minha época. Aos tarelos hei de vencer. Fogem-me à férula os maráus de pau e corda? Ir-lhes-ei empós, fila-los-eis pela gorja... Salta rumor!",
+    "E foi-lhes “empós”, Andou pelas ruas examinando dísticos e tabuletas com vícios de língua.”",
+    "I. “Hei-de influir” e “hei de vencer” são as formas sintéticas antigas da morfologia analítica do futuro atual dos verbos <i>influirei </i>e <i>vencerei</i>, respectivamente.",
+    "II. “Ir-lhes-ei” e “fila-los-ei são exemplos de colocação pronominal mesoclítica, cujo emprego padrão, segundo a gramática normativa, é explicado pelo fato de o verbo estar no futuro em início de oração.",
+    "III. .“Fogem-me...” e “E foi-lhes...” são exemplos de colocação pronominal enclítica, cujo emprego padrão, segundo a gramática normativa, é explicado pelo fato de o verbo estar no início de oração, no primeiro, e antecedido da conjunção coordenada aditiva “E”, no segundo, em que o pronome é repetido.",
+    "É correto o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "I e III apenas.",
+    "B": "I e II apenas.",
+    "C": "II e III apenas.",
+    "D": "I, II e III."
+   },
+   "texto_ref": "t69",
+   "imagens": []
+  },
+  {
+   "id": 72,
+   "pg": 21,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "No enunciado “Foi assim com o ferreiro da esquina, em cujo portão de tenda uma tabuleta – ‘Ferra-se cavalos’ - escoicinhava a santa gramática” (linhas 16-18), a correção da personagem reside"
+   ],
+   "alternativas": {
+    "A": "no uso indevido do ‘se’ como pronome reflexivo.",
+    "B": "na falta de concordância do verbo com o sujeito, posto que a oração está na voz passiva sintética.",
+    "C": "no uso indevido do se como índice da indeterminação do sujeito na tabuleta.",
+    "D": "no uso do objeto direto no plural ‘cavalos’."
+   },
+   "texto_ref": "t69",
+   "imagens": []
+  },
+  {
+   "id": 73,
+   "pg": 21,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "A geração de 1930 vive um período de tensão e de crise e busca uma estabilização das conquistas modernas. Analise as afirmações sobre os poetas brasileiros dessa geração e sua produção.",
+    "I. Carlos Drummond de Andrade: as diferentes fases de sua poesia refletem a evolução de seu pensamento. Era também contista e cronista.",
+    "II. Jorge de Lima: sua poesia evoluiu de realista para uma poesia religiosa, mística, e então surrealista.",
+    "III. Vinicius de Morais: sua poesia evoluiu de católica para uma poesia erótica onde a presença da mulher é constante.",
+    "IV. Cecília Meireles: vem do Parnasianismo e filia-se ao Modernismo de segunda fase, quer pelo espiritualismo, quer pela forma, quer pela harmonia de seus versos.",
+    "É correto apenas o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "I e III.",
+    "B": "II e IV.",
+    "C": "I e II.",
+    "D": "III e IV."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 74,
+   "pg": 21,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "O Modernismo brasileiro é tradicionalmente dividido em três fases: primeira fase (fase heroica), segunda fase (geração de 1930) e terceira fase (geração de 1945). Particularizando, assinale a opção correta sobre a primeira fase."
+   ],
+   "alternativas": {
+    "A": "Além da conhecida “tríade modernista”, são autores do Modernismo da primeira fase no Brasil: Manuel Bandeira, Menotti Del Picchia, Raul Bopp, Jorge Amado, Cassiano Ricardo, Guilherme de Almeida, Ronald de Carvalho, Alcântara Machado e Plínio Salgado.",
+    "B": "A primeira geração modernista<b> </b>é representada, principalmente, pela “tríade modernista”, isto é, os escritores Mário de Andrade, Vila-Lobos e Oswald de Andrade, que deram continuidade aos postulados de 1922, apresentando uma estética transgressora, testando os limites da forma e do conteúdo e combatendo as escolas tradicionais da literatura brasileira.",
+    "C": "“Paulicéia Desvairada”, cujo autor é Mário de Andrade, é o título do romance considerado como marco inicial do Modernismo brasileiro.",
+    "D": "Uma das características da primeira fase do Modernismo no Brasil é a reescritura de textos do passado, por exemplo: Oswald de Andrade pinçou trechos de “A Carta de Pero Vaz de Caminha” (prosa) e remontou-os em forma de poema; além disso, ele fez uma paródia de um dos mais famosos poemas do Romantismo da literatura brasileira, a “Canção de Exílio”, de Gonçalves Dias."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 75,
+   "pg": 22,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Na primeira fase do modernismo, Oswald de Andrade, através do poema “Pronominais”, faz uma sátira contra a cultura acadêmica e, por extensão, contra o rigor da norma culta que privilegia os moldes lusitanos.",
+    "<b>PRONOMINAIS</b>",
+    "Oswald de Andrade",
+    "Dê-me um cigarro<br>Diz a gramática<br>Do professor e do aluno<br>E do mulato sabido<br>Mas o bom negro e o bom branco<br>Da Nação Brasileira<br>Dizem todos os dias<br>Deixa disso camarada<br>Me dá um cigarro.",
+    "Fonte: https://www.todamateria.com.br/oswald-de-andrade. Acesso em 15/09/2018.",
+    "O conteúdo gramatical que o poeta utiliza para a defesa de uma linguagem cotidiana brasileira é a sintaxe"
+   ],
+   "alternativas": {
+    "A": "de concordância.",
+    "B": "de colocação.",
+    "C": "dos modos e dos tempos.",
+    "D": "de regência."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 76,
+   "pg": 22,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Assinale a opção em que todas as informações sobre os romancistas da segunda fase do Modernismo brasileiro são corretas."
+   ],
+   "alternativas": {
+    "A": "Raquel de Queiroz escreveu os romances “O Quinze”, “João Miguel” e “Caminho de Pedras”.",
+    "B": "José Américo de Almeida escreveu “Vidas Secas”, que marca o início do cognominado romance nordestino.",
+    "C": "José Lins do Rego: sua obra é dividida em três ciclos distintos: ciclo da cana-de-acúcar (do qual fazem parte: “Menino de Engenho” e “Fogo Morto”); ciclo do cacau (“Pedra Bonita” e “Cangaceiros”); e ciclo da ficção intimista cuja ambientação foge ao Nordeste (“Água-Mãe” e “Eurídice”).",
+    "D": "Érico Veríssimo: sua obra é dividida em: Romances urbanos – destacam-se “Clarissa”, “Caminhos Cruzados” e “Olhai os Lírios do Campo”; Romances épicos: formam a trilogia conhecida pelo nome geral de “O Tempo e o Vento”; Romances autobiográficos:  “Infância” e “Memórias do Cárcere”; Romances políticos: entre os quais se destacam “O Senhor Embaixador” e “Incidente em Antares”."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 77,
+   "pg": 22,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Assinale a opção em que todas as informações sobre a terceira fase do Modernismo brasileiro são corretas."
+   ],
+   "alternativas": {
+    "A": "No campo teatral, destacam-se, entre outros: Nélson Rodrigues, autor de “Vestido de Noiva” e “O Pagador de Promessas”; Gianfrancesco Guarnieri, autor de “Eles não usam black-tie”.",
+    "B": "Entre os principais autores da ficção desse terceiro momento modernista são: Clarice Lispector: seus romances são herméticos, com profundo mergulho na alma humana, como em “Perto do Coração Selvagem”; Graciliano Ramos: genial inovador da linguagem da linguagem, sua obra-prima é “Grande Sertão: Veredas”; João Cândido de Carvalho: autor de “O Coronel e o Lobisomem”; Pedro Nava: autor de “O Círio Perfeito”.",
+    "C": "A ficção da terceira fase do Modernismo brasileiro caracteriza-se ou por suas tendências introspectivas ou por um tipo de regionalismo – universalista – diferente daquele da segunda fase.",
+    "D": "Entre o poetas brasileiros da terceira fase do Modernismo destacam-se: João Cabral de Melo Neto, considerado um engenheiro de palavras, é autor de “Morte e vida Severina” e de” Pedra Bonita”; Augusto de Campos, Décio Pignatari e Ferreira Gullar, principais representantes da poesia concreta."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 78,
+   "pg": 22,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Embora não haja consenso em relação a uma etiqueta para as tendências literárias contemporâneas, mas, utilizando o termo “pós-modernismo, analise as asserções que se seguem.",
+    "I. Pós-modernismo é um nome geralmente dado às formas culturais de um período que aparecem desde os anos 60, abrangendo certas características como reflexão, ironia e um tipo de arte que mistura o popular e o erudito.",
+    "II. É visto ora como continuação dos aspectos mais radicais de modernismo, ora, ao contrário, como marcando uma ruptura com o modernismo como um modernismo não-histórico que anseia acabar.",
+    "III. Como alguns dos denominadores comuns que servem para definir o pós-modernismo, pode-se citar que os discursos pós-modernos instalam e subvertem convenções; que esses discursos não desafiam os limites fixos entre os gêneros, entre os tipos de arte, entre teoria e arte, entre arte erudita e cultura de massa.",
+    "IV. Uma das características marcantes do pós-modernismo é o pluralismo de estilos e, particularmente, o que caracteriza a poesia pós-modernista é o ludismo na criação da obra, presença marcante da intertextualidade, a intensificação da metalinguagem e o fragmentarismo textual; já o que caracteriza a prosa pós-modernista é o enaltecimento do intimismo e da “literatura-verdade” presente na  prosa política (romance-reportagem e o realismo fantástico), que rejeita as prosas regionalista, urbana e autobiográfica.",
+    "É correto apenas o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "III e IV.",
+    "B": "I e IV.",
+    "C": "II e III.",
+    "D": "I e II."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 79,
+   "pg": 23,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Sobre os aspectos étnicos e raciais na literatura brasileira,",
+    "I. a presença do negro na literatura brasileira não escapa ao tratamento marginalizador que, desde as instâncias fundadoras, marca a etnia no processo de construção da sociedade brasileira.",
+    "II. a matéria negra, embora só ganhe presença mais significativa a partir do século XIX, surge na literatura brasileira desde o século XVI, nos versos satíricos e demolidores de Gregório de Matos.",
+    "III. evidenciam-se, na trajetória do negro no discurso literário nacional, dois posicionamentos: a condição negra como objeto, numa visão distanciada do escritor sobre o negro (Bernardo Guimarães e Castro Alves, no Romantismo; Aluísio de Azevedo e Adolfo  Caminha, no Realismo, por exemplo) e o negro como sujeito, numa atitude compromissada do escritor negro (Luiz Gama no Romantismo; Cruz e Souza  no Simbolismo: Lima Barreto no Pré-modernismo).",
+    "IV. Na terceira geração romântica brasileira, os poetas interessam-se mais pela idealização amorosa, em um sentimentalismo exacerbado, do que pelo conflito entre liberdade e escravidão, que atingia a sociedade da época.",
+    "V. Desde os anos de 1970, a designação literatura negra, tal como vem sendo utilizada no Brasil e em outros países da América, vincula-se à uma literatura feita por negros ou por descendentes assumidos de negros e emerge no bojo de uma situação histórica dada, configuradora da reivindicação pelos negros de determinados valores caracterizadores de uma identidade própria.",
+    "É correto apenas o que se afirma em"
+   ],
+   "alternativas": {
+    "A": "I, III e V.",
+    "B": "III e IV.",
+    "C": "I, II e IV.",
+    "D": "II e V."
+   },
+   "texto_ref": null,
+   "imagens": []
+  },
+  {
+   "id": 80,
+   "pg": 23,
+   "secao": "Conhecimentos Específicos de Língua Portuguesa",
+   "enunciado": [
+    "Atente para o que se afirma a seguir sobre o índio no imaginário literário do Brasil, e escreva <b>V</b> para o que for verdadeiro e <b>F</b> para o que for falso.",
+    "(    ) O indianismo Barroco está presente na carta de Pero Vaz de Caminha, que define os índios como inocentes, curiosos e, até certo ponto, hospitaleiro, por receber os portugueses de modo acolhedor.",
+    "(    ) O poeta árcade Basílio da Gama, no poema épico “O Uraguai”, compõe a história da resistência dos índios ao ataque português aos Sete Povos das Missões.",
+    "(    ) No Brasil, os escritores indianistas dos romances românticos têm o interesse de retratar a cultura europeia, buscando resgatar a imagem do índio brasileiro como símbolo de um povo livre e soberano, de uma terra exuberante e incomparável.",
+    "(    ) A imagem idealizada de pátria e de povo é questionada pelos modernistas, que promovem uma “releitura” dos textos quinhentistas e românticos, para propor uma visão desmistificada do Brasil e dos índios. O exemplo mais célebre dessa nova visão é “Macunaíma”, de Oswald de Andrade, em que Macunaíma é o índio indolente. Preguiçoso, sem caráter, que abre caminho para a desconstrução e dos mitos românticos e exemplifica a visão antropofágica defendida pelos modernistas.",
+    "A sequência correta, de cima para baixo, é:"
+   ],
+   "alternativas": {
+    "A": "V, V, F, V.",
+    "B": "F, F, V, F.",
+    "C": "F, V, F, F.",
+    "D": "V, F, V, V."
+   },
+   "texto_ref": null,
+   "imagens": []
+  }
+ ],
+ "textos": {
+  "t15": {
+   "questoes": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "cabecalho": [
+    "<i>A violência em Roraima é contra a</i> <i>imagem no espelho</i>",
+    "Os venezuelanos encarnam o pesadelo real de que toda estabilidade é provisória e o pertencimento é sempre precário",
+    "Eliane Brum"
+   ],
+   "linhas": [
+    {
+     "n": 1,
+     "t": "Não se compreende a violência dos brasileiros"
+    },
+    {
+     "n": 2,
+     "t": "contra os venezuelanos sem entender o que é"
+    },
+    {
+     "n": 3,
+     "t": "estar na fronteira e se saber à beira do mapa,"
+    },
+    {
+     "n": 4,
+     "t": "a borda como o precipício que lembra a quem"
+    },
+    {
+     "n": 5,
+     "t": "se agarra ao lado de cá que há uma fera"
+    },
+    {
+     "n": 6,
+     "t": "rosnando no desconhecido. Com exceção dos"
+    },
+    {
+     "n": 7,
+     "t": "povos indígenas, a população não indígena de"
+    },
+    {
+     "n": 8,
+     "t": "Roraima é formada por migrantes recentes, a"
+    },
+    {
+     "n": 9,
+     "t": "maioria da segunda metade do século XX. E"
+    },
+    {
+     "n": 10,
+     "t": "sempre chegando de um outro lugar em que o"
+    },
+    {
+     "n": 11,
+     "t": "chão se tornou movediço embaixo dos pés."
+    },
+    {
+     "n": 12,
+     "t": "Muitos não desembarcaram em Roraima"
+    },
+    {
+     "n": 13,
+     "t": "diretamente do lugar em que nasceram, mas"
+    },
+    {
+     "n": 14,
+     "t": "antes tentaram pertencer a outros pontos do"
+    },
+    {
+     "n": 15,
+     "t": "mapa e não puderam se fixar por falta de"
+    },
+    {
+     "n": 16,
+     "t": "trabalho ou outras faltas. Quem alcança um"
+    },
+    {
+     "n": 17,
+     "t": "estado como Roraima vindo das regiões mais"
+    },
+    {
+     "n": 18,
+     "t": "pobres do Brasil — ou das porções mais"
+    },
+    {
+     "n": 19,
+     "t": "pobres dos estados rico s— sabe que alcançou"
+    },
+    {
+     "n": 20,
+     "t": "uma espécie de território limite. Dali pra"
+    },
+    {
+     "n": 21,
+     "t": "frente não há mais para onde andar. Talvez o"
+    },
+    {
+     "n": 22,
+     "t": "que um brasileiro de Roraima vislumbre num"
+    },
+    {
+     "n": 23,
+     "t": "venezuelano desesperado e sem lugar seja o"
+    },
+    {
+     "n": 24,
+     "t": "retrato de si mesmo. Uma velha foto bem"
+    },
+    {
+     "n": 25,
+     "t": "conhecida empurrada para o fundo de uma"
+    },
+    {
+     "n": 26,
+     "t": "gaveta da qual ninguém quer lembrar, mas"
+    },
+    {
+     "n": 27,
+     "t": "que nunca pôde ser totalmente esquecida."
+    },
+    {
+     "n": 28,
+     "t": "Diante dos venezuelanos famintos, doentes e"
+    },
+    {
+     "n": 29,
+     "t": "assustados, desejando desesperadamente"
+    },
+    {
+     "n": 30,
+     "t": "entrar, a imagem se materializa como um"
+    },
+    {
+     "n": 31,
+     "t": "espelho que é preciso destruir. O que"
+    },
+    {
+     "n": 32,
+     "t": "destroem no corpo do outro é a imagem de si"
+    },
+    {
+     "n": 33,
+     "t": "mesmos cujo retorno não podem aceitar."
+    },
+    {
+     "n": 34,
+     "t": "A angústia de não pertencer rugia dentro da"
+    },
+    {
+     "n": 35,
+     "t": "maioria das pessoas que entrevistei em"
+    },
+    {
+     "n": 36,
+     "t": "Roraima, em diferentes momentos. Mas isso"
+    },
+    {
+     "n": 37,
+     "t": "jamais era admitido. Ao contrário. Como"
+    },
+    {
+     "n": 38,
+     "t": "costuma acontecer neste tipo de fenômeno,"
+    },
+    {
+     "n": 39,
+     "t": "ela se expressava como uma identidade feroz,"
+    },
+    {
+     "n": 40,
+     "t": "a de ser o único cidadão legítimo, o único com"
+    },
+    {
+     "n": 41,
+     "t": "o direito de estar ali, o único que trabalha e"
+    },
+    {
+     "n": 42,
+     "t": "quer progredir. Isso se manifestava em três"
+    },
+    {
+     "n": 43,
+     "t": "comportamentos clássicos: a hostilidade"
+    },
+    {
+     "n": 44,
+     "t": "contra estrangeiros de outra língua,"
+    },
+    {
+     "n": 45,
+     "t": "especialmente americanos, a desconfiança"
+    },
+    {
+     "n": 46,
+     "t": "com relação a brasileiros não migrantes, o"
+    },
+    {
+     "n": 47,
+     "t": "desejo de apagar as populações nativas,"
+    },
+    {
+     "n": 48,
+     "t": "ainda que pela assimilação ou pela supressão"
+    },
+    {
+     "n": 49,
+     "t": "de direitos.                                             (...)"
+    },
+    {
+     "n": 50,
+     "t": "A identidade roraimense é fomentada na"
+    },
+    {
+     "n": 51,
+     "t": "população por velhas e novas elites locais a"
+    },
+    {
+     "n": 52,
+     "t": "partir da ideia de que o Brasil é contra eles"
+    },
+    {
+     "n": 53,
+     "t": "(ou os ignora ou só aparece para se meter"
+    },
+    {
+     "n": 54,
+     "t": "onde não devia, como na atual disputa pelo"
+    },
+    {
+     "n": 55,
+     "t": "fechamento da fronteira com a Venezuela), os"
+    },
+    {
+     "n": 56,
+     "t": "“gringos” querem tomar a Amazônia de seus"
+    },
+    {
+     "n": 57,
+     "t": "legítimos donos e os indígenas impedem o"
+    },
+    {
+     "n": 58,
+     "t": "progresso do estado e também de cada"
+    },
+    {
+     "n": 59,
+     "t": "indivíduo que ali chegou com o sonho de fazer"
+    },
+    {
+     "n": 60,
+     "t": "história, fortuna e, principalmente casa —"
+    },
+    {
+     "n": 61,
+     "t": "lugar de pertencimento para quem tanto"
+    },
+    {
+     "n": 62,
+     "t": "peregrinou pelo mapa do Brasil até finalmente"
+    },
+    {
+     "n": 63,
+     "t": "alcançar a sua borda. Essa é sempre a"
+    },
+    {
+     "n": 64,
+     "t": "condição de fronteira entre aqueles que as"
+    },
+    {
+     "n": 65,
+     "t": "disputam. (...) A fronteira é um espaço de"
+    },
+    {
+     "n": 66,
+     "t": "sobreviventes, que já conheceram o pior de"
+    },
+    {
+     "n": 67,
+     "t": "vários mundos, sofreram estigmas,"
+    },
+    {
+     "n": 68,
+     "t": "preconceitos e indignidades, e estão lutando"
+    },
+    {
+     "n": 69,
+     "t": "por um lugar e sabem muito bem o porquê."
+    },
+    {
+     "n": 70,
+     "t": "(...)"
+    },
+    {
+     "n": 71,
+     "t": "A imagem dos venezuelanos entrando e"
+    },
+    {
+     "n": 72,
+     "t": "entrando, desesperados, miseráveis e"
+    },
+    {
+     "n": 73,
+     "t": "famintos, é a imagem que um migrante mais"
+    },
+    {
+     "n": 74,
+     "t": "teme para si mesmo. É também a prova de"
+    },
+    {
+     "n": 75,
+     "t": "que a estabilidade é sempre provisória, de"
+    },
+    {
+     "n": 76,
+     "t": "que é possível perder tudo mais uma vez. É a"
+    },
+    {
+     "n": 77,
+     "t": "evidência viva, encarnada, de que não há"
+    },
+    {
+     "n": 78,
+     "t": "lugar seguro, de que o pertencimento é"
+    },
+    {
+     "n": 79,
+     "t": "sempre precário. De que do outro lado da"
+    },
+    {
+     "n": 80,
+     "t": "borda, o abismo espreita com olhos injetados"
+    },
+    {
+     "n": 81,
+     "t": "de sangue. Quem viveu escorregando de"
+    },
+    {
+     "n": 82,
+     "t": "todos os mapas sente a dor dessa experiência"
+    },
+    {
+     "n": 83,
+     "t": "no corpo."
+    }
+   ],
+   "rodape": [
+    "Fonte: https://brasil.elpais.com/brasil/2018/08/27/opinion.html Acesso em 06/09/2018. Adaptação."
+   ],
+   "sem_numero": []
+  },
+  "t69": {
+   "questoes": [
+    69,
+    70,
+    71,
+    72
+   ],
+   "cabecalho": [
+    "<b>Leia o fragmento do conto pré-modernista “O</b> <b>Colocador de Pronomes”, de Monteiro Lobato</b> <b>(1924) para a resolução das questões 69 a 72.</b>",
+    "<b>O Colocador de Pronomes</b>",
+    "Monteiro Lobato"
+   ],
+   "linhas": [
+    {
+     "n": 1,
+     "t": "(...)"
+    },
+    {
+     "n": 2,
+     "t": "Pouco durou a Agência, morta à míngua"
+    },
+    {
+     "n": 3,
+     "t": "de clientes. Teimava o povo em permanecer"
+    },
+    {
+     "n": 4,
+     "t": "empapado no chafurdeiro da corrupção..."
+    },
+    {
+     "n": 5,
+     "t": "O rosário de insucessos, entretanto, em"
+    },
+    {
+     "n": 6,
+     "t": "vez de desalentar exasperava o apóstolo."
+    },
+    {
+     "n": 7,
+     "t": "- Hei-de influir na minha época. Aos"
+    },
+    {
+     "n": 8,
+     "t": "tarelos hei de vencer. Fogem-me à férula os"
+    },
+    {
+     "n": 9,
+     "t": "maráus de pau e corda? Ir-lhes-ei empós, fila-"
+    },
+    {
+     "n": 10,
+     "t": "los-eis pela gorja... Salta rumor!"
+    },
+    {
+     "n": 11,
+     "t": "E foi-lhes “empós”, Andou pelas ruas"
+    },
+    {
+     "n": 12,
+     "t": "examinando dísticos e tabuletas com vícios de"
+    },
+    {
+     "n": 13,
+     "t": "língua. Descoberta a “asnidade”, ia ter com o"
+    },
+    {
+     "n": 14,
+     "t": "proprietário, contra ele desfechando os"
+    },
+    {
+     "n": 15,
+     "t": "melhores argumentos catequistas."
+    },
+    {
+     "n": 16,
+     "t": "Foi assim com o ferreiro da esquina, em"
+    },
+    {
+     "n": 17,
+     "t": "cujo portão de tenda uma tabuleta - “Ferra-se"
+    },
+    {
+     "n": 18,
+     "t": "cavalos” - escoicinhava a santa gramática."
+    },
+    {
+     "n": 19,
+     "t": "- Amigo, disse-lhe pachorrentamente"
+    },
+    {
+     "n": 20,
+     "t": "Aldrovando, natural a mim me parece que erre,"
+    },
+    {
+     "n": 21,
+     "t": "alarve que és. Se erram paredros, nesta época"
+    },
+    {
+     "n": 22,
+     "t": "de ouro da corrupção..."
+    },
+    {
+     "n": 23,
+     "t": "O ferreiro pôs de lado o malho e"
+    },
+    {
+     "n": 24,
+     "t": "entreabriu a boca."
+    },
+    {
+     "n": 25,
+     "t": "- Mas da boa sombra do teu focinho"
+    },
+    {
+     "n": 26,
+     "t": "espero, continuou o apóstolo, que ouvidos me"
+    },
+    {
+     "n": 27,
+     "t": "darás. Naquela tábua um dislate existe que"
+    },
+    {
+     "n": 28,
+     "t": "seriamente à língua lusa ofende. Venho pedir-"
+    },
+    {
+     "n": 29,
+     "t": "te, em nome do asseio gramatical, que o"
+    },
+    {
+     "n": 30,
+     "t": "expunjas."
+    },
+    {
+     "n": 31,
+     "t": "- ???"
+    },
+    {
+     "n": 32,
+     "t": "- Que reformes a tabuleta, digo."
+    },
+    {
+     "n": 33,
+     "t": "- Reformar a tabuleta? Uma tabuleta"
+    },
+    {
+     "n": 34,
+     "t": "nova, com a licença paga? Estará acaso"
+    },
+    {
+     "n": 35,
+     "t": "rachada?"
+    },
+    {
+     "n": 36,
+     "t": "- Fisicamente, não. A racha é na"
+    },
+    {
+     "n": 37,
+     "t": "sintaxe. Fogem ali os dizeres à sã"
+    },
+    {
+     "n": 38,
+     "t": "gramaticalidade.[Escrita original conservada.]"
+    }
+   ],
+   "rodape": [
+    "Fonte: https://www.passeiweb.com/estudos/livros/o_colocador_de_pronomes_conto. Acesso em 15/09/2018."
+   ],
+   "sem_numero": []
+  }
+ }
+}
