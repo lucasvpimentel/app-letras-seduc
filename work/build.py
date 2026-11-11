@@ -28,4 +28,5 @@ data = json.dumps(D, ensure_ascii=False).replace('</', '<\/')     # evita fechar
 tpl = open('template.html', encoding='utf8').read()
 out = tpl.replace('/*DADOS*/', data)
 open('../jogo_seduc2018_portugues.html', 'w', encoding='utf8').write(out)
+open('../index.html', 'w', encoding='utf8').write(out)   # cópia para o GitHub Pages
 print('ok', len(out) // 1024, 'KB')
